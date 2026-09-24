@@ -1,8 +1,8 @@
 # Architectural music — Suno recreation pack
 
-Eight source videos are covered. The door-knocker video, `DdZlT3TIx3q.mp4`, is excluded. All nine source-file contents match the original checksums. The architectural-features clip has been renamed to `bargeboard.mp4`; the manifest records both names.
+All nine source videos are included in [source_videos](source_videos/), using descriptive names that match their contents. Eight have lyric and music-recreation packets; [door-knockers-excluded.mp4](source_videos/door-knockers-excluded.mp4) is included as source material only and remains excluded from analysis. SHA-256 values in the manifest identify each original source file and verify every packaged video.
 
-This GitHub snapshot contains text files only. Source videos, extracted audio, stems, sampled images and other binary media remain in the local workspace and are not included; links to those assets require that workspace.
+The source videos are included. Extracted audio, stems, sampled images and other analysis media remain in the local workspace; links to those evidence assets require that workspace.
 
 This is a source-grounded transcription and a set of **recreation recipes**, not a verified musical score or a promise of identical Suno output. The source lyrics are separated from suggested performance instructions. Uncertain words, repetition counts, instrumental identifications, and tonal estimates are called out in each track.
 
@@ -39,15 +39,17 @@ The raw evidence and analysis scripts are in `evidence/`. The manifest records S
 
 ## Tracks
 
-| Track | Original file ID | Duration | Copy-ready files |
-|---|---|---:|---|
-| [Flaunching](tracks/01_flaunching/analysis.md) | `Dc1uBZahhts` | 15.81s | [Styles](tracks/01_flaunching/style.txt) · [Lyrics](tracks/01_flaunching/lyrics.txt) · [Pronunciation](tracks/01_flaunching/pronunciation.md) |
-| [Guttae / Good Day](tracks/02_guttae/analysis.md) | `Dc8axxYIC3k` | 22.29s | [Styles](tracks/02_guttae/style.txt) · [Lyrics](tracks/02_guttae/lyrics.txt) · [Pronunciation](tracks/02_guttae/pronunciation.md) |
-| [Corbel / Bargeboard / Architectural Features](tracks/03_corbel_bargeboard/analysis.md) | `DcRZB_PBFkr` | 38.01s | [Styles](tracks/03_corbel_bargeboard/style.txt) · [Lyrics](tracks/03_corbel_bargeboard/lyrics.txt) · [Pronunciation](tracks/03_corbel_bargeboard/pronunciation.md) |
-| [Columns / Classical Orders](tracks/04_columns/analysis.md) | `DcYTYvMBSMn` | 53.62s | [Styles](tracks/04_columns/style.txt) · [Lyrics](tracks/04_columns/lyrics.txt) · [Pronunciation](tracks/04_columns/pronunciation.md) |
-| [Doors](tracks/05_doors/analysis.md) | `DcbYsWLhhdZ` | 64.69s | [Styles](tracks/05_doors/style.txt) · [Lyrics](tracks/05_doors/lyrics.txt) · [Pronunciation](tracks/05_doors/pronunciation.md) |
-| [Windows](tracks/06_windows/analysis.md) | `DcqWhZtBIEI` | 67.01s | [Styles](tracks/06_windows/style.txt) · [Lyrics](tracks/06_windows/lyrics.txt) · [Pronunciation](tracks/06_windows/pronunciation.md) |
-| [Echinus / Entasis](tracks/07_echinus_entasis/analysis.md) | `DcvxvGDhSeb` | 22.48s | [Styles](tracks/07_echinus_entasis/style.txt) · [Lyrics](tracks/07_echinus_entasis/lyrics.txt) · [Pronunciation](tracks/07_echinus_entasis/pronunciation.md) |
-| [Hall House](tracks/08_hall_house/analysis.md) | `DdLxzBIoJ8F` | 49.97s | [Styles](tracks/08_hall_house/style.txt) · [Lyrics](tracks/08_hall_house/lyrics.txt) · [Pronunciation](tracks/08_hall_house/pronunciation.md) |
+| Track | Video | Original file ID | Duration | Copy-ready files |
+|---|---|---|---:|---|
+| [Flaunching](tracks/01_flaunching/analysis.md) | [Video](source_videos/flaunching.mp4) | `Dc1uBZahhts` | 15.81s | [Styles](tracks/01_flaunching/style.txt) · [Lyrics](tracks/01_flaunching/lyrics.txt) · [Pronunciation](tracks/01_flaunching/pronunciation.md) |
+| [Guttae / Good Day](tracks/02_guttae/analysis.md) | [Video](source_videos/guttae-good-day.mp4) | `Dc8axxYIC3k` | 22.29s | [Styles](tracks/02_guttae/style.txt) · [Lyrics](tracks/02_guttae/lyrics.txt) · [Pronunciation](tracks/02_guttae/pronunciation.md) |
+| [Corbel / Bargeboard / Architectural Features](tracks/03_corbel_bargeboard/analysis.md) | [Video](source_videos/bargeboard.mp4) | `DcRZB_PBFkr` | 38.01s | [Styles](tracks/03_corbel_bargeboard/style.txt) · [Lyrics](tracks/03_corbel_bargeboard/lyrics.txt) · [Pronunciation](tracks/03_corbel_bargeboard/pronunciation.md) |
+| [Columns / Classical Orders](tracks/04_columns/analysis.md) | [Video](source_videos/columns-classical-orders.mp4) | `DcYTYvMBSMn` | 53.62s | [Styles](tracks/04_columns/style.txt) · [Lyrics](tracks/04_columns/lyrics.txt) · [Pronunciation](tracks/04_columns/pronunciation.md) |
+| [Doors](tracks/05_doors/analysis.md) | [Video](source_videos/doors.mp4) | `DcbYsWLhhdZ` | 64.69s | [Styles](tracks/05_doors/style.txt) · [Lyrics](tracks/05_doors/lyrics.txt) · [Pronunciation](tracks/05_doors/pronunciation.md) |
+| [Windows](tracks/06_windows/analysis.md) | [Video](source_videos/windows.mp4) | `DcqWhZtBIEI` | 67.01s | [Styles](tracks/06_windows/style.txt) · [Lyrics](tracks/06_windows/lyrics.txt) · [Pronunciation](tracks/06_windows/pronunciation.md) |
+| [Echinus / Entasis](tracks/07_echinus_entasis/analysis.md) | [Video](source_videos/echinus-entasis.mp4) | `DcvxvGDhSeb` | 22.48s | [Styles](tracks/07_echinus_entasis/style.txt) · [Lyrics](tracks/07_echinus_entasis/lyrics.txt) · [Pronunciation](tracks/07_echinus_entasis/pronunciation.md) |
+| [Hall House](tracks/08_hall_house/analysis.md) | [Video](source_videos/hall-house.mp4) | `DdLxzBIoJ8F` | 49.97s | [Styles](tracks/08_hall_house/style.txt) · [Lyrics](tracks/08_hall_house/lyrics.txt) · [Pronunciation](tracks/08_hall_house/pronunciation.md) |
+
+The raw door-knocker source is included as [door-knockers-excluded.mp4](source_videos/door-knockers-excluded.mp4), but has no transcript or music-recreation packet.
 
 [Read the complete guide](COMPLETE_GUIDE.md) · [Open the listening and copying page](index.html)

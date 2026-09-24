@@ -6,7 +6,7 @@ Date: 2026-09-24. Source directory: `/Users/anders/projects/barge/account_mp4`.
 
 All original videos were read only. `manifest.json` records source SHA-256 hashes, ffprobe streams, and durations. Audio was extracted by FFmpeg as mono 16 kHz PCM WAV for recognition. This is an analysis copy, not a lossless preservation copy of the original stereo audio. Keep the original videos for auditory comparison and any later production work.
 
-The excluded door-knocker video is `DdZlT3TIx3q.mp4`. Identification is supported by the initial contact sheet and `excluded_knockers.jpg`. An audio copy was created during inventory, before exclusion; no lyrics or music packet was made for it.
+The door-knocker source is `source_videos/door-knockers-excluded.mp4`. Identification is supported by the initial contact sheet and `excluded_knockers.jpg`. An audio copy was created during inventory, before exclusion; no lyrics or music packet was made for it.
 
 ## Lyrics and captions
 
@@ -61,7 +61,7 @@ For the community MOSS conversion, NumPy loads the bundled compressed mel-filter
 
 ## Source and presentation verification
 
-The architectural-features source is now named `account_mp4/bargeboard.mp4`; its bytes match the original `DcRZB_PBFkr.mp4` SHA-256. The manifest preserves the original name and records `current_file`. All nine source hashes pass verification.
+All nine source videos are packaged under `source_videos/` with content-based filenames. The manifest preserves each original file identifier, records the repository filename, and verifies the packaged bytes against the original SHA-256.
 
 Hall House's audio stream ends at 48.645 seconds; its video lasts 49.967 seconds. The remaining video-only tail does not contain omitted source audio. Small differences between other WAV and container durations reflect codec/frame padding.
 

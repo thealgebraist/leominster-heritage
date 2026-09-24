@@ -1,6 +1,6 @@
 # Corbel / Bargeboard / Architectural Features
 
-Source: [bargeboard.mp4](../../../account_mp4/bargeboard.mp4) · **38.01 seconds** · [extracted audio](../../evidence/audio/DcRZB_PBFkr.wav)
+Source: [bargeboard.mp4](../../source_videos/bargeboard.mp4) · **38.01 seconds** · [extracted audio](../../evidence/audio/DcRZB_PBFkr.wav)
 
 ## Listening/navigation aids
 

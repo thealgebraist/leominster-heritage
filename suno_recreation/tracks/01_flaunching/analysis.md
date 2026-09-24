@@ -1,6 +1,6 @@
 # Flaunching
 
-Source: [Dc1uBZahhts.mp4](../../../account_mp4/Dc1uBZahhts.mp4) · **15.81 seconds** · [extracted audio](../../evidence/audio/Dc1uBZahhts.wav)
+Source: [flaunching.mp4](../../source_videos/flaunching.mp4) · **15.81 seconds** · [extracted audio](../../evidence/audio/Dc1uBZahhts.wav)
 
 ## Listening/navigation aids
 
@@ -100,7 +100,7 @@ First compare the FLAWN-ching vowel, the little “a” pickup, the dry/sky phra
 
 Raw excerpt interpretations are preserved below as evidence links. They are not independent listening verification, and their incidental lyric guesses are not the corrected transcript. The recipe above prefers broad timbral descriptions when instrument identifications conflict.
 
-- [Separated-backing interpretation](../../evidence/second_pass/Dc1uBZahhts_backing.json)
+- [Separated-backing interpretation](../../evidence/second_pass/flaunching_backing.json)
 - [Sampled-frame OCR results (automated and noisy)](../../evidence/ocr_results/Dc1uBZahhts.json)
 - [Sampled source-frame contact sheet](../../evidence/frames/Dc1uBZahhts.jpg)
 - [Targeted vocal interpretation](../../evidence/second_pass/Dc1uBZahhts_vocals.json)

@@ -1,6 +1,6 @@
 # Windows
 
-Source: [DcqWhZtBIEI.mp4](../../../account_mp4/DcqWhZtBIEI.mp4) · **67.01 seconds** · [extracted audio](../../evidence/audio/DcqWhZtBIEI.wav)
+Source: [windows.mp4](../../source_videos/windows.mp4) · **67.01 seconds** · [extracted audio](../../evidence/audio/DcqWhZtBIEI.wav)
 
 ## Listening/navigation aids
 
@@ -154,7 +154,7 @@ Compare the question/answer spacing, the lower obviously aside and the final com
 
 Raw excerpt interpretations are preserved below as evidence links. They are not independent listening verification, and their incidental lyric guesses are not the corrected transcript. The recipe above prefers broad timbral descriptions when instrument identifications conflict.
 
-- [Separated-backing interpretation](../../evidence/second_pass/DcqWhZtBIEI_backing.json)
+- [Separated-backing interpretation](../../evidence/second_pass/windows_backing.json)
 - [Sampled-frame OCR results (automated and noisy)](../../evidence/ocr_results/DcqWhZtBIEI.json)
 - [Sampled source-frame contact sheet](../../evidence/frames/DcqWhZtBIEI.jpg)
 - [Targeted vocal interpretation](../../evidence/second_pass/DcqWhZtBIEI_vocals.json)

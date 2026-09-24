@@ -1,6 +1,6 @@
 # Columns / Classical Orders
 
-Source: [DcYTYvMBSMn.mp4](../../../account_mp4/DcYTYvMBSMn.mp4) · **53.62 seconds** · [extracted audio](../../evidence/audio/DcYTYvMBSMn.wav)
+Source: [columns-classical-orders.mp4](../../source_videos/columns-classical-orders.mp4) · **53.62 seconds** · [extracted audio](../../evidence/audio/DcYTYvMBSMn.wav)
 
 ## Listening/navigation aids
 
@@ -137,7 +137,7 @@ Compare the clipped list sections with the sustained Ah passages. Preserve the s
 
 Raw excerpt interpretations are preserved below as evidence links. They are not independent listening verification, and their incidental lyric guesses are not the corrected transcript. The recipe above prefers broad timbral descriptions when instrument identifications conflict.
 
-- [Separated-backing interpretation](../../evidence/second_pass/DcYTYvMBSMn_backing.json)
+- [Separated-backing interpretation](../../evidence/second_pass/columns-classical-orders_backing.json)
 - [Sampled-frame OCR results (automated and noisy)](../../evidence/ocr_results/DcYTYvMBSMn.json)
 - [Sampled source-frame contact sheet](../../evidence/frames/DcYTYvMBSMn.jpg)
 - [Pitch tracking diagnostic](../../evidence/pitch/DcYTYvMBSMn.json): 10.3% of frames passed the strict voicing filter; too sparse to establish a complete melody.

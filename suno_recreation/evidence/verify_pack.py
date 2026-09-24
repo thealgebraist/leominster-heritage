@@ -8,7 +8,7 @@ assert len(TRACKS)==8 and len({t['id'] for t in TRACKS})==8
 assert 'DdZlT3TIx3q' not in {t['id'] for t in TRACKS}
 manifest=json.loads((root/'evidence/manifest.json').read_text())
 for m in manifest:
- p=root.parent/m.get('current_file',m['file']);actual=hashlib.file_digest(p.open('rb'),'sha256').hexdigest()
+ p=root.parent/m.get('repository_file',m.get('current_file',m['file']));actual=hashlib.file_digest(p.open('rb'),'sha256').hexdigest()
  assert actual==m['sha256'],f'Original changed: {p}'
 checks=[]
 section_tonality=json.loads((root/'evidence/section_tonality.json').read_text())

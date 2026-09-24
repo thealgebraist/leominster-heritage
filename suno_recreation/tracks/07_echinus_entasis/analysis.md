@@ -1,6 +1,6 @@
 # Echinus / Entasis
 
-Source: [DcvxvGDhSeb.mp4](../../../account_mp4/DcvxvGDhSeb.mp4) · **22.48 seconds** · [extracted audio](../../evidence/audio/DcvxvGDhSeb.wav)
+Source: [echinus-entasis.mp4](../../source_videos/echinus-entasis.mp4) · **22.48 seconds** · [extracted audio](../../evidence/audio/DcvxvGDhSeb.wav)
 
 ## Listening/navigation aids
 
@@ -106,7 +106,7 @@ Check the actual vowels and stress of echinus and entasis against the source. Ke
 
 Raw excerpt interpretations are preserved below as evidence links. They are not independent listening verification, and their incidental lyric guesses are not the corrected transcript. The recipe above prefers broad timbral descriptions when instrument identifications conflict.
 
-- [Separated-backing interpretation](../../evidence/second_pass/DcvxvGDhSeb_backing.json)
+- [Separated-backing interpretation](../../evidence/second_pass/echinus-entasis_backing.json)
 - [Sampled-frame OCR results (automated and noisy)](../../evidence/ocr_results/DcvxvGDhSeb.json)
 - [Sampled source-frame contact sheet](../../evidence/frames/DcvxvGDhSeb.jpg)
 - [Targeted vocal interpretation](../../evidence/second_pass/DcvxvGDhSeb_vocals.json)

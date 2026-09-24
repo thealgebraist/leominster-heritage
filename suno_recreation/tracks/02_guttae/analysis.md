@@ -1,6 +1,6 @@
 # Guttae / Good Day
 
-Source: [Dc8axxYIC3k.mp4](../../../account_mp4/Dc8axxYIC3k.mp4) · **22.29 seconds** · [extracted audio](../../evidence/audio/Dc8axxYIC3k.wav)
+Source: [guttae-good-day.mp4](../../source_videos/guttae-good-day.mp4) · **22.29 seconds** · [extracted audio](../../evidence/audio/Dc8axxYIC3k.wav)
 
 ## Listening/navigation aids
 
@@ -106,7 +106,7 @@ Compare the two-syllable vowel pattern and the good-day pun before the backing. 
 
 Raw excerpt interpretations are preserved below as evidence links. They are not independent listening verification, and their incidental lyric guesses are not the corrected transcript. The recipe above prefers broad timbral descriptions when instrument identifications conflict.
 
-- [Separated-backing interpretation](../../evidence/second_pass/Dc8axxYIC3k_backing.json)
+- [Separated-backing interpretation](../../evidence/second_pass/guttae-good-day_backing.json)
 - [Sampled-frame OCR results (automated and noisy)](../../evidence/ocr_results/Dc8axxYIC3k.json)
 - [Sampled source-frame contact sheet](../../evidence/frames/Dc8axxYIC3k.jpg)
 - [Targeted vocal interpretation](../../evidence/second_pass/Dc8axxYIC3k_vocals.json)

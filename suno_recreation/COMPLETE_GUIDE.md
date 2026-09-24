@@ -7,7 +7,7 @@ Read [README.md](README.md) for evidence limits and Suno instructions.
 
 # Flaunching
 
-Source: [Dc1uBZahhts.mp4](../account_mp4/Dc1uBZahhts.mp4) · **15.81 seconds** · [extracted audio](evidence/audio/Dc1uBZahhts.wav)
+Source: [flaunching.mp4](source_videos/flaunching.mp4) · **15.81 seconds** · [extracted audio](evidence/audio/Dc1uBZahhts.wav)
 
 ## Listening/navigation aids
 
@@ -107,7 +107,7 @@ First compare the FLAWN-ching vowel, the little “a” pickup, the dry/sky phra
 
 Raw excerpt interpretations are preserved below as evidence links. They are not independent listening verification, and their incidental lyric guesses are not the corrected transcript. The recipe above prefers broad timbral descriptions when instrument identifications conflict.
 
-- [Separated-backing interpretation](evidence/second_pass/Dc1uBZahhts_backing.json)
+- [Separated-backing interpretation](evidence/second_pass/flaunching_backing.json)
 - [Sampled-frame OCR results (automated and noisy)](evidence/ocr_results/Dc1uBZahhts.json)
 - [Sampled source-frame contact sheet](evidence/frames/Dc1uBZahhts.jpg)
 - [Targeted vocal interpretation](evidence/second_pass/Dc1uBZahhts_vocals.json)
@@ -122,7 +122,7 @@ Raw excerpt interpretations are preserved below as evidence links. They are not 
 
 # Guttae / Good Day
 
-Source: [Dc8axxYIC3k.mp4](../account_mp4/Dc8axxYIC3k.mp4) · **22.29 seconds** · [extracted audio](evidence/audio/Dc8axxYIC3k.wav)
+Source: [guttae-good-day.mp4](source_videos/guttae-good-day.mp4) · **22.29 seconds** · [extracted audio](evidence/audio/Dc8axxYIC3k.wav)
 
 ## Listening/navigation aids
 
@@ -228,7 +228,7 @@ Compare the two-syllable vowel pattern and the good-day pun before the backing. 
 
 Raw excerpt interpretations are preserved below as evidence links. They are not independent listening verification, and their incidental lyric guesses are not the corrected transcript. The recipe above prefers broad timbral descriptions when instrument identifications conflict.
 
-- [Separated-backing interpretation](evidence/second_pass/Dc8axxYIC3k_backing.json)
+- [Separated-backing interpretation](evidence/second_pass/guttae-good-day_backing.json)
 - [Sampled-frame OCR results (automated and noisy)](evidence/ocr_results/Dc8axxYIC3k.json)
 - [Sampled source-frame contact sheet](evidence/frames/Dc8axxYIC3k.jpg)
 - [Targeted vocal interpretation](evidence/second_pass/Dc8axxYIC3k_vocals.json)
@@ -243,7 +243,7 @@ Raw excerpt interpretations are preserved below as evidence links. They are not 
 
 # Corbel / Bargeboard / Architectural Features
 
-Source: [bargeboard.mp4](../account_mp4/bargeboard.mp4) · **38.01 seconds** · [extracted audio](evidence/audio/DcRZB_PBFkr.wav)
+Source: [bargeboard.mp4](source_videos/bargeboard.mp4) · **38.01 seconds** · [extracted audio](evidence/audio/DcRZB_PBFkr.wav)
 
 ## Listening/navigation aids
 
@@ -385,7 +385,7 @@ Raw excerpt interpretations are preserved below as evidence links. They are not 
 
 # Columns / Classical Orders
 
-Source: [DcYTYvMBSMn.mp4](../account_mp4/DcYTYvMBSMn.mp4) · **53.62 seconds** · [extracted audio](evidence/audio/DcYTYvMBSMn.wav)
+Source: [columns-classical-orders.mp4](source_videos/columns-classical-orders.mp4) · **53.62 seconds** · [extracted audio](evidence/audio/DcYTYvMBSMn.wav)
 
 ## Listening/navigation aids
 
@@ -522,7 +522,7 @@ Compare the clipped list sections with the sustained Ah passages. Preserve the s
 
 Raw excerpt interpretations are preserved below as evidence links. They are not independent listening verification, and their incidental lyric guesses are not the corrected transcript. The recipe above prefers broad timbral descriptions when instrument identifications conflict.
 
-- [Separated-backing interpretation](evidence/second_pass/DcYTYvMBSMn_backing.json)
+- [Separated-backing interpretation](evidence/second_pass/columns-classical-orders_backing.json)
 - [Sampled-frame OCR results (automated and noisy)](evidence/ocr_results/DcYTYvMBSMn.json)
 - [Sampled source-frame contact sheet](evidence/frames/DcYTYvMBSMn.jpg)
 - [Pitch tracking diagnostic](evidence/pitch/DcYTYvMBSMn.json): 10.3% of frames passed the strict voicing filter; too sparse to establish a complete melody.
@@ -538,7 +538,7 @@ Raw excerpt interpretations are preserved below as evidence links. They are not 
 
 # Doors
 
-Source: [DcbYsWLhhdZ.mp4](../account_mp4/DcbYsWLhhdZ.mp4) · **64.69 seconds** · [extracted audio](evidence/audio/DcbYsWLhhdZ.wav)
+Source: [doors.mp4](source_videos/doors.mp4) · **64.69 seconds** · [extracted audio](evidence/audio/DcbYsWLhhdZ.wav)
 
 ## Listening/navigation aids
 
@@ -698,7 +698,7 @@ Check the original repeated door count and the unresolved middle interjection. I
 
 Raw excerpt interpretations are preserved below as evidence links. They are not independent listening verification, and their incidental lyric guesses are not the corrected transcript. The recipe above prefers broad timbral descriptions when instrument identifications conflict.
 
-- [Separated-backing interpretation](evidence/second_pass/DcbYsWLhhdZ_backing.json)
+- [Separated-backing interpretation](evidence/second_pass/doors_backing.json)
 - [Sampled-frame OCR results (automated and noisy)](evidence/ocr_results/DcbYsWLhhdZ.json)
 - [Sampled source-frame contact sheet](evidence/frames/DcbYsWLhhdZ.jpg)
 - [Targeted vocal interpretation](evidence/second_pass/DcbYsWLhhdZ_vocals.json)
@@ -715,7 +715,7 @@ Raw excerpt interpretations are preserved below as evidence links. They are not 
 
 # Windows
 
-Source: [DcqWhZtBIEI.mp4](../account_mp4/DcqWhZtBIEI.mp4) · **67.01 seconds** · [extracted audio](evidence/audio/DcqWhZtBIEI.wav)
+Source: [windows.mp4](source_videos/windows.mp4) · **67.01 seconds** · [extracted audio](evidence/audio/DcqWhZtBIEI.wav)
 
 ## Listening/navigation aids
 
@@ -869,7 +869,7 @@ Compare the question/answer spacing, the lower obviously aside and the final com
 
 Raw excerpt interpretations are preserved below as evidence links. They are not independent listening verification, and their incidental lyric guesses are not the corrected transcript. The recipe above prefers broad timbral descriptions when instrument identifications conflict.
 
-- [Separated-backing interpretation](evidence/second_pass/DcqWhZtBIEI_backing.json)
+- [Separated-backing interpretation](evidence/second_pass/windows_backing.json)
 - [Sampled-frame OCR results (automated and noisy)](evidence/ocr_results/DcqWhZtBIEI.json)
 - [Sampled source-frame contact sheet](evidence/frames/DcqWhZtBIEI.jpg)
 - [Targeted vocal interpretation](evidence/second_pass/DcqWhZtBIEI_vocals.json)
@@ -885,7 +885,7 @@ Raw excerpt interpretations are preserved below as evidence links. They are not 
 
 # Echinus / Entasis
 
-Source: [DcvxvGDhSeb.mp4](../account_mp4/DcvxvGDhSeb.mp4) · **22.48 seconds** · [extracted audio](evidence/audio/DcvxvGDhSeb.wav)
+Source: [echinus-entasis.mp4](source_videos/echinus-entasis.mp4) · **22.48 seconds** · [extracted audio](evidence/audio/DcvxvGDhSeb.wav)
 
 ## Listening/navigation aids
 
@@ -991,7 +991,7 @@ Check the actual vowels and stress of echinus and entasis against the source. Ke
 
 Raw excerpt interpretations are preserved below as evidence links. They are not independent listening verification, and their incidental lyric guesses are not the corrected transcript. The recipe above prefers broad timbral descriptions when instrument identifications conflict.
 
-- [Separated-backing interpretation](evidence/second_pass/DcvxvGDhSeb_backing.json)
+- [Separated-backing interpretation](evidence/second_pass/echinus-entasis_backing.json)
 - [Sampled-frame OCR results (automated and noisy)](evidence/ocr_results/DcvxvGDhSeb.json)
 - [Sampled source-frame contact sheet](evidence/frames/DcvxvGDhSeb.jpg)
 - [Targeted vocal interpretation](evidence/second_pass/DcvxvGDhSeb_vocals.json)
@@ -1005,7 +1005,7 @@ Raw excerpt interpretations are preserved below as evidence links. They are not 
 
 # Hall House
 
-Source: [DdLxzBIoJ8F.mp4](../account_mp4/DdLxzBIoJ8F.mp4) · **49.97 seconds** · [extracted audio](evidence/audio/DdLxzBIoJ8F.wav)
+Source: [hall-house.mp4](source_videos/hall-house.mp4) · **49.97 seconds** · [extracted audio](evidence/audio/DdLxzBIoJ8F.wav)
 
 ## Listening/navigation aids
 
@@ -1152,7 +1152,7 @@ Compare the two strong hall-house syllables, the patter speed of the couplets, a
 
 Raw excerpt interpretations are preserved below as evidence links. They are not independent listening verification, and their incidental lyric guesses are not the corrected transcript. The recipe above prefers broad timbral descriptions when instrument identifications conflict.
 
-- [Separated-backing interpretation](evidence/second_pass/DdLxzBIoJ8F_backing.json)
+- [Separated-backing interpretation](evidence/second_pass/hall-house_backing.json)
 - [Sampled-frame OCR results (automated and noisy)](evidence/ocr_results/DdLxzBIoJ8F.json)
 - [Sampled source-frame contact sheet](evidence/frames/DdLxzBIoJ8F.jpg)
 - [Pitch tracking diagnostic](evidence/pitch/DdLxzBIoJ8F.json): 4.6% of frames passed the strict voicing filter; too sparse to establish a complete melody.

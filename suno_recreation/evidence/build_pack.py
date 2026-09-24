@@ -5,7 +5,7 @@ MUSIC=json.loads((ROOT/'evidence/music_notes.json').read_text())
 MANIFEST=json.loads((ROOT/'evidence/manifest.json').read_text())
 SECTION_CHROMA=json.loads((ROOT/'evidence/section_tonality.json').read_text())
 ROLLING_CHROMA=json.loads((ROOT/'evidence/rolling_tonality.json').read_text())
-SOURCE={pathlib.Path(x['file']).stem:x.get('current_file',x['file']) for x in MANIFEST}
+SOURCE={pathlib.Path(x['file']).stem:x.get('repository_file',x.get('current_file',x['file'])) for x in MANIFEST}
 source_links=[];combined=['# Architectural music — complete recreation guide\n\nRead [README.md](README.md) for evidence limits and Suno instructions.\n']
 for t in TRACKS:
  p=ROOT/'tracks'/t['slug'];p.mkdir(parents=True,exist_ok=True)
@@ -36,7 +36,7 @@ for t in TRACKS:
  transcript='| Approx. source time | Best-supported words / event |\n|---|---|\n'+'\n'.join('| '+a+' | '+b+' |' for a,b in t['transcript'])
  body=f'''# {t['title']}
 
-Source: [{pathlib.Path(SOURCE[t['id']]).name}](../../../{SOURCE[t['id']]}) · **{t['duration']:.2f} seconds** · [extracted audio](../../evidence/audio/{t['id']}.wav)
+Source: [{pathlib.Path(SOURCE[t['id']]).name}](../../{SOURCE[t['id']].removeprefix('suno_recreation/')}) · **{t['duration']:.2f} seconds** · [extracted audio](../../evidence/audio/{t['id']}.wav)
 
 ## Listening/navigation aids
 
@@ -127,12 +127,13 @@ Raw excerpt interpretations are preserved below as evidence links. They are not 
   evidence_name=t["id"]+"_"+f"{int(d['start_s']):02d}"+".json"
   body+=f"- [{d['start_s']:.1f}–{d['end_s']:.1f}s model interpretation](../../evidence/audio_descriptions/{evidence_name})\n"
  (p/'analysis.md').write_text(body)
- source_links.append(f"| [{t['title']}](tracks/{t['slug']}/analysis.md) | `{t['id']}` | {t['duration']:.2f}s | [Styles](tracks/{t['slug']}/style.txt) · [Lyrics](tracks/{t['slug']}/lyrics.txt) · [Pronunciation](tracks/{t['slug']}/pronunciation.md) |")
+ video=pathlib.Path(SOURCE[t['id']]).name
+ source_links.append(f"| [{t['title']}](tracks/{t['slug']}/analysis.md) | [Video](source_videos/{video}) | `{t['id']}` | {t['duration']:.2f}s | [Styles](tracks/{t['slug']}/style.txt) · [Lyrics](tracks/{t['slug']}/lyrics.txt) · [Pronunciation](tracks/{t['slug']}/pronunciation.md) |")
  # Relative links in the combined guide need a different base.
- combined.append(body.replace('../../../account_mp4/','../account_mp4/').replace('../../evidence/','evidence/'))
+ combined.append(body.replace('../../source_videos/','source_videos/').replace('../../evidence/','evidence/'))
 (ROOT/'COMPLETE_GUIDE.md').write_text('\n\n---\n\n'.join(combined))
 readme=(ROOT/'README.md').read_text().split('\n## Tracks\n')[0]
-readme+='\n## Tracks\n\n| Track | Original file ID | Duration | Copy-ready files |\n|---|---|---:|---|\n'+'\n'.join(source_links)+'\n\n[Read the complete guide](COMPLETE_GUIDE.md) · [Open the listening and copying page](index.html)\n'
+readme+='\n## Tracks\n\n| Track | Video | Original file ID | Duration | Copy-ready files |\n|---|---|---|---:|---|\n'+'\n'.join(source_links)+'\n\nThe raw door-knocker source is included as [door-knockers-excluded.mp4](source_videos/door-knockers-excluded.mp4), but has no transcript or music-recreation packet.\n\n[Read the complete guide](COMPLETE_GUIDE.md) · [Open the listening and copying page](index.html)\n'
 (ROOT/'README.md').write_text(readme)
 # Offline HTML companion: source playback, evidence transcript, and copy-ready prompts.
 def esc(s):return html.escape(s,quote=True)
@@ -142,7 +143,7 @@ parts=['''<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewp
 for t in TRACKS:parts.append(f'<a href="#{t["slug"]}">{esc(t["title"])}</a>')
 parts.append('</nav>')
 for t in TRACKS:
- m=MUSIC[t['id']];sid=t['slug'];parts.append(f'<article id="{sid}"><h2>{esc(t["title"])}</h2><div class="meta">{pathlib.Path(SOURCE[t["id"]]).name} · {t["duration"]:.2f}s · <a href="../{SOURCE[t["id"]]}">Original video</a> · <a href="tracks/{sid}/analysis.md">Full analysis</a></div><audio controls preload="none" src="evidence/audio/{t["id"]}.wav"></audio>')
+ m=MUSIC[t['id']];sid=t['slug'];video=SOURCE[t['id']].removeprefix('suno_recreation/');parts.append(f'<article id="{sid}"><h2>{esc(t["title"])}</h2><div class="meta">{pathlib.Path(video).name} · {t["duration"]:.2f}s · <a href="{video}">Original video</a> · <a href="tracks/{sid}/analysis.md">Full analysis</a></div><audio controls preload="none" src="evidence/audio/{t["id"]}.wav"></audio>')
  parts.append('<details><summary>Timed transcript and uncertainties</summary><table><thead><tr><th>Source time</th><th>Words / event</th></tr></thead><tbody>')
  for a,b in t['transcript']:parts.append(f'<tr><td>{esc(a)}</td><td>{esc(b)}</td></tr>')
  parts.append('</tbody></table><ul>'+''.join('<li>'+esc(x)+'</li>' for x in t['issues'])+'</ul></details>')

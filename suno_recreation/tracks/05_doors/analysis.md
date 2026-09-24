@@ -1,6 +1,6 @@
 # Doors
 
-Source: [DcbYsWLhhdZ.mp4](../../../account_mp4/DcbYsWLhhdZ.mp4) · **64.69 seconds** · [extracted audio](../../evidence/audio/DcbYsWLhhdZ.wav)
+Source: [doors.mp4](../../source_videos/doors.mp4) · **64.69 seconds** · [extracted audio](../../evidence/audio/DcbYsWLhhdZ.wav)
 
 ## Listening/navigation aids
 
@@ -160,7 +160,7 @@ Check the original repeated door count and the unresolved middle interjection. I
 
 Raw excerpt interpretations are preserved below as evidence links. They are not independent listening verification, and their incidental lyric guesses are not the corrected transcript. The recipe above prefers broad timbral descriptions when instrument identifications conflict.
 
-- [Separated-backing interpretation](../../evidence/second_pass/DcbYsWLhhdZ_backing.json)
+- [Separated-backing interpretation](../../evidence/second_pass/doors_backing.json)
 - [Sampled-frame OCR results (automated and noisy)](../../evidence/ocr_results/DcbYsWLhhdZ.json)
 - [Sampled source-frame contact sheet](../../evidence/frames/DcbYsWLhhdZ.jpg)
 - [Targeted vocal interpretation](../../evidence/second_pass/DcbYsWLhhdZ_vocals.json)

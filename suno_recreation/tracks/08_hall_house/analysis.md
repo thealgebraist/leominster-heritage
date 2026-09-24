@@ -1,6 +1,6 @@
 # Hall House
 
-Source: [DdLxzBIoJ8F.mp4](../../../account_mp4/DdLxzBIoJ8F.mp4) · **49.97 seconds** · [extracted audio](../../evidence/audio/DdLxzBIoJ8F.wav)
+Source: [hall-house.mp4](../../source_videos/hall-house.mp4) · **49.97 seconds** · [extracted audio](../../evidence/audio/DdLxzBIoJ8F.wav)
 
 ## Listening/navigation aids
 
@@ -147,7 +147,7 @@ Compare the two strong hall-house syllables, the patter speed of the couplets, a
 
 Raw excerpt interpretations are preserved below as evidence links. They are not independent listening verification, and their incidental lyric guesses are not the corrected transcript. The recipe above prefers broad timbral descriptions when instrument identifications conflict.
 
-- [Separated-backing interpretation](../../evidence/second_pass/DdLxzBIoJ8F_backing.json)
+- [Separated-backing interpretation](../../evidence/second_pass/hall-house_backing.json)
 - [Sampled-frame OCR results (automated and noisy)](../../evidence/ocr_results/DdLxzBIoJ8F.json)
 - [Sampled source-frame contact sheet](../../evidence/frames/DdLxzBIoJ8F.jpg)
 - [Pitch tracking diagnostic](../../evidence/pitch/DdLxzBIoJ8F.json): 4.6% of frames passed the strict voicing filter; too sparse to establish a complete melody.
