@@ -8,6 +8,8 @@ This is a source-grounded transcription and a set of **recreation recipes**, not
 
 ## How to use the pack
 
+See [dictionary pronunciation targets](PRONUNCIATION_SOURCES.md) for standard IPA/respelling references on specialist terms; they do not establish the singer’s exact accent or vowels.
+
 1. Read the timed `source_transcript.txt` alongside `analysis.md` for the best-supported words, timing and uncertainty notes.
 2. Treat `lyrics.txt` as a practical Suno arrangement, not a verbatim transcript: repeated hooks may be expanded or normalized, and uncertain lines are identified in `analysis.md`. In Suno's **Custom** mode, paste `style.txt` into **Styles** and `lyrics.txt` into **Lyrics**. Bracketed section/delivery tags are instructions, not words transcribed from the video.
 3. Use the pronunciation guide to correct a difficult word. If Suno mispronounces an architectural term, try the corresponding phonetic spelling in place of that word. Keep the conventional spelling in your saved transcript.

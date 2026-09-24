@@ -1,6 +1,6 @@
 # Architectural music — complete recreation guide
 
-Read [README.md](README.md) for evidence limits and Suno instructions.
+Read [README.md](README.md) for evidence limits and Suno instructions. See [dictionary pronunciation targets](PRONUNCIATION_SOURCES.md) for standard IPA/respelling references; they do not establish the singer’s accent or exact sung vowels.
 
 
 ---

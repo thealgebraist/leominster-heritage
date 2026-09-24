@@ -1,4 +1,6 @@
 # Windows — pronunciation
+For dictionary IPA targets for specialist terms (standard pronunciations, not claims about this singer), see [PRONUNCIATION_SOURCES.md](../../PRONUNCIATION_SOURCES.md).
+
 
 CAPITALS indicate stress; respellings are broad performance targets, not narrow IPA. “uh” is a weak vowel; “aw” is a long rounded vowel.
 
