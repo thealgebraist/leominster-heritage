@@ -17,7 +17,7 @@ from urllib.parse import unquote, urlsplit
 PACK = Path(__file__).resolve().parents[1]
 REPO = PACK.parent
 TEXT_SUFFIXES = {'.md', '.html', '.json'}
-PATH_KEYS = {'repository_file', 'current_file', 'plot', 'audio', 'output'}
+PATH_KEYS = {'repository_file', 'current_file', 'plot', 'audio', 'output', 'path'}
 MD_LINK = re.compile(r'!?\[[^\]]*\]\((?:<([^>]+)>|([^\s)]+))(?:\s+[^)]*)?\)')
 
 
@@ -35,7 +35,7 @@ def candidates(ref: str, base: Path) -> list[Path]:
     path = Path(ref)
     if path.is_absolute():
         return [path]
-    choices = [base / path, REPO / path]
+    choices = [base / path, REPO / path, PACK / path]
     if ref.startswith('suno_recreation/'):
         choices.append(REPO / path)
     elif ref.startswith('evidence/') or ref.startswith('tracks/') or ref.startswith('source_videos/'):

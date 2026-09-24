@@ -1,0 +1,314 @@
+{
+  "description": "Original source-video audio edited into short ringtone clips; not Suno-generated audio.",
+  "apple_format": "AAC-LC in .m4r / MPEG-4 container; <=30 seconds.",
+  "android_format": "MP3, 44.1 kHz mono; suitable as a local ringtone audio file.",
+  "processing": "Integrated loudness target -16 LUFS, true-peak limit -1.5 dBTP, 60 ms fade-in and 450 ms fade-out.",
+  "tracks": [
+    {
+      "source_id": "Dc1uBZahhts",
+      "title": "Flaunching",
+      "asset_stem": "flaunching",
+      "source": "evidence/audio/Dc1uBZahhts.wav",
+      "start_s": 0.0,
+      "duration_s": 15.814,
+      "fade_in_s": 0.06,
+      "fade_out_s": 0.45,
+      "loudness_target_i_lufs": -16,
+      "true_peak_limit_db": -1.5,
+      "outputs": [
+        {
+          "path": "ringtones/apple/flaunching.m4r",
+          "codec": "aac",
+          "sample_rate": 44100,
+          "channels": 1,
+          "duration_s": 15.814,
+          "size_bytes": 235539,
+          "sha256": "26289594944226a8e10864f680132b453a045b6598e01014df38a855dce847c7",
+          "full_decode": "passed"
+        },
+        {
+          "path": "ringtones/android/flaunching.mp3",
+          "codec": "mp3",
+          "sample_rate": 44100,
+          "channels": 1,
+          "duration_s": 15.728,
+          "size_bytes": 252909,
+          "sha256": "e108496cfebc8285b9b3a7d643c06270ae6d2b44016f1c95e6c8ebe2cb083ecd",
+          "full_decode": "passed"
+        }
+      ]
+    },
+    {
+      "source_id": "Dc8axxYIC3k",
+      "title": "Guttae / Good Day",
+      "asset_stem": "guttae-good-day",
+      "source": "evidence/audio/Dc8axxYIC3k.wav",
+      "start_s": 0.0,
+      "duration_s": 22.316,
+      "fade_in_s": 0.06,
+      "fade_out_s": 0.45,
+      "loudness_target_i_lufs": -16,
+      "true_peak_limit_db": -1.5,
+      "outputs": [
+        {
+          "path": "ringtones/apple/guttae-good-day.m4r",
+          "codec": "aac",
+          "sample_rate": 44100,
+          "channels": 1,
+          "duration_s": 22.316,
+          "size_bytes": 318729,
+          "sha256": "4480480f3075dd5b2109dbd2a471333839c1d2bd27315c29fa67c69e37878e5d",
+          "full_decode": "passed"
+        },
+        {
+          "path": "ringtones/android/guttae-good-day.mp3",
+          "codec": "mp3",
+          "sample_rate": 44100,
+          "channels": 1,
+          "duration_s": 22.232,
+          "size_bytes": 356981,
+          "sha256": "574ff26e424fbf71e516afa1ca6cb2469b7052582cf8d3d70495df4c7f806219",
+          "full_decode": "passed"
+        }
+      ]
+    },
+    {
+      "source_id": "DcRZB_PBFkr",
+      "title": "Corbel / Bargeboard / Architectural Features",
+      "asset_stem": "bargeboard",
+      "source": "evidence/audio/DcRZB_PBFkr.wav",
+      "start_s": 0.0,
+      "duration_s": 30.0,
+      "fade_in_s": 0.06,
+      "fade_out_s": 0.45,
+      "loudness_target_i_lufs": -16,
+      "true_peak_limit_db": -1.5,
+      "outputs": [
+        {
+          "path": "ringtones/apple/bargeboard.m4r",
+          "codec": "aac",
+          "sample_rate": 44100,
+          "channels": 1,
+          "duration_s": 30.0,
+          "size_bytes": 498808,
+          "sha256": "9bc8882408ad66d3d02128c2365b5fbac49f459ffd2e41aa360b58a6a243c5b3",
+          "full_decode": "passed"
+        },
+        {
+          "path": "ringtones/android/bargeboard.mp3",
+          "codec": "mp3",
+          "sample_rate": 44100,
+          "channels": 1,
+          "duration_s": 30.0,
+          "size_bytes": 481115,
+          "sha256": "d9d1efae6415fc236680c164425b454f630f6e8b558591a8cc163bb27e155ac6",
+          "full_decode": "passed"
+        }
+      ]
+    },
+    {
+      "source_id": "DcYTYvMBSMn",
+      "title": "Columns / Classical Orders",
+      "asset_stem": "columns-classical-orders",
+      "source": "evidence/audio/DcYTYvMBSMn.wav",
+      "start_s": 0.0,
+      "duration_s": 30.0,
+      "fade_in_s": 0.06,
+      "fade_out_s": 0.45,
+      "loudness_target_i_lufs": -16,
+      "true_peak_limit_db": -1.5,
+      "outputs": [
+        {
+          "path": "ringtones/apple/columns-classical-orders.m4r",
+          "codec": "aac",
+          "sample_rate": 44100,
+          "channels": 1,
+          "duration_s": 30.0,
+          "size_bytes": 495768,
+          "sha256": "166d23ee5e0f93e43c4beb17cb22864d4e20512ea9e5f5d792c0d48f236bc20d",
+          "full_decode": "passed"
+        },
+        {
+          "path": "ringtones/android/columns-classical-orders.mp3",
+          "codec": "mp3",
+          "sample_rate": 44100,
+          "channels": 1,
+          "duration_s": 30.0,
+          "size_bytes": 481115,
+          "sha256": "cd37f4eecf8000d99c0a15aac846107a13e3ce94f5bd41f39ea23559737dac66",
+          "full_decode": "passed"
+        }
+      ]
+    },
+    {
+      "source_id": "DcbYsWLhhdZ",
+      "title": "Doors",
+      "asset_stem": "doors",
+      "source": "evidence/audio/DcbYsWLhhdZ.wav",
+      "start_s": 0.0,
+      "duration_s": 30.0,
+      "fade_in_s": 0.06,
+      "fade_out_s": 0.45,
+      "loudness_target_i_lufs": -16,
+      "true_peak_limit_db": -1.5,
+      "outputs": [
+        {
+          "path": "ringtones/apple/doors.m4r",
+          "codec": "aac",
+          "sample_rate": 44100,
+          "channels": 1,
+          "duration_s": 30.0,
+          "size_bytes": 490336,
+          "sha256": "921281204879b3e557f2e3d6d7933d30f2f332d856ae8a50245a863e49cfc718",
+          "full_decode": "passed"
+        },
+        {
+          "path": "ringtones/android/doors.mp3",
+          "codec": "mp3",
+          "sample_rate": 44100,
+          "channels": 1,
+          "duration_s": 30.0,
+          "size_bytes": 481115,
+          "sha256": "8e25c11594fd450602e205d703aa671ca493a6482feb33b218c0d51fd4f1f03e",
+          "full_decode": "passed"
+        }
+      ]
+    },
+    {
+      "source_id": "DcqWhZtBIEI",
+      "title": "Windows",
+      "asset_stem": "windows",
+      "source": "evidence/audio/DcqWhZtBIEI.wav",
+      "start_s": 0.0,
+      "duration_s": 30.0,
+      "fade_in_s": 0.06,
+      "fade_out_s": 0.45,
+      "loudness_target_i_lufs": -16,
+      "true_peak_limit_db": -1.5,
+      "outputs": [
+        {
+          "path": "ringtones/apple/windows.m4r",
+          "codec": "aac",
+          "sample_rate": 44100,
+          "channels": 1,
+          "duration_s": 30.0,
+          "size_bytes": 496757,
+          "sha256": "c593bb70618d69a8ee7cf442d79ed12961e28e2ab544f937199e5ae78cd67cca",
+          "full_decode": "passed"
+        },
+        {
+          "path": "ringtones/android/windows.mp3",
+          "codec": "mp3",
+          "sample_rate": 44100,
+          "channels": 1,
+          "duration_s": 30.0,
+          "size_bytes": 481115,
+          "sha256": "930252408b601fa7bfeeddc0754a06551c6262e94dc7573e2aa88449b85dffb3",
+          "full_decode": "passed"
+        }
+      ]
+    },
+    {
+      "source_id": "DcvxvGDhSeb",
+      "title": "Echinus / Entasis",
+      "asset_stem": "echinus-entasis",
+      "source": "evidence/audio/DcvxvGDhSeb.wav",
+      "start_s": 0.0,
+      "duration_s": 22.502,
+      "fade_in_s": 0.06,
+      "fade_out_s": 0.45,
+      "loudness_target_i_lufs": -16,
+      "true_peak_limit_db": -1.5,
+      "outputs": [
+        {
+          "path": "ringtones/apple/echinus-entasis.m4r",
+          "codec": "aac",
+          "sample_rate": 44100,
+          "channels": 1,
+          "duration_s": 22.502,
+          "size_bytes": 327931,
+          "sha256": "11694d1b4cba2be1afd67b57a51fe33b51da706bce08538f955d78986e2aa193",
+          "full_decode": "passed"
+        },
+        {
+          "path": "ringtones/android/echinus-entasis.mp3",
+          "codec": "mp3",
+          "sample_rate": 44100,
+          "channels": 1,
+          "duration_s": 22.404,
+          "size_bytes": 359488,
+          "sha256": "316be815a9835d480dd038d4b7930a6bb2b458803921344249f322a5ae7ea7de",
+          "full_decode": "passed"
+        }
+      ]
+    },
+    {
+      "source_id": "DdLxzBIoJ8F",
+      "title": "Hall House",
+      "asset_stem": "hall-house",
+      "source": "evidence/audio/DdLxzBIoJ8F.wav",
+      "start_s": 0.0,
+      "duration_s": 30.0,
+      "fade_in_s": 0.06,
+      "fade_out_s": 0.45,
+      "loudness_target_i_lufs": -16,
+      "true_peak_limit_db": -1.5,
+      "outputs": [
+        {
+          "path": "ringtones/apple/hall-house.m4r",
+          "codec": "aac",
+          "sample_rate": 44100,
+          "channels": 1,
+          "duration_s": 30.0,
+          "size_bytes": 493286,
+          "sha256": "20365525b4e068ab83013f342bac9c37880ba5825b78dfbfcffd74917033298f",
+          "full_decode": "passed"
+        },
+        {
+          "path": "ringtones/android/hall-house.mp3",
+          "codec": "mp3",
+          "sample_rate": 44100,
+          "channels": 1,
+          "duration_s": 30.0,
+          "size_bytes": 481115,
+          "sha256": "72d4481630ddcbfc6e5e28e31acb4c86478b66dd4f5a3c6890b0a160d173c52a",
+          "full_decode": "passed"
+        }
+      ]
+    },
+    {
+      "source_id": "DdZlT3TIx3q",
+      "title": "Door Knockers",
+      "asset_stem": "door-knockers",
+      "source": "evidence/audio/DdZlT3TIx3q.wav",
+      "start_s": 0.0,
+      "duration_s": 30.0,
+      "fade_in_s": 0.06,
+      "fade_out_s": 0.45,
+      "loudness_target_i_lufs": -16,
+      "true_peak_limit_db": -1.5,
+      "outputs": [
+        {
+          "path": "ringtones/apple/door-knockers.m4r",
+          "codec": "aac",
+          "sample_rate": 44100,
+          "channels": 1,
+          "duration_s": 30.0,
+          "size_bytes": 499124,
+          "sha256": "4ff20a7a59224ec77ba82bd696a2f2103eb0fa62decd6f07061a6ab5f2ff8e24",
+          "full_decode": "passed"
+        },
+        {
+          "path": "ringtones/android/door-knockers.mp3",
+          "codec": "mp3",
+          "sample_rate": 44100,
+          "channels": 1,
+          "duration_s": 30.0,
+          "size_bytes": 481115,
+          "sha256": "90427fc626056246d0063f542d60b302a7d7d35ee3e345cec36e07fcb4ab53b8",
+          "full_decode": "passed"
+        }
+      ]
+    }
+  ]
+}

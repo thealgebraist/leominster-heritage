@@ -89,3 +89,8 @@ A larger generic US English model, `vosk-model-en-us-0.22` (1.8 GB archive, Apac
 The door-knocker clip is analyzed in `tracks/09_door_knockers/analysis.md`. Whisper large-v3-turbo supplies the timed transcript; a separate small English Vosk pass is retained as a noisy comparison, while sampled yellow caption OCR directly supports several named phrases. Signal diagnostics estimate a pulse near 136 BPM, with a 67–68 BPM half-time alias. Mix and estimated-backing chroma rankings are weak and vary by window, so the report leaves tonic, mode, chords, and exact melody unresolved. The video's picture lasts 37.7 seconds; AAC audio ends at about 35.9 seconds.
 
 Per-video JSON/CSV evidence filenames use descriptive stems; original video IDs remain in their data as provenance. `check_references.py` checks local Markdown links, HTML `href`/`src`, and path-bearing JSON fields. `verify_pack.py` runs it as part of pack validation. The check uses the current workspace, including ignored local WAV/JPG assets, so it does not establish that a fresh clone contains those ignored files.
+
+
+## Ringtone exports
+
+`make_ringtones.py` builds one opening-hook excerpt per track in AAC-LC `.m4r` and MP3 formats. Every exported duration is at most 30 seconds. Exports receive loudness normalization and short edge fades; `ringtones/manifest.json` records crop metadata, output hashes, stream details and full-decode results. The source audio used to generate the exports is locally extracted evidence and is ignored by Git; the ringtone files and manifest are packaged.

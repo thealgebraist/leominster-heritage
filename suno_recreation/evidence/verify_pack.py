@@ -11,6 +11,17 @@ for m in manifest:
  p=root.parent/m.get('repository_file',m.get('current_file',m['file']));actual=hashlib.file_digest(p.open('rb'),'sha256').hexdigest()
  assert actual==m['sha256'],f'Original changed: {p}'
 checks=[]
+ringtone_manifest=json.loads((root/'ringtones/manifest.json').read_text())
+assert len(ringtone_manifest['tracks'])==len(TRACKS)
+ringtone_outputs=[]
+for ringtone in ringtone_manifest['tracks']:
+ assert len(ringtone['outputs'])==2,(ringtone['title'],'must have Apple and Android files')
+ assert 0 < ringtone['duration_s'] <= 30,(ringtone['title'],ringtone['duration_s'])
+ for output in ringtone['outputs']:
+  path=root/output['path']
+  assert path.is_file() and hashlib.file_digest(path.open('rb'),'sha256').hexdigest()==output['sha256'],path
+  assert output['full_decode']=='passed' and output['duration_s']<=30.03,output
+  ringtone_outputs.append(output)
 section_tonality=json.loads((root/'evidence/section_tonality.json').read_text())
 assert len(section_tonality['tracks'])==9
 assert 'not probabilities' in ' '.join(section_tonality['warnings'])
@@ -81,7 +92,7 @@ assert len(p.ids)==len(set(p.ids)) and set(p.copies)<=set(p.ids)
 for ref in p.refs:
  if ref.startswith('#'):assert ref[1:] in p.ids
  elif '://' not in ref:assert (root/ref).exists(),ref
-result={'inventory':'9 included and analyzed','source_hashes_verified':len(manifest),'tracks':checks,'report_coverage':'all nine reports contain timed lyrics, pronunciation guidance, melody, tonal estimates including section comparisons, rhythm, instrumentation, effects, Suno prompt sections, and links to sampled visual evidence','audio_cue_validation':'all 9 tracks have a waveform/onset plot and time-aligned PCM excerpts covering their extracted audio duration','section_tonality_validation':'9 tracks have original-mix and separated-backing harmonic chroma rankings in 8-second windows; selected sections also have 4-second overlapping-window sensitivity checks; these are diagnostic correlations, not keys/chords or semantic accuracy claims','html_structure_and_local_links':'passed','boundary':'These checks verify artifact presence, report coverage, source preservation, model excerpt coverage, and local links. They do not prove transcript accuracy, phonetic accuracy, musical correctness, or Suno reproduction.'}
+result={'inventory':'9 included and analyzed','source_hashes_verified':len(manifest),'tracks':checks,'ringtones_verified':len(ringtone_outputs),'report_coverage':'all nine reports contain timed lyrics, pronunciation guidance, melody, tonal estimates including section comparisons, rhythm, instrumentation, effects, Suno prompt sections, and links to sampled visual evidence','audio_cue_validation':'all 9 tracks have a waveform/onset plot and time-aligned PCM excerpts covering their extracted audio duration','section_tonality_validation':'9 tracks have original-mix and separated-backing harmonic chroma rankings in 8-second windows; selected sections also have 4-second overlapping-window sensitivity checks; these are diagnostic correlations, not keys/chords or semantic accuracy claims','html_structure_and_local_links':'passed','boundary':'These checks verify artifact presence, report coverage, source preservation, model excerpt coverage, ringtone hashes/length/decode status, and local links. They do not prove transcript accuracy, phonetic accuracy, musical correctness, or Suno reproduction.'}
 (reference_check:=subprocess.run([sys.executable,str(root/'evidence/check_references.py')],capture_output=True,text=True))
 assert reference_check.returncode==0,reference_check.stdout+reference_check.stderr
 (root/'evidence/pack_checks.json').write_text(json.dumps(result,indent=2));print(json.dumps(result,indent=2))
