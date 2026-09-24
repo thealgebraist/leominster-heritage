@@ -2,14 +2,14 @@ from pathlib import Path
 import json,time,sys
 import numpy as np,soundfile as sf
 from vosk import Model, KaldiRecognizer, SetLogLevel
+from track_data import asset_stem
 SetLogLevel(-1)
 root=Path(__file__).resolve().parent
 model_dir=Path(sys.argv[1]) if len(sys.argv)>1 else root/'vosk_model/vosk-model-small-en-us-0.15'
 output_dir=root/(sys.argv[2] if len(sys.argv)>2 else 'asr_vosk')
 model=Model(str(model_dir))
 for p in sorted((root/'audio').glob('*.wav')):
- if p.stem=='DdZlT3TIx3q':continue
- target=output_dir/(p.stem+'.json');target.parent.mkdir(exist_ok=True)
+ target=output_dir/(asset_stem(p.stem)+'.json');target.parent.mkdir(exist_ok=True)
  if target.exists():continue
  y,sr=sf.read(p)
  if y.ndim>1:y=y.mean(axis=1)

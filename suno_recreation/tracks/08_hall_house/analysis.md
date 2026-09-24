@@ -148,10 +148,10 @@ Compare the two strong hall-house syllables, the patter speed of the couplets, a
 Raw excerpt interpretations are preserved below as evidence links. They are not independent listening verification, and their incidental lyric guesses are not the corrected transcript. The recipe above prefers broad timbral descriptions when instrument identifications conflict.
 
 - [Separated-backing interpretation](../../evidence/second_pass/hall-house_backing.json)
-- [Sampled-frame OCR results (automated and noisy)](../../evidence/ocr_results/DdLxzBIoJ8F.json)
+- [Sampled-frame OCR results (automated and noisy)](../../evidence/ocr_results/hall-house.json)
 - [Sampled source-frame contact sheet](../../evidence/frames/DdLxzBIoJ8F.jpg)
-- [Pitch tracking diagnostic](../../evidence/pitch/DdLxzBIoJ8F.json): 4.6% of frames passed the strict voicing filter; too sparse to establish a complete melody.
-- [Independent small-model Vosk ASR output (raw; noisy)](../../evidence/asr_vosk/DdLxzBIoJ8F.json)
-- [Original-mix and harmonic pitch tracking diagnostic](../../evidence/pitch/DdLxzBIoJ8F_mix_check.json)
-- [0.0–24.0s model interpretation](../../evidence/audio_descriptions/DdLxzBIoJ8F_00.json)
-- [24.0–48.0s model interpretation](../../evidence/audio_descriptions/DdLxzBIoJ8F_24.json)
+- [Pitch tracking diagnostic](../../evidence/pitch/hall-house.json): 4.6% of frames passed the strict voicing filter; too sparse to establish a complete melody.
+- [Independent small-model Vosk ASR output (raw; noisy)](../../evidence/asr_vosk/hall-house.json)
+- [Original-mix and harmonic pitch tracking diagnostic](../../evidence/pitch/hall-house_mix_check.json)
+- [0.0–24.0s model interpretation](../../evidence/audio_descriptions/hall-house_00.json)
+- [24.0–48.0s model interpretation](../../evidence/audio_descriptions/hall-house_24.json)

@@ -1,0 +1,11 @@
+{
+  "source": "DdZlT3TIx3q.wav",
+  "start_s": 0.0,
+  "end_s": 24.0,
+  "model": "RumiLabs/MOSS-Audio-4B-Thinking-MLX-4bit",
+  "prompt": "Describe the audible music in this excerpt: voice characteristics and accent if identifiable, singing versus rhythmic speech, instruments and timbres, beat and groove, melodic contour, harmonic mood, production effects, and any non-musical sound effects. Do not invent exact notes, key, tempo, lyrics, or unseen context. State uncertainty. Give a concise but specific description.",
+  "description": "The audio excerpt features a male vocal performance characterized by rhythmic speech rather than traditional singing. The voices have an energetic, theatrical quality, and the lyrics follow a specific pattern of spoken or semi-spoken phrases interspersed with implied instrumental music. The tempo is moderate, approximately 125 beats per minute. The instruments likely include drums providing a steady beat, and possibly bass or keyboard accomeplementing, though the focus is on the vocals. The melodic contour is absent; instead, there is emphasis on rhythmic delivery and articulation. The harmonies are primarily in major keys such as E major, lending an upbeat mood despite some minor key shifts like Bb minor elsewhere. No specific non-musical sound effects beyond typical musical elements are present.",
+  "raw_output": "\nThe audio excerpt features a male vocal performance characterized by rhythmic speech rather than traditional singing. The voices have an energetic, theatrical quality, and the lyrics follow a specific pattern of spoken or semi-spoken phrases interspersed with implied instrumental music. The tempo is moderate, approximately 125 beats per minute. The instruments likely include drums providing a steady beat, and possibly bass or keyboard accomeplementing, though the focus is on the vocals. The melodic contour is absent; instead, there is emphasis on rhythmic delivery and articulation. The harmonies are primarily in major keys such as E major, lending an upbeat mood despite some minor key shifts like Bb minor elsewhere. No specific non-musical sound effects beyond typical musical elements are present.<|im_end|>",
+  "status": "model inference, not direct listening by assistant",
+  "generation_s": 8.48171591758728
+}

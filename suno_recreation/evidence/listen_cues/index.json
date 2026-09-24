@@ -1,5 +1,5 @@
 {
-  "purpose": "Navigation aids for listening and comparing source timestamps. Excerpts are lossless PCM slices from the existing 16 kHz mono analysis WAV; plots show RMS and spectral onset strength, not notes or definitive beat labels. Door-knocker omitted.",
+  "purpose": "Navigation aids for listening and comparing source timestamps. Excerpts are lossless PCM slices from the existing 16 kHz mono analysis WAV; plots show RMS and spectral onset strength, not notes or definitive beat labels.",
   "tracks": [
     {
       "id": "Dc1uBZahhts",
@@ -244,6 +244,34 @@
         ]
       ],
       "plot": "evidence/listen_cues/DdLxzBIoJ8F/waveform_onsets.png"
+    },
+    {
+      "id": "DdZlT3TIx3q",
+      "title": "Door Knockers",
+      "duration": 35.923,
+      "chunks": [
+        [
+          0.0,
+          8.0
+        ],
+        [
+          8.0,
+          16.0
+        ],
+        [
+          16.0,
+          24.0
+        ],
+        [
+          24.0,
+          32.0
+        ],
+        [
+          32.0,
+          35.92
+        ]
+      ],
+      "plot": "evidence/listen_cues/DdZlT3TIx3q/waveform_onsets.png"
     }
   ]
 }

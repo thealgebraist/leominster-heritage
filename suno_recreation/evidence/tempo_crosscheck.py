@@ -2,7 +2,6 @@ import pathlib,json,librosa,soundfile as sf,numpy as np
 from scipy.signal import correlate,find_peaks
 rows=[]
 for p in sorted(pathlib.Path('suno_recreation/evidence/audio').glob('*.wav')):
- if p.stem=='DdZlT3TIx3q':continue
  y,sr=sf.read(p);hop=128;o=librosa.onset.onset_strength(y=y,sr=sr,hop_length=hop);o-=o.mean()
  ac=correlate(o,o,mode='full',method='fft')[len(o)-1:];peaks,_=find_peaks(ac)
  candidates=[]

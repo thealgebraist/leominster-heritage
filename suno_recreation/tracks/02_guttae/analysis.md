@@ -107,11 +107,11 @@ Compare the two-syllable vowel pattern and the good-day pun before the backing. 
 Raw excerpt interpretations are preserved below as evidence links. They are not independent listening verification, and their incidental lyric guesses are not the corrected transcript. The recipe above prefers broad timbral descriptions when instrument identifications conflict.
 
 - [Separated-backing interpretation](../../evidence/second_pass/guttae-good-day_backing.json)
-- [Sampled-frame OCR results (automated and noisy)](../../evidence/ocr_results/Dc8axxYIC3k.json)
+- [Sampled-frame OCR results (automated and noisy)](../../evidence/ocr_results/guttae-good-day.json)
 - [Sampled source-frame contact sheet](../../evidence/frames/Dc8axxYIC3k.jpg)
-- [Targeted vocal interpretation](../../evidence/second_pass/Dc8axxYIC3k_vocals.json)
-- [Pitch tracking diagnostic](../../evidence/pitch/Dc8axxYIC3k.json): 0.8% of frames passed the strict voicing filter; too sparse to establish a complete melody.
-- [Independent small-model Vosk ASR output (raw; noisy)](../../evidence/asr_vosk/Dc8axxYIC3k.json)
-- [Higher-capacity Vosk ASR output (raw; noisy)](../../evidence/asr_vosk_large/Dc8axxYIC3k.json)
-- [Original-mix and harmonic pitch tracking diagnostic](../../evidence/pitch/Dc8axxYIC3k_mix_check.json)
-- [0.0–22.3s model interpretation](../../evidence/audio_descriptions/Dc8axxYIC3k_00.json)
+- [Targeted vocal interpretation](../../evidence/second_pass/guttae-good-day_vocals.json)
+- [Pitch tracking diagnostic](../../evidence/pitch/guttae-good-day.json): 0.8% of frames passed the strict voicing filter; too sparse to establish a complete melody.
+- [Independent small-model Vosk ASR output (raw; noisy)](../../evidence/asr_vosk/guttae-good-day.json)
+- [Higher-capacity Vosk ASR output (raw; noisy)](../../evidence/asr_vosk_large/guttae-good-day.json)
+- [Original-mix and harmonic pitch tracking diagnostic](../../evidence/pitch/guttae-good-day_mix_check.json)
+- [0.0–22.3s model interpretation](../../evidence/audio_descriptions/guttae-good-day_00.json)

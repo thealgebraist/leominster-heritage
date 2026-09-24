@@ -1,0 +1,100 @@
+{
+  "method": "pYIN on estimated vocal stem, 8kHz, 1024 frame, 128 hop, f0 65-700 Hz; retain voiced probability >=0.7 and audible RMS",
+  "warning": "Model-separated vocal may contain instruments; pYIN may choose octave errors and excludes unvoiced/uncertain frames. Quantiles describe retained frames, not scored melody or true vocal range.",
+  "retained_fraction": 0.019590382902938557,
+  "phrases": [
+    {
+      "time": "0.0\u20131.8",
+      "words": "K.K. Knockers!",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "2.1\u20134.9",
+      "words": "Big knockers, small knockers, long knockers too.",
+      "retained_seconds": 0.24,
+      "retained_fraction": 0.09,
+      "midi_p10_median_p90": [
+        47.89,
+        48.09,
+        48.09
+      ],
+      "nearest_notes_p10_median_p90": [
+        "C3",
+        "C3",
+        "C3"
+      ]
+    },
+    {
+      "time": "4.9\u20138.6",
+      "words": "Funny little knockers staring back at you.",
+      "retained_seconds": 0.45,
+      "retained_fraction": 0.12,
+      "midi_p10_median_p90": [
+        48.79,
+        49.14,
+        49.52
+      ],
+      "nearest_notes_p10_median_p90": [
+        "C\u266f3",
+        "C\u266f3",
+        "D3"
+      ]
+    },
+    {
+      "time": "8.6\u201312.1",
+      "words": "Brass knockers, iron knockers, some as big as your head.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "12.1\u201314.8",
+      "words": "On the door, I said.",
+      "retained_seconds": 0.02,
+      "retained_fraction": 0.01
+    },
+    {
+      "time": "15.8\u201319.2",
+      "words": "Polish your knockers, give them a shine.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "19.2\u201322.7",
+      "words": "Show me your knockers, I\u2019ll show you mine.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "22.7\u201323.6",
+      "words": "Knock, knock!",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "24.2\u201325.2",
+      "words": "Who\u2019s there?",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "25.4\u201326.5",
+      "words": "Door furniture.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "26.5\u201327.4",
+      "words": "Behave!",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "27.4\u201335.9",
+      "words": "Musical tail; no further intelligible words recovered.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    }
+  ],
+  "runtime_s": 3.7694599628448486
+}

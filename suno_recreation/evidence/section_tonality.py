@@ -36,7 +36,8 @@ interpretations = {
     'DcbYsWLhhdZ': 'Both signals rank F minor first in 0–16 s, C minor in 16–32 s, then F minor through most of 32–64 s. This repeated section pattern supports testing an F-minor / C-minor contrast, but does not prove a chord progression or tonal function.',
     'DcqWhZtBIEI': 'G is the leading tonic label throughout nearly all lyric sections in both signals, but major/minor rankings switch. A G-centered backing with mode left flexible is a testable recreation choice.',
     'DcvxvGDhSeb': 'The opening favors G major; later windows are weaker and the original mix and separated backing disagree. No stable whole-track key is supported.',
-    'DdLxzBIoJ8F': 'C minor ranks first in most windows, but scores are modest and the 8–16 s and ending windows vary. C-minor-leaning backing is an experiment, not a verified key.'
+    'DdLxzBIoJ8F': 'C minor ranks first in most windows, but scores are modest and the 8–16 s and ending windows vary. C-minor-leaning backing is an experiment, not a verified key.',
+    'DdZlT3TIx3q': 'The mix and estimated backing have weak, closely ranked and changing candidates. No stable tonic or mode is supported; use the brisk speech-rhythm as the reconstruction anchor and leave key and chords flexible.'
 }
 tracks = []
 for track in TRACKS:

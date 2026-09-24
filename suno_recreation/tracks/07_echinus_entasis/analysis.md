@@ -107,10 +107,10 @@ Check the actual vowels and stress of echinus and entasis against the source. Ke
 Raw excerpt interpretations are preserved below as evidence links. They are not independent listening verification, and their incidental lyric guesses are not the corrected transcript. The recipe above prefers broad timbral descriptions when instrument identifications conflict.
 
 - [Separated-backing interpretation](../../evidence/second_pass/echinus-entasis_backing.json)
-- [Sampled-frame OCR results (automated and noisy)](../../evidence/ocr_results/DcvxvGDhSeb.json)
+- [Sampled-frame OCR results (automated and noisy)](../../evidence/ocr_results/echinus-entasis.json)
 - [Sampled source-frame contact sheet](../../evidence/frames/DcvxvGDhSeb.jpg)
-- [Targeted vocal interpretation](../../evidence/second_pass/DcvxvGDhSeb_vocals.json)
-- [Pitch tracking diagnostic](../../evidence/pitch/DcvxvGDhSeb.json): 4.8% of frames passed the strict voicing filter; too sparse to establish a complete melody.
-- [Independent small-model Vosk ASR output (raw; noisy)](../../evidence/asr_vosk/DcvxvGDhSeb.json)
-- [Original-mix and harmonic pitch tracking diagnostic](../../evidence/pitch/DcvxvGDhSeb_mix_check.json)
-- [0.0–22.5s model interpretation](../../evidence/audio_descriptions/DcvxvGDhSeb_00.json)
+- [Targeted vocal interpretation](../../evidence/second_pass/echinus-entasis_vocals.json)
+- [Pitch tracking diagnostic](../../evidence/pitch/echinus-entasis.json): 4.8% of frames passed the strict voicing filter; too sparse to establish a complete melody.
+- [Independent small-model Vosk ASR output (raw; noisy)](../../evidence/asr_vosk/echinus-entasis.json)
+- [Original-mix and harmonic pitch tracking diagnostic](../../evidence/pitch/echinus-entasis_mix_check.json)
+- [0.0–22.5s model interpretation](../../evidence/audio_descriptions/echinus-entasis_00.json)

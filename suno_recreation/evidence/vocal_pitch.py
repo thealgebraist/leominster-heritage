@@ -1,11 +1,11 @@
 from pathlib import Path
 import json,re,time
 import numpy as np,librosa,soundfile as sf
-from track_data import TRACKS
+from track_data import TRACKS,asset_stem
 r=Path(__file__).resolve().parent
 out=r/'pitch';out.mkdir(exist_ok=True)
 for tr in TRACKS:
- target=out/(tr['id']+'.json')
+ target=out/(asset_stem(tr['id'])+'.json')
  if target.exists():continue
  stem='bargeboard' if tr['id']=='DcRZB_PBFkr' else tr['id']
  y,sr=sf.read(r/'stems'/(stem+'_vocals.wav'));y=y.mean(axis=1)
@@ -16,7 +16,7 @@ for tr in TRACKS:
  rms=librosa.feature.rms(y=y,frame_length=1024,hop_length=128)[0]
  keep=voiced&(prob>=.7)&(rms>max(.004,np.quantile(rms,.2)))
  mid=librosa.hz_to_midi(f0)
- np.savetxt(out/(tr['id']+'.csv'),np.column_stack([ts,f0,prob,keep]),delimiter=',',header='seconds,estimated_hz,voiced_probability,retained',comments='')
+ np.savetxt(out/(asset_stem(tr['id'])+'.csv'),np.column_stack([ts,f0,prob,keep]),delimiter=',',header='seconds,estimated_hz,voiced_probability,retained',comments='')
  phrases=[]
  for interval,words in tr['transcript']:
   a,b=map(float,interval.split('–'));s=(ts>=a)&(ts<b);k=s&keep

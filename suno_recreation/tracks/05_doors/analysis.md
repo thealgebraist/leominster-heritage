@@ -161,13 +161,13 @@ Check the original repeated door count and the unresolved middle interjection. I
 Raw excerpt interpretations are preserved below as evidence links. They are not independent listening verification, and their incidental lyric guesses are not the corrected transcript. The recipe above prefers broad timbral descriptions when instrument identifications conflict.
 
 - [Separated-backing interpretation](../../evidence/second_pass/doors_backing.json)
-- [Sampled-frame OCR results (automated and noisy)](../../evidence/ocr_results/DcbYsWLhhdZ.json)
+- [Sampled-frame OCR results (automated and noisy)](../../evidence/ocr_results/doors.json)
 - [Sampled source-frame contact sheet](../../evidence/frames/DcbYsWLhhdZ.jpg)
-- [Targeted vocal interpretation](../../evidence/second_pass/DcbYsWLhhdZ_vocals.json)
-- [Pitch tracking diagnostic](../../evidence/pitch/DcbYsWLhhdZ.json): 22.3% of frames passed the strict voicing filter; too sparse to establish a complete melody.
-- [Independent small-model Vosk ASR output (raw; noisy)](../../evidence/asr_vosk/DcbYsWLhhdZ.json)
-- [Higher-capacity Vosk ASR output (raw; noisy)](../../evidence/asr_vosk_large/DcbYsWLhhdZ.json)
-- [Original-mix and harmonic pitch tracking diagnostic](../../evidence/pitch/DcbYsWLhhdZ_mix_check.json)
-- [0.0–24.0s model interpretation](../../evidence/audio_descriptions/DcbYsWLhhdZ_00.json)
-- [24.0–48.0s model interpretation](../../evidence/audio_descriptions/DcbYsWLhhdZ_24.json)
-- [48.0–64.7s model interpretation](../../evidence/audio_descriptions/DcbYsWLhhdZ_48.json)
+- [Targeted vocal interpretation](../../evidence/second_pass/doors_vocals.json)
+- [Pitch tracking diagnostic](../../evidence/pitch/doors.json): 22.3% of frames passed the strict voicing filter; too sparse to establish a complete melody.
+- [Independent small-model Vosk ASR output (raw; noisy)](../../evidence/asr_vosk/doors.json)
+- [Higher-capacity Vosk ASR output (raw; noisy)](../../evidence/asr_vosk_large/doors.json)
+- [Original-mix and harmonic pitch tracking diagnostic](../../evidence/pitch/doors_mix_check.json)
+- [0.0–24.0s model interpretation](../../evidence/audio_descriptions/doors_00.json)
+- [24.0–48.0s model interpretation](../../evidence/audio_descriptions/doors_24.json)
+- [48.0–64.7s model interpretation](../../evidence/audio_descriptions/doors_48.json)

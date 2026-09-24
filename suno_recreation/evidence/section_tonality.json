@@ -1439,6 +1439,173 @@
           ]
         }
       ]
+    },
+    {
+      "id": "DdZlT3TIx3q",
+      "title": "Door Knockers",
+      "interpretation": "The mix and estimated backing have weak, closely ranked and changing candidates. No stable tonic or mode is supported; use the brisk speech-rhythm as the reconstruction anchor and leave key and chords flexible.",
+      "sections": [
+        {
+          "start_s": 0.0,
+          "end_s": 8.0,
+          "original_mix_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.47046472859811866
+            },
+            {
+              "label": "C major",
+              "correlation": 0.4435403837495036
+            },
+            {
+              "label": "G major",
+              "correlation": 0.3020664131233751
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "C major",
+              "correlation": 0.4455277557225595
+            },
+            {
+              "label": "F minor",
+              "correlation": 0.3927117948056745
+            },
+            {
+              "label": "G major",
+              "correlation": 0.38168530927891947
+            }
+          ]
+        },
+        {
+          "start_s": 8.0,
+          "end_s": 16.0,
+          "original_mix_harmonic": [
+            {
+              "label": "C\u266f major",
+              "correlation": 0.43678152093597267
+            },
+            {
+              "label": "C\u266f minor",
+              "correlation": 0.41457329435677415
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.40661415046302996
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "C\u266f major",
+              "correlation": 0.4294838241785486
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.39873813913937406
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.3819754920736753
+            }
+          ]
+        },
+        {
+          "start_s": 16.0,
+          "end_s": 24.0,
+          "original_mix_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.3399212424164788
+            },
+            {
+              "label": "C major",
+              "correlation": 0.24792793946441768
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.24329948838640528
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "C\u266f minor",
+              "correlation": 0.36174304593483697
+            },
+            {
+              "label": "C\u266f major",
+              "correlation": 0.3408082910449341
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.26299534276392567
+            }
+          ]
+        },
+        {
+          "start_s": 24.0,
+          "end_s": 32.0,
+          "original_mix_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.3318065134372226
+            },
+            {
+              "label": "C\u266f minor",
+              "correlation": 0.31694235610921007
+            },
+            {
+              "label": "C\u266f major",
+              "correlation": 0.3108526386201495
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.3401595155255481
+            },
+            {
+              "label": "C\u266f minor",
+              "correlation": 0.3068754169346143
+            },
+            {
+              "label": "C\u266f major",
+              "correlation": 0.2796310057949886
+            }
+          ]
+        },
+        {
+          "start_s": 32.0,
+          "end_s": 35.92,
+          "original_mix_harmonic": [
+            {
+              "label": "A\u266f minor",
+              "correlation": 0.3496870748829634
+            },
+            {
+              "label": "F\u266f major",
+              "correlation": 0.3008995886046431
+            },
+            {
+              "label": "C\u266f major",
+              "correlation": 0.2757502987255633
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "C major",
+              "correlation": 0.3715332867274906
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.3027559669061601
+            },
+            {
+              "label": "F major",
+              "correlation": 0.27876555546034915
+            }
+          ]
+        }
+      ]
     }
   ]
 }

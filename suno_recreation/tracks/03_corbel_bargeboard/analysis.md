@@ -128,11 +128,11 @@ Compare the length ratio of corbel to bargeboard and the change of motif for eve
 Raw excerpt interpretations are preserved below as evidence links. They are not independent listening verification, and their incidental lyric guesses are not the corrected transcript. The recipe above prefers broad timbral descriptions when instrument identifications conflict.
 
 - [Separated-backing interpretation](../../evidence/second_pass/bargeboard_backing.json)
-- [Sampled-frame OCR results (automated and noisy)](../../evidence/ocr_results/DcRZB_PBFkr.json)
+- [Sampled-frame OCR results (automated and noisy)](../../evidence/ocr_results/bargeboard.json)
 - [Sampled source-frame contact sheet](../../evidence/frames/DcRZB_PBFkr.jpg)
-- [Pitch tracking diagnostic](../../evidence/pitch/DcRZB_PBFkr.json): 0.3% of frames passed the strict voicing filter; too sparse to establish a complete melody.
-- [Independent small-model Vosk ASR output (raw; noisy)](../../evidence/asr_vosk/DcRZB_PBFkr.json)
-- [Higher-capacity Vosk ASR output (raw; noisy)](../../evidence/asr_vosk_large/DcRZB_PBFkr.json)
-- [Original-mix and harmonic pitch tracking diagnostic](../../evidence/pitch/DcRZB_PBFkr_mix_check.json)
-- [0.0–24.0s model interpretation](../../evidence/audio_descriptions/DcRZB_PBFkr_00.json)
-- [24.0–38.0s model interpretation](../../evidence/audio_descriptions/DcRZB_PBFkr_24.json)
+- [Pitch tracking diagnostic](../../evidence/pitch/bargeboard.json): 0.3% of frames passed the strict voicing filter; too sparse to establish a complete melody.
+- [Independent small-model Vosk ASR output (raw; noisy)](../../evidence/asr_vosk/bargeboard.json)
+- [Higher-capacity Vosk ASR output (raw; noisy)](../../evidence/asr_vosk_large/bargeboard.json)
+- [Original-mix and harmonic pitch tracking diagnostic](../../evidence/pitch/bargeboard_mix_check.json)
+- [0.0–24.0s model interpretation](../../evidence/audio_descriptions/bargeboard_00.json)
+- [24.0–38.0s model interpretation](../../evidence/audio_descriptions/bargeboard_24.json)

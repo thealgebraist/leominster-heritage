@@ -1,6 +1,6 @@
 # Architectural music — Suno recreation pack
 
-All nine source videos are included in [source_videos](source_videos/), using descriptive names that match their contents. Eight have lyric and music-recreation packets; [door-knockers-excluded.mp4](source_videos/door-knockers-excluded.mp4) is included as source material only and remains excluded from analysis. SHA-256 values in the manifest identify each original source file and verify every packaged video.
+All nine source videos are included in [source_videos](source_videos/), using descriptive names that match their contents. All nine have lyric and music-recreation packets, including [door-knockers.mp4](source_videos/door-knockers.mp4). SHA-256 values in the manifest identify each original source file and verify every packaged video. Run `python3 evidence/verify_pack.py` to check pack coverage and local references; the reference check includes ignored local audio/image files present in this workspace.
 
 The source videos are included. Extracted audio, stems, sampled images and other analysis media remain in the local workspace; links to those evidence assets require that workspace.
 
@@ -49,7 +49,8 @@ The raw evidence and analysis scripts are in `evidence/`. The manifest records S
 | [Windows](tracks/06_windows/analysis.md) | [Video](source_videos/windows.mp4) | `DcqWhZtBIEI` | 67.01s | [Styles](tracks/06_windows/style.txt) · [Lyrics](tracks/06_windows/lyrics.txt) · [Pronunciation](tracks/06_windows/pronunciation.md) |
 | [Echinus / Entasis](tracks/07_echinus_entasis/analysis.md) | [Video](source_videos/echinus-entasis.mp4) | `DcvxvGDhSeb` | 22.48s | [Styles](tracks/07_echinus_entasis/style.txt) · [Lyrics](tracks/07_echinus_entasis/lyrics.txt) · [Pronunciation](tracks/07_echinus_entasis/pronunciation.md) |
 | [Hall House](tracks/08_hall_house/analysis.md) | [Video](source_videos/hall-house.mp4) | `DdLxzBIoJ8F` | 49.97s | [Styles](tracks/08_hall_house/style.txt) · [Lyrics](tracks/08_hall_house/lyrics.txt) · [Pronunciation](tracks/08_hall_house/pronunciation.md) |
+| [Door Knockers](tracks/09_door_knockers/analysis.md) | [Video](source_videos/door-knockers.mp4) | `DdZlT3TIx3q` | 37.70s | [Styles](tracks/09_door_knockers/style.txt) · [Lyrics](tracks/09_door_knockers/lyrics.txt) · [Pronunciation](tracks/09_door_knockers/pronunciation.md) |
 
-The raw door-knocker source is included as [door-knockers-excluded.mp4](source_videos/door-knockers-excluded.mp4), but has no transcript or music-recreation packet.
+All nine source videos have timed transcripts, pronunciation notes, music analysis, and Suno recreation prompts.
 
 [Read the complete guide](COMPLETE_GUIDE.md) · [Open the listening and copying page](index.html)

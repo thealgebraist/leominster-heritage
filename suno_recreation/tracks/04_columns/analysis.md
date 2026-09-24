@@ -138,12 +138,12 @@ Compare the clipped list sections with the sustained Ah passages. Preserve the s
 Raw excerpt interpretations are preserved below as evidence links. They are not independent listening verification, and their incidental lyric guesses are not the corrected transcript. The recipe above prefers broad timbral descriptions when instrument identifications conflict.
 
 - [Separated-backing interpretation](../../evidence/second_pass/columns-classical-orders_backing.json)
-- [Sampled-frame OCR results (automated and noisy)](../../evidence/ocr_results/DcYTYvMBSMn.json)
+- [Sampled-frame OCR results (automated and noisy)](../../evidence/ocr_results/columns-classical-orders.json)
 - [Sampled source-frame contact sheet](../../evidence/frames/DcYTYvMBSMn.jpg)
-- [Pitch tracking diagnostic](../../evidence/pitch/DcYTYvMBSMn.json): 10.3% of frames passed the strict voicing filter; too sparse to establish a complete melody.
-- [Independent small-model Vosk ASR output (raw; noisy)](../../evidence/asr_vosk/DcYTYvMBSMn.json)
-- [Higher-capacity Vosk ASR output (raw; noisy)](../../evidence/asr_vosk_large/DcYTYvMBSMn.json)
-- [Original-mix and harmonic pitch tracking diagnostic](../../evidence/pitch/DcYTYvMBSMn_mix_check.json)
-- [0.0–24.0s model interpretation](../../evidence/audio_descriptions/DcYTYvMBSMn_00.json)
-- [24.0–48.0s model interpretation](../../evidence/audio_descriptions/DcYTYvMBSMn_24.json)
-- [48.0–53.6s model interpretation](../../evidence/audio_descriptions/DcYTYvMBSMn_48.json)
+- [Pitch tracking diagnostic](../../evidence/pitch/columns-classical-orders.json): 10.3% of frames passed the strict voicing filter; too sparse to establish a complete melody.
+- [Independent small-model Vosk ASR output (raw; noisy)](../../evidence/asr_vosk/columns-classical-orders.json)
+- [Higher-capacity Vosk ASR output (raw; noisy)](../../evidence/asr_vosk_large/columns-classical-orders.json)
+- [Original-mix and harmonic pitch tracking diagnostic](../../evidence/pitch/columns-classical-orders_mix_check.json)
+- [0.0–24.0s model interpretation](../../evidence/audio_descriptions/columns-classical-orders_00.json)
+- [24.0–48.0s model interpretation](../../evidence/audio_descriptions/columns-classical-orders_24.json)
+- [48.0–53.6s model interpretation](../../evidence/audio_descriptions/columns-classical-orders_48.json)

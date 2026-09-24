@@ -155,12 +155,12 @@ Compare the question/answer spacing, the lower obviously aside and the final com
 Raw excerpt interpretations are preserved below as evidence links. They are not independent listening verification, and their incidental lyric guesses are not the corrected transcript. The recipe above prefers broad timbral descriptions when instrument identifications conflict.
 
 - [Separated-backing interpretation](../../evidence/second_pass/windows_backing.json)
-- [Sampled-frame OCR results (automated and noisy)](../../evidence/ocr_results/DcqWhZtBIEI.json)
+- [Sampled-frame OCR results (automated and noisy)](../../evidence/ocr_results/windows.json)
 - [Sampled source-frame contact sheet](../../evidence/frames/DcqWhZtBIEI.jpg)
-- [Targeted vocal interpretation](../../evidence/second_pass/DcqWhZtBIEI_vocals.json)
-- [Pitch tracking diagnostic](../../evidence/pitch/DcqWhZtBIEI.json): 1.8% of frames passed the strict voicing filter; too sparse to establish a complete melody.
-- [Independent small-model Vosk ASR output (raw; noisy)](../../evidence/asr_vosk/DcqWhZtBIEI.json)
-- [Original-mix and harmonic pitch tracking diagnostic](../../evidence/pitch/DcqWhZtBIEI_mix_check.json)
-- [0.0–24.0s model interpretation](../../evidence/audio_descriptions/DcqWhZtBIEI_00.json)
-- [24.0–48.0s model interpretation](../../evidence/audio_descriptions/DcqWhZtBIEI_24.json)
-- [48.0–67.0s model interpretation](../../evidence/audio_descriptions/DcqWhZtBIEI_48.json)
+- [Targeted vocal interpretation](../../evidence/second_pass/windows_vocals.json)
+- [Pitch tracking diagnostic](../../evidence/pitch/windows.json): 1.8% of frames passed the strict voicing filter; too sparse to establish a complete melody.
+- [Independent small-model Vosk ASR output (raw; noisy)](../../evidence/asr_vosk/windows.json)
+- [Original-mix and harmonic pitch tracking diagnostic](../../evidence/pitch/windows_mix_check.json)
+- [0.0–24.0s model interpretation](../../evidence/audio_descriptions/windows_00.json)
+- [24.0–48.0s model interpretation](../../evidence/audio_descriptions/windows_24.json)
+- [48.0–67.0s model interpretation](../../evidence/audio_descriptions/windows_48.json)

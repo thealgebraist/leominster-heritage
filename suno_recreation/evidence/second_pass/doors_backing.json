@@ -5,7 +5,7 @@
     "end": 15,
     "normalize": true,
     "prompt": "Describe only the audible backing music: rhythm, bass, pitched instruments, timbre and sound effects. Is the sound mainly electronic synthesizers, acoustic instruments, vocal noises, or a mixture? Do not invent lyrics or where the audio came from. State uncertainty when the instrument is unclear.",
-    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/DcbYsWLhhdZ_backing.json"
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/doors_backing.json"
   },
   "model": "RumiLabs/MOSS-Audio-4B-Thinking-MLX-4bit",
   "response": "The audio features an electronic backing track characterized by a steady, danceable rhythm. The bass is synthesized and provides a strong foundational groove, and there are pitched sounds that suggest either vocalized pitches or short synth chops, possibly mimicking vocals. The timbre is synthetic, suggesting the use of synthesizers. There are no acoustic instruments or vocal noises present; all sounds are instrumental and electronically produced. The sound effects, if any, are integrated into the music itself rather than being separate sonic events. The audio appears to be an instrumental piece focused on rhythmic and melodic elements generated from electronic sources.",

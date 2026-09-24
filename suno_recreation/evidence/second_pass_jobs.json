@@ -5,7 +5,7 @@
     "end": 15,
     "normalize": true,
     "prompt": "Describe only the audible backing music: rhythm, bass, pitched instruments, timbre and sound effects. Is the sound mainly electronic synthesizers, acoustic instruments, vocal noises, or a mixture? Do not invent lyrics or where the audio came from. State uncertainty when the instrument is unclear.",
-    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/Dc1uBZahhts_backing.json"
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/flaunching_backing.json"
   },
   {
     "audio": "/Users/anders/projects/barge/suno_recreation/evidence/stems/Dc8axxYIC3k_backing.wav",
@@ -13,7 +13,7 @@
     "end": 15,
     "normalize": true,
     "prompt": "Describe only the audible backing music: rhythm, bass, pitched instruments, timbre and sound effects. Is the sound mainly electronic synthesizers, acoustic instruments, vocal noises, or a mixture? Do not invent lyrics or where the audio came from. State uncertainty when the instrument is unclear.",
-    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/Dc8axxYIC3k_backing.json"
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/guttae-good-day_backing.json"
   },
   {
     "audio": "/Users/anders/projects/barge/suno_recreation/evidence/stems/DcYTYvMBSMn_backing.wav",
@@ -21,7 +21,7 @@
     "end": 15,
     "normalize": true,
     "prompt": "Describe only the audible backing music: rhythm, bass, pitched instruments, timbre and sound effects. Is the sound mainly electronic synthesizers, acoustic instruments, vocal noises, or a mixture? Do not invent lyrics or where the audio came from. State uncertainty when the instrument is unclear.",
-    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/DcYTYvMBSMn_backing.json"
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/columns-classical-orders_backing.json"
   },
   {
     "audio": "/Users/anders/projects/barge/suno_recreation/evidence/stems/DcbYsWLhhdZ_backing.wav",
@@ -29,7 +29,7 @@
     "end": 15,
     "normalize": true,
     "prompt": "Describe only the audible backing music: rhythm, bass, pitched instruments, timbre and sound effects. Is the sound mainly electronic synthesizers, acoustic instruments, vocal noises, or a mixture? Do not invent lyrics or where the audio came from. State uncertainty when the instrument is unclear.",
-    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/DcbYsWLhhdZ_backing.json"
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/doors_backing.json"
   },
   {
     "audio": "/Users/anders/projects/barge/suno_recreation/evidence/stems/DcqWhZtBIEI_backing.wav",
@@ -37,7 +37,7 @@
     "end": 15,
     "normalize": true,
     "prompt": "Describe only the audible backing music: rhythm, bass, pitched instruments, timbre and sound effects. Is the sound mainly electronic synthesizers, acoustic instruments, vocal noises, or a mixture? Do not invent lyrics or where the audio came from. State uncertainty when the instrument is unclear.",
-    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/DcqWhZtBIEI_backing.json"
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/windows_backing.json"
   },
   {
     "audio": "/Users/anders/projects/barge/suno_recreation/evidence/stems/DcvxvGDhSeb_backing.wav",
@@ -45,7 +45,7 @@
     "end": 15,
     "normalize": true,
     "prompt": "Describe only the audible backing music: rhythm, bass, pitched instruments, timbre and sound effects. Is the sound mainly electronic synthesizers, acoustic instruments, vocal noises, or a mixture? Do not invent lyrics or where the audio came from. State uncertainty when the instrument is unclear.",
-    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/DcvxvGDhSeb_backing.json"
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/echinus-entasis_backing.json"
   },
   {
     "audio": "/Users/anders/projects/barge/suno_recreation/evidence/stems/DdLxzBIoJ8F_backing.wav",
@@ -53,7 +53,15 @@
     "end": 15,
     "normalize": true,
     "prompt": "Describe only the audible backing music: rhythm, bass, pitched instruments, timbre and sound effects. Is the sound mainly electronic synthesizers, acoustic instruments, vocal noises, or a mixture? Do not invent lyrics or where the audio came from. State uncertainty when the instrument is unclear.",
-    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/DdLxzBIoJ8F_backing.json"
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/hall-house_backing.json"
+  },
+  {
+    "audio": "/Users/anders/projects/barge/suno_recreation/evidence/stems/DdZlT3TIx3q_backing.wav",
+    "start": 0,
+    "end": 15,
+    "normalize": true,
+    "prompt": "Describe only the audible backing music: rhythm, bass, pitched instruments, timbre and sound effects. Is the sound mainly electronic synthesizers, acoustic instruments, vocal noises, or a mixture? Do not invent lyrics or where the audio came from. State uncertainty when the instrument is unclear.",
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/door-knockers_backing.json"
   },
   {
     "audio": "/Users/anders/projects/barge/suno_recreation/evidence/stems/bargeboard_backing.wav",
@@ -69,7 +77,7 @@
     "end": 12,
     "normalize": true,
     "prompt": "Transcribe the words, preserving repetitions. In particular, what is the phrase before \"nicely keeping it dry\"? Do not guess if unclear.",
-    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/Dc1uBZahhts_vocals.json"
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/flaunching_vocals.json"
   },
   {
     "audio": "/Users/anders/projects/barge/suno_recreation/evidence/stems/Dc8axxYIC3k_vocals.wav",
@@ -77,7 +85,7 @@
     "end": 20,
     "normalize": true,
     "prompt": "Transcribe the repeated words and any interjections. Describe how the main repeated word is pronounced. Do not guess if unclear.",
-    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/Dc8axxYIC3k_vocals.json"
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/guttae-good-day_vocals.json"
   },
   {
     "audio": "/Users/anders/projects/barge/suno_recreation/evidence/stems/DcbYsWLhhdZ_vocals.wav",
@@ -85,7 +93,7 @@
     "end": 29,
     "normalize": true,
     "prompt": "Transcribe any audible words in this short vocal passage. If the sound is a nonverbal vocalization rather than a clear word, say so. Do not guess if unclear.",
-    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/DcbYsWLhhdZ_vocals.json"
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/doors_vocals.json"
   },
   {
     "audio": "/Users/anders/projects/barge/suno_recreation/evidence/stems/DcqWhZtBIEI_vocals.wav",
@@ -93,7 +101,7 @@
     "end": 44,
     "normalize": true,
     "prompt": "Transcribe the words exactly, especially the word after \"oriel\". Do not guess if unclear.",
-    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/DcqWhZtBIEI_vocals.json"
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/windows_vocals.json"
   },
   {
     "audio": "/Users/anders/projects/barge/suno_recreation/evidence/stems/DcvxvGDhSeb_vocals.wav",
@@ -101,6 +109,6 @@
     "end": 12,
     "normalize": true,
     "prompt": "Transcribe the words exactly, including specialist architectural terms if recognizable. Describe the pronunciation and stress of the repeated terms. Do not guess if unclear.",
-    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/DcvxvGDhSeb_vocals.json"
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/echinus-entasis_vocals.json"
   }
 ]

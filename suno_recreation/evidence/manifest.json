@@ -956,8 +956,8 @@
     "file": "account_mp4/DdZlT3TIx3q.mp4",
     "sha256": "96663f65ec08f1f5b720793ec565da46afc1cab09e76003573e5526c91013697",
     "duration_s": 37.7,
-    "included": false,
-    "exclusion_reason": "Door-knocker subject identified visually",
+    "included": true,
+    "exclusion_reason": null,
     "streams": [
       {
         "index": 0,
@@ -1069,6 +1069,6 @@
         }
       }
     ],
-    "repository_file": "suno_recreation/source_videos/door-knockers-excluded.mp4"
+    "repository_file": "suno_recreation/source_videos/door-knockers.mp4"
   }
 ]

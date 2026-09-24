@@ -251,5 +251,43 @@ Very private
 [Final hook]
 Hall house, hall house
 Have you visited a hall house?
-[Short ending]''')
+[Short ending]'''),
+ dict(id='DdZlT3TIx3q',slug='09_door_knockers',title='Door Knockers',duration=37.7,
+ transcript=[('0.0–1.8','K.K. Knockers!'),('2.1–4.9','Big knockers, small knockers, long knockers too.'),('4.9–8.6','Funny little knockers staring back at you.'),('8.6–12.1','Brass knockers, iron knockers, some as big as your head.'),('12.1–14.8','On the door, I said.'),('15.8–19.2','Polish your knockers, give them a shine.'),('19.2–22.7','Show me your knockers, I’ll show you mine.'),('22.7–23.6','Knock, knock!'),('24.2–25.2','Who’s there?'),('25.4–26.5','Door furniture.'),('26.5–27.4','Behave!'),('27.4–35.9','Musical tail; no further intelligible words recovered.')],
+ pronunciation=[('K.K.','KAY-kay','Two letter names, brisk pickup before Knockers.'),('Knockers','NOK-uhz','Two syllables, first stress; keep the final r non-rhotic for the apparent British-style delivery, though the singer’s accent is not independently established.'),('Big / small / long knockers','BIG / SMAWL / LONG NOK-uhz','Three parallel, strongly accented list items; keep each adjective distinct.'),('Funny little knockers, staring back at you','FUN-ee LIT-ul NOK-uhz, STAIR-ing BAK at YOO','Quick unstressed middle syllables; land on YOU.'),('Brass / iron knockers','BRASS / EYE-urn NOK-uhz','Iron is two syllables in the suggested rendition; separate the paired material names.'),('Some as big as your head, on the door I said','sum uz BIG uz yuh HED, on thuh DAW eye SED','Maintain the head/said rhyme across the phrase break.'),('Polish your knockers, give them a shine','POH-lish yuh NOK-uhz, giv thum uh SHYN','Polish is the verb with first-syllable stress; let shine carry the rhyme.'),('Show me your knockers, I’ll show you mine','SHOH mee yuh NOK-uhz, ayl SHOH yuh MYN','Parallel show me / I’ll show you phrasing; emphasize the final mine.'),('Knock, knock! Who’s there?','NOK NOK! HOOZ thair?','Switch to a short spoken knock-knock exchange.'),('Door furniture. Behave!','DAW FUR-ni-chuh. bih-HAYV!','Dry spoken punchline followed by a sharp admonishing response.')],
+ issues=['Whisper large-v3-turbo and the independently run Vosk small English model agree on the long verse and knock-knock exchange despite Vosk substitutions. Sampled on-screen captions directly support K.K., Knockers, Funny Little Knockers, Big Knockers, Small Knockers, Long Knockers, Iron Knockers, Show me your Knockers, Who’s There?, Door Furniture and Behave. Caption OCR is noisy and does not settle every syllable; “On the door, I said” is primarily audio-recognizer evidence.','The opening is captioned “K.K.” followed by “Knockers”; punctuation as “K.K. Knockers!” is editorial.','The video stream lasts 37.7 seconds, but its AAC audio ends at about 35.9 seconds; the final visual tail has no source audio.'],
+ recipe='Deliver the main text as a cheeky, briskly rhymed comic verse, with each adjective list snapping to the beat. Keep the K.K. pickup short, make “head / said” and “shine / mine” the phrase-ending rhymes, then break into a spoken knock-knock call and response. Drop the register for “Door furniture” and finish with a separate emphatic “Behave!” before the instrumental tail.',
+ lyrics='''[Quick spoken pickup]
+K.K. Knockers!
+[Bouncy rhythmic verse]
+Big knockers, small knockers, long knockers too
+Funny little knockers staring back at you
+Brass knockers, iron knockers, some as big as your head
+On the door, I said
+[Rhyming couplet]
+Polish your knockers, give them a shine
+Show me your knockers, I’ll show you mine
+[Spoken knock-knock exchange]
+Knock, knock!
+Who’s there?
+Door furniture
+[Spoken punchline]
+Behave!
+[Instrumental tail]''')
 ]
+
+ASSET_STEMS = {
+    'Dc1uBZahhts': 'flaunching',
+    'Dc8axxYIC3k': 'guttae-good-day',
+    'DcRZB_PBFkr': 'bargeboard',
+    'DcYTYvMBSMn': 'columns-classical-orders',
+    'DcbYsWLhhdZ': 'doors',
+    'DcqWhZtBIEI': 'windows',
+    'DcvxvGDhSeb': 'echinus-entasis',
+    'DdLxzBIoJ8F': 'hall-house',
+    'DdZlT3TIx3q': 'door-knockers',
+}
+
+def asset_stem(source_id):
+    """Return the stable, content-based basename for one source-video ID."""
+    return ASSET_STEMS.get(source_id, source_id)

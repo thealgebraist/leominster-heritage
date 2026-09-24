@@ -4,6 +4,7 @@ from huggingface_hub import snapshot_download
 from mlx_lm import load
 from mlx_lm.generate import generate_step
 from mlx_lm.sample_utils import make_sampler,make_logits_processors
+from track_data import asset_stem
 repo='RumiLabs/MOSS-Audio-4B-Thinking-MLX-4bit'
 path=pathlib.Path(snapshot_download(repo,local_files_only=True,ignore_patterns=['.DS_Store']))
 sys.path.insert(0,str(path/'scripts'))
@@ -21,10 +22,9 @@ out=pathlib.Path('suno_recreation/evidence/audio_descriptions');out.mkdir(exist_
 prompt='Describe the audible music in this excerpt: voice characteristics and accent if identifiable, singing versus rhythmic speech, instruments and timbres, beat and groove, melodic contour, harmonic mood, production effects, and any non-musical sound effects. Do not invent exact notes, key, tempo, lyrics, or unseen context. State uncertainty. Give a concise but specific description.'
 chat_prompt='<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n<|im_start|>user\n<|audio_bos|><|AUDIO|><|audio_eos|>\n'+prompt+'<|im_end|>\n<|im_start|>assistant\n<think>\n\n</think>\n'
 for p in sorted(pathlib.Path('suno_recreation/evidence/audio').glob('*.wav')):
- if p.stem=='DdZlT3TIx3q':continue
  y,sr=sf.read(p)
  for start in range(0,len(y),sr*24):
-  target=out/f'{p.stem}_{start//sr:02d}.json'
+  target=out/f'{asset_stem(p.stem)}_{start//sr:02d}.json'
   if target.exists() and not json.loads(target.read_text())['description'].startswith('INCOMPLETE'):continue
   clip=np.array(y[start:start+sr*24],dtype=np.float32)
   if len(clip)<sr*2:continue
