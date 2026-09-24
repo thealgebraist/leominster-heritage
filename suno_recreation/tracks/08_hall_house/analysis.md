@@ -75,6 +75,8 @@ Broad respellings are performance targets; they do not establish every vowel of 
 | 32–40s | C minor (0.38) | C minor (0.43) |
 | 40–48s | C major (0.42) | C minor (0.40) |
 
+
+
 **Instrumentation and timbre — model interpretation:** The model consistently describes an electronic beat and synthesized low line, with occasional higher chime-like accents. It also suggests sampler-like percussion, but specific 808 hardware and named game associations are unsupported and omitted from the recipe.
 
 **Production, sound effects, and edits:** Short whoosh-like transitions and chime-like accents are model-reported possibilities. The dry foreground voice, pauses, and comic asides are the more stable description. No identifiable original game, show, artist or sample source has been established.

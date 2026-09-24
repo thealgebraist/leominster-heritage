@@ -44,7 +44,7 @@
     },
     {
       "id": "DcYTYvMBSMn",
-      "style_chars": 741,
+      "style_chars": 756,
       "lyric_chars": 659,
       "audio_model_intervals": [
         [
@@ -64,7 +64,7 @@
     },
     {
       "id": "DcbYsWLhhdZ",
-      "style_chars": 746,
+      "style_chars": 842,
       "lyric_chars": 792,
       "audio_model_intervals": [
         [
@@ -84,7 +84,7 @@
     },
     {
       "id": "DcqWhZtBIEI",
-      "style_chars": 760,
+      "style_chars": 748,
       "lyric_chars": 789,
       "audio_model_intervals": [
         [
@@ -133,7 +133,7 @@
   ],
   "report_coverage": "all eight reports contain timed lyrics, pronunciation guidance, melody, tonal estimates including section comparisons, rhythm, instrumentation, effects, Suno prompt sections, and links to sampled visual evidence",
   "audio_cue_validation": "all 8 tracks have a waveform/onset plot and time-aligned PCM excerpts covering their extracted audio duration; excluded knocker has no cue packet",
-  "section_tonality_validation": "8 tracks have original-mix and separated-backing harmonic chroma rankings in 8-second windows; these are diagnostic correlations, not keys/chords or semantic accuracy claims",
+  "section_tonality_validation": "8 tracks have original-mix and separated-backing harmonic chroma rankings in 8-second windows; selected sections also have 4-second overlapping-window sensitivity checks; these are diagnostic correlations, not keys/chords or semantic accuracy claims",
   "html_structure_and_local_links": "passed",
   "boundary": "These checks verify artifact presence, report coverage, source preservation, model excerpt coverage, and local links. They do not prove transcript accuracy, phonetic accuracy, musical correctness, or Suno reproduction."
 }

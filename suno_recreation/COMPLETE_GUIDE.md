@@ -59,6 +59,8 @@ Broad respellings are performance targets; they do not establish every vowel of 
 | 0–8s | C minor (0.61) | G major (0.42) |
 | 8–16s | G major (0.45) | C minor (0.38) |
 
+
+
 **Instrumentation and timbre — model interpretation:** The model identifies a synthetic bass foundation, bright keyboard/synth-like sounds and punchy percussion. “Electronic novelty jingle” is better supported than a specific band lineup. An actual guitar, acoustic drum kit or named synthesizer is unverified.
 
 **Production, sound effects, and edits:** The model reports cartoon-like boing/bleep sounds in the final seconds and possible subtle vocal processing. These effect identities are tentative. A brief stutter before the last title call is compatible with repeated ASR readings of an extra pickup. Visual lightning does not establish an audible thunder effect.
@@ -170,6 +172,8 @@ Broad respellings are performance targets; they do not establish every vowel of 
 | 0–8s | G major (0.40) | G major (0.40) |
 | 8–16s | G major (0.46) | G major (0.59) |
 | 16–22s | C major (0.38) | F major (0.58) |
+
+
 
 **Instrumentation and timbre — model interpretation:** Electronic beat and low synthetic pulse are consistently reported. The vocal itself supplies much of the perceived rhythm; the model also hears boom-like vocalizations/grunts. No specific acoustic instruments are established.
 
@@ -303,6 +307,8 @@ Broad respellings are performance targets; they do not establish every vowel of 
 | 16–24s | C major (0.61) | C minor (0.60) |
 | 24–32s | C major (0.59) | G major (0.55) |
 | 32–38s | C♯ minor (0.62) | F major (0.73) |
+
+
 
 **Instrumentation and timbre — model interpretation:** The final portion is described as an electronic beat and synthesized backing. The first portion is inconsistently described as nearly vocal-only, so backing prominence may be low or obscured by the voice. Use sparse synthetic low notes and short percussive accents as a conservative recipe; specific instrumental sources are unresolved.
 
@@ -445,6 +451,8 @@ Broad respellings are performance targets; they do not establish every vowel of 
 | 40–48s | D♯ major (0.69) | D♯ major (0.68) |
 | 48–54s | D♯ major (0.73) | A♯ major (0.78) |
 
+**Overlapping-window sensitivity check:** Overlapping windows repeatedly favor E-flat major, with B-flat major profiles recurring in the mix and in some backing windows. This strengthens an E-flat/B-flat major-leaning prompt experiment, but does not establish chords or harmonic function. The check uses 4-second windows at 2-second hops, so it tests whether the 8-second result depends on one fixed cut; these overlapping windows are still not musical phrase boundaries. Full rankings and caveats: [rolling_tonality.json](evidence/rolling_tonality.json) and [rolling_tonality.py](evidence/rolling_tonality.py).
+
 **Instrumentation and timbre — model interpretation:** At least a rhythmic low/percussive backing is indicated. One model excerpt hears drums, bass and synths; another hears beatboxing/sample-like percussion. Prefer a hybrid description—tight synthetic/vocal-like percussion and a low pulse—over claiming a live bass guitar or drum kit.
 
 **Production, sound effects, and edits:** Possible mild reverb or short delay on the voice. The final Palladio exclamation is followed by a sparse ending and a low percussive cue according to the short tail analysis. Specific delay times and effect devices are not known.
@@ -461,7 +469,7 @@ The musical recipe adds explicit directions where the source analysis is incompl
 ## Paste into Suno: Styles
 
 ```text
-Quirky theatrical male catalogue song, about 135 BPM, brisk straight rhythm. Precisely articulated short speech-sung lists contrast with broad sustained open-vowel Ah exclamations and elongated architectural names. Reuse the same compact motif for column, pilaster, fluted and capital sections. Light punchy electronic beat, low bass pulse, dry vocal-like percussion and sparse bright keyboard accents; keep the lead upfront. Try an E-flat/B-flat-centered, major-leaning palette but leave the exact mode and chord sequence flexible; this is a section-chroma experiment, not a confirmed key. Emphasise kuh-RIN-thee-un, eye-ON-ik and puh-LAH-dee-oh clearly. End with composite then Palladio and a short low percussive stop, roughly 54 seconds.
+Quirky theatrical male catalogue song, about 135 BPM, brisk straight rhythm. Precisely articulated short speech-sung lists contrast with broad sustained open-vowel Ah exclamations and elongated architectural names. Reuse the same compact motif for column, pilaster, fluted and capital sections. Light punchy electronic beat, low bass pulse, dry vocal-like percussion and sparse bright keyboard accents; keep the lead upfront. Try an E-flat-major-like pitch center with recurring B-flat-major color; leave exact chords and harmonic function flexible, since these are profile candidates rather than a score. Emphasise kuh-RIN-thee-un, eye-ON-ik and puh-LAH-dee-oh clearly. End with composite then Palladio and a short low percussive stop, roughly 54 seconds.
 ```
 
 ## Paste into Suno: Lyrics
@@ -608,6 +616,8 @@ Broad respellings are performance targets; they do not establish every vowel of 
 | 48–56s | F minor (0.63) | F minor (0.57) |
 | 56–64s | F minor (0.56) | F minor (0.65) |
 
+**Overlapping-window sensitivity check:** Overlapping windows soften the exact change: both signals favor F minor in the opening, show a transition around 14–18 s, favor C-centered profiles around 18–28 s (minor/major labels vary), and return to F-minor-like profiles near 28–32 s. Later windows contain weaker local variations. This supports testing a tonal contrast, not a proven chord progression. The check uses 4-second windows at 2-second hops, so it tests whether the 8-second result depends on one fixed cut; these overlapping windows are still not musical phrase boundaries. Full rankings and caveats: [rolling_tonality.json](evidence/rolling_tonality.json) and [rolling_tonality.py](evidence/rolling_tonality.py).
+
 **Instrumentation and timbre — model interpretation:** Multiple excerpts describe a synthetic bass/melodic backing and programmed percussion. The final excerpt additionally hears bright 8-bit-like arpeggiation and chime-like accents; these are timbral descriptions rather than confirmed console hardware or synthesis methods.
 
 **Production, sound effects, and edits:** Abrupt comic interruptions and a long punchline passage are visible in the structure. The model reports cartoon-like noises, short chimes and whooshes in the later portion. The 24–28-second vocal/effect event is still not reliably decoded; the safe recreation choice is a brief break, explicitly differing from an exact transcription.
@@ -627,7 +637,7 @@ The musical recipe adds explicit directions where the source analysis is incompl
 ## Paste into Suno: Styles
 
 ```text
-Comic electronic door chant, about 135 BPM. Upfront male English voice, crisp spoken-sung one-word door hook with a long rounded vowel, repeated on a compact pitch cell. Change the adjective pickups while keeping the door motif stable. Try an F-minor tonal home, briefly shifting toward C minor in the middle before returning; these are section-profile candidates, not verified chords. Simple synth bass and programmed drum groove, short bright keyboard stabs. Use dry spoken questions and answers, sudden small pauses, and a sharp cat flap interruption. Toward the end add a brief bright game-like arpeggio or chime texture, pause after and one more, then a drawn-out Dumbledore punchline and one final door. Roughly 65 seconds; no extra verses.
+Comic electronic door chant, about 135 BPM. Upfront male English voice, crisp spoken-sung one-word door hook with a long rounded vowel, repeated on a compact pitch cell. Change the adjective pickups while keeping the door motif stable. Try an F-minor-like opening, a C-centered middle around 18–28 seconds with minor/major color flexible, then a return toward F minor near the next door list; leave later harmony flexible. These are section-profile candidates, not verified chords. Simple synth bass and programmed drum groove, short bright keyboard stabs. Use dry spoken questions and answers, sudden small pauses, and a sharp cat flap interruption. Toward the end add a brief bright game-like arpeggio or chime texture, pause after and one more, then a drawn-out Dumbledore punchline and one final door. Roughly 65 seconds; no extra verses.
 ```
 
 ## Paste into Suno: Lyrics
@@ -781,6 +791,8 @@ Broad respellings are performance targets; they do not establish every vowel of 
 | 56–64s | G minor (0.71) | G minor (0.70) |
 | 64–67s | A minor (0.44) | F major (0.74) |
 
+**Overlapping-window sensitivity check:** G minor ranks first for most overlapping windows in both signals; a brief G-major profile appears around 32–38 s in both signals, with another near 56–60 s. A G-minor-leaning prompt with brighter passages is a testable approximation; the outro is less stable. The check uses 4-second windows at 2-second hops, so it tests whether the 8-second result depends on one fixed cut; these overlapping windows are still not musical phrase boundaries. Full rankings and caveats: [rolling_tonality.json](evidence/rolling_tonality.json) and [rolling_tonality.py](evidence/rolling_tonality.py).
+
 **Instrumentation and timbre — model interpretation:** Early/middle excerpts consistently suggest an electronic low line and bright synth backing. The last excerpt instead describes brass/woodwind-like stabs. It is safer to request short bright, slightly brassy synthetic accents than to claim a real brass or woodwind ensemble.
 
 **Production, sound effects, and edits:** Breathy inhalation/gasp-like sounds and abrupt dialogue interjections are reported in the middle. The final excerpt reports reverberant or broadcast-like texture, but its claims of tape hiss and provenance are not verified. Preserve short gaps and character changes; exact sampled sources and effect settings remain unknown.
@@ -798,7 +810,7 @@ The musical recipe adds explicit directions where the source analysis is incompl
 ## Paste into Suno: Styles
 
 ```text
-Playful theatrical window song, about 135 BPM, clear male English rhythmic speech-singing over a compact electronic groove. Keep a G-centered pitch collection with major/minor color flexible; section profiles favor G but do not settle the mode or chords. A recurring WIN-doh hook anchors fast architectural lists. Alternate sung calls with dry comic dialogue: Casement, Is that a casement, Yes a casement; give Obviously a lower deadpan delivery and Very good a brief spoken reply. Tight programmed percussion, simple synth bass, bright short slightly brassy keyboard stabs. Narrow vocal motifs and speech-like pitch changes, occasional brief breath or gasp accents. End firmly with Open the window, Shut it again. Around 67 seconds; keep all dialogue audible.
+Playful theatrical window song, about 135 BPM, clear male English rhythmic speech-singing over a compact electronic groove. Try a G-minor-leaning center with a brief brighter G-major color around 32–38 seconds; exact chords remain unverified. A recurring WIN-doh hook anchors fast architectural lists. Alternate sung calls with dry comic dialogue: Casement, Is that a casement, Yes a casement; give Obviously a lower deadpan delivery and Very good a brief spoken reply. Tight programmed percussion, simple synth bass, bright short slightly brassy keyboard stabs. Narrow vocal motifs and speech-like pitch changes, occasional brief breath or gasp accents. End firmly with Open the window, Shut it again. Around 67 seconds; keep all dialogue audible.
 ```
 
 ## Paste into Suno: Lyrics
@@ -924,6 +936,8 @@ Cambridge lists UK echinus /ekˈaɪ.nəs/ and US /ɪˈkaɪ.nəs/; [Wiktionary re
 | 0–8s | G major (0.69) | G major (0.65) |
 | 8–16s | C minor (0.50) | G minor (0.52) |
 | 16–22s | B minor (0.35) | F major (0.55) |
+
+
 
 **Instrumentation and timbre — model interpretation:** The model identifies synthetic drum, bass and keyboard-like textures. It does not identify an acoustic lead instrument with adequate support. Keep the backing sparse enough to retain all three syllables of each technical word.
 
@@ -1065,6 +1079,8 @@ Broad respellings are performance targets; they do not establish every vowel of 
 | 24–32s | C minor (0.43) | C minor (0.45) |
 | 32–40s | C minor (0.38) | C minor (0.43) |
 | 40–48s | C major (0.42) | C minor (0.40) |
+
+
 
 **Instrumentation and timbre — model interpretation:** The model consistently describes an electronic beat and synthesized low line, with occasional higher chime-like accents. It also suggests sampler-like percussion, but specific 808 hardware and named game associations are unsupported and omitted from the recipe.
 

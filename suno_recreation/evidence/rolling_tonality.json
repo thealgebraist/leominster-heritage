@@ -1,0 +1,3212 @@
+{
+  "method": "HPSS harmonic component; 4-second windows, 2-second hop; mono 22.05 kHz; chroma-CQT mean compared by Pearson correlation with rotated Krumhansl major/minor profiles.",
+  "warnings": [
+    "Correlations are not probabilities.",
+    "These overlapping fixed windows are not phrase boundaries.",
+    "The estimated backing may contain leakage or separation artifacts; original mix includes vocals/effects.",
+    "This check reduces dependence on 8-second boundaries but does not establish keys, chords, harmonic function, or melody."
+  ],
+  "tracks": [
+    {
+      "id": "DcYTYvMBSMn",
+      "title": "Columns / Classical Orders",
+      "interpretation": "Overlapping windows repeatedly favor E-flat major, with B-flat major profiles recurring in the mix and in some backing windows. This strengthens an E-flat/B-flat major-leaning prompt experiment, but does not establish chords or harmonic function.",
+      "signals": {
+        "original_mix": [
+          {
+            "start_s": 0.0,
+            "end_s": 4.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.6783071213468437
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.6361992674987512
+              },
+              {
+                "label": "G\u266f minor",
+                "correlation": 0.3849322582303184
+              }
+            ]
+          },
+          {
+            "start_s": 2.0,
+            "end_s": 6.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.6714739340198741
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.6036327935225423
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.47629646203363685
+              }
+            ]
+          },
+          {
+            "start_s": 4.0,
+            "end_s": 8.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.7158838068491098
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.6406974722952511
+              },
+              {
+                "label": "A\u266f major",
+                "correlation": 0.3998343065597326
+              }
+            ]
+          },
+          {
+            "start_s": 6.0,
+            "end_s": 10.0,
+            "top": [
+              {
+                "label": "A\u266f major",
+                "correlation": 0.744288286925665
+              },
+              {
+                "label": "A\u266f minor",
+                "correlation": 0.5457409397131381
+              },
+              {
+                "label": "D\u266f major",
+                "correlation": 0.5366730264213213
+              }
+            ]
+          },
+          {
+            "start_s": 8.0,
+            "end_s": 12.0,
+            "top": [
+              {
+                "label": "A\u266f major",
+                "correlation": 0.8215114142880355
+              },
+              {
+                "label": "A\u266f minor",
+                "correlation": 0.5921728021058952
+              },
+              {
+                "label": "D\u266f major",
+                "correlation": 0.4383553195674561
+              }
+            ]
+          },
+          {
+            "start_s": 10.0,
+            "end_s": 14.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.5658300787485288
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.5655339504967497
+              },
+              {
+                "label": "A\u266f major",
+                "correlation": 0.5014239552631244
+              }
+            ]
+          },
+          {
+            "start_s": 12.0,
+            "end_s": 16.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.7911326403985278
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.5575005610370285
+              },
+              {
+                "label": "G\u266f minor",
+                "correlation": 0.3614262822076317
+              }
+            ]
+          },
+          {
+            "start_s": 14.0,
+            "end_s": 18.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.8066433222431042
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.559399464748246
+              },
+              {
+                "label": "G\u266f minor",
+                "correlation": 0.3961575084398902
+              }
+            ]
+          },
+          {
+            "start_s": 16.0,
+            "end_s": 20.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.8040882773257854
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.5831302612500373
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.36911281958334896
+              }
+            ]
+          },
+          {
+            "start_s": 18.0,
+            "end_s": 22.0,
+            "top": [
+              {
+                "label": "A\u266f major",
+                "correlation": 0.7153790015531146
+              },
+              {
+                "label": "D\u266f major",
+                "correlation": 0.6152539726040198
+              },
+              {
+                "label": "G minor",
+                "correlation": 0.5472038239393463
+              }
+            ]
+          },
+          {
+            "start_s": 20.0,
+            "end_s": 24.0,
+            "top": [
+              {
+                "label": "A\u266f major",
+                "correlation": 0.7822722772238169
+              },
+              {
+                "label": "A\u266f minor",
+                "correlation": 0.5287535263115581
+              },
+              {
+                "label": "G minor",
+                "correlation": 0.44480261407639804
+              }
+            ]
+          },
+          {
+            "start_s": 22.0,
+            "end_s": 26.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.5771699430584756
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.5288481579762176
+              },
+              {
+                "label": "A\u266f major",
+                "correlation": 0.47581654530384243
+              }
+            ]
+          },
+          {
+            "start_s": 24.0,
+            "end_s": 28.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.6123033515520853
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.4811209568169412
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.44030572348832375
+              }
+            ]
+          },
+          {
+            "start_s": 26.0,
+            "end_s": 30.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.6874472971379016
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.5541145913433919
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.43941695215759385
+              }
+            ]
+          },
+          {
+            "start_s": 28.0,
+            "end_s": 32.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.6891378219724406
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.5662759278125693
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.45241873329644466
+              }
+            ]
+          },
+          {
+            "start_s": 30.0,
+            "end_s": 34.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.7100266380101814
+              },
+              {
+                "label": "A\u266f major",
+                "correlation": 0.5913454873861894
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.48163985226789663
+              }
+            ]
+          },
+          {
+            "start_s": 32.0,
+            "end_s": 36.0,
+            "top": [
+              {
+                "label": "A\u266f major",
+                "correlation": 0.7519556193985405
+              },
+              {
+                "label": "A\u266f minor",
+                "correlation": 0.5886970714672365
+              },
+              {
+                "label": "D\u266f major",
+                "correlation": 0.4276889248981867
+              }
+            ]
+          },
+          {
+            "start_s": 34.0,
+            "end_s": 38.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.7422299568640104
+              },
+              {
+                "label": "A\u266f major",
+                "correlation": 0.6286754267939115
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.5831209001105597
+              }
+            ]
+          },
+          {
+            "start_s": 36.0,
+            "end_s": 40.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.7906963244590497
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.5994393534589424
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.5238720385582224
+              }
+            ]
+          },
+          {
+            "start_s": 38.0,
+            "end_s": 42.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.800915336466846
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.5858901555903684
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.5446736380582682
+              }
+            ]
+          },
+          {
+            "start_s": 40.0,
+            "end_s": 44.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.790453698490309
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.5980279080001221
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.4789840991143759
+              }
+            ]
+          },
+          {
+            "start_s": 42.0,
+            "end_s": 46.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.707646393596054
+              },
+              {
+                "label": "A\u266f major",
+                "correlation": 0.6493283862592982
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.5705662708205984
+              }
+            ]
+          },
+          {
+            "start_s": 44.0,
+            "end_s": 48.0,
+            "top": [
+              {
+                "label": "A\u266f major",
+                "correlation": 0.6935770759705485
+              },
+              {
+                "label": "A\u266f minor",
+                "correlation": 0.5949533061056055
+              },
+              {
+                "label": "D\u266f major",
+                "correlation": 0.4166023721459458
+              }
+            ]
+          },
+          {
+            "start_s": 46.0,
+            "end_s": 50.0,
+            "top": [
+              {
+                "label": "A\u266f major",
+                "correlation": 0.6402351641666484
+              },
+              {
+                "label": "A\u266f minor",
+                "correlation": 0.5617113609803439
+              },
+              {
+                "label": "G minor",
+                "correlation": 0.43339952021544564
+              }
+            ]
+          },
+          {
+            "start_s": 48.0,
+            "end_s": 52.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.6891750077378821
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.6011348955659666
+              },
+              {
+                "label": "A\u266f major",
+                "correlation": 0.513740154754578
+              }
+            ]
+          }
+        ],
+        "estimated_backing": [
+          {
+            "start_s": 0.0,
+            "end_s": 4.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.6787558532524118
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.6241478855489556
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.3858021133220021
+              }
+            ]
+          },
+          {
+            "start_s": 2.0,
+            "end_s": 6.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.6556942185407397
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.5733569900170203
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.5061577992544043
+              }
+            ]
+          },
+          {
+            "start_s": 4.0,
+            "end_s": 8.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.7304326062584008
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.6408050985831146
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.41898927538334196
+              }
+            ]
+          },
+          {
+            "start_s": 6.0,
+            "end_s": 10.0,
+            "top": [
+              {
+                "label": "A\u266f major",
+                "correlation": 0.6483748029177737
+              },
+              {
+                "label": "A\u266f minor",
+                "correlation": 0.550527370557987
+              },
+              {
+                "label": "D\u266f major",
+                "correlation": 0.5282412386263678
+              }
+            ]
+          },
+          {
+            "start_s": 8.0,
+            "end_s": 12.0,
+            "top": [
+              {
+                "label": "A\u266f major",
+                "correlation": 0.590312113625669
+              },
+              {
+                "label": "A\u266f minor",
+                "correlation": 0.579596207672871
+              },
+              {
+                "label": "G minor",
+                "correlation": 0.3440186640767914
+              }
+            ]
+          },
+          {
+            "start_s": 10.0,
+            "end_s": 14.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.6956089213779344
+              },
+              {
+                "label": "A\u266f major",
+                "correlation": 0.6294315680900314
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.5224878656122734
+              }
+            ]
+          },
+          {
+            "start_s": 12.0,
+            "end_s": 16.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.7652505219783292
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.5302282675230247
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.40883319415616937
+              }
+            ]
+          },
+          {
+            "start_s": 14.0,
+            "end_s": 18.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.7416617243602914
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.553739608821464
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.42884041707345705
+              }
+            ]
+          },
+          {
+            "start_s": 16.0,
+            "end_s": 20.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.6902199431533171
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.5510392214574953
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.35784484221230745
+              }
+            ]
+          },
+          {
+            "start_s": 18.0,
+            "end_s": 22.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.5622254027384184
+              },
+              {
+                "label": "A\u266f major",
+                "correlation": 0.536240875292441
+              },
+              {
+                "label": "A\u266f minor",
+                "correlation": 0.4131322240290453
+              }
+            ]
+          },
+          {
+            "start_s": 20.0,
+            "end_s": 24.0,
+            "top": [
+              {
+                "label": "A\u266f major",
+                "correlation": 0.5845380465277406
+              },
+              {
+                "label": "A\u266f minor",
+                "correlation": 0.5685526674266701
+              },
+              {
+                "label": "G minor",
+                "correlation": 0.31546725653610347
+              }
+            ]
+          },
+          {
+            "start_s": 22.0,
+            "end_s": 26.0,
+            "top": [
+              {
+                "label": "A\u266f major",
+                "correlation": 0.4612300758620718
+              },
+              {
+                "label": "D\u266f major",
+                "correlation": 0.3899340656678431
+              },
+              {
+                "label": "A\u266f minor",
+                "correlation": 0.3077774941216273
+              }
+            ]
+          },
+          {
+            "start_s": 24.0,
+            "end_s": 28.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.5939866826703418
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.5639092148173946
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.4586626524481642
+              }
+            ]
+          },
+          {
+            "start_s": 26.0,
+            "end_s": 30.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.6896001490435916
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.580832103669143
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.46760914969376555
+              }
+            ]
+          },
+          {
+            "start_s": 28.0,
+            "end_s": 32.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.6949730845028957
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.5901569113165899
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.4700272256000567
+              }
+            ]
+          },
+          {
+            "start_s": 30.0,
+            "end_s": 34.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.6865411626915728
+              },
+              {
+                "label": "A\u266f major",
+                "correlation": 0.4925856044126317
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.47049868977723497
+              }
+            ]
+          },
+          {
+            "start_s": 32.0,
+            "end_s": 36.0,
+            "top": [
+              {
+                "label": "A\u266f major",
+                "correlation": 0.5987912367090604
+              },
+              {
+                "label": "A\u266f minor",
+                "correlation": 0.5665568454259842
+              },
+              {
+                "label": "G minor",
+                "correlation": 0.3379171332135073
+              }
+            ]
+          },
+          {
+            "start_s": 34.0,
+            "end_s": 38.0,
+            "top": [
+              {
+                "label": "A\u266f major",
+                "correlation": 0.6495874985673387
+              },
+              {
+                "label": "D\u266f major",
+                "correlation": 0.5665509716739089
+              },
+              {
+                "label": "A\u266f minor",
+                "correlation": 0.4476615373524995
+              }
+            ]
+          },
+          {
+            "start_s": 36.0,
+            "end_s": 40.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.7500966704102873
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.5560358857015423
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.5152455355624399
+              }
+            ]
+          },
+          {
+            "start_s": 38.0,
+            "end_s": 42.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.7918829735836146
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.5888844228735453
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.546753752906022
+              }
+            ]
+          },
+          {
+            "start_s": 40.0,
+            "end_s": 44.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.7778347406228797
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.6025615363995747
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.47993343741064415
+              }
+            ]
+          },
+          {
+            "start_s": 42.0,
+            "end_s": 46.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.6927442308684044
+              },
+              {
+                "label": "A\u266f major",
+                "correlation": 0.6081325480313129
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.5676262509848551
+              }
+            ]
+          },
+          {
+            "start_s": 44.0,
+            "end_s": 48.0,
+            "top": [
+              {
+                "label": "A\u266f major",
+                "correlation": 0.6516940742287219
+              },
+              {
+                "label": "A\u266f minor",
+                "correlation": 0.5830842415298321
+              },
+              {
+                "label": "D\u266f major",
+                "correlation": 0.40821064758419967
+              }
+            ]
+          },
+          {
+            "start_s": 46.0,
+            "end_s": 50.0,
+            "top": [
+              {
+                "label": "A\u266f major",
+                "correlation": 0.6193406565646957
+              },
+              {
+                "label": "A\u266f minor",
+                "correlation": 0.4892905560968561
+              },
+              {
+                "label": "G minor",
+                "correlation": 0.40560448197124954
+              }
+            ]
+          },
+          {
+            "start_s": 48.0,
+            "end_s": 52.0,
+            "top": [
+              {
+                "label": "D\u266f major",
+                "correlation": 0.5935831149969256
+              },
+              {
+                "label": "A\u266f major",
+                "correlation": 0.48818535510760047
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.42842742332946243
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "DcbYsWLhhdZ",
+      "title": "Doors",
+      "interpretation": "Overlapping windows soften the exact change: both signals favor F minor in the opening, show a transition around 14\u201318 s, favor C-centered profiles around 18\u201328 s (minor/major labels vary), and return to F-minor-like profiles near 28\u201332 s. Later windows contain weaker local variations. This supports testing a tonal contrast, not a proven chord progression.",
+      "signals": {
+        "original_mix": [
+          {
+            "start_s": 0.0,
+            "end_s": 4.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.6195564300537105
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.4573892530927956
+              },
+              {
+                "label": "A\u266f minor",
+                "correlation": 0.4537055100639529
+              }
+            ]
+          },
+          {
+            "start_s": 2.0,
+            "end_s": 6.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.7484881169036313
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.5904053965303592
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.5351055975517666
+              }
+            ]
+          },
+          {
+            "start_s": 4.0,
+            "end_s": 8.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.853921440824894
+              },
+              {
+                "label": "F major",
+                "correlation": 0.5644027411733575
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.481195146742509
+              }
+            ]
+          },
+          {
+            "start_s": 6.0,
+            "end_s": 10.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.7220042449138478
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.6738223487909447
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.656612359891808
+              }
+            ]
+          },
+          {
+            "start_s": 8.0,
+            "end_s": 12.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.873758181050441
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.6264754643863765
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.6033938756939796
+              }
+            ]
+          },
+          {
+            "start_s": 10.0,
+            "end_s": 14.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.6598661132444141
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.5574250848328992
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.511013609569947
+              }
+            ]
+          },
+          {
+            "start_s": 12.0,
+            "end_s": 16.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.5469992368635533
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.4859507444234587
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.4090106177364396
+              }
+            ]
+          },
+          {
+            "start_s": 14.0,
+            "end_s": 18.0,
+            "top": [
+              {
+                "label": "C minor",
+                "correlation": 0.5186523842764066
+              },
+              {
+                "label": "F minor",
+                "correlation": 0.4832269766967876
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.46105620638797834
+              }
+            ]
+          },
+          {
+            "start_s": 16.0,
+            "end_s": 20.0,
+            "top": [
+              {
+                "label": "G\u266f major",
+                "correlation": 0.6047867802441774
+              },
+              {
+                "label": "D\u266f major",
+                "correlation": 0.532308342393935
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.5195817151291126
+              }
+            ]
+          },
+          {
+            "start_s": 18.0,
+            "end_s": 22.0,
+            "top": [
+              {
+                "label": "C minor",
+                "correlation": 0.6568184894721342
+              },
+              {
+                "label": "F minor",
+                "correlation": 0.517587949659435
+              },
+              {
+                "label": "C major",
+                "correlation": 0.504444340858743
+              }
+            ]
+          },
+          {
+            "start_s": 20.0,
+            "end_s": 24.0,
+            "top": [
+              {
+                "label": "C minor",
+                "correlation": 0.5474194421497331
+              },
+              {
+                "label": "C major",
+                "correlation": 0.5250467383618268
+              },
+              {
+                "label": "A minor",
+                "correlation": 0.22916781401331707
+              }
+            ]
+          },
+          {
+            "start_s": 22.0,
+            "end_s": 26.0,
+            "top": [
+              {
+                "label": "C major",
+                "correlation": 0.6186998608801759
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.6065889718094719
+              },
+              {
+                "label": "A minor",
+                "correlation": 0.2972160597568828
+              }
+            ]
+          },
+          {
+            "start_s": 24.0,
+            "end_s": 28.0,
+            "top": [
+              {
+                "label": "C major",
+                "correlation": 0.5543247136341077
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.5458817421576707
+              },
+              {
+                "label": "F major",
+                "correlation": 0.27697960172608954
+              }
+            ]
+          },
+          {
+            "start_s": 26.0,
+            "end_s": 30.0,
+            "top": [
+              {
+                "label": "C minor",
+                "correlation": 0.5709394258680704
+              },
+              {
+                "label": "F major",
+                "correlation": 0.5236700453903508
+              },
+              {
+                "label": "F minor",
+                "correlation": 0.45574323755999063
+              }
+            ]
+          },
+          {
+            "start_s": 28.0,
+            "end_s": 32.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.7975515585737312
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.5996754742838214
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.5639853853917262
+              }
+            ]
+          },
+          {
+            "start_s": 30.0,
+            "end_s": 34.0,
+            "top": [
+              {
+                "label": "G\u266f major",
+                "correlation": 0.7648804783910866
+              },
+              {
+                "label": "F minor",
+                "correlation": 0.6534896808027587
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.5881569091729507
+              }
+            ]
+          },
+          {
+            "start_s": 32.0,
+            "end_s": 36.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.7618241582860261
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.5501532463768966
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.4920065355818546
+              }
+            ]
+          },
+          {
+            "start_s": 34.0,
+            "end_s": 38.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.7331080593517729
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.6943394999519423
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.5416033018931733
+              }
+            ]
+          },
+          {
+            "start_s": 36.0,
+            "end_s": 40.0,
+            "top": [
+              {
+                "label": "A\u266f minor",
+                "correlation": 0.7423498164250913
+              },
+              {
+                "label": "D\u266f major",
+                "correlation": 0.5595499681676344
+              },
+              {
+                "label": "A\u266f major",
+                "correlation": 0.5575460612824553
+              }
+            ]
+          },
+          {
+            "start_s": 38.0,
+            "end_s": 42.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.8007833137348688
+              },
+              {
+                "label": "A\u266f minor",
+                "correlation": 0.5948744355891659
+              },
+              {
+                "label": "F major",
+                "correlation": 0.5566153633644444
+              }
+            ]
+          },
+          {
+            "start_s": 40.0,
+            "end_s": 44.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.8708154824907267
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.6171985256890459
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.4992963490874585
+              }
+            ]
+          },
+          {
+            "start_s": 42.0,
+            "end_s": 46.0,
+            "top": [
+              {
+                "label": "G\u266f major",
+                "correlation": 0.5746199813115629
+              },
+              {
+                "label": "F minor",
+                "correlation": 0.5655541053821401
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.48678775229658233
+              }
+            ]
+          },
+          {
+            "start_s": 44.0,
+            "end_s": 48.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.3590578227707416
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.3589047428160537
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.3030914020541348
+              }
+            ]
+          },
+          {
+            "start_s": 46.0,
+            "end_s": 50.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.5633979501688979
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.5147187144977067
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.4572300128561115
+              }
+            ]
+          },
+          {
+            "start_s": 48.0,
+            "end_s": 52.0,
+            "top": [
+              {
+                "label": "C minor",
+                "correlation": 0.4754583588799598
+              },
+              {
+                "label": "C major",
+                "correlation": 0.3390898206169974
+              },
+              {
+                "label": "F minor",
+                "correlation": 0.3223518513058788
+              }
+            ]
+          },
+          {
+            "start_s": 50.0,
+            "end_s": 54.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.5609407215168376
+              },
+              {
+                "label": "F major",
+                "correlation": 0.5523953618180668
+              },
+              {
+                "label": "A\u266f major",
+                "correlation": 0.29855796954153974
+              }
+            ]
+          },
+          {
+            "start_s": 52.0,
+            "end_s": 56.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.6435080751206641
+              },
+              {
+                "label": "F major",
+                "correlation": 0.5403925192138023
+              },
+              {
+                "label": "A\u266f major",
+                "correlation": 0.29804716769194517
+              }
+            ]
+          },
+          {
+            "start_s": 54.0,
+            "end_s": 58.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.4649971449261848
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.4032074632565543
+              },
+              {
+                "label": "A\u266f minor",
+                "correlation": 0.35613614248535125
+              }
+            ]
+          },
+          {
+            "start_s": 56.0,
+            "end_s": 60.0,
+            "top": [
+              {
+                "label": "G\u266f major",
+                "correlation": 0.5619689714274334
+              },
+              {
+                "label": "F minor",
+                "correlation": 0.5504956964071533
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.5316600228095043
+              }
+            ]
+          },
+          {
+            "start_s": 58.0,
+            "end_s": 62.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.7704485406197463
+              },
+              {
+                "label": "F major",
+                "correlation": 0.6421526204987246
+              },
+              {
+                "label": "C major",
+                "correlation": 0.5112426483110062
+              }
+            ]
+          },
+          {
+            "start_s": 60.0,
+            "end_s": 64.0,
+            "top": [
+              {
+                "label": "E minor",
+                "correlation": 0.3135850113763427
+              },
+              {
+                "label": "E major",
+                "correlation": 0.2509801010087036
+              },
+              {
+                "label": "F minor",
+                "correlation": 0.153958868135821
+              }
+            ]
+          }
+        ],
+        "estimated_backing": [
+          {
+            "start_s": 0.0,
+            "end_s": 4.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.649525143164507
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.4365728128773417
+              },
+              {
+                "label": "F major",
+                "correlation": 0.41444193310176086
+              }
+            ]
+          },
+          {
+            "start_s": 2.0,
+            "end_s": 6.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.5944654310851273
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.4831664270731315
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.42902811457923534
+              }
+            ]
+          },
+          {
+            "start_s": 4.0,
+            "end_s": 8.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.687842680258105
+              },
+              {
+                "label": "F major",
+                "correlation": 0.45955005326602544
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.38795595021867385
+              }
+            ]
+          },
+          {
+            "start_s": 6.0,
+            "end_s": 10.0,
+            "top": [
+              {
+                "label": "C\u266f major",
+                "correlation": 0.5336124522047144
+              },
+              {
+                "label": "F minor",
+                "correlation": 0.5319319167995216
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.45667017770666596
+              }
+            ]
+          },
+          {
+            "start_s": 8.0,
+            "end_s": 12.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.6050794958302244
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.39492308784795715
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.3612520706676109
+              }
+            ]
+          },
+          {
+            "start_s": 10.0,
+            "end_s": 14.0,
+            "top": [
+              {
+                "label": "G\u266f major",
+                "correlation": 0.5773816457065337
+              },
+              {
+                "label": "F minor",
+                "correlation": 0.5101454814827252
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.4789445361865785
+              }
+            ]
+          },
+          {
+            "start_s": 12.0,
+            "end_s": 16.0,
+            "top": [
+              {
+                "label": "G\u266f major",
+                "correlation": 0.3930332611990052
+              },
+              {
+                "label": "F minor",
+                "correlation": 0.361873211202806
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.3598316031947979
+              }
+            ]
+          },
+          {
+            "start_s": 14.0,
+            "end_s": 18.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.4040144586097062
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.3997411480542874
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.37113964925825915
+              }
+            ]
+          },
+          {
+            "start_s": 16.0,
+            "end_s": 20.0,
+            "top": [
+              {
+                "label": "G\u266f major",
+                "correlation": 0.39981937801145595
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.3631374430966377
+              },
+              {
+                "label": "F minor",
+                "correlation": 0.32759164880882563
+              }
+            ]
+          },
+          {
+            "start_s": 18.0,
+            "end_s": 22.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.3832692635387595
+              },
+              {
+                "label": "C\u266f minor",
+                "correlation": 0.34507166924477173
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.2990418793999594
+              }
+            ]
+          },
+          {
+            "start_s": 20.0,
+            "end_s": 24.0,
+            "top": [
+              {
+                "label": "C minor",
+                "correlation": 0.4999617122446777
+              },
+              {
+                "label": "C major",
+                "correlation": 0.49731894586336195
+              },
+              {
+                "label": "A minor",
+                "correlation": 0.24878590543343068
+              }
+            ]
+          },
+          {
+            "start_s": 22.0,
+            "end_s": 26.0,
+            "top": [
+              {
+                "label": "C major",
+                "correlation": 0.617073364145047
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.6053250818520164
+              },
+              {
+                "label": "A minor",
+                "correlation": 0.30033481118673183
+              }
+            ]
+          },
+          {
+            "start_s": 24.0,
+            "end_s": 28.0,
+            "top": [
+              {
+                "label": "C major",
+                "correlation": 0.5630742213040631
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.542802224650648
+              },
+              {
+                "label": "A minor",
+                "correlation": 0.26097732116517175
+              }
+            ]
+          },
+          {
+            "start_s": 26.0,
+            "end_s": 30.0,
+            "top": [
+              {
+                "label": "C minor",
+                "correlation": 0.5498877353163608
+              },
+              {
+                "label": "C major",
+                "correlation": 0.4389894839531573
+              },
+              {
+                "label": "F minor",
+                "correlation": 0.35942698703903353
+              }
+            ]
+          },
+          {
+            "start_s": 28.0,
+            "end_s": 32.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.6608569692786869
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.4342473861986777
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.4270533601498165
+              }
+            ]
+          },
+          {
+            "start_s": 30.0,
+            "end_s": 34.0,
+            "top": [
+              {
+                "label": "C\u266f major",
+                "correlation": 0.6211181082790311
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.5314110013106689
+              },
+              {
+                "label": "C\u266f minor",
+                "correlation": 0.5034212045997942
+              }
+            ]
+          },
+          {
+            "start_s": 32.0,
+            "end_s": 36.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.6443957785989448
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.45217873966556554
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.42934345501948246
+              }
+            ]
+          },
+          {
+            "start_s": 34.0,
+            "end_s": 38.0,
+            "top": [
+              {
+                "label": "G\u266f major",
+                "correlation": 0.6517805951994312
+              },
+              {
+                "label": "F minor",
+                "correlation": 0.5947505893964717
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.5783527548758709
+              }
+            ]
+          },
+          {
+            "start_s": 36.0,
+            "end_s": 40.0,
+            "top": [
+              {
+                "label": "G\u266f major",
+                "correlation": 0.6016860356001485
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.5761675664768021
+              },
+              {
+                "label": "F minor",
+                "correlation": 0.4780596968211464
+              }
+            ]
+          },
+          {
+            "start_s": 38.0,
+            "end_s": 42.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.7372214673260835
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.4500711056319614
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.41751541392552316
+              }
+            ]
+          },
+          {
+            "start_s": 40.0,
+            "end_s": 44.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.8274685674364399
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.5370726289248181
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.5180904239712844
+              }
+            ]
+          },
+          {
+            "start_s": 42.0,
+            "end_s": 46.0,
+            "top": [
+              {
+                "label": "C\u266f major",
+                "correlation": 0.47227107382682576
+              },
+              {
+                "label": "F minor",
+                "correlation": 0.47093171623493363
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.4600862327523464
+              }
+            ]
+          },
+          {
+            "start_s": 44.0,
+            "end_s": 48.0,
+            "top": [
+              {
+                "label": "C\u266f minor",
+                "correlation": 0.30817306958718726
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.3047400867894528
+              },
+              {
+                "label": "D\u266f minor",
+                "correlation": 0.2548316396474847
+              }
+            ]
+          },
+          {
+            "start_s": 46.0,
+            "end_s": 50.0,
+            "top": [
+              {
+                "label": "C\u266f major",
+                "correlation": 0.427015482128515
+              },
+              {
+                "label": "C\u266f minor",
+                "correlation": 0.42489241012150486
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.42155386267745537
+              }
+            ]
+          },
+          {
+            "start_s": 48.0,
+            "end_s": 52.0,
+            "top": [
+              {
+                "label": "C minor",
+                "correlation": 0.4686127617842855
+              },
+              {
+                "label": "C\u266f minor",
+                "correlation": 0.3698423138632176
+              },
+              {
+                "label": "G\u266f major",
+                "correlation": 0.34955563489248304
+              }
+            ]
+          },
+          {
+            "start_s": 50.0,
+            "end_s": 54.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.5648507967050663
+              },
+              {
+                "label": "F major",
+                "correlation": 0.5009147083570098
+              },
+              {
+                "label": "C major",
+                "correlation": 0.30905673516560467
+              }
+            ]
+          },
+          {
+            "start_s": 52.0,
+            "end_s": 56.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.6404014838837662
+              },
+              {
+                "label": "F major",
+                "correlation": 0.5382094832011357
+              },
+              {
+                "label": "A\u266f major",
+                "correlation": 0.2993689192925067
+              }
+            ]
+          },
+          {
+            "start_s": 54.0,
+            "end_s": 58.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.4393159619800339
+              },
+              {
+                "label": "C\u266f major",
+                "correlation": 0.38458619726324184
+              },
+              {
+                "label": "C\u266f minor",
+                "correlation": 0.33448995108243856
+              }
+            ]
+          },
+          {
+            "start_s": 56.0,
+            "end_s": 60.0,
+            "top": [
+              {
+                "label": "G\u266f major",
+                "correlation": 0.5521989450234728
+              },
+              {
+                "label": "F minor",
+                "correlation": 0.5263916831141736
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.5119774768188792
+              }
+            ]
+          },
+          {
+            "start_s": 58.0,
+            "end_s": 62.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.8079670505571621
+              },
+              {
+                "label": "F major",
+                "correlation": 0.6353679073181788
+              },
+              {
+                "label": "C major",
+                "correlation": 0.5049008558342237
+              }
+            ]
+          },
+          {
+            "start_s": 60.0,
+            "end_s": 64.0,
+            "top": [
+              {
+                "label": "F minor",
+                "correlation": 0.4178201703291206
+              },
+              {
+                "label": "F major",
+                "correlation": 0.39762065613753367
+              },
+              {
+                "label": "A\u266f major",
+                "correlation": 0.2556294471221867
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "DcqWhZtBIEI",
+      "title": "Windows",
+      "interpretation": "G minor ranks first for most overlapping windows in both signals; a brief G-major profile appears around 32\u201338 s in both signals, with another near 56\u201360 s. A G-minor-leaning prompt with brighter passages is a testable approximation; the outro is less stable.",
+      "signals": {
+        "original_mix": [
+          {
+            "start_s": 0.0,
+            "end_s": 4.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.6430516247024318
+              },
+              {
+                "label": "G major",
+                "correlation": 0.5634057655377224
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.38762137373259176
+              }
+            ]
+          },
+          {
+            "start_s": 2.0,
+            "end_s": 6.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.7113721004350742
+              },
+              {
+                "label": "G major",
+                "correlation": 0.6075537333201958
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.40542384342663773
+              }
+            ]
+          },
+          {
+            "start_s": 4.0,
+            "end_s": 8.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.757526898319072
+              },
+              {
+                "label": "G major",
+                "correlation": 0.6649403608452139
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.3871430943239422
+              }
+            ]
+          },
+          {
+            "start_s": 6.0,
+            "end_s": 10.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.7446305474350243
+              },
+              {
+                "label": "G major",
+                "correlation": 0.5912154372981129
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.34738751815727736
+              }
+            ]
+          },
+          {
+            "start_s": 8.0,
+            "end_s": 12.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.7102890906815067
+              },
+              {
+                "label": "G major",
+                "correlation": 0.48506014788510865
+              },
+              {
+                "label": "D\u266f major",
+                "correlation": 0.3132681381909023
+              }
+            ]
+          },
+          {
+            "start_s": 10.0,
+            "end_s": 14.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.5496585272299884
+              },
+              {
+                "label": "G major",
+                "correlation": 0.42100371913932694
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.3072140812055704
+              }
+            ]
+          },
+          {
+            "start_s": 12.0,
+            "end_s": 16.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.4809659716954273
+              },
+              {
+                "label": "G major",
+                "correlation": 0.4799730967369228
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.44088363632343774
+              }
+            ]
+          },
+          {
+            "start_s": 14.0,
+            "end_s": 18.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.5928341958223136
+              },
+              {
+                "label": "G major",
+                "correlation": 0.5750527506426968
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.5661089452161613
+              }
+            ]
+          },
+          {
+            "start_s": 16.0,
+            "end_s": 20.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.6073746335472711
+              },
+              {
+                "label": "G major",
+                "correlation": 0.530718931568086
+              },
+              {
+                "label": "D major",
+                "correlation": 0.3800729172480381
+              }
+            ]
+          },
+          {
+            "start_s": 18.0,
+            "end_s": 22.0,
+            "top": [
+              {
+                "label": "B minor",
+                "correlation": 0.4094498530106227
+              },
+              {
+                "label": "G major",
+                "correlation": 0.3984887847631494
+              },
+              {
+                "label": "D major",
+                "correlation": 0.3814620768411097
+              }
+            ]
+          },
+          {
+            "start_s": 20.0,
+            "end_s": 24.0,
+            "top": [
+              {
+                "label": "G major",
+                "correlation": 0.5672138371900539
+              },
+              {
+                "label": "G minor",
+                "correlation": 0.5482129822175223
+              },
+              {
+                "label": "C major",
+                "correlation": 0.4329596596603066
+              }
+            ]
+          },
+          {
+            "start_s": 22.0,
+            "end_s": 26.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.7477956927766181
+              },
+              {
+                "label": "G major",
+                "correlation": 0.6397912959883504
+              },
+              {
+                "label": "C major",
+                "correlation": 0.40442325195373535
+              }
+            ]
+          },
+          {
+            "start_s": 24.0,
+            "end_s": 28.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.8015306466268043
+              },
+              {
+                "label": "G major",
+                "correlation": 0.5864064258265546
+              },
+              {
+                "label": "C major",
+                "correlation": 0.34149029790513963
+              }
+            ]
+          },
+          {
+            "start_s": 26.0,
+            "end_s": 30.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.7636449678851603
+              },
+              {
+                "label": "G major",
+                "correlation": 0.512362633278253
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.3155660962013551
+              }
+            ]
+          },
+          {
+            "start_s": 28.0,
+            "end_s": 32.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.6582256438991251
+              },
+              {
+                "label": "G major",
+                "correlation": 0.5344908704583315
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.34095230184999964
+              }
+            ]
+          },
+          {
+            "start_s": 30.0,
+            "end_s": 34.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.6293315519539495
+              },
+              {
+                "label": "G major",
+                "correlation": 0.6057749532519714
+              },
+              {
+                "label": "C major",
+                "correlation": 0.5164362589349757
+              }
+            ]
+          },
+          {
+            "start_s": 32.0,
+            "end_s": 36.0,
+            "top": [
+              {
+                "label": "G major",
+                "correlation": 0.6843953098271889
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.5532832847986052
+              },
+              {
+                "label": "C major",
+                "correlation": 0.5455218711968084
+              }
+            ]
+          },
+          {
+            "start_s": 34.0,
+            "end_s": 38.0,
+            "top": [
+              {
+                "label": "G major",
+                "correlation": 0.7680662776167513
+              },
+              {
+                "label": "C major",
+                "correlation": 0.5001464413038247
+              },
+              {
+                "label": "G minor",
+                "correlation": 0.420820629369519
+              }
+            ]
+          },
+          {
+            "start_s": 36.0,
+            "end_s": 40.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.799010671716244
+              },
+              {
+                "label": "G major",
+                "correlation": 0.7831903647579924
+              },
+              {
+                "label": "C major",
+                "correlation": 0.46742479788187924
+              }
+            ]
+          },
+          {
+            "start_s": 38.0,
+            "end_s": 42.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.8531359951020151
+              },
+              {
+                "label": "G major",
+                "correlation": 0.7303713136229982
+              },
+              {
+                "label": "D major",
+                "correlation": 0.43704855471571147
+              }
+            ]
+          },
+          {
+            "start_s": 40.0,
+            "end_s": 44.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.839123975697118
+              },
+              {
+                "label": "G major",
+                "correlation": 0.6672783128961383
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.3771848697326825
+              }
+            ]
+          },
+          {
+            "start_s": 42.0,
+            "end_s": 46.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.8007283817279197
+              },
+              {
+                "label": "G major",
+                "correlation": 0.5574452430344047
+              },
+              {
+                "label": "D\u266f major",
+                "correlation": 0.3240222228539327
+              }
+            ]
+          },
+          {
+            "start_s": 44.0,
+            "end_s": 48.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.748976704595524
+              },
+              {
+                "label": "G major",
+                "correlation": 0.6572028418171199
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.3208966213453483
+              }
+            ]
+          },
+          {
+            "start_s": 46.0,
+            "end_s": 50.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.6590052182324816
+              },
+              {
+                "label": "G major",
+                "correlation": 0.5364456067581251
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.3749147433306481
+              }
+            ]
+          },
+          {
+            "start_s": 48.0,
+            "end_s": 52.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.6514139803118305
+              },
+              {
+                "label": "G major",
+                "correlation": 0.47612215608411473
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.39668343895998964
+              }
+            ]
+          },
+          {
+            "start_s": 50.0,
+            "end_s": 54.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.798376655986932
+              },
+              {
+                "label": "G major",
+                "correlation": 0.6799449484303264
+              },
+              {
+                "label": "C major",
+                "correlation": 0.42454295227741207
+              }
+            ]
+          },
+          {
+            "start_s": 52.0,
+            "end_s": 56.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.8487295276594595
+              },
+              {
+                "label": "G major",
+                "correlation": 0.6954167465615516
+              },
+              {
+                "label": "D major",
+                "correlation": 0.35673861734337337
+              }
+            ]
+          },
+          {
+            "start_s": 54.0,
+            "end_s": 58.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.8234264024036476
+              },
+              {
+                "label": "G major",
+                "correlation": 0.7617407473360189
+              },
+              {
+                "label": "D major",
+                "correlation": 0.37815526932600446
+              }
+            ]
+          },
+          {
+            "start_s": 56.0,
+            "end_s": 60.0,
+            "top": [
+              {
+                "label": "G major",
+                "correlation": 0.7719477723396138
+              },
+              {
+                "label": "G minor",
+                "correlation": 0.678030579702061
+              },
+              {
+                "label": "C major",
+                "correlation": 0.4307808612192989
+              }
+            ]
+          },
+          {
+            "start_s": 58.0,
+            "end_s": 62.0,
+            "top": [
+              {
+                "label": "G major",
+                "correlation": 0.48645802677364014
+              },
+              {
+                "label": "A minor",
+                "correlation": 0.40421562207877193
+              },
+              {
+                "label": "C major",
+                "correlation": 0.3526824274646712
+              }
+            ]
+          },
+          {
+            "start_s": 60.0,
+            "end_s": 64.0,
+            "top": [
+              {
+                "label": "F major",
+                "correlation": 0.6398177164311639
+              },
+              {
+                "label": "D minor",
+                "correlation": 0.5803794735509142
+              },
+              {
+                "label": "A\u266f major",
+                "correlation": 0.5689133646986554
+              }
+            ]
+          },
+          {
+            "start_s": 62.0,
+            "end_s": 66.0,
+            "top": [
+              {
+                "label": "G\u266f minor",
+                "correlation": 0.3888645853657013
+              },
+              {
+                "label": "B major",
+                "correlation": 0.22957463242196485
+              },
+              {
+                "label": "D\u266f major",
+                "correlation": 0.18659617851434931
+              }
+            ]
+          }
+        ],
+        "estimated_backing": [
+          {
+            "start_s": 0.0,
+            "end_s": 4.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.6899994488583275
+              },
+              {
+                "label": "G major",
+                "correlation": 0.6012716656756985
+              },
+              {
+                "label": "C major",
+                "correlation": 0.4135007852061672
+              }
+            ]
+          },
+          {
+            "start_s": 2.0,
+            "end_s": 6.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.7223849258723571
+              },
+              {
+                "label": "G major",
+                "correlation": 0.6187196041648081
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.3927331824367578
+              }
+            ]
+          },
+          {
+            "start_s": 4.0,
+            "end_s": 8.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.7399630088191215
+              },
+              {
+                "label": "G major",
+                "correlation": 0.6431331774047099
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.37344407623574477
+              }
+            ]
+          },
+          {
+            "start_s": 6.0,
+            "end_s": 10.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.7593583067216998
+              },
+              {
+                "label": "G major",
+                "correlation": 0.584980145031076
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.3452646865173543
+              }
+            ]
+          },
+          {
+            "start_s": 8.0,
+            "end_s": 12.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.7248424070757564
+              },
+              {
+                "label": "G major",
+                "correlation": 0.48895166504889603
+              },
+              {
+                "label": "D\u266f major",
+                "correlation": 0.31691204094680303
+              }
+            ]
+          },
+          {
+            "start_s": 10.0,
+            "end_s": 14.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.6744591875828121
+              },
+              {
+                "label": "G major",
+                "correlation": 0.43370687066868674
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.317987871129633
+              }
+            ]
+          },
+          {
+            "start_s": 12.0,
+            "end_s": 16.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.6607995489950002
+              },
+              {
+                "label": "G major",
+                "correlation": 0.5300118474839544
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.4599875074476696
+              }
+            ]
+          },
+          {
+            "start_s": 14.0,
+            "end_s": 18.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.6240048917497024
+              },
+              {
+                "label": "G major",
+                "correlation": 0.6061538051213827
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.5704677423562213
+              }
+            ]
+          },
+          {
+            "start_s": 16.0,
+            "end_s": 20.0,
+            "top": [
+              {
+                "label": "G major",
+                "correlation": 0.6132886400361756
+              },
+              {
+                "label": "G minor",
+                "correlation": 0.5691234408998542
+              },
+              {
+                "label": "D major",
+                "correlation": 0.4522692544636159
+              }
+            ]
+          },
+          {
+            "start_s": 18.0,
+            "end_s": 22.0,
+            "top": [
+              {
+                "label": "G major",
+                "correlation": 0.5804577569135732
+              },
+              {
+                "label": "B minor",
+                "correlation": 0.49204738940758014
+              },
+              {
+                "label": "D major",
+                "correlation": 0.4799328970772716
+              }
+            ]
+          },
+          {
+            "start_s": 20.0,
+            "end_s": 24.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.5996594089165325
+              },
+              {
+                "label": "G major",
+                "correlation": 0.5800531913399044
+              },
+              {
+                "label": "C major",
+                "correlation": 0.4188100233376661
+              }
+            ]
+          },
+          {
+            "start_s": 22.0,
+            "end_s": 26.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.7453180815840881
+              },
+              {
+                "label": "G major",
+                "correlation": 0.625991469650279
+              },
+              {
+                "label": "C major",
+                "correlation": 0.4114070073042555
+              }
+            ]
+          },
+          {
+            "start_s": 24.0,
+            "end_s": 28.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.7717086765658795
+              },
+              {
+                "label": "G major",
+                "correlation": 0.5444032775163735
+              },
+              {
+                "label": "C major",
+                "correlation": 0.3659302225481801
+              }
+            ]
+          },
+          {
+            "start_s": 26.0,
+            "end_s": 30.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.7555841550958833
+              },
+              {
+                "label": "G major",
+                "correlation": 0.4747562652290849
+              },
+              {
+                "label": "A\u266f major",
+                "correlation": 0.31251806833877654
+              }
+            ]
+          },
+          {
+            "start_s": 28.0,
+            "end_s": 32.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.6864785525681751
+              },
+              {
+                "label": "G major",
+                "correlation": 0.5207563194502652
+              },
+              {
+                "label": "C major",
+                "correlation": 0.3618022717267584
+              }
+            ]
+          },
+          {
+            "start_s": 30.0,
+            "end_s": 34.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.6584696993887463
+              },
+              {
+                "label": "G major",
+                "correlation": 0.5942242072895398
+              },
+              {
+                "label": "C major",
+                "correlation": 0.4951865095340318
+              }
+            ]
+          },
+          {
+            "start_s": 32.0,
+            "end_s": 36.0,
+            "top": [
+              {
+                "label": "G major",
+                "correlation": 0.7212624951605364
+              },
+              {
+                "label": "G minor",
+                "correlation": 0.5068881619112433
+              },
+              {
+                "label": "C major",
+                "correlation": 0.5027489800273405
+              }
+            ]
+          },
+          {
+            "start_s": 34.0,
+            "end_s": 38.0,
+            "top": [
+              {
+                "label": "G major",
+                "correlation": 0.7762718948881203
+              },
+              {
+                "label": "G minor",
+                "correlation": 0.5044265801497259
+              },
+              {
+                "label": "C major",
+                "correlation": 0.41672220222118406
+              }
+            ]
+          },
+          {
+            "start_s": 36.0,
+            "end_s": 40.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.790544001949945
+              },
+              {
+                "label": "G major",
+                "correlation": 0.7300296244134759
+              },
+              {
+                "label": "C major",
+                "correlation": 0.3952838102983239
+              }
+            ]
+          },
+          {
+            "start_s": 38.0,
+            "end_s": 42.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.8305970421948548
+              },
+              {
+                "label": "G major",
+                "correlation": 0.7259783144548995
+              },
+              {
+                "label": "D major",
+                "correlation": 0.40102205929126566
+              }
+            ]
+          },
+          {
+            "start_s": 40.0,
+            "end_s": 44.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.818759128287674
+              },
+              {
+                "label": "G major",
+                "correlation": 0.6985504196091339
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.34075380005022227
+              }
+            ]
+          },
+          {
+            "start_s": 42.0,
+            "end_s": 46.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.7839998979254278
+              },
+              {
+                "label": "G major",
+                "correlation": 0.5882137969420633
+              },
+              {
+                "label": "A\u266f major",
+                "correlation": 0.29391370780933124
+              }
+            ]
+          },
+          {
+            "start_s": 44.0,
+            "end_s": 48.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.7492235274492182
+              },
+              {
+                "label": "G major",
+                "correlation": 0.646038159450809
+              },
+              {
+                "label": "C major",
+                "correlation": 0.30114207644447605
+              }
+            ]
+          },
+          {
+            "start_s": 46.0,
+            "end_s": 50.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.6564918147968929
+              },
+              {
+                "label": "G major",
+                "correlation": 0.5254251733626174
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.3275535224525166
+              }
+            ]
+          },
+          {
+            "start_s": 48.0,
+            "end_s": 52.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.668825171648556
+              },
+              {
+                "label": "G major",
+                "correlation": 0.49960572873001174
+              },
+              {
+                "label": "C minor",
+                "correlation": 0.4028837075751152
+              }
+            ]
+          },
+          {
+            "start_s": 50.0,
+            "end_s": 54.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.7994052681282183
+              },
+              {
+                "label": "G major",
+                "correlation": 0.7094858139085233
+              },
+              {
+                "label": "C major",
+                "correlation": 0.44627789618804026
+              }
+            ]
+          },
+          {
+            "start_s": 52.0,
+            "end_s": 56.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.841344669232274
+              },
+              {
+                "label": "G major",
+                "correlation": 0.7448192303401638
+              },
+              {
+                "label": "C major",
+                "correlation": 0.37782061011260404
+              }
+            ]
+          },
+          {
+            "start_s": 54.0,
+            "end_s": 58.0,
+            "top": [
+              {
+                "label": "G minor",
+                "correlation": 0.8192356938550213
+              },
+              {
+                "label": "G major",
+                "correlation": 0.7517742654097638
+              },
+              {
+                "label": "C major",
+                "correlation": 0.3802876402028936
+              }
+            ]
+          },
+          {
+            "start_s": 56.0,
+            "end_s": 60.0,
+            "top": [
+              {
+                "label": "G major",
+                "correlation": 0.7509068927711476
+              },
+              {
+                "label": "G minor",
+                "correlation": 0.6554783987615279
+              },
+              {
+                "label": "C major",
+                "correlation": 0.42679363761073513
+              }
+            ]
+          },
+          {
+            "start_s": 58.0,
+            "end_s": 62.0,
+            "top": [
+              {
+                "label": "G major",
+                "correlation": 0.5234902412659865
+              },
+              {
+                "label": "C major",
+                "correlation": 0.38874989382504577
+              },
+              {
+                "label": "A minor",
+                "correlation": 0.3344967455534163
+              }
+            ]
+          },
+          {
+            "start_s": 60.0,
+            "end_s": 64.0,
+            "top": [
+              {
+                "label": "A\u266f major",
+                "correlation": 0.6437561503670257
+              },
+              {
+                "label": "F major",
+                "correlation": 0.6210571984669118
+              },
+              {
+                "label": "D minor",
+                "correlation": 0.5273379880472224
+              }
+            ]
+          },
+          {
+            "start_s": 62.0,
+            "end_s": 66.0,
+            "top": [
+              {
+                "label": "F major",
+                "correlation": 0.5519806514527887
+              },
+              {
+                "label": "D minor",
+                "correlation": 0.5236547766397132
+              },
+              {
+                "label": "A\u266f major",
+                "correlation": 0.446955515607042
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

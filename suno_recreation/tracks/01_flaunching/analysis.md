@@ -52,6 +52,8 @@ Broad respellings are performance targets; they do not establish every vowel of 
 | 0–8s | C minor (0.61) | G major (0.42) |
 | 8–16s | G major (0.45) | C minor (0.38) |
 
+
+
 **Instrumentation and timbre — model interpretation:** The model identifies a synthetic bass foundation, bright keyboard/synth-like sounds and punchy percussion. “Electronic novelty jingle” is better supported than a specific band lineup. An actual guitar, acoustic drum kit or named synthesizer is unverified.
 
 **Production, sound effects, and edits:** The model reports cartoon-like boing/bleep sounds in the final seconds and possible subtle vocal processing. These effect identities are tentative. A brief stutter before the last title call is compatible with repeated ASR readings of an extra pickup. Visual lightning does not establish an audible thunder effect.

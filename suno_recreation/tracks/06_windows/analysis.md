@@ -76,6 +76,8 @@ Broad respellings are performance targets; they do not establish every vowel of 
 | 56–64s | G minor (0.71) | G minor (0.70) |
 | 64–67s | A minor (0.44) | F major (0.74) |
 
+**Overlapping-window sensitivity check:** G minor ranks first for most overlapping windows in both signals; a brief G-major profile appears around 32–38 s in both signals, with another near 56–60 s. A G-minor-leaning prompt with brighter passages is a testable approximation; the outro is less stable. The check uses 4-second windows at 2-second hops, so it tests whether the 8-second result depends on one fixed cut; these overlapping windows are still not musical phrase boundaries. Full rankings and caveats: [rolling_tonality.json](../../evidence/rolling_tonality.json) and [rolling_tonality.py](../../evidence/rolling_tonality.py).
+
 **Instrumentation and timbre — model interpretation:** Early/middle excerpts consistently suggest an electronic low line and bright synth backing. The last excerpt instead describes brass/woodwind-like stabs. It is safer to request short bright, slightly brassy synthetic accents than to claim a real brass or woodwind ensemble.
 
 **Production, sound effects, and edits:** Breathy inhalation/gasp-like sounds and abrupt dialogue interjections are reported in the middle. The final excerpt reports reverberant or broadcast-like texture, but its claims of tape hiss and provenance are not verified. Preserve short gaps and character changes; exact sampled sources and effect settings remain unknown.
@@ -93,7 +95,7 @@ The musical recipe adds explicit directions where the source analysis is incompl
 ## Paste into Suno: Styles
 
 ```text
-Playful theatrical window song, about 135 BPM, clear male English rhythmic speech-singing over a compact electronic groove. Keep a G-centered pitch collection with major/minor color flexible; section profiles favor G but do not settle the mode or chords. A recurring WIN-doh hook anchors fast architectural lists. Alternate sung calls with dry comic dialogue: Casement, Is that a casement, Yes a casement; give Obviously a lower deadpan delivery and Very good a brief spoken reply. Tight programmed percussion, simple synth bass, bright short slightly brassy keyboard stabs. Narrow vocal motifs and speech-like pitch changes, occasional brief breath or gasp accents. End firmly with Open the window, Shut it again. Around 67 seconds; keep all dialogue audible.
+Playful theatrical window song, about 135 BPM, clear male English rhythmic speech-singing over a compact electronic groove. Try a G-minor-leaning center with a brief brighter G-major color around 32–38 seconds; exact chords remain unverified. A recurring WIN-doh hook anchors fast architectural lists. Alternate sung calls with dry comic dialogue: Casement, Is that a casement, Yes a casement; give Obviously a lower deadpan delivery and Very good a brief spoken reply. Tight programmed percussion, simple synth bass, bright short slightly brassy keyboard stabs. Narrow vocal motifs and speech-like pitch changes, occasional brief breath or gasp accents. End firmly with Open the window, Shut it again. Around 67 seconds; keep all dialogue audible.
 ```
 
 ## Paste into Suno: Lyrics

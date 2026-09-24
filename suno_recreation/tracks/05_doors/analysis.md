@@ -78,6 +78,8 @@ Broad respellings are performance targets; they do not establish every vowel of 
 | 48–56s | F minor (0.63) | F minor (0.57) |
 | 56–64s | F minor (0.56) | F minor (0.65) |
 
+**Overlapping-window sensitivity check:** Overlapping windows soften the exact change: both signals favor F minor in the opening, show a transition around 14–18 s, favor C-centered profiles around 18–28 s (minor/major labels vary), and return to F-minor-like profiles near 28–32 s. Later windows contain weaker local variations. This supports testing a tonal contrast, not a proven chord progression. The check uses 4-second windows at 2-second hops, so it tests whether the 8-second result depends on one fixed cut; these overlapping windows are still not musical phrase boundaries. Full rankings and caveats: [rolling_tonality.json](../../evidence/rolling_tonality.json) and [rolling_tonality.py](../../evidence/rolling_tonality.py).
+
 **Instrumentation and timbre — model interpretation:** Multiple excerpts describe a synthetic bass/melodic backing and programmed percussion. The final excerpt additionally hears bright 8-bit-like arpeggiation and chime-like accents; these are timbral descriptions rather than confirmed console hardware or synthesis methods.
 
 **Production, sound effects, and edits:** Abrupt comic interruptions and a long punchline passage are visible in the structure. The model reports cartoon-like noises, short chimes and whooshes in the later portion. The 24–28-second vocal/effect event is still not reliably decoded; the safe recreation choice is a brief break, explicitly differing from an exact transcription.
@@ -97,7 +99,7 @@ The musical recipe adds explicit directions where the source analysis is incompl
 ## Paste into Suno: Styles
 
 ```text
-Comic electronic door chant, about 135 BPM. Upfront male English voice, crisp spoken-sung one-word door hook with a long rounded vowel, repeated on a compact pitch cell. Change the adjective pickups while keeping the door motif stable. Try an F-minor tonal home, briefly shifting toward C minor in the middle before returning; these are section-profile candidates, not verified chords. Simple synth bass and programmed drum groove, short bright keyboard stabs. Use dry spoken questions and answers, sudden small pauses, and a sharp cat flap interruption. Toward the end add a brief bright game-like arpeggio or chime texture, pause after and one more, then a drawn-out Dumbledore punchline and one final door. Roughly 65 seconds; no extra verses.
+Comic electronic door chant, about 135 BPM. Upfront male English voice, crisp spoken-sung one-word door hook with a long rounded vowel, repeated on a compact pitch cell. Change the adjective pickups while keeping the door motif stable. Try an F-minor-like opening, a C-centered middle around 18–28 seconds with minor/major color flexible, then a return toward F minor near the next door list; leave later harmony flexible. These are section-profile candidates, not verified chords. Simple synth bass and programmed drum groove, short bright keyboard stabs. Use dry spoken questions and answers, sudden small pauses, and a sharp cat flap interruption. Toward the end add a brief bright game-like arpeggio or chime texture, pause after and one more, then a drawn-out Dumbledore punchline and one final door. Roughly 65 seconds; no extra verses.
 ```
 
 ## Paste into Suno: Lyrics

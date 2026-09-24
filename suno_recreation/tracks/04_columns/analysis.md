@@ -66,6 +66,8 @@ Broad respellings are performance targets; they do not establish every vowel of 
 | 40–48s | D♯ major (0.69) | D♯ major (0.68) |
 | 48–54s | D♯ major (0.73) | A♯ major (0.78) |
 
+**Overlapping-window sensitivity check:** Overlapping windows repeatedly favor E-flat major, with B-flat major profiles recurring in the mix and in some backing windows. This strengthens an E-flat/B-flat major-leaning prompt experiment, but does not establish chords or harmonic function. The check uses 4-second windows at 2-second hops, so it tests whether the 8-second result depends on one fixed cut; these overlapping windows are still not musical phrase boundaries. Full rankings and caveats: [rolling_tonality.json](../../evidence/rolling_tonality.json) and [rolling_tonality.py](../../evidence/rolling_tonality.py).
+
 **Instrumentation and timbre — model interpretation:** At least a rhythmic low/percussive backing is indicated. One model excerpt hears drums, bass and synths; another hears beatboxing/sample-like percussion. Prefer a hybrid description—tight synthetic/vocal-like percussion and a low pulse—over claiming a live bass guitar or drum kit.
 
 **Production, sound effects, and edits:** Possible mild reverb or short delay on the voice. The final Palladio exclamation is followed by a sparse ending and a low percussive cue according to the short tail analysis. Specific delay times and effect devices are not known.
@@ -82,7 +84,7 @@ The musical recipe adds explicit directions where the source analysis is incompl
 ## Paste into Suno: Styles
 
 ```text
-Quirky theatrical male catalogue song, about 135 BPM, brisk straight rhythm. Precisely articulated short speech-sung lists contrast with broad sustained open-vowel Ah exclamations and elongated architectural names. Reuse the same compact motif for column, pilaster, fluted and capital sections. Light punchy electronic beat, low bass pulse, dry vocal-like percussion and sparse bright keyboard accents; keep the lead upfront. Try an E-flat/B-flat-centered, major-leaning palette but leave the exact mode and chord sequence flexible; this is a section-chroma experiment, not a confirmed key. Emphasise kuh-RIN-thee-un, eye-ON-ik and puh-LAH-dee-oh clearly. End with composite then Palladio and a short low percussive stop, roughly 54 seconds.
+Quirky theatrical male catalogue song, about 135 BPM, brisk straight rhythm. Precisely articulated short speech-sung lists contrast with broad sustained open-vowel Ah exclamations and elongated architectural names. Reuse the same compact motif for column, pilaster, fluted and capital sections. Light punchy electronic beat, low bass pulse, dry vocal-like percussion and sparse bright keyboard accents; keep the lead upfront. Try an E-flat-major-like pitch center with recurring B-flat-major color; leave exact chords and harmonic function flexible, since these are profile candidates rather than a score. Emphasise kuh-RIN-thee-un, eye-ON-ik and puh-LAH-dee-oh clearly. End with composite then Palladio and a short low percussive stop, roughly 54 seconds.
 ```
 
 ## Paste into Suno: Lyrics

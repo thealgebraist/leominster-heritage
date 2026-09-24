@@ -65,6 +65,8 @@ Broad respellings are performance targets; they do not establish every vowel of 
 | 24–32s | C major (0.59) | G major (0.55) |
 | 32–38s | C♯ minor (0.62) | F major (0.73) |
 
+
+
 **Instrumentation and timbre — model interpretation:** The final portion is described as an electronic beat and synthesized backing. The first portion is inconsistently described as nearly vocal-only, so backing prominence may be low or obscured by the voice. Use sparse synthetic low notes and short percussive accents as a conservative recipe; specific instrumental sources are unresolved.
 
 **Production, sound effects, and edits:** Abrupt emphasis, repeated vocal syllables and a short isolated final exclamation are supported by the transcript. Compression, doubling, and small room/reverb effects are model suggestions, not measured production settings. No named TV programme or original music source has been identified.

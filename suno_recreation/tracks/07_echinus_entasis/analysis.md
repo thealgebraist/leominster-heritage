@@ -52,6 +52,8 @@ Cambridge lists UK echinus /ekˈaɪ.nəs/ and US /ɪˈkaɪ.nəs/; [Wiktionary re
 | 8–16s | C minor (0.50) | G minor (0.52) |
 | 16–22s | B minor (0.35) | F major (0.55) |
 
+
+
 **Instrumentation and timbre — model interpretation:** The model identifies synthetic drum, bass and keyboard-like textures. It does not identify an acoustic lead instrument with adequate support. Keep the backing sparse enough to retain all three syllables of each technical word.
 
 **Production, sound effects, and edits:** A short swoosh-like sound near the ending is reported by the model. Digital/clean overall texture is plausible, but the exact processor is unknown. The most important audible form is the spaced repetition of the final line, supported by both recognizer passes.

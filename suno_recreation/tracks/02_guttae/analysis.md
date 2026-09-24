@@ -51,6 +51,8 @@ Broad respellings are performance targets; they do not establish every vowel of 
 | 8–16s | G major (0.46) | G major (0.59) |
 | 16–22s | C major (0.38) | F major (0.58) |
 
+
+
 **Instrumentation and timbre — model interpretation:** Electronic beat and low synthetic pulse are consistently reported. The vocal itself supplies much of the perceived rhythm; the model also hears boom-like vocalizations/grunts. No specific acoustic instruments are established.
 
 **Production, sound effects, and edits:** Stuttered/chopped repetitions and abrupt voice-like exclamations are central to the interpretation. The words versus grunts in the densest middle section remain uncertain. Keep effects short and rhythmically attached to the hook rather than adding a large cinematic transition.
