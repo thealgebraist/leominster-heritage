@@ -1,0 +1,653 @@
+{
+  "model": "vosk-model-small-en-us-0.15",
+  "sample_rate": 16000,
+  "chunks": [
+    {
+      "result": [
+        {
+          "conf": 0.488149,
+          "end": 0.66,
+          "start": 0.33,
+          "word": "though"
+        }
+      ],
+      "text": "though"
+    },
+    {
+      "result": [
+        {
+          "conf": 1.0,
+          "end": 1.77,
+          "start": 1.68,
+          "word": "the"
+        },
+        {
+          "conf": 1.0,
+          "end": 2.43,
+          "start": 1.77,
+          "word": "window"
+        },
+        {
+          "conf": 1.0,
+          "end": 4.35,
+          "start": 3.51,
+          "word": "window"
+        }
+      ],
+      "text": "the window window"
+    },
+    {
+      "result": [
+        {
+          "conf": 1.0,
+          "end": 7.47,
+          "start": 7.11,
+          "word": "money"
+        },
+        {
+          "conf": 0.654907,
+          "end": 7.68,
+          "start": 7.47,
+          "word": "on"
+        },
+        {
+          "conf": 1.0,
+          "end": 8.072944,
+          "start": 7.862944,
+          "word": "on"
+        },
+        {
+          "conf": 0.346865,
+          "end": 8.58,
+          "start": 8.28,
+          "word": "tell"
+        },
+        {
+          "conf": 0.89248,
+          "end": 9.12,
+          "start": 8.94,
+          "word": "me"
+        },
+        {
+          "conf": 0.768322,
+          "end": 9.81,
+          "start": 9.12,
+          "word": "general"
+        },
+        {
+          "conf": 0.531575,
+          "end": 10.35,
+          "start": 9.81,
+          "word": "dragons"
+        },
+        {
+          "conf": 0.421573,
+          "end": 10.59,
+          "start": 10.35,
+          "word": "are"
+        },
+        {
+          "conf": 0.607014,
+          "end": 10.92,
+          "start": 10.65,
+          "word": "boy"
+        },
+        {
+          "conf": 0.702969,
+          "end": 11.306913,
+          "start": 10.95,
+          "word": "down"
+        },
+        {
+          "conf": 0.832573,
+          "end": 11.49,
+          "start": 11.306913,
+          "word": "and"
+        },
+        {
+          "conf": 0.832573,
+          "end": 11.82,
+          "start": 11.49,
+          "word": "out"
+        },
+        {
+          "conf": 0.832573,
+          "end": 11.91,
+          "start": 11.82,
+          "word": "of"
+        },
+        {
+          "conf": 0.832573,
+          "end": 12.06,
+          "start": 11.91,
+          "word": "your"
+        },
+        {
+          "conf": 0.419301,
+          "end": 12.39,
+          "start": 12.071979,
+          "word": "got"
+        },
+        {
+          "conf": 0.946685,
+          "end": 12.75,
+          "start": 12.45,
+          "word": "money"
+        },
+        {
+          "conf": 1.0,
+          "end": 12.84,
+          "start": 12.75,
+          "word": "and"
+        },
+        {
+          "conf": 0.369436,
+          "end": 13.35,
+          "start": 12.84,
+          "word": "inevitably"
+        },
+        {
+          "conf": 0.341151,
+          "end": 13.440582,
+          "start": 13.35,
+          "word": "to"
+        },
+        {
+          "conf": 0.331667,
+          "end": 13.65,
+          "start": 13.440582,
+          "word": "hear"
+        },
+        {
+          "conf": 1.0,
+          "end": 13.77,
+          "start": 13.65905,
+          "word": "the"
+        },
+        {
+          "conf": 0.788484,
+          "end": 14.76,
+          "start": 14.28,
+          "word": "placement"
+        },
+        {
+          "conf": 0.93461,
+          "end": 15.896133,
+          "start": 15.75,
+          "word": "is"
+        },
+        {
+          "conf": 0.869368,
+          "end": 16.02,
+          "start": 15.9,
+          "word": "on"
+        },
+        {
+          "conf": 0.577414,
+          "end": 16.05,
+          "start": 16.02,
+          "word": "a"
+        },
+        {
+          "conf": 0.516105,
+          "end": 16.38,
+          "start": 16.05,
+          "word": "cage"
+        },
+        {
+          "conf": 0.516105,
+          "end": 16.59,
+          "start": 16.38,
+          "word": "match"
+        },
+        {
+          "conf": 0.787989,
+          "end": 17.52,
+          "start": 16.89,
+          "word": "yes"
+        },
+        {
+          "conf": 1.0,
+          "end": 17.82,
+          "start": 17.7,
+          "word": "a"
+        },
+        {
+          "conf": 1.0,
+          "end": 18.3,
+          "start": 17.82,
+          "word": "chinese"
+        },
+        {
+          "conf": 1.0,
+          "end": 18.69,
+          "start": 18.3,
+          "word": "man"
+        }
+      ],
+      "text": "money on on tell me general dragons are boy down and out of your got money and inevitably to hear the placement is on a cage match yes a chinese man"
+    },
+    {
+      "result": [
+        {
+          "conf": 1.0,
+          "end": 20.04,
+          "start": 19.68,
+          "word": "open"
+        },
+        {
+          "conf": 0.598257,
+          "end": 20.16,
+          "start": 20.04,
+          "word": "it"
+        },
+        {
+          "conf": 0.738909,
+          "end": 20.49,
+          "start": 20.16,
+          "word": "out"
+        },
+        {
+          "conf": 0.9647,
+          "end": 20.762091,
+          "start": 20.49,
+          "word": "shot"
+        },
+        {
+          "conf": 0.689302,
+          "end": 20.85,
+          "start": 20.762091,
+          "word": "a"
+        },
+        {
+          "conf": 0.689302,
+          "end": 21.06,
+          "start": 20.85,
+          "word": "dog"
+        },
+        {
+          "conf": 0.689302,
+          "end": 21.36,
+          "start": 21.06,
+          "word": "and"
+        },
+        {
+          "conf": 0.855674,
+          "end": 21.93,
+          "start": 21.72,
+          "word": "a"
+        },
+        {
+          "conf": 0.444751,
+          "end": 22.62,
+          "start": 22.38,
+          "word": "last"
+        },
+        {
+          "conf": 0.624902,
+          "end": 22.83,
+          "start": 22.62,
+          "word": "minute"
+        }
+      ],
+      "text": "open it out shot a dog and a last minute"
+    },
+    {
+      "result": [
+        {
+          "conf": 0.199447,
+          "end": 25.260244,
+          "start": 24.81,
+          "word": "gli"
+        },
+        {
+          "conf": 1.0,
+          "end": 26.37,
+          "start": 25.503021,
+          "word": "highlighting"
+        },
+        {
+          "conf": 0.225822,
+          "end": 27.901135,
+          "start": 27.54,
+          "word": "allies"
+        },
+        {
+          "conf": 0.475677,
+          "end": 28.14,
+          "start": 27.901135,
+          "word": "using"
+        },
+        {
+          "conf": 0.729986,
+          "end": 28.8,
+          "start": 28.5,
+          "word": "such"
+        },
+        {
+          "conf": 0.72343,
+          "end": 29.19,
+          "start": 28.801996,
+          "word": "both"
+        },
+        {
+          "conf": 0.965104,
+          "end": 29.7,
+          "start": 29.37,
+          "word": "sat"
+        },
+        {
+          "conf": 0.965104,
+          "end": 29.97,
+          "start": 29.7,
+          "word": "coms"
+        },
+        {
+          "conf": 1.0,
+          "end": 31.59,
+          "start": 31.26,
+          "word": "where's"
+        },
+        {
+          "conf": 1.0,
+          "end": 31.71,
+          "start": 31.59,
+          "word": "it"
+        },
+        {
+          "conf": 1.0,
+          "end": 32.16,
+          "start": 31.74,
+          "word": "gone"
+        },
+        {
+          "conf": 0.767727,
+          "end": 32.878356,
+          "start": 32.55,
+          "word": "up"
+        }
+      ],
+      "text": "gli highlighting allies using such both sat coms where's it gone up"
+    },
+    {
+      "result": [
+        {
+          "conf": 1.0,
+          "end": 35.361709,
+          "start": 33.99,
+          "word": "obviously"
+        },
+        {
+          "conf": 0.942612,
+          "end": 36.27,
+          "start": 35.73,
+          "word": "window"
+        },
+        {
+          "conf": 0.597207,
+          "end": 36.51,
+          "start": 36.27,
+          "word": "and"
+        },
+        {
+          "conf": 0.401227,
+          "end": 36.72,
+          "start": 36.51,
+          "word": "all"
+        },
+        {
+          "conf": 0.447897,
+          "end": 37.23,
+          "start": 36.93,
+          "word": "our"
+        },
+        {
+          "conf": 0.687757,
+          "end": 37.71,
+          "start": 37.250925,
+          "word": "knowledge"
+        },
+        {
+          "conf": 0.312312,
+          "end": 39.9,
+          "start": 39.54,
+          "word": "like"
+        },
+        {
+          "conf": 0.595909,
+          "end": 40.86,
+          "start": 39.986001,
+          "word": "sidelined"
+        },
+        {
+          "conf": 0.474934,
+          "end": 42.754622,
+          "start": 42.66,
+          "word": "by"
+        },
+        {
+          "conf": 0.499116,
+          "end": 42.9,
+          "start": 42.754622,
+          "word": "bay"
+        },
+        {
+          "conf": 0.915002,
+          "end": 43.41,
+          "start": 42.9,
+          "word": "window"
+        }
+      ],
+      "text": "obviously window and all our knowledge like sidelined by bay window"
+    },
+    {
+      "result": [
+        {
+          "conf": 0.326229,
+          "end": 43.98,
+          "start": 43.68,
+          "word": "we"
+        },
+        {
+          "conf": 0.649146,
+          "end": 44.43,
+          "start": 43.9836,
+          "word": "no"
+        },
+        {
+          "conf": 0.825663,
+          "end": 44.91,
+          "start": 44.67,
+          "word": "one"
+        },
+        {
+          "conf": 1.0,
+          "end": 45.152369,
+          "start": 44.915229,
+          "word": "does"
+        },
+        {
+          "conf": 0.684978,
+          "end": 45.33,
+          "start": 45.152369,
+          "word": "a"
+        },
+        {
+          "conf": 0.638517,
+          "end": 46.14,
+          "start": 45.9,
+          "word": "lot"
+        },
+        {
+          "conf": 0.301919,
+          "end": 46.177123,
+          "start": 46.14,
+          "word": "it's"
+        },
+        {
+          "conf": 0.95609,
+          "end": 46.23,
+          "start": 46.177123,
+          "word": "a"
+        },
+        {
+          "conf": 1.0,
+          "end": 46.95,
+          "start": 46.353918,
+          "word": "lie"
+        }
+      ],
+      "text": "we no one does a lot it's a lie"
+    },
+    {
+      "result": [
+        {
+          "conf": 1.0,
+          "end": 48.24,
+          "start": 47.82,
+          "word": "very"
+        },
+        {
+          "conf": 1.0,
+          "end": 48.69,
+          "start": 48.24,
+          "word": "good"
+        }
+      ],
+      "text": "very good"
+    },
+    {
+      "result": [
+        {
+          "conf": 0.401413,
+          "end": 50.55,
+          "start": 50.34,
+          "word": "mine"
+        },
+        {
+          "conf": 0.897846,
+          "end": 51.69,
+          "start": 51.57,
+          "word": "is"
+        },
+        {
+          "conf": 0.427549,
+          "end": 51.81,
+          "start": 51.69,
+          "word": "not"
+        },
+        {
+          "conf": 0.97198,
+          "end": 51.84,
+          "start": 51.81,
+          "word": "a"
+        },
+        {
+          "conf": 1.0,
+          "end": 52.2,
+          "start": 51.840842,
+          "word": "case"
+        },
+        {
+          "conf": 0.624189,
+          "end": 52.44,
+          "start": 52.2,
+          "word": "may"
+        },
+        {
+          "conf": 0.624189,
+          "end": 52.8,
+          "start": 52.56,
+          "word": "be"
+        },
+        {
+          "conf": 1.0,
+          "end": 53.37,
+          "start": 52.8,
+          "word": "as"
+        },
+        {
+          "conf": 1.0,
+          "end": 54.9,
+          "start": 54.57,
+          "word": "bad"
+        }
+      ],
+      "text": "mine is not a case may be as bad"
+    },
+    {
+      "result": [
+        {
+          "conf": 0.70569,
+          "end": 58.35,
+          "start": 58.14,
+          "word": "one"
+        },
+        {
+          "conf": 0.70569,
+          "end": 58.659683,
+          "start": 58.35,
+          "word": "day"
+        },
+        {
+          "conf": 0.973931,
+          "end": 59.55,
+          "start": 59.01,
+          "word": "friends"
+        },
+        {
+          "conf": 0.482324,
+          "end": 59.7,
+          "start": 59.55,
+          "word": "are"
+        },
+        {
+          "conf": 0.774565,
+          "end": 60.57,
+          "start": 59.94,
+          "word": "pay"
+        },
+        {
+          "conf": 0.787461,
+          "end": 61.352985,
+          "start": 61.172856,
+          "word": "no"
+        },
+        {
+          "conf": 0.60987,
+          "end": 61.495276,
+          "start": 61.352985,
+          "word": "way"
+        },
+        {
+          "conf": 0.50192,
+          "end": 61.89,
+          "start": 61.549263,
+          "word": "now"
+        },
+        {
+          "conf": 1.0,
+          "end": 63.78,
+          "start": 63.45,
+          "word": "shot"
+        },
+        {
+          "conf": 0.595428,
+          "end": 63.884971,
+          "start": 63.800354,
+          "word": "it"
+        },
+        {
+          "conf": 0.707131,
+          "end": 64.5,
+          "start": 63.884971,
+          "word": "again"
+        }
+      ],
+      "text": "one day friends are pay no way now shot it again"
+    }
+  ],
+  "transcript": "though the window window money on on tell me general dragons are boy down and out of your got money and inevitably to hear the placement is on a cage match yes a chinese man open it out shot a dog and a last minute gli highlighting allies using such both sat coms where's it gone up obviously window and all our knowledge like sidelined by bay window we no one does a lot it's a lie very good mine is not a case may be as bad one day friends are pay no way now shot it again",
+  "runtime_s": 4.389,
+  "provenance": "Offline recognizer, unconstrained vocabulary; raw hypothesis, not corrected."
+}

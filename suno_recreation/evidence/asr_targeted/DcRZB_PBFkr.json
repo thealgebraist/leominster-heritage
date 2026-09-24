@@ -1,0 +1,201 @@
+[
+  {
+    "start": 7,
+    "end": 11,
+    "result": {
+      "text": " Mullion, mullion, mullion, mullion, mullion, brace,",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 4.0,
+          "text": " Mullion, mullion, mullion, mullion, mullion, brace,",
+          "tokens": [
+            50365,
+            376,
+            858,
+            313,
+            11,
+            275,
+            858,
+            313,
+            11,
+            275,
+            858,
+            313,
+            11,
+            275,
+            858,
+            313,
+            11,
+            275,
+            858,
+            313,
+            11,
+            38458,
+            11,
+            50565
+          ],
+          "temperature": 0.4,
+          "avg_logprob": -0.3088498115539551,
+          "compression_ratio": 1.9615384615384615,
+          "no_speech_prob": 1.9830190822744953e-09
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "start": 10.5,
+    "end": 15,
+    "result": {
+      "text": " Price, price, price, price, price, price, price, price, price, price, catrefoil.",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 4.5,
+          "text": " Price, price, price, price, price, price, price, price, price, price, catrefoil.",
+          "tokens": [
+            50365,
+            25803,
+            11,
+            3218,
+            11,
+            3218,
+            11,
+            3218,
+            11,
+            3218,
+            11,
+            3218,
+            11,
+            3218,
+            11,
+            3218,
+            11,
+            3218,
+            11,
+            3218,
+            11,
+            3857,
+            265,
+            16931,
+            388,
+            13,
+            50590
+          ],
+          "temperature": 0.4,
+          "avg_logprob": -0.39964914321899414,
+          "compression_ratio": 2.857142857142857,
+          "no_speech_prob": 1.657339820937409e-09
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "start": 14.5,
+    "end": 20,
+    "result": {
+      "text": " Cutterfoil, cutterfoil, quoin, quoin, quoin, quoin, quoin, quoin, quoin, quoin, string course, string course, buttress.",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 5.5,
+          "text": " Cutterfoil, cutterfoil, quoin, quoin, quoin, quoin, quoin, quoin, quoin, quoin, string course, string course, buttress.",
+          "tokens": [
+            50365,
+            9431,
+            391,
+            16931,
+            388,
+            11,
+            1723,
+            391,
+            16931,
+            388,
+            11,
+            421,
+            14312,
+            11,
+            421,
+            14312,
+            11,
+            421,
+            14312,
+            11,
+            421,
+            14312,
+            11,
+            421,
+            14312,
+            11,
+            421,
+            14312,
+            11,
+            421,
+            14312,
+            11,
+            421,
+            14312,
+            11,
+            6798,
+            1164,
+            11,
+            6798,
+            1164,
+            11,
+            6660,
+            735,
+            13,
+            50640
+          ],
+          "temperature": 0.4,
+          "avg_logprob": -0.2547534237737241,
+          "compression_ratio": 2.2452830188679247,
+          "no_speech_prob": 8.25529589132401e-10
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "start": 19.5,
+    "end": 25,
+    "result": {
+      "text": " Buttress, buttress, buttress!",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 5.5,
+          "text": " Buttress, buttress, buttress!",
+          "tokens": [
+            50365,
+            40801,
+            735,
+            11,
+            6660,
+            735,
+            11,
+            6660,
+            735,
+            0,
+            50640
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.4122742811838786,
+          "compression_ratio": 1.3181818181818181,
+          "no_speech_prob": 1.1112605280416687e-09
+        }
+      ],
+      "language": "en"
+    }
+  }
+]

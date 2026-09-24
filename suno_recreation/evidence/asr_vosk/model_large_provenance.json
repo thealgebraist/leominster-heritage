@@ -1,0 +1,11 @@
+{
+  "name": "vosk-model-en-us-0.22",
+  "download": "https://alphacephei.com/vosk/models/vosk-model-en-us-0.22.zip",
+  "source": "https://github.com/alphacep/vosk-space/blob/master/models.md",
+  "sha256": "47f9a81ebb039dbb0bd319175c36ac393c0893b796c2b6303e64cf58c27b69f6",
+  "archive_bytes": 1913365522,
+  "expanded_bytes": 2865977882,
+  "license_as_listed": "Apache 2.0",
+  "unpacked_path": "vosk_model/vosk-model-en-us-0.22",
+  "note": "Large generic US English model; its published word-error benchmarks are on clean speech. Unconstrained offline transcription of this project was run as a comparison; acoustic fit to UK music-backed chants is not assumed."
+}

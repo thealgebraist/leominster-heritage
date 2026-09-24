@@ -1,0 +1,335 @@
+[
+  {
+    "offset": 0.0,
+    "result": {
+      "text": " Echinus entasis, Echinus entasis, a bulbous and a gently swelling shaft. Echinus entasis.",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 6.12,
+          "text": " Echinus entasis, Echinus entasis, a bulbous and a gently swelling shaft.",
+          "tokens": [
+            50365,
+            462,
+            32167,
+            301,
+            948,
+            26632,
+            11,
+            462,
+            32167,
+            301,
+            948,
+            26632,
+            11,
+            257,
+            21122,
+            563,
+            293,
+            257,
+            13073,
+            33127,
+            18467,
+            13,
+            50703
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.36911123991012573,
+          "compression_ratio": 1.3692307692307693,
+          "no_speech_prob": 6.608694841370166e-11,
+          "words": [
+            {
+              "word": " Echinus",
+              "start": 0.0,
+              "end": 0.68,
+              "probability": 0.81787109375
+            },
+            {
+              "word": " entasis,",
+              "start": 0.68,
+              "end": 1.52,
+              "probability": 0.46875
+            },
+            {
+              "word": " Echinus",
+              "start": 1.68,
+              "end": 2.44,
+              "probability": 0.81982421875
+            },
+            {
+              "word": " entasis,",
+              "start": 2.44,
+              "end": 3.3,
+              "probability": 0.9921875
+            },
+            {
+              "word": " a",
+              "start": 3.5,
+              "end": 3.72,
+              "probability": 0.51611328125
+            },
+            {
+              "word": " bulbous",
+              "start": 3.72,
+              "end": 4.18,
+              "probability": 0.89013671875
+            },
+            {
+              "word": " and",
+              "start": 4.18,
+              "end": 4.46,
+              "probability": 0.9580078125
+            },
+            {
+              "word": " a",
+              "start": 4.46,
+              "end": 4.62,
+              "probability": 0.97314453125
+            },
+            {
+              "word": " gently",
+              "start": 4.62,
+              "end": 4.98,
+              "probability": 0.98046875
+            },
+            {
+              "word": " swelling",
+              "start": 4.98,
+              "end": 5.38,
+              "probability": 0.82861328125
+            },
+            {
+              "word": " shaft.",
+              "start": 5.38,
+              "end": 6.12,
+              "probability": 0.91796875
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 6.86,
+          "end": 8.48,
+          "text": " Echinus entasis.",
+          "tokens": [
+            50708,
+            462,
+            32167,
+            301,
+            948,
+            26632,
+            13,
+            50789
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.36911123991012573,
+          "compression_ratio": 1.3692307692307693,
+          "no_speech_prob": 6.608694841370166e-11,
+          "words": [
+            {
+              "word": " Echinus",
+              "start": 6.86,
+              "end": 7.66,
+              "probability": 0.98193359375
+            },
+            {
+              "word": " entasis.",
+              "start": 7.66,
+              "end": 8.48,
+              "probability": 0.93359375
+            }
+          ]
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "offset": 7.5,
+    "result": {
+      "text": " Entosis, a bulbous and a gently swelling shaft A gently swelling shaft",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 4.02,
+          "text": " Entosis, a bulbous and a gently swelling shaft",
+          "tokens": [
+            50365,
+            3951,
+            8211,
+            11,
+            257,
+            21122,
+            563,
+            293,
+            257,
+            13073,
+            33127,
+            18467,
+            50590
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.3661845922470093,
+          "compression_ratio": 1.2280701754385965,
+          "no_speech_prob": 8.10694983366389e-11,
+          "words": [
+            {
+              "word": " Entosis,",
+              "start": 0.0,
+              "end": 1.08,
+              "probability": 0.60888671875
+            },
+            {
+              "word": " a",
+              "start": 1.5,
+              "end": 1.5,
+              "probability": 0.9365234375
+            },
+            {
+              "word": " bulbous",
+              "start": 1.5,
+              "end": 2.02,
+              "probability": 0.8154296875
+            },
+            {
+              "word": " and",
+              "start": 2.02,
+              "end": 2.22,
+              "probability": 0.82568359375
+            },
+            {
+              "word": " a",
+              "start": 2.22,
+              "end": 2.38,
+              "probability": 0.97705078125
+            },
+            {
+              "word": " gently",
+              "start": 2.38,
+              "end": 2.76,
+              "probability": 0.9755859375
+            },
+            {
+              "word": " swelling",
+              "start": 2.76,
+              "end": 3.16,
+              "probability": 0.95947265625
+            },
+            {
+              "word": " shaft",
+              "start": 3.16,
+              "end": 4.02,
+              "probability": 0.87109375
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 4.02,
+          "end": 7.28,
+          "text": " A gently swelling shaft",
+          "tokens": [
+            50590,
+            316,
+            13073,
+            33127,
+            18467,
+            50730
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.3661845922470093,
+          "compression_ratio": 1.2280701754385965,
+          "no_speech_prob": 8.10694983366389e-11,
+          "words": [
+            {
+              "word": " A",
+              "start": 4.02,
+              "end": 5.06,
+              "probability": 0.39306640625
+            },
+            {
+              "word": " gently",
+              "start": 5.06,
+              "end": 5.54,
+              "probability": 0.97802734375
+            },
+            {
+              "word": " swelling",
+              "start": 5.54,
+              "end": 6.5,
+              "probability": 0.99853515625
+            },
+            {
+              "word": " shaft",
+              "start": 6.5,
+              "end": 7.28,
+              "probability": 0.97607421875
+            }
+          ]
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "offset": 15.5,
+    "result": {
+      "text": " A gently swirling shaft",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 2.74,
+          "text": " A gently swirling shaft",
+          "tokens": [
+            50365,
+            316,
+            13073,
+            30310,
+            278,
+            18467,
+            50504
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.3795439898967743,
+          "compression_ratio": 0.7419354838709677,
+          "no_speech_prob": 5.769574401570665e-11,
+          "words": [
+            {
+              "word": " A",
+              "start": 0.0,
+              "end": 1.42,
+              "probability": 0.5634765625
+            },
+            {
+              "word": " gently",
+              "start": 1.42,
+              "end": 1.84,
+              "probability": 0.97705078125
+            },
+            {
+              "word": " swirling",
+              "start": 1.84,
+              "end": 2.34,
+              "probability": 0.9638671875
+            },
+            {
+              "word": " shaft",
+              "start": 2.34,
+              "end": 2.74,
+              "probability": 0.984375
+            }
+          ]
+        }
+      ],
+      "language": "en"
+    }
+  }
+]

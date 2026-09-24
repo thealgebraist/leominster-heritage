@@ -1,0 +1,14 @@
+{
+  "job": {
+    "audio": "/Users/anders/projects/barge/suno_recreation/evidence/stems/bargeboard_backing.wav",
+    "start": 0,
+    "end": 15,
+    "normalize": true,
+    "prompt": "Describe only the audible backing music: rhythm, bass, pitched instruments, timbre and sound effects. Is the sound mainly electronic synthesizers, acoustic instruments, vocal noises, or a mixture? Do not invent lyrics or where the audio came from. State uncertainty when the instrument is unclear.",
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/bargeboard_backing.json"
+  },
+  "model": "RumiLabs/MOSS-Audio-4B-Thinking-MLX-4bit",
+  "response": "The audio features an electronic dance music track characterized by a steady four-on-the-floor beat, a repetitive synth bassline, and bright, staccato synthesizer melodies. The timbre is distinctly electronic, leaning towards pop/dance EDM. The sound effects are primarily rhythmic and musical rather than environmental. It is mainly electronic synthesizers.",
+  "generation_s": 3.9072208404541016,
+  "status": "machine interpretation; separated stems may contain artifacts"
+}

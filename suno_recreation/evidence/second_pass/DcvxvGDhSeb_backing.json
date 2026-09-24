@@ -1,0 +1,14 @@
+{
+  "job": {
+    "audio": "/Users/anders/projects/barge/suno_recreation/evidence/stems/DcvxvGDhSeb_backing.wav",
+    "start": 0,
+    "end": 15,
+    "normalize": true,
+    "prompt": "Describe only the audible backing music: rhythm, bass, pitched instruments, timbre and sound effects. Is the sound mainly electronic synthesizers, acoustic instruments, vocal noises, or a mixture? Do not invent lyrics or where the audio came from. State uncertainty when the instrument is unclear.",
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/DcvxvGDhSeb_backing.json"
+  },
+  "model": "RumiLabs/MOSS-Audio-4B-Thinking-MLX-4bit",
+  "response": "The audio consists of a short instrumental piece characterized by an upbeat, repetitive funk or disco groove. The rhythm is driven by electronic drums, the bassline is prominent and melodic, and there are staccato, synth-like lead melodies. The timbre is primarily electronic, though the bass sounds like it could be an electric bass guitar recorded directly into the mix. The sound effects include short bursts of synthesized sounds, possibly imitating brass instruments or bells, adding to the rhythmic texture. The track features no vocals. It seems to be an excerpt from a longer piece, ending abruptly mid-phrase.",
+  "generation_s": 5.762141227722168,
+  "status": "machine interpretation; separated stems may contain artifacts"
+}

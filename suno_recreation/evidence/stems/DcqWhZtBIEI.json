@@ -1,0 +1,15 @@
+{
+  "source": "account_mp4/DcqWhZtBIEI.mp4",
+  "model": "torchaudio HDEMUCS_HIGH_MUSDB_PLUS",
+  "sources": [
+    "drums",
+    "bass",
+    "other",
+    "vocals"
+  ],
+  "seconds": 67.0374149659864,
+  "runtime_s": 10.52886414527893,
+  "residual_rms": 0.009563395753502846,
+  "mix_rms": 0.14229372143745422,
+  "warning": "Estimated stems may leak voice into backing and instruments into vocals; not original multitracks."
+}

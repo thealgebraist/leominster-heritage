@@ -1,0 +1,86 @@
+{
+  "method": "pYIN on estimated vocal stem, 8kHz, 1024 frame, 128 hop, f0 65-700 Hz; retain voiced probability >=0.7 and audible RMS",
+  "warning": "Model-separated vocal may contain instruments; pYIN may choose octave errors and excludes unvoiced/uncertain frames. Quantiles describe retained frames, not scored melody or true vocal range.",
+  "retained_fraction": 0.002946127946127946,
+  "phrases": [
+    {
+      "time": "0.0\u20133.5",
+      "words": "Corbel, corbel, corbel, corbel / Bargeboard, bargeboard.",
+      "retained_seconds": 0.05,
+      "retained_fraction": 0.01
+    },
+    {
+      "time": "3.6\u20137.0",
+      "words": "Corbel, corbel, corbel, corbel / Bargeboard, bargeboard.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "7.1\u201310.7",
+      "words": "Mullion repeated [approximately four calls].",
+      "retained_seconds": 0.05,
+      "retained_fraction": 0.01
+    },
+    {
+      "time": "10.7\u201314.5",
+      "words": "Brace repeated [rapid calls; exact count unresolved].",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "14.6\u201316.3",
+      "words": "Quatrefoil, quatrefoil.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "16.4\u201318.1",
+      "words": "Quoin repeated [exact count unresolved].",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "18.2\u201319.7",
+      "words": "String course, string course.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "19.8\u201324.7",
+      "words": "Buttress repeated [approximately three calls].",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "24.7\u201328.5",
+      "words": "Corbel, corbel, corbel, corbel / Bargeboard, bargeboard.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "28.5\u201330.1",
+      "words": "Mullion, mullion.",
+      "retained_seconds": 0.02,
+      "retained_fraction": 0.01
+    },
+    {
+      "time": "30.1\u201332.0",
+      "words": "Brace, brace.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "32.0\u201333.0",
+      "words": "Finial!",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "33.0\u201338.0",
+      "words": "Musical/end-card tail; no further reliable words recovered.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    }
+  ],
+  "runtime_s": 0.5533771514892578
+}

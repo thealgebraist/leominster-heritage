@@ -1,0 +1,790 @@
+{
+  "text": " Column, column, Doric column, Tuscan, Tuscan Column, column, Doric column, Tuscan, Tuscan Ah, Corinthian, Ionic, Ionic Biloster, piloster, Doric, piloster, capital, capital Biloster, piloster, Doric, piloster, capital, capital Ah, Palladio, Ionic, Ionic Fluted, fluted, Doric column, Tuscan, Tuscan Fluted, fluted, dory column, Tuscan, Tuscan Ah, Corinthian Ionic, Ionic Capital, capital, Corinthian Shaft, shaft Capital, capital, Corinthian Shaft, shaft Ah, composite Palladio",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.22,
+      "text": " Column, column, Doric column, Tuscan, Tuscan",
+      "tokens": [
+        50365,
+        4004,
+        16449,
+        11,
+        7738,
+        11,
+        13643,
+        299,
+        7738,
+        11,
+        42026,
+        7035,
+        11,
+        42026,
+        7035,
+        50523
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.18083768277554899,
+      "compression_ratio": 2.709090909090909,
+      "no_speech_prob": 1.514865594076653e-10,
+      "words": [
+        {
+          "word": " Column,",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.7275390625
+        },
+        {
+          "word": " column,",
+          "start": 0.54,
+          "end": 0.76,
+          "probability": 0.638671875
+        },
+        {
+          "word": " Doric",
+          "start": 1.0,
+          "end": 1.38,
+          "probability": 0.72119140625
+        },
+        {
+          "word": " column,",
+          "start": 1.38,
+          "end": 1.66,
+          "probability": 0.5380859375
+        },
+        {
+          "word": " Tuscan,",
+          "start": 1.88,
+          "end": 2.28,
+          "probability": 0.9345703125
+        },
+        {
+          "word": " Tuscan",
+          "start": 2.56,
+          "end": 3.22,
+          "probability": 0.9951171875
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 3.22,
+      "end": 6.86,
+      "text": " Column, column, Doric column, Tuscan, Tuscan",
+      "tokens": [
+        50523,
+        4004,
+        16449,
+        11,
+        7738,
+        11,
+        13643,
+        299,
+        7738,
+        11,
+        42026,
+        7035,
+        11,
+        42026,
+        7035,
+        50703
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.18083768277554899,
+      "compression_ratio": 2.709090909090909,
+      "no_speech_prob": 1.514865594076653e-10,
+      "words": [
+        {
+          "word": " Column,",
+          "start": 3.22,
+          "end": 4.0,
+          "probability": 0.64453125
+        },
+        {
+          "word": " column,",
+          "start": 4.1,
+          "end": 4.34,
+          "probability": 0.849609375
+        },
+        {
+          "word": " Doric",
+          "start": 4.56,
+          "end": 4.94,
+          "probability": 0.99609375
+        },
+        {
+          "word": " column,",
+          "start": 4.94,
+          "end": 5.22,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " Tuscan,",
+          "start": 5.42,
+          "end": 5.86,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " Tuscan",
+          "start": 6.12,
+          "end": 6.86,
+          "probability": 0.998046875
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 6.86,
+      "end": 12.04,
+      "text": " Ah, Corinthian, Ionic, Ionic",
+      "tokens": [
+        50703,
+        2438,
+        11,
+        29455,
+        952,
+        11,
+        286,
+        11630,
+        11,
+        286,
+        11630,
+        50968
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.18083768277554899,
+      "compression_ratio": 2.709090909090909,
+      "no_speech_prob": 1.514865594076653e-10,
+      "words": [
+        {
+          "word": " Ah,",
+          "start": 6.86,
+          "end": 7.36,
+          "probability": 0.32958984375
+        },
+        {
+          "word": " Corinthian,",
+          "start": 8.56,
+          "end": 9.76,
+          "probability": 0.9716796875
+        },
+        {
+          "word": " Ionic,",
+          "start": 10.7,
+          "end": 11.1,
+          "probability": 0.8623046875
+        },
+        {
+          "word": " Ionic",
+          "start": 11.26,
+          "end": 12.04,
+          "probability": 0.95751953125
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 12.04,
+      "end": 15.02,
+      "text": " Biloster, piloster, Doric, piloster, capital, capital",
+      "tokens": [
+        50968,
+        22879,
+        7096,
+        11,
+        6429,
+        7096,
+        11,
+        13643,
+        299,
+        11,
+        6429,
+        7096,
+        11,
+        4238,
+        11,
+        4238,
+        51122
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.18083768277554899,
+      "compression_ratio": 2.709090909090909,
+      "no_speech_prob": 1.514865594076653e-10,
+      "words": [
+        {
+          "word": " Biloster,",
+          "start": 12.04,
+          "end": 12.76,
+          "probability": 0.397216796875
+        },
+        {
+          "word": " piloster,",
+          "start": 12.86,
+          "end": 13.22,
+          "probability": 0.85546875
+        },
+        {
+          "word": " Doric,",
+          "start": 13.4,
+          "end": 13.72,
+          "probability": 0.99072265625
+        },
+        {
+          "word": " piloster,",
+          "start": 13.76,
+          "end": 14.14,
+          "probability": 0.95849609375
+        },
+        {
+          "word": " capital,",
+          "start": 14.36,
+          "end": 14.56,
+          "probability": 0.73291015625
+        },
+        {
+          "word": " capital",
+          "start": 14.76,
+          "end": 15.02,
+          "probability": 0.98828125
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 15.739999999999998,
+      "end": 18.56,
+      "text": " Biloster, piloster, Doric, piloster, capital, capital",
+      "tokens": [
+        51122,
+        22879,
+        7096,
+        11,
+        6429,
+        7096,
+        11,
+        13643,
+        299,
+        11,
+        6429,
+        7096,
+        11,
+        4238,
+        11,
+        4238,
+        51300
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.18083768277554899,
+      "compression_ratio": 2.709090909090909,
+      "no_speech_prob": 1.514865594076653e-10,
+      "words": [
+        {
+          "word": " Biloster,",
+          "start": 15.739999999999998,
+          "end": 16.32,
+          "probability": 0.97314453125
+        },
+        {
+          "word": " piloster,",
+          "start": 16.46,
+          "end": 16.78,
+          "probability": 0.994140625
+        },
+        {
+          "word": " Doric,",
+          "start": 16.94,
+          "end": 17.28,
+          "probability": 0.9853515625
+        },
+        {
+          "word": " piloster,",
+          "start": 17.32,
+          "end": 17.7,
+          "probability": 0.9931640625
+        },
+        {
+          "word": " capital,",
+          "start": 17.84,
+          "end": 18.1,
+          "probability": 0.99609375
+        },
+        {
+          "word": " capital",
+          "start": 18.3,
+          "end": 18.56,
+          "probability": 0.99658203125
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 18.56,
+      "end": 24.54,
+      "text": " Ah, Palladio, Ionic, Ionic",
+      "tokens": [
+        51300,
+        2438,
+        11,
+        430,
+        336,
+        345,
+        1004,
+        11,
+        286,
+        11630,
+        11,
+        286,
+        11630,
+        51591
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.18083768277554899,
+      "compression_ratio": 2.709090909090909,
+      "no_speech_prob": 1.514865594076653e-10,
+      "words": [
+        {
+          "word": " Ah,",
+          "start": 18.56,
+          "end": 19.36,
+          "probability": 0.9619140625
+        },
+        {
+          "word": " Palladio,",
+          "start": 21.12,
+          "end": 22.14,
+          "probability": 0.96728515625
+        },
+        {
+          "word": " Ionic,",
+          "start": 23.14,
+          "end": 23.5,
+          "probability": 0.994140625
+        },
+        {
+          "word": " Ionic",
+          "start": 23.72,
+          "end": 24.54,
+          "probability": 0.9951171875
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 24.54,
+      "end": 28.06,
+      "text": " Fluted, fluted, Doric column, Tuscan, Tuscan",
+      "tokens": [
+        51591,
+        3235,
+        4866,
+        11,
+        932,
+        4866,
+        11,
+        13643,
+        299,
+        7738,
+        11,
+        42026,
+        7035,
+        11,
+        42026,
+        7035,
+        51770
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.18083768277554899,
+      "compression_ratio": 2.709090909090909,
+      "no_speech_prob": 1.514865594076653e-10,
+      "words": [
+        {
+          "word": " Fluted,",
+          "start": 24.54,
+          "end": 25.32,
+          "probability": 0.98095703125
+        },
+        {
+          "word": " fluted,",
+          "start": 25.46,
+          "end": 25.72,
+          "probability": 0.97119140625
+        },
+        {
+          "word": " Doric",
+          "start": 25.84,
+          "end": 26.3,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " column,",
+          "start": 26.3,
+          "end": 26.6,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " Tuscan,",
+          "start": 26.78,
+          "end": 27.22,
+          "probability": 0.998046875
+        },
+        {
+          "word": " Tuscan",
+          "start": 27.48,
+          "end": 28.06,
+          "probability": 0.9990234375
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 2806,
+      "start": 28.06,
+      "end": 31.76,
+      "text": " Fluted, fluted, dory column, Tuscan, Tuscan",
+      "tokens": [
+        50365,
+        3235,
+        4866,
+        11,
+        932,
+        4866,
+        11,
+        274,
+        827,
+        7738,
+        11,
+        42026,
+        7035,
+        11,
+        42026,
+        7035,
+        50546
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.31076946258544924,
+      "compression_ratio": 1.679245283018868,
+      "no_speech_prob": 1.1572263286518947e-10,
+      "words": [
+        {
+          "word": " Fluted,",
+          "start": 28.06,
+          "end": 28.86,
+          "probability": 0.87890625
+        },
+        {
+          "word": " fluted,",
+          "start": 29.0,
+          "end": 29.34,
+          "probability": 0.9716796875
+        },
+        {
+          "word": " dory",
+          "start": 29.54,
+          "end": 29.74,
+          "probability": 0.50439453125
+        },
+        {
+          "word": " column,",
+          "start": 29.74,
+          "end": 30.12,
+          "probability": 0.55859375
+        },
+        {
+          "word": " Tuscan,",
+          "start": 30.34,
+          "end": 30.76,
+          "probability": 0.7509765625
+        },
+        {
+          "word": " Tuscan",
+          "start": 31.1,
+          "end": 31.76,
+          "probability": 0.998046875
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2806,
+      "start": 31.76,
+      "end": 34.58,
+      "text": " Ah, Corinthian",
+      "tokens": [
+        50546,
+        2438,
+        11,
+        29455,
+        952,
+        50692
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.31076946258544924,
+      "compression_ratio": 1.679245283018868,
+      "no_speech_prob": 1.1572263286518947e-10,
+      "words": [
+        {
+          "word": " Ah,",
+          "start": 31.76,
+          "end": 32.3,
+          "probability": 0.341552734375
+        },
+        {
+          "word": " Corinthian",
+          "start": 33.48,
+          "end": 34.58,
+          "probability": 0.9853515625
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2806,
+      "start": 34.58,
+      "end": 36.92,
+      "text": " Ionic, Ionic",
+      "tokens": [
+        50692,
+        286,
+        11630,
+        11,
+        286,
+        11630,
+        50810
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.31076946258544924,
+      "compression_ratio": 1.679245283018868,
+      "no_speech_prob": 1.1572263286518947e-10,
+      "words": [
+        {
+          "word": " Ionic,",
+          "start": 34.58,
+          "end": 35.98,
+          "probability": 0.9130859375
+        },
+        {
+          "word": " Ionic",
+          "start": 36.12,
+          "end": 36.92,
+          "probability": 0.93115234375
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2806,
+      "start": 36.92,
+      "end": 38.84,
+      "text": " Capital, capital, Corinthian",
+      "tokens": [
+        50810,
+        21502,
+        11,
+        4238,
+        11,
+        29455,
+        952,
+        50905
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.31076946258544924,
+      "compression_ratio": 1.679245283018868,
+      "no_speech_prob": 1.1572263286518947e-10,
+      "words": [
+        {
+          "word": " Capital,",
+          "start": 36.92,
+          "end": 37.7,
+          "probability": 0.826171875
+        },
+        {
+          "word": " capital,",
+          "start": 37.88,
+          "end": 38.08,
+          "probability": 0.52001953125
+        },
+        {
+          "word": " Corinthian",
+          "start": 38.12,
+          "end": 38.84,
+          "probability": 0.998046875
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2806,
+      "start": 38.84,
+      "end": 40.24,
+      "text": " Shaft, shaft",
+      "tokens": [
+        50905,
+        14944,
+        844,
+        11,
+        18467,
+        50977
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.31076946258544924,
+      "compression_ratio": 1.679245283018868,
+      "no_speech_prob": 1.1572263286518947e-10,
+      "words": [
+        {
+          "word": " Shaft,",
+          "start": 38.84,
+          "end": 39.66,
+          "probability": 0.80859375
+        },
+        {
+          "word": " shaft",
+          "start": 39.86,
+          "end": 40.24,
+          "probability": 0.89453125
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2806,
+      "start": 40.24,
+      "end": 42.38,
+      "text": " Capital, capital, Corinthian",
+      "tokens": [
+        50977,
+        21502,
+        11,
+        4238,
+        11,
+        29455,
+        952,
+        51082
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.31076946258544924,
+      "compression_ratio": 1.679245283018868,
+      "no_speech_prob": 1.1572263286518947e-10,
+      "words": [
+        {
+          "word": " Capital,",
+          "start": 40.24,
+          "end": 41.22,
+          "probability": 0.916015625
+        },
+        {
+          "word": " capital,",
+          "start": 41.44,
+          "end": 41.68,
+          "probability": 0.9765625
+        },
+        {
+          "word": " Corinthian",
+          "start": 41.84,
+          "end": 42.38,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2806,
+      "start": 42.38,
+      "end": 43.78,
+      "text": " Shaft, shaft",
+      "tokens": [
+        51082,
+        14944,
+        844,
+        11,
+        18467,
+        51157
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.31076946258544924,
+      "compression_ratio": 1.679245283018868,
+      "no_speech_prob": 1.1572263286518947e-10,
+      "words": [
+        {
+          "word": " Shaft,",
+          "start": 42.38,
+          "end": 43.2,
+          "probability": 0.99609375
+        },
+        {
+          "word": " shaft",
+          "start": 43.4,
+          "end": 43.78,
+          "probability": 0.99755859375
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2806,
+      "start": 43.78,
+      "end": 46.98,
+      "text": " Ah, composite",
+      "tokens": [
+        51157,
+        2438,
+        11,
+        25557,
+        51312
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.31076946258544924,
+      "compression_ratio": 1.679245283018868,
+      "no_speech_prob": 1.1572263286518947e-10,
+      "words": [
+        {
+          "word": " Ah,",
+          "start": 43.78,
+          "end": 44.82,
+          "probability": 0.98828125
+        },
+        {
+          "word": " composite",
+          "start": 46.3,
+          "end": 46.98,
+          "probability": 0.96435546875
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2806,
+      "start": 48.239999999999995,
+      "end": 49.04,
+      "text": " Palladio",
+      "tokens": [
+        51312,
+        430,
+        336,
+        345,
+        1004,
+        51413
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.31076946258544924,
+      "compression_ratio": 1.679245283018868,
+      "no_speech_prob": 1.1572263286518947e-10,
+      "words": [
+        {
+          "word": " Palladio",
+          "start": 48.239999999999995,
+          "end": 49.04,
+          "probability": 0.75439453125
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

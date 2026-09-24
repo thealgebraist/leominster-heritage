@@ -1,0 +1,1654 @@
+[
+  {
+    "offset": 0.0,
+    "result": {
+      "text": " window window window window mollion monkey",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 5.72,
+          "text": " window window window window",
+          "tokens": [
+            50365,
+            4910,
+            4910,
+            4910,
+            4910,
+            50669
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.9105199667123648,
+          "compression_ratio": 1.4,
+          "no_speech_prob": 5.431711677661433e-11,
+          "words": [
+            {
+              "word": " window",
+              "start": 0.0,
+              "end": 0.46,
+              "probability": 0.35888671875
+            },
+            {
+              "word": " window",
+              "start": 0.46,
+              "end": 2.24,
+              "probability": 0.7705078125
+            },
+            {
+              "word": " window",
+              "start": 2.24,
+              "end": 4.18,
+              "probability": 0.97607421875
+            },
+            {
+              "word": " window",
+              "start": 4.18,
+              "end": 5.72,
+              "probability": 0.77880859375
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 5.72,
+          "end": 8.36,
+          "text": " mollion monkey",
+          "tokens": [
+            50669,
+            705,
+            285,
+            313,
+            17847,
+            50785
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.9105199667123648,
+          "compression_ratio": 1.4,
+          "no_speech_prob": 5.431711677661433e-11,
+          "words": [
+            {
+              "word": " mollion",
+              "start": 5.72,
+              "end": 7.6,
+              "probability": 0.391357421875
+            },
+            {
+              "word": " monkey",
+              "start": 7.6,
+              "end": 8.36,
+              "probability": 0.38623046875
+            }
+          ]
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "offset": 7.5,
+    "result": {
+      "text": " Muntin, meeting rail, transom, window, window, what have you got? Mullion in the middle, blazing in the lot. Casement. Is that a casement?",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.6799999999999993,
+          "end": 4.8,
+          "text": " Muntin, meeting rail, transom, window, window, what have you got?",
+          "tokens": [
+            50365,
+            376,
+            2760,
+            259,
+            11,
+            3440,
+            8765,
+            11,
+            1145,
+            298,
+            11,
+            4910,
+            11,
+            4910,
+            11,
+            437,
+            362,
+            291,
+            658,
+            30,
+            50606
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.36378735912089444,
+          "compression_ratio": 1.2660550458715596,
+          "no_speech_prob": 8.332003836875046e-11,
+          "words": [
+            {
+              "word": " Muntin,",
+              "start": 0.6799999999999993,
+              "end": 1.08,
+              "probability": 0.386962890625
+            },
+            {
+              "word": " meeting",
+              "start": 1.46,
+              "end": 1.74,
+              "probability": 0.492431640625
+            },
+            {
+              "word": " rail,",
+              "start": 1.74,
+              "end": 2.18,
+              "probability": 0.80029296875
+            },
+            {
+              "word": " transom,",
+              "start": 2.36,
+              "end": 3.12,
+              "probability": 0.9482421875
+            },
+            {
+              "word": " window,",
+              "start": 3.26,
+              "end": 3.6,
+              "probability": 0.97119140625
+            },
+            {
+              "word": " window,",
+              "start": 3.7,
+              "end": 3.98,
+              "probability": 0.9658203125
+            },
+            {
+              "word": " what",
+              "start": 4.2,
+              "end": 4.26,
+              "probability": 0.9501953125
+            },
+            {
+              "word": " have",
+              "start": 4.26,
+              "end": 4.38,
+              "probability": 0.9755859375
+            },
+            {
+              "word": " you",
+              "start": 4.38,
+              "end": 4.5,
+              "probability": 0.99853515625
+            },
+            {
+              "word": " got?",
+              "start": 4.5,
+              "end": 4.8,
+              "probability": 0.99951171875
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 4.98,
+          "end": 6.5,
+          "text": " Mullion in the middle, blazing in the lot.",
+          "tokens": [
+            50616,
+            41621,
+            313,
+            294,
+            264,
+            2808,
+            11,
+            16379,
+            8781,
+            294,
+            264,
+            688,
+            13,
+            50693
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.36378735912089444,
+          "compression_ratio": 1.2660550458715596,
+          "no_speech_prob": 8.332003836875046e-11,
+          "words": [
+            {
+              "word": " Mullion",
+              "start": 4.98,
+              "end": 5.3,
+              "probability": 0.7900390625
+            },
+            {
+              "word": " in",
+              "start": 5.3,
+              "end": 5.4,
+              "probability": 0.99609375
+            },
+            {
+              "word": " the",
+              "start": 5.4,
+              "end": 5.48,
+              "probability": 0.99951171875
+            },
+            {
+              "word": " middle,",
+              "start": 5.48,
+              "end": 5.66,
+              "probability": 0.99951171875
+            },
+            {
+              "word": " blazing",
+              "start": 5.78,
+              "end": 5.96,
+              "probability": 0.8388671875
+            },
+            {
+              "word": " in",
+              "start": 5.96,
+              "end": 6.1,
+              "probability": 0.379150390625
+            },
+            {
+              "word": " the",
+              "start": 6.1,
+              "end": 6.26,
+              "probability": 0.9658203125
+            },
+            {
+              "word": " lot.",
+              "start": 6.26,
+              "end": 6.5,
+              "probability": 0.98046875
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "seek": 0,
+          "start": 6.82,
+          "end": 7.22,
+          "text": " Casement.",
+          "tokens": [
+            50705,
+            16100,
+            1712,
+            13,
+            50725
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.36378735912089444,
+          "compression_ratio": 1.2660550458715596,
+          "no_speech_prob": 8.332003836875046e-11,
+          "words": [
+            {
+              "word": " Casement.",
+              "start": 6.82,
+              "end": 7.22,
+              "probability": 0.98583984375
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "seek": 0,
+          "start": 7.96,
+          "end": 8.98,
+          "text": " Is that a casement?",
+          "tokens": [
+            50762,
+            1119,
+            300,
+            257,
+            3058,
+            1712,
+            30,
+            50814
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.36378735912089444,
+          "compression_ratio": 1.2660550458715596,
+          "no_speech_prob": 8.332003836875046e-11,
+          "words": [
+            {
+              "word": " Is",
+              "start": 7.96,
+              "end": 8.36,
+              "probability": 0.99560546875
+            },
+            {
+              "word": " that",
+              "start": 8.36,
+              "end": 8.46,
+              "probability": 1.0
+            },
+            {
+              "word": " a",
+              "start": 8.46,
+              "end": 8.56,
+              "probability": 0.99853515625
+            },
+            {
+              "word": " casement?",
+              "start": 8.56,
+              "end": 8.98,
+              "probability": 0.966796875
+            }
+          ]
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "offset": 15.5,
+    "result": {
+      "text": " Is that a casement? Yes, a casement. Open it out, shut it again. Stay fast enough. He's paid.",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 1.06,
+          "text": " Is that a casement?",
+          "tokens": [
+            50365,
+            1119,
+            300,
+            257,
+            3058,
+            1712,
+            30,
+            50417
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.5417396349784656,
+          "compression_ratio": 1.1071428571428572,
+          "no_speech_prob": 4.555215579737926e-11,
+          "words": [
+            {
+              "word": " Is",
+              "start": 0.0,
+              "end": 0.34,
+              "probability": 0.58056640625
+            },
+            {
+              "word": " that",
+              "start": 0.34,
+              "end": 0.46,
+              "probability": 0.98876953125
+            },
+            {
+              "word": " a",
+              "start": 0.46,
+              "end": 0.58,
+              "probability": 0.9697265625
+            },
+            {
+              "word": " casement?",
+              "start": 0.58,
+              "end": 1.06,
+              "probability": 0.7626953125
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 1.28,
+          "end": 3.06,
+          "text": " Yes, a casement.",
+          "tokens": [
+            50431,
+            1079,
+            11,
+            257,
+            3058,
+            1712,
+            13,
+            50519
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.5417396349784656,
+          "compression_ratio": 1.1071428571428572,
+          "no_speech_prob": 4.555215579737926e-11,
+          "words": [
+            {
+              "word": " Yes,",
+              "start": 1.28,
+              "end": 1.74,
+              "probability": 0.9033203125
+            },
+            {
+              "word": " a",
+              "start": 2.12,
+              "end": 2.34,
+              "probability": 0.97900390625
+            },
+            {
+              "word": " casement.",
+              "start": 2.34,
+              "end": 3.06,
+              "probability": 0.98095703125
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "seek": 0,
+          "start": 3.84,
+          "end": 5.7,
+          "text": " Open it out, shut it again.",
+          "tokens": [
+            50558,
+            7238,
+            309,
+            484,
+            11,
+            5309,
+            309,
+            797,
+            13,
+            50655
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.5417396349784656,
+          "compression_ratio": 1.1071428571428572,
+          "no_speech_prob": 4.555215579737926e-11,
+          "words": [
+            {
+              "word": " Open",
+              "start": 3.84,
+              "end": 4.44,
+              "probability": 0.9501953125
+            },
+            {
+              "word": " it",
+              "start": 4.44,
+              "end": 4.64,
+              "probability": 0.99853515625
+            },
+            {
+              "word": " out,",
+              "start": 4.64,
+              "end": 4.9,
+              "probability": 0.994140625
+            },
+            {
+              "word": " shut",
+              "start": 5.04,
+              "end": 5.16,
+              "probability": 0.9931640625
+            },
+            {
+              "word": " it",
+              "start": 5.16,
+              "end": 5.34,
+              "probability": 0.99951171875
+            },
+            {
+              "word": " again.",
+              "start": 5.34,
+              "end": 5.7,
+              "probability": 0.998046875
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "seek": 0,
+          "start": 5.88,
+          "end": 7.56,
+          "text": " Stay fast enough.",
+          "tokens": [
+            50661,
+            8691,
+            2370,
+            1547,
+            13,
+            50746
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.5417396349784656,
+          "compression_ratio": 1.1071428571428572,
+          "no_speech_prob": 4.555215579737926e-11,
+          "words": [
+            {
+              "word": " Stay",
+              "start": 5.88,
+              "end": 6.22,
+              "probability": 0.96337890625
+            },
+            {
+              "word": " fast",
+              "start": 6.22,
+              "end": 7.12,
+              "probability": 0.44873046875
+            },
+            {
+              "word": " enough.",
+              "start": 7.12,
+              "end": 7.56,
+              "probability": 0.83642578125
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "seek": 0,
+          "start": 7.78,
+          "end": 8.72,
+          "text": " He's paid.",
+          "tokens": [
+            50753,
+            634,
+            311,
+            4835,
+            13,
+            50811
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.5417396349784656,
+          "compression_ratio": 1.1071428571428572,
+          "no_speech_prob": 4.555215579737926e-11,
+          "words": [
+            {
+              "word": " He's",
+              "start": 7.78,
+              "end": 8.36,
+              "probability": 0.32568359375
+            },
+            {
+              "word": " paid.",
+              "start": 8.36,
+              "end": 8.72,
+              "probability": 0.30810546875
+            }
+          ]
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "offset": 23.5,
+    "result": {
+      "text": " Hey! Rail style blazing bar Rail style blazing bar Sash goes up, sash comes down Sash gone! Where's it gone?",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 0.9,
+          "text": " Hey!",
+          "tokens": [
+            50365,
+            1911,
+            0,
+            50415
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.4013357616606213,
+          "compression_ratio": 1.3333333333333333,
+          "no_speech_prob": 2.5210340759418415e-11,
+          "words": [
+            {
+              "word": " Hey!",
+              "start": 0.0,
+              "end": 0.9,
+              "probability": 0.09722900390625
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 1.28,
+          "end": 3.16,
+          "text": " Rail style blazing bar",
+          "tokens": [
+            50415,
+            23494,
+            3758,
+            16379,
+            8781,
+            2159,
+            50515
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.4013357616606213,
+          "compression_ratio": 1.3333333333333333,
+          "no_speech_prob": 2.5210340759418415e-11,
+          "words": [
+            {
+              "word": " Rail",
+              "start": 1.28,
+              "end": 1.8,
+              "probability": 0.88525390625
+            },
+            {
+              "word": " style",
+              "start": 1.8,
+              "end": 2.18,
+              "probability": 0.467041015625
+            },
+            {
+              "word": " blazing",
+              "start": 2.18,
+              "end": 2.82,
+              "probability": 0.5859375
+            },
+            {
+              "word": " bar",
+              "start": 2.82,
+              "end": 3.16,
+              "probability": 0.958984375
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "seek": 0,
+          "start": 3.16,
+          "end": 4.92,
+          "text": " Rail style blazing bar",
+          "tokens": [
+            50515,
+            23494,
+            3758,
+            16379,
+            8781,
+            2159,
+            50615
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.4013357616606213,
+          "compression_ratio": 1.3333333333333333,
+          "no_speech_prob": 2.5210340759418415e-11,
+          "words": [
+            {
+              "word": " Rail",
+              "start": 3.16,
+              "end": 3.6,
+              "probability": 0.5908203125
+            },
+            {
+              "word": " style",
+              "start": 3.6,
+              "end": 3.96,
+              "probability": 0.99755859375
+            },
+            {
+              "word": " blazing",
+              "start": 3.96,
+              "end": 4.58,
+              "probability": 0.9619140625
+            },
+            {
+              "word": " bar",
+              "start": 4.58,
+              "end": 4.92,
+              "probability": 0.99267578125
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "seek": 0,
+          "start": 4.92,
+          "end": 6.7,
+          "text": " Sash goes up, sash comes down",
+          "tokens": [
+            50615,
+            318,
+            1299,
+            1709,
+            493,
+            11,
+            43780,
+            1487,
+            760,
+            50715
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.4013357616606213,
+          "compression_ratio": 1.3333333333333333,
+          "no_speech_prob": 2.5210340759418415e-11,
+          "words": [
+            {
+              "word": " Sash",
+              "start": 4.92,
+              "end": 5.26,
+              "probability": 0.89404296875
+            },
+            {
+              "word": " goes",
+              "start": 5.26,
+              "end": 5.5,
+              "probability": 0.9892578125
+            },
+            {
+              "word": " up,",
+              "start": 5.5,
+              "end": 5.76,
+              "probability": 0.99658203125
+            },
+            {
+              "word": " sash",
+              "start": 5.94,
+              "end": 6.16,
+              "probability": 0.77294921875
+            },
+            {
+              "word": " comes",
+              "start": 6.16,
+              "end": 6.4,
+              "probability": 0.9892578125
+            },
+            {
+              "word": " down",
+              "start": 6.4,
+              "end": 6.7,
+              "probability": 0.99169921875
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "seek": 0,
+          "start": 6.7,
+          "end": 7.6,
+          "text": " Sash gone!",
+          "tokens": [
+            50715,
+            318,
+            1299,
+            2780,
+            0,
+            50765
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.4013357616606213,
+          "compression_ratio": 1.3333333333333333,
+          "no_speech_prob": 2.5210340759418415e-11,
+          "words": [
+            {
+              "word": " Sash",
+              "start": 6.7,
+              "end": 7.24,
+              "probability": 0.6494140625
+            },
+            {
+              "word": " gone!",
+              "start": 7.24,
+              "end": 7.6,
+              "probability": 0.1328125
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "seek": 0,
+          "start": 7.76,
+          "end": 8.58,
+          "text": " Where's it gone?",
+          "tokens": [
+            50765,
+            2305,
+            311,
+            309,
+            2780,
+            30,
+            50815
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.4013357616606213,
+          "compression_ratio": 1.3333333333333333,
+          "no_speech_prob": 2.5210340759418415e-11,
+          "words": [
+            {
+              "word": " Where's",
+              "start": 7.76,
+              "end": 8.08,
+              "probability": 0.97412109375
+            },
+            {
+              "word": " it",
+              "start": 8.08,
+              "end": 8.22,
+              "probability": 0.9931640625
+            },
+            {
+              "word": " gone?",
+              "start": 8.22,
+              "end": 8.58,
+              "probability": 0.962890625
+            }
+          ]
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "offset": 31.5,
+    "result": {
+      "text": " Is it gone in the box? Obviously. Window, window, window, window, window, window, window, window. Fan light, side light.",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 1.54,
+          "text": " Is it gone in the box?",
+          "tokens": [
+            50365,
+            1119,
+            309,
+            2780,
+            294,
+            264,
+            2424,
+            30,
+            50443
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.36364307403564455,
+          "compression_ratio": 1.6666666666666667,
+          "no_speech_prob": 5.793758875438648e-11,
+          "words": [
+            {
+              "word": " Is",
+              "start": 0.0,
+              "end": 0.08,
+              "probability": 0.2393798828125
+            },
+            {
+              "word": " it",
+              "start": 0.08,
+              "end": 0.24,
+              "probability": 0.9873046875
+            },
+            {
+              "word": " gone",
+              "start": 0.24,
+              "end": 0.56,
+              "probability": 0.7158203125
+            },
+            {
+              "word": " in",
+              "start": 0.56,
+              "end": 0.98,
+              "probability": 0.875
+            },
+            {
+              "word": " the",
+              "start": 0.98,
+              "end": 1.12,
+              "probability": 0.99169921875
+            },
+            {
+              "word": " box?",
+              "start": 1.12,
+              "end": 1.54,
+              "probability": 0.990234375
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 2.56,
+          "end": 3.06,
+          "text": " Obviously.",
+          "tokens": [
+            50491,
+            7580,
+            13,
+            50525
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.36364307403564455,
+          "compression_ratio": 1.6666666666666667,
+          "no_speech_prob": 5.793758875438648e-11,
+          "words": [
+            {
+              "word": " Obviously.",
+              "start": 2.56,
+              "end": 3.06,
+              "probability": 0.9609375
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "seek": 0,
+          "start": 4.22,
+          "end": 7.54,
+          "text": " Window, window, window, window, window, window, window, window.",
+          "tokens": [
+            50579,
+            44933,
+            11,
+            4910,
+            11,
+            4910,
+            11,
+            4910,
+            11,
+            4910,
+            11,
+            4910,
+            11,
+            4910,
+            11,
+            4910,
+            13,
+            50749
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.36364307403564455,
+          "compression_ratio": 1.6666666666666667,
+          "no_speech_prob": 5.793758875438648e-11,
+          "words": [
+            {
+              "word": " Window,",
+              "start": 4.22,
+              "end": 4.62,
+              "probability": 0.87255859375
+            },
+            {
+              "word": " window,",
+              "start": 4.72,
+              "end": 5.04,
+              "probability": 0.79345703125
+            },
+            {
+              "word": " window,",
+              "start": 5.16,
+              "end": 5.44,
+              "probability": 0.98828125
+            },
+            {
+              "word": " window,",
+              "start": 5.6,
+              "end": 5.96,
+              "probability": 0.98583984375
+            },
+            {
+              "word": " window,",
+              "start": 6.06,
+              "end": 6.34,
+              "probability": 0.990234375
+            },
+            {
+              "word": " window,",
+              "start": 6.5,
+              "end": 6.8,
+              "probability": 0.99560546875
+            },
+            {
+              "word": " window,",
+              "start": 6.96,
+              "end": 7.18,
+              "probability": 0.9951171875
+            },
+            {
+              "word": " window.",
+              "start": 7.42,
+              "end": 7.54,
+              "probability": 0.9853515625
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "seek": 0,
+          "start": 7.7,
+          "end": 8.98,
+          "text": " Fan light, side light.",
+          "tokens": [
+            50754,
+            18564,
+            1442,
+            11,
+            1252,
+            1442,
+            13,
+            50814
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.36364307403564455,
+          "compression_ratio": 1.6666666666666667,
+          "no_speech_prob": 5.793758875438648e-11,
+          "words": [
+            {
+              "word": " Fan",
+              "start": 7.7,
+              "end": 8.02,
+              "probability": 0.70703125
+            },
+            {
+              "word": " light,",
+              "start": 8.02,
+              "end": 8.42,
+              "probability": 0.475830078125
+            },
+            {
+              "word": " side",
+              "start": 8.66,
+              "end": 8.92,
+              "probability": 0.90673828125
+            },
+            {
+              "word": " light.",
+              "start": 8.92,
+              "end": 8.98,
+              "probability": 0.857421875
+            }
+          ]
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "offset": 39.5,
+    "result": {
+      "text": " Sidelight, sidelight, all it'll do. Bay window, bow window. What does it do? Let's in line. Very good.",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 2.6,
+          "text": " Sidelight, sidelight, all it'll do.",
+          "tokens": [
+            50365,
+            318,
+            16189,
+            397,
+            11,
+            262,
+            16189,
+            397,
+            11,
+            439,
+            309,
+            603,
+            360,
+            13,
+            50501
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.4938325216603834,
+          "compression_ratio": 1.1333333333333333,
+          "no_speech_prob": 8.530992579025565e-11,
+          "words": [
+            {
+              "word": " Sidelight,",
+              "start": 0.0,
+              "end": 0.42,
+              "probability": 0.61865234375
+            },
+            {
+              "word": " sidelight,",
+              "start": 0.62,
+              "end": 1.4,
+              "probability": 0.7890625
+            },
+            {
+              "word": " all",
+              "start": 1.74,
+              "end": 1.9,
+              "probability": 0.30126953125
+            },
+            {
+              "word": " it'll",
+              "start": 1.9,
+              "end": 2.24,
+              "probability": 0.62744140625
+            },
+            {
+              "word": " do.",
+              "start": 2.24,
+              "end": 2.6,
+              "probability": 0.97705078125
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 3.04,
+          "end": 4.6,
+          "text": " Bay window, bow window.",
+          "tokens": [
+            50524,
+            7840,
+            4910,
+            11,
+            4503,
+            4910,
+            13,
+            50596
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.4938325216603834,
+          "compression_ratio": 1.1333333333333333,
+          "no_speech_prob": 8.530992579025565e-11,
+          "words": [
+            {
+              "word": " Bay",
+              "start": 3.04,
+              "end": 3.34,
+              "probability": 0.97314453125
+            },
+            {
+              "word": " window,",
+              "start": 3.34,
+              "end": 3.78,
+              "probability": 0.9453125
+            },
+            {
+              "word": " bow",
+              "start": 4.08,
+              "end": 4.26,
+              "probability": 0.98779296875
+            },
+            {
+              "word": " window.",
+              "start": 4.26,
+              "end": 4.6,
+              "probability": 0.99267578125
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "seek": 0,
+          "start": 5.06,
+          "end": 6.18,
+          "text": " What does it do?",
+          "tokens": [
+            50617,
+            708,
+            775,
+            309,
+            360,
+            30,
+            50680
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.4938325216603834,
+          "compression_ratio": 1.1333333333333333,
+          "no_speech_prob": 8.530992579025565e-11,
+          "words": [
+            {
+              "word": " What",
+              "start": 5.06,
+              "end": 5.36,
+              "probability": 0.99609375
+            },
+            {
+              "word": " does",
+              "start": 5.36,
+              "end": 5.62,
+              "probability": 0.99951171875
+            },
+            {
+              "word": " it",
+              "start": 5.62,
+              "end": 5.8,
+              "probability": 0.98095703125
+            },
+            {
+              "word": " do?",
+              "start": 5.8,
+              "end": 6.18,
+              "probability": 1.0
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "seek": 0,
+          "start": 6.38,
+          "end": 7.36,
+          "text": " Let's in line.",
+          "tokens": [
+            50687,
+            961,
+            311,
+            294,
+            1622,
+            13,
+            50734
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.4938325216603834,
+          "compression_ratio": 1.1333333333333333,
+          "no_speech_prob": 8.530992579025565e-11,
+          "words": [
+            {
+              "word": " Let's",
+              "start": 6.38,
+              "end": 6.76,
+              "probability": 0.654296875
+            },
+            {
+              "word": " in",
+              "start": 6.76,
+              "end": 6.94,
+              "probability": 0.45458984375
+            },
+            {
+              "word": " line.",
+              "start": 6.94,
+              "end": 7.36,
+              "probability": 0.6396484375
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "seek": 0,
+          "start": 8.32,
+          "end": 8.9,
+          "text": " Very good.",
+          "tokens": [
+            50780,
+            4372,
+            665,
+            13,
+            50814
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.4938325216603834,
+          "compression_ratio": 1.1333333333333333,
+          "no_speech_prob": 8.530992579025565e-11,
+          "words": [
+            {
+              "word": " Very",
+              "start": 8.32,
+              "end": 8.6,
+              "probability": 0.95947265625
+            },
+            {
+              "word": " good.",
+              "start": 8.6,
+              "end": 8.9,
+              "probability": 0.99755859375
+            }
+          ]
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "offset": 47.5,
+    "result": {
+      "text": " Very good. Casement. Is that a casement? Yes, a casement.",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 1.04,
+          "text": " Very good.",
+          "tokens": [
+            50365,
+            4372,
+            665,
+            13,
+            50422
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.5468891285083912,
+          "compression_ratio": 1.1176470588235294,
+          "no_speech_prob": 2.7244583325480853e-11,
+          "words": [
+            {
+              "word": " Very",
+              "start": 0.0,
+              "end": 0.62,
+              "probability": 0.609375
+            },
+            {
+              "word": " good.",
+              "start": 0.62,
+              "end": 1.04,
+              "probability": 0.89697265625
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 2.18,
+          "end": 3.02,
+          "text": " Casement.",
+          "tokens": [
+            50485,
+            16100,
+            1712,
+            13,
+            50515
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.5468891285083912,
+          "compression_ratio": 1.1176470588235294,
+          "no_speech_prob": 2.7244583325480853e-11,
+          "words": [
+            {
+              "word": " Casement.",
+              "start": 2.18,
+              "end": 3.02,
+              "probability": 0.8671875
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "seek": 0,
+          "start": 3.42,
+          "end": 4.86,
+          "text": " Is that a casement?",
+          "tokens": [
+            50541,
+            1119,
+            300,
+            257,
+            3058,
+            1712,
+            30,
+            50607
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.5468891285083912,
+          "compression_ratio": 1.1176470588235294,
+          "no_speech_prob": 2.7244583325480853e-11,
+          "words": [
+            {
+              "word": " Is",
+              "start": 3.42,
+              "end": 4.16,
+              "probability": 0.974609375
+            },
+            {
+              "word": " that",
+              "start": 4.16,
+              "end": 4.26,
+              "probability": 0.99755859375
+            },
+            {
+              "word": " a",
+              "start": 4.26,
+              "end": 4.4,
+              "probability": 0.99658203125
+            },
+            {
+              "word": " casement?",
+              "start": 4.4,
+              "end": 4.86,
+              "probability": 0.96875
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "seek": 0,
+          "start": 5.02,
+          "end": 7.36,
+          "text": " Yes, a casement.",
+          "tokens": [
+            50619,
+            1079,
+            11,
+            257,
+            3058,
+            1712,
+            13,
+            50735
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.5468891285083912,
+          "compression_ratio": 1.1176470588235294,
+          "no_speech_prob": 2.7244583325480853e-11,
+          "words": [
+            {
+              "word": " Yes,",
+              "start": 5.02,
+              "end": 5.6,
+              "probability": 0.97021484375
+            },
+            {
+              "word": " a",
+              "start": 5.96,
+              "end": 6.18,
+              "probability": 0.98974609375
+            },
+            {
+              "word": " casement.",
+              "start": 6.18,
+              "end": 7.36,
+              "probability": 0.9736328125
+            }
+          ]
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "offset": 55.5,
+    "result": {
+      "text": " Mully and Muntin Transom Payne Open the window Shut it again",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 1.0599999999999992,
+          "end": 3.2,
+          "text": " Mully and Muntin",
+          "tokens": [
+            50365,
+            376,
+            2150,
+            293,
+            376,
+            2760,
+            259,
+            50524
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.5515467071533203,
+          "compression_ratio": 0.9375,
+          "no_speech_prob": 5.1875996553985004e-11,
+          "words": [
+            {
+              "word": " Mully",
+              "start": 1.0599999999999992,
+              "end": 2.02,
+              "probability": 0.309814453125
+            },
+            {
+              "word": " and",
+              "start": 2.02,
+              "end": 2.3,
+              "probability": 0.315673828125
+            },
+            {
+              "word": " Muntin",
+              "start": 2.3,
+              "end": 3.2,
+              "probability": 0.51025390625
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 3.2,
+          "end": 5.14,
+          "text": " Transom Payne",
+          "tokens": [
+            50524,
+            6531,
+            298,
+            11431,
+            716,
+            50623
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.5515467071533203,
+          "compression_ratio": 0.9375,
+          "no_speech_prob": 5.1875996553985004e-11,
+          "words": [
+            {
+              "word": " Transom",
+              "start": 3.2,
+              "end": 4.28,
+              "probability": 0.6455078125
+            },
+            {
+              "word": " Payne",
+              "start": 4.28,
+              "end": 5.14,
+              "probability": 0.62060546875
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "seek": 0,
+          "start": 5.14,
+          "end": 6.2,
+          "text": " Open the window",
+          "tokens": [
+            50623,
+            7238,
+            264,
+            4910,
+            50680
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.5515467071533203,
+          "compression_ratio": 0.9375,
+          "no_speech_prob": 5.1875996553985004e-11,
+          "words": [
+            {
+              "word": " Open",
+              "start": 5.14,
+              "end": 5.62,
+              "probability": 0.8759765625
+            },
+            {
+              "word": " the",
+              "start": 5.62,
+              "end": 5.84,
+              "probability": 0.966796875
+            },
+            {
+              "word": " window",
+              "start": 5.84,
+              "end": 6.2,
+              "probability": 0.94970703125
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "seek": 0,
+          "start": 7.199999999999999,
+          "end": 8.66,
+          "text": " Shut it again",
+          "tokens": [
+            50680,
+            13870,
+            309,
+            797,
+            50809
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.5515467071533203,
+          "compression_ratio": 0.9375,
+          "no_speech_prob": 5.1875996553985004e-11,
+          "words": [
+            {
+              "word": " Shut",
+              "start": 7.199999999999999,
+              "end": 8.16,
+              "probability": 0.5771484375
+            },
+            {
+              "word": " it",
+              "start": 8.16,
+              "end": 8.36,
+              "probability": 0.98974609375
+            },
+            {
+              "word": " again",
+              "start": 8.36,
+              "end": 8.66,
+              "probability": 0.99560546875
+            }
+          ]
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "offset": 63.5,
+    "result": {
+      "text": " SHUT IT AGAIN!",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 0.9,
+          "text": " SHUT IT AGAIN!",
+          "tokens": [
+            50365,
+            7405,
+            8709,
+            6783,
+            49133,
+            1464,
+            0,
+            50415
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.541376166873508,
+          "compression_ratio": 0.6363636363636364,
+          "no_speech_prob": 1.1430167576320649e-11,
+          "words": [
+            {
+              "word": " SHUT",
+              "start": 0.0,
+              "end": 0.28,
+              "probability": 0.5947265625
+            },
+            {
+              "word": " IT",
+              "start": 0.28,
+              "end": 0.36,
+              "probability": 0.96728515625
+            },
+            {
+              "word": " AGAIN!",
+              "start": 0.36,
+              "end": 0.9,
+              "probability": 0.99560546875
+            }
+          ]
+        }
+      ],
+      "language": "en"
+    }
+  }
+]

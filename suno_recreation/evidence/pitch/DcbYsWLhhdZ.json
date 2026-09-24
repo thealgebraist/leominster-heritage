@@ -1,0 +1,298 @@
+{
+  "method": "pYIN on estimated vocal stem, 8kHz, 1024 frame, 128 hop, f0 65-700 Hz; retain voiced probability >=0.7 and audible RMS",
+  "warning": "Model-separated vocal may contain instruments; pYIN may choose octave errors and excludes unvoiced/uncertain frames. Quantiles describe retained frames, not scored melody or true vocal range.",
+  "retained_fraction": 0.2227441285537701,
+  "phrases": [
+    {
+      "time": "0.0\u20136.3",
+      "words": "Door repeated [approximately seven calls].",
+      "retained_seconds": 0.67,
+      "retained_fraction": 0.11,
+      "midi_p10_median_p90": [
+        42.99,
+        44.34,
+        49.18
+      ],
+      "nearest_notes_p10_median_p90": [
+        "G2",
+        "G\u266f2",
+        "C\u266f3"
+      ]
+    },
+    {
+      "time": "6.3\u20137.6",
+      "words": "Green door, red door.",
+      "retained_seconds": 0.45,
+      "retained_fraction": 0.35,
+      "midi_p10_median_p90": [
+        47.45,
+        48.09,
+        49.09
+      ],
+      "nearest_notes_p10_median_p90": [
+        "B2",
+        "C3",
+        "C\u266f3"
+      ]
+    },
+    {
+      "time": "7.6\u201311.2",
+      "words": "Door repeated; possible brief \u201ccat flap\u201d in the audio, not confirmed by the captions here.",
+      "retained_seconds": 0.94,
+      "retained_fraction": 0.26,
+      "midi_p10_median_p90": [
+        46.09,
+        48.99,
+        49.09
+      ],
+      "nearest_notes_p10_median_p90": [
+        "A\u266f2",
+        "C\u266f3",
+        "C\u266f3"
+      ]
+    },
+    {
+      "time": "11.2\u201312.4",
+      "words": "Blue door, black door.",
+      "retained_seconds": 0.21,
+      "retained_fraction": 0.17,
+      "midi_p10_median_p90": [
+        53.09,
+        53.09,
+        55.97
+      ],
+      "nearest_notes_p10_median_p90": [
+        "F3",
+        "F3",
+        "G\u266f3"
+      ]
+    },
+    {
+      "time": "12.4\u201314.2",
+      "words": "Door repeated.",
+      "retained_seconds": 1.09,
+      "retained_fraction": 0.6,
+      "midi_p10_median_p90": [
+        48.09,
+        53.09,
+        70.19
+      ],
+      "nearest_notes_p10_median_p90": [
+        "C3",
+        "F3",
+        "A\u266f4"
+      ]
+    },
+    {
+      "time": "14.2\u201316.4",
+      "words": "Back door, front door / Big door, small door.",
+      "retained_seconds": 0.54,
+      "retained_fraction": 0.25,
+      "midi_p10_median_p90": [
+        46.09,
+        49.64,
+        54.73
+      ],
+      "nearest_notes_p10_median_p90": [
+        "A\u266f2",
+        "D3",
+        "G3"
+      ]
+    },
+    {
+      "time": "16.4\u201318.0",
+      "words": "Door repeated.",
+      "retained_seconds": 0.53,
+      "retained_fraction": 0.33,
+      "midi_p10_median_p90": [
+        48.09,
+        49.09,
+        51.19
+      ],
+      "nearest_notes_p10_median_p90": [
+        "C3",
+        "C\u266f3",
+        "D\u266f3"
+      ]
+    },
+    {
+      "time": "18.0\u201318.9",
+      "words": "Old door, new door.",
+      "retained_seconds": 0.19,
+      "retained_fraction": 0.21,
+      "midi_p10_median_p90": [
+        48.19,
+        55.99,
+        56.19
+      ],
+      "nearest_notes_p10_median_p90": [
+        "C3",
+        "G\u266f3",
+        "G\u266f3"
+      ]
+    },
+    {
+      "time": "18.9\u201320.3",
+      "words": "Door repeated.",
+      "retained_seconds": 0.64,
+      "retained_fraction": 0.46,
+      "midi_p10_median_p90": [
+        46.09,
+        53.19,
+        55.09
+      ],
+      "nearest_notes_p10_median_p90": [
+        "A\u266f2",
+        "F3",
+        "G3"
+      ]
+    },
+    {
+      "time": "20.3\u201323.5",
+      "words": "Stable door / Cellar door!",
+      "retained_seconds": 1.02,
+      "retained_fraction": 0.32,
+      "midi_p10_median_p90": [
+        58.19,
+        59.99,
+        60.16
+      ],
+      "nearest_notes_p10_median_p90": [
+        "A\u266f3",
+        "C4",
+        "C4"
+      ]
+    },
+    {
+      "time": "23.5\u201328.8",
+      "words": "[Hodor?] / intervening vocal or effect passage; unresolved.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "28.8\u201331.9",
+      "words": "Door, panel door [caption also says panelled], plank door.",
+      "retained_seconds": 0.61,
+      "retained_fraction": 0.2,
+      "midi_p10_median_p90": [
+        54.89,
+        55.09,
+        56.19
+      ],
+      "nearest_notes_p10_median_p90": [
+        "G3",
+        "G3",
+        "G\u266f3"
+      ]
+    },
+    {
+      "time": "31.9\u201335.2",
+      "words": "Door, door, studded door, arched door.",
+      "retained_seconds": 0.59,
+      "retained_fraction": 0.18,
+      "midi_p10_median_p90": [
+        52.15,
+        59.69,
+        60.17
+      ],
+      "nearest_notes_p10_median_p90": [
+        "E3",
+        "C4",
+        "C4"
+      ]
+    },
+    {
+      "time": "35.2\u201340.0",
+      "words": "Door, door, secret door / Where? / Behind the door.",
+      "retained_seconds": 1.94,
+      "retained_fraction": 0.4,
+      "midi_p10_median_p90": [
+        48.19,
+        58.09,
+        60.39
+      ],
+      "nearest_notes_p10_median_p90": [
+        "C3",
+        "A\u266f3",
+        "C4"
+      ]
+    },
+    {
+      "time": "40.0\u201342.9",
+      "words": "Door repeated [approximately six calls].",
+      "retained_seconds": 1.28,
+      "retained_fraction": 0.44,
+      "midi_p10_median_p90": [
+        43.99,
+        48.09,
+        50.99
+      ],
+      "nearest_notes_p10_median_p90": [
+        "G\u266f2",
+        "C3",
+        "D\u266f3"
+      ]
+    },
+    {
+      "time": "42.9\u201345.9",
+      "words": "Green door, red door, blue door / Cat flap!",
+      "retained_seconds": 0.45,
+      "retained_fraction": 0.15,
+      "midi_p10_median_p90": [
+        52.99,
+        53.09,
+        56.19
+      ],
+      "nearest_notes_p10_median_p90": [
+        "F3",
+        "F3",
+        "G\u266f3"
+      ]
+    },
+    {
+      "time": "46.0\u201350.3",
+      "words": "Door, door, door / And one more\u2026",
+      "retained_seconds": 0.45,
+      "retained_fraction": 0.1,
+      "midi_p10_median_p90": [
+        52.99,
+        53.09,
+        55.09
+      ],
+      "nearest_notes_p10_median_p90": [
+        "F3",
+        "F3",
+        "G3"
+      ]
+    },
+    {
+      "time": "51.5\u201359.3",
+      "words": "Dumbledore! [caption splits it as Dumble / Door; held/effected passage follows]",
+      "retained_seconds": 2.82,
+      "retained_fraction": 0.36,
+      "midi_p10_median_p90": [
+        62.79,
+        66.94,
+        71.39
+      ],
+      "nearest_notes_p10_median_p90": [
+        "D\u266f4",
+        "G4",
+        "B4"
+      ]
+    },
+    {
+      "time": "59.4\u201361.3",
+      "words": "Door!",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "61.3\u201364.7",
+      "words": "End-card/music tail.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    }
+  ],
+  "runtime_s": 0.9091060161590576
+}

@@ -1,0 +1,1332 @@
+{
+  "text": " Door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door Door, panel door, plank door Door, door, studded door, arch door Door, door, secret door Where? Behind the door Door, door, door, door, door, door Green door, red door, blue door Cut! Flap! Door, door, door And one more Dumbledore! Duh.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 29.12,
+      "text": " Door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door, door",
+      "tokens": [
+        50365,
+        29636,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.0237495485941569,
+      "compression_ratio": 31.904761904761905,
+      "no_speech_prob": 5.38969771590736e-11,
+      "words": [
+        {
+          "word": " Door,",
+          "start": 0.0,
+          "end": 0.32,
+          "probability": 0.2587890625
+        },
+        {
+          "word": " door,",
+          "start": 0.48,
+          "end": 1.98,
+          "probability": 0.7431640625
+        },
+        {
+          "word": " door,",
+          "start": 2.3,
+          "end": 3.7,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " door,",
+          "start": 4.12,
+          "end": 5.1,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " door,",
+          "start": 5.4,
+          "end": 5.4,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " door,",
+          "start": 5.4,
+          "end": 5.54,
+          "probability": 0.974609375
+        },
+        {
+          "word": " door,",
+          "start": 5.86,
+          "end": 5.86,
+          "probability": 0.849609375
+        },
+        {
+          "word": " door,",
+          "start": 5.88,
+          "end": 5.94,
+          "probability": 0.81787109375
+        },
+        {
+          "word": " door,",
+          "start": 5.94,
+          "end": 5.96,
+          "probability": 0.9052734375
+        },
+        {
+          "word": " door,",
+          "start": 6.08,
+          "end": 6.08,
+          "probability": 0.974609375
+        },
+        {
+          "word": " door,",
+          "start": 6.34,
+          "end": 6.34,
+          "probability": 0.99462890625
+        },
+        {
+          "word": " door,",
+          "start": 6.66,
+          "end": 6.66,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " door,",
+          "start": 6.66,
+          "end": 8.94,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 8.94,
+          "end": 9.12,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 9.36,
+          "end": 9.76,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 10.12,
+          "end": 10.28,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 10.28,
+          "end": 10.4,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " door,",
+          "start": 10.42,
+          "end": 10.42,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " door,",
+          "start": 10.8,
+          "end": 10.82,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " door,",
+          "start": 10.82,
+          "end": 10.82,
+          "probability": 0.994140625
+        },
+        {
+          "word": " door,",
+          "start": 10.82,
+          "end": 10.84,
+          "probability": 0.9931640625
+        },
+        {
+          "word": " door,",
+          "start": 10.84,
+          "end": 10.84,
+          "probability": 0.994140625
+        },
+        {
+          "word": " door,",
+          "start": 10.9,
+          "end": 10.9,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " door,",
+          "start": 11.12,
+          "end": 11.12,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " door,",
+          "start": 11.28,
+          "end": 11.28,
+          "probability": 0.998046875
+        },
+        {
+          "word": " door,",
+          "start": 11.6,
+          "end": 11.62,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " door,",
+          "start": 11.62,
+          "end": 11.76,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " door,",
+          "start": 12.5,
+          "end": 13.14,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " door,",
+          "start": 13.42,
+          "end": 13.54,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 14.4,
+          "end": 14.4,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 14.6,
+          "end": 14.6,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " door,",
+          "start": 14.72,
+          "end": 14.72,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " door,",
+          "start": 14.82,
+          "end": 14.82,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 14.96,
+          "end": 14.96,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 15.08,
+          "end": 15.08,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 15.28,
+          "end": 15.28,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 15.54,
+          "end": 15.54,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 15.88,
+          "end": 15.88,
+          "probability": 1.0
+        },
+        {
+          "word": " door,",
+          "start": 16.98,
+          "end": 17.16,
+          "probability": 1.0
+        },
+        {
+          "word": " door,",
+          "start": 17.18,
+          "end": 17.26,
+          "probability": 1.0
+        },
+        {
+          "word": " door,",
+          "start": 17.4,
+          "end": 17.4,
+          "probability": 1.0
+        },
+        {
+          "word": " door,",
+          "start": 17.42,
+          "end": 17.42,
+          "probability": 1.0
+        },
+        {
+          "word": " door,",
+          "start": 17.48,
+          "end": 17.48,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 17.88,
+          "end": 17.88,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 17.88,
+          "end": 17.88,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 18.0,
+          "end": 18.0,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 18.28,
+          "end": 18.28,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 18.42,
+          "end": 18.42,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 18.46,
+          "end": 18.46,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 18.54,
+          "end": 18.54,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 18.6,
+          "end": 18.6,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 18.68,
+          "end": 18.68,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 18.68,
+          "end": 18.68,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 18.72,
+          "end": 18.86,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 20.1,
+          "end": 20.1,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 20.34,
+          "end": 20.34,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 20.34,
+          "end": 20.34,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 20.5,
+          "end": 20.5,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.0,
+          "end": 22.0,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.16,
+          "end": 22.16,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.16,
+          "end": 22.16,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.16,
+          "end": 22.16,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.18,
+          "end": 22.18,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.18,
+          "end": 22.18,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.18,
+          "end": 22.18,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.18,
+          "end": 22.18,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.18,
+          "end": 22.18,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.18,
+          "end": 22.18,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.18,
+          "end": 22.18,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.18,
+          "end": 22.18,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.2,
+          "end": 22.2,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.2,
+          "end": 22.2,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.2,
+          "end": 22.2,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.2,
+          "end": 22.2,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.2,
+          "end": 22.2,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.2,
+          "end": 22.2,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.2,
+          "end": 22.2,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.2,
+          "end": 22.2,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.2,
+          "end": 22.2,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.22,
+          "end": 22.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.22,
+          "end": 22.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.22,
+          "end": 22.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.22,
+          "end": 22.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.22,
+          "end": 22.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.22,
+          "end": 22.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.22,
+          "end": 22.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.22,
+          "end": 22.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.22,
+          "end": 22.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.22,
+          "end": 22.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.22,
+          "end": 22.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.22,
+          "end": 22.22,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.3,
+          "end": 22.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.3,
+          "end": 22.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.3,
+          "end": 22.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.3,
+          "end": 22.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.3,
+          "end": 22.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.3,
+          "end": 22.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.3,
+          "end": 22.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.3,
+          "end": 22.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.3,
+          "end": 22.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.3,
+          "end": 22.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.3,
+          "end": 22.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.3,
+          "end": 22.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.3,
+          "end": 22.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.3,
+          "end": 22.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.3,
+          "end": 22.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.3,
+          "end": 22.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.3,
+          "end": 22.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.3,
+          "end": 22.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 22.3,
+          "end": 22.3,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 23.5,
+          "end": 27.32,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door",
+          "start": 27.56,
+          "end": 29.12,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2912,
+      "start": 29.12,
+      "end": 34.4,
+      "text": " Door, panel door, plank door Door, door, studded door, arch door",
+      "tokens": [
+        50365,
+        29636,
+        11,
+        4831,
+        2853,
+        11,
+        27861,
+        2853,
+        29636,
+        11,
+        2853,
+        11,
+        972,
+        9207,
+        2853,
+        11,
+        3912,
+        2853,
+        50665
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2808703358968099,
+      "compression_ratio": 1.9411764705882353,
+      "no_speech_prob": 3.700397280259615e-11,
+      "words": [
+        {
+          "word": " Door,",
+          "start": 29.12,
+          "end": 29.66,
+          "probability": 0.5048828125
+        },
+        {
+          "word": " panel",
+          "start": 29.82,
+          "end": 30.02,
+          "probability": 0.20458984375
+        },
+        {
+          "word": " door,",
+          "start": 30.02,
+          "end": 30.46,
+          "probability": 0.94189453125
+        },
+        {
+          "word": " plank",
+          "start": 30.68,
+          "end": 30.94,
+          "probability": 0.93896484375
+        },
+        {
+          "word": " door",
+          "start": 30.94,
+          "end": 31.36,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " Door,",
+          "start": 31.36,
+          "end": 31.84,
+          "probability": 0.85302734375
+        },
+        {
+          "word": " door,",
+          "start": 32.1,
+          "end": 32.18,
+          "probability": 0.978515625
+        },
+        {
+          "word": " studded",
+          "start": 32.44,
+          "end": 32.78,
+          "probability": 0.77734375
+        },
+        {
+          "word": " door,",
+          "start": 32.78,
+          "end": 33.2,
+          "probability": 0.99462890625
+        },
+        {
+          "word": " arch",
+          "start": 33.4,
+          "end": 33.92,
+          "probability": 0.94482421875
+        },
+        {
+          "word": " door",
+          "start": 33.92,
+          "end": 34.4,
+          "probability": 0.95703125
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2912,
+      "start": 35.120000000000005,
+      "end": 39.58,
+      "text": " Door, door, secret door Where? Behind the door",
+      "tokens": [
+        50665,
+        29636,
+        11,
+        2853,
+        11,
+        4054,
+        2853,
+        2305,
+        30,
+        20475,
+        264,
+        2853,
+        50915
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2808703358968099,
+      "compression_ratio": 1.9411764705882353,
+      "no_speech_prob": 3.700397280259615e-11,
+      "words": [
+        {
+          "word": " Door,",
+          "start": 35.08,
+          "end": 35.42,
+          "probability": 0.951171875
+        },
+        {
+          "word": " door,",
+          "start": 35.64,
+          "end": 35.74,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " secret",
+          "start": 36.08,
+          "end": 36.4,
+          "probability": 0.96875
+        },
+        {
+          "word": " door",
+          "start": 36.4,
+          "end": 37.3,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " Where?",
+          "start": 37.3,
+          "end": 38.06,
+          "probability": 0.7958984375
+        },
+        {
+          "word": " Behind",
+          "start": 38.54,
+          "end": 38.88,
+          "probability": 0.93408203125
+        },
+        {
+          "word": " the",
+          "start": 38.88,
+          "end": 39.24,
+          "probability": 0.9833984375
+        },
+        {
+          "word": " door",
+          "start": 39.24,
+          "end": 39.58,
+          "probability": 0.99462890625
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2912,
+      "start": 40.120000000000005,
+      "end": 44.6,
+      "text": " Door, door, door, door, door, door Green door, red door, blue door",
+      "tokens": [
+        50915,
+        29636,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        11,
+        2853,
+        6969,
+        2853,
+        11,
+        2182,
+        2853,
+        11,
+        3344,
+        2853,
+        51115
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2808703358968099,
+      "compression_ratio": 1.9411764705882353,
+      "no_speech_prob": 3.700397280259615e-11,
+      "words": [
+        {
+          "word": " Door,",
+          "start": 39.919999999999995,
+          "end": 40.26,
+          "probability": 0.97265625
+        },
+        {
+          "word": " door,",
+          "start": 40.46,
+          "end": 40.74,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " door,",
+          "start": 40.94,
+          "end": 41.42,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 41.86,
+          "end": 41.92,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " door,",
+          "start": 41.92,
+          "end": 42.32,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " door",
+          "start": 42.32,
+          "end": 42.48,
+          "probability": 0.99609375
+        },
+        {
+          "word": " Green",
+          "start": 42.48,
+          "end": 43.3,
+          "probability": 0.83642578125
+        },
+        {
+          "word": " door,",
+          "start": 43.3,
+          "end": 43.5,
+          "probability": 0.98876953125
+        },
+        {
+          "word": " red",
+          "start": 43.6,
+          "end": 43.8,
+          "probability": 0.99072265625
+        },
+        {
+          "word": " door,",
+          "start": 43.8,
+          "end": 43.96,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " blue",
+          "start": 44.02,
+          "end": 44.22,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " door",
+          "start": 44.22,
+          "end": 44.6,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2912,
+      "start": 44.6,
+      "end": 50.24,
+      "text": " Cut! Flap! Door, door, door And one more",
+      "tokens": [
+        51115,
+        9431,
+        0,
+        3235,
+        569,
+        0,
+        29636,
+        11,
+        2853,
+        11,
+        2853,
+        400,
+        472,
+        544,
+        51415
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2808703358968099,
+      "compression_ratio": 1.9411764705882353,
+      "no_speech_prob": 3.700397280259615e-11,
+      "words": [
+        {
+          "word": " Cut!",
+          "start": 44.6,
+          "end": 45.16,
+          "probability": 0.6005859375
+        },
+        {
+          "word": " Flap!",
+          "start": 45.58,
+          "end": 46.02,
+          "probability": 0.70703125
+        },
+        {
+          "word": " Door,",
+          "start": 46.7,
+          "end": 47.08,
+          "probability": 0.99462890625
+        },
+        {
+          "word": " door,",
+          "start": 47.62,
+          "end": 47.86,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " door",
+          "start": 48.46,
+          "end": 48.68,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " And",
+          "start": 48.68,
+          "end": 49.28,
+          "probability": 0.7470703125
+        },
+        {
+          "word": " one",
+          "start": 49.28,
+          "end": 49.54,
+          "probability": 0.99365234375
+        },
+        {
+          "word": " more",
+          "start": 49.54,
+          "end": 50.24,
+          "probability": 0.998046875
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2912,
+      "start": 51.58,
+      "end": 52.26,
+      "text": " Dumbledore!",
+      "tokens": [
+        51415,
+        413,
+        19928,
+        418,
+        0,
+        51515
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.2808703358968099,
+      "compression_ratio": 1.9411764705882353,
+      "no_speech_prob": 3.700397280259615e-11,
+      "words": [
+        {
+          "word": " Dumbledore!",
+          "start": 51.58,
+          "end": 52.26,
+          "probability": 0.7783203125
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 5912,
+      "start": 59.4,
+      "end": 60.8,
+      "text": " Duh.",
+      "tokens": [
+        50365,
+        413,
+        3232,
+        13,
+        50450
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.7962526480356852,
+      "compression_ratio": 0.3333333333333333,
+      "no_speech_prob": 1.6460389995476277e-10,
+      "words": [
+        {
+          "word": " Duh.",
+          "start": 59.4,
+          "end": 60.8,
+          "probability": 0.44677734375
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

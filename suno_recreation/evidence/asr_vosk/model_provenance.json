@@ -1,0 +1,11 @@
+{
+  "name": "vosk-model-small-en-us-0.15",
+  "download": "https://alphacephei.com/vosk/models/vosk-model-small-en-us-0.15.zip",
+  "source": "https://github.com/alphacep/vosk-space/blob/master/models.md",
+  "sha256": "30f26242c4eb449f948e42cb302dd7a686cb29a3423a8367f99ff41780942498",
+  "archive_bytes": 41205931,
+  "license_as_listed": "Apache 2.0",
+  "unpacked_path": "vosk_model/vosk-model-small-en-us-0.15",
+  "runtime_platform": "macOS-27.0-arm64-arm-64bit-Mach-O",
+  "note": "Raw ASR JSON in asr_vosk; poor recognition for music-backed specialist terms. Weights are local and not uploaded."
+}

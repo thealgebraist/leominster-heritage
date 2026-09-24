@@ -1,0 +1,138 @@
+{
+  "inventory": "8 included, 1 excluded",
+  "source_hashes_verified": 9,
+  "tracks": [
+    {
+      "id": "Dc1uBZahhts",
+      "style_chars": 567,
+      "lyric_chars": 232,
+      "audio_model_intervals": [
+        [
+          0.0,
+          15.8141875
+        ]
+      ],
+      "independent_raw_asr": "present"
+    },
+    {
+      "id": "Dc8axxYIC3k",
+      "style_chars": 598,
+      "lyric_chars": 241,
+      "audio_model_intervals": [
+        [
+          0.0,
+          22.3158125
+        ]
+      ],
+      "independent_raw_asr": "present"
+    },
+    {
+      "id": "DcRZB_PBFkr",
+      "style_chars": 587,
+      "lyric_chars": 505,
+      "audio_model_intervals": [
+        [
+          0.0,
+          24.0
+        ],
+        [
+          24.0,
+          38.0125
+        ]
+      ],
+      "independent_raw_asr": "present"
+    },
+    {
+      "id": "DcYTYvMBSMn",
+      "style_chars": 626,
+      "lyric_chars": 659,
+      "audio_model_intervals": [
+        [
+          0.0,
+          24.0
+        ],
+        [
+          24.0,
+          48.0
+        ],
+        [
+          48.0,
+          53.6163125
+        ]
+      ],
+      "independent_raw_asr": "present"
+    },
+    {
+      "id": "DcbYsWLhhdZ",
+      "style_chars": 596,
+      "lyric_chars": 792,
+      "audio_model_intervals": [
+        [
+          0.0,
+          24.0
+        ],
+        [
+          24.0,
+          48.0
+        ],
+        [
+          48.0,
+          64.7154375
+        ]
+      ],
+      "independent_raw_asr": "present"
+    },
+    {
+      "id": "DcqWhZtBIEI",
+      "style_chars": 629,
+      "lyric_chars": 789,
+      "audio_model_intervals": [
+        [
+          0.0,
+          24.0
+        ],
+        [
+          24.0,
+          48.0
+        ],
+        [
+          48.0,
+          67.0374375
+        ]
+      ],
+      "independent_raw_asr": "present"
+    },
+    {
+      "id": "DcvxvGDhSeb",
+      "style_chars": 551,
+      "lyric_chars": 287,
+      "audio_model_intervals": [
+        [
+          0.0,
+          22.5015625
+        ]
+      ],
+      "independent_raw_asr": "present"
+    },
+    {
+      "id": "DdLxzBIoJ8F",
+      "style_chars": 598,
+      "lyric_chars": 694,
+      "audio_model_intervals": [
+        [
+          0.0,
+          24.0
+        ],
+        [
+          24.0,
+          48.0
+        ]
+      ],
+      "independent_raw_asr": "present"
+    }
+  ],
+  "report_coverage": "all eight reports contain timed lyrics, pronunciation guidance, melody, tonality, rhythm, instrumentation, effects, Suno prompt sections, and links to sampled visual evidence",
+  "audio_cue_validation": "all 8 tracks have a waveform/onset plot and time-aligned PCM excerpts covering their extracted audio duration; excluded knocker has no cue packet",
+  "html_structure_and_local_links": "passed",
+  "boundary": "These checks verify artifact presence, report coverage, source preservation, model excerpt coverage, and local links. They do not prove transcript accuracy, phonetic accuracy, musical correctness, or Suno reproduction."
+}

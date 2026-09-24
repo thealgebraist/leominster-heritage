@@ -1,0 +1,84 @@
+{
+  "method": "librosa pYIN, 8 kHz source mixture and HPSS harmonic component; f0 70-650 Hz; probability >=.8; RMS above 30th percentile/floor .003",
+  "warning": "Includes backing, which can dominate detected pitch; quantiles are candidate periodicities, not an established sung line.",
+  "retained_fraction_and_phrase_summaries": [
+    {
+      "signal": "mix",
+      "retained_fraction": 0.005,
+      "phrases": [
+        {
+          "time": "0.0\u20135.9",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "5.9\u201310.5",
+          "retained_fraction": 0.01
+        },
+        {
+          "time": "10.5\u201311.3",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "11.4\u201312.1",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "12.2\u201313.3",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "14.0\u201318.3",
+          "retained_fraction": 0.015
+        },
+        {
+          "time": "18.3\u201322.3",
+          "retained_fraction": 0.0
+        }
+      ]
+    },
+    {
+      "signal": "harmonic",
+      "retained_fraction": 0.0287,
+      "phrases": [
+        {
+          "time": "0.0\u20135.9",
+          "retained_fraction": 0.054,
+          "p10_median_p90_notes": [
+            "C\u266f2",
+            "E2",
+            "G\u266f2"
+          ]
+        },
+        {
+          "time": "5.9\u201310.5",
+          "retained_fraction": 0.059,
+          "p10_median_p90_notes": [
+            "D2",
+            "F2",
+            "G2"
+          ]
+        },
+        {
+          "time": "10.5\u201311.3",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "11.4\u201312.1",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "12.2\u201313.3",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "14.0\u201318.3",
+          "retained_fraction": 0.011
+        },
+        {
+          "time": "18.3\u201322.3",
+          "retained_fraction": 0.0
+        }
+      ]
+    }
+  ]
+}

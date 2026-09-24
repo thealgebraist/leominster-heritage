@@ -1,0 +1,11 @@
+{
+  "source": "DcvxvGDhSeb.wav",
+  "start_s": 0.0,
+  "end_s": 22.5015625,
+  "model": "RumiLabs/MOSS-Audio-4B-Thinking-MLX-4bit",
+  "prompt": "Describe the audible music in this excerpt: voice characteristics and accent if identifiable, singing versus rhythmic speech, instruments and timbres, beat and groove, melodic contour, harmonic mood, production effects, and any non-musical sound effects. Do not invent exact notes, key, tempo, lyrics, or unseen context. State uncertainty. Give a concise but specific description.",
+  "description": "The audio excerpt features a male voice singing with an energetic, slightly theatrical tone. The lyrics are repetitive and include phrases like \"EtchA-nus,\" \"In Tossis,\" \"a bulbus endothelium swelling shaft\". The style is rhythmic speech or chant-like music rather than traditional song. Instrumentation includes synthesized sounds mimicking drums, bass, and keyboard or synth textures; the beat is fast-paced, driving, and consistent throughout. There are no distinct changes in pitch for individual notes as it's more of a spoken-word musical piece. A non-musical sound effect\u2014a swoosh\u2014is present toward the end of the clip. The mood is upbeat and quirky. The production is clean and digital-sounding.",
+  "raw_output": "\nThe audio excerpt features a male voice singing with an energetic, slightly theatrical tone. The lyrics are repetitive and include phrases like \"EtchA-nus,\" \"In Tossis,\" \"a bulbus endothelium swelling shaft\". The style is rhythmic speech or chant-like music rather than traditional song. Instrumentation includes synthesized sounds mimicking drums, bass, and keyboard or synth textures; the beat is fast-paced, driving, and consistent throughout. There are no distinct changes in pitch for individual notes as it's more of a spoken-word musical piece. A non-musical sound effect\u2014a swoosh\u2014is present toward the end of the clip. The mood is upbeat and quirky. The production is clean and digital-sounding.<|im_end|>",
+  "status": "model inference, not direct listening by assistant",
+  "generation_s": 8.077478170394897
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "start": 0,
+    "end": 8,
+    "result": {
+      "text": " Flaunching, flaunching, what's around your pot? A flaunching! Soaping nicely, keeping it dry, flaunching around your pot up in the sky.",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 3.06,
+          "text": " Flaunching, flaunching, what's around your pot?",
+          "tokens": [
+            50365,
+            479,
+            875,
+            46079,
+            11,
+            46338,
+            46079,
+            11,
+            437,
+            311,
+            926,
+            428,
+            1847,
+            30,
+            50518
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.30099291917754384,
+          "compression_ratio": 1.4210526315789473,
+          "no_speech_prob": 6.895148341179436e-10
+        },
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 3.06,
+          "end": 8.0,
+          "text": " A flaunching! Soaping nicely, keeping it dry, flaunching around your pot up in the sky.",
+          "tokens": [
+            50518,
+            316,
+            46338,
+            46079,
+            0,
+            407,
+            569,
+            278,
+            9594,
+            11,
+            5145,
+            309,
+            4016,
+            11,
+            46338,
+            46079,
+            926,
+            428,
+            1847,
+            493,
+            294,
+            264,
+            5443,
+            13,
+            50765
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.30099291917754384,
+          "compression_ratio": 1.4210526315789473,
+          "no_speech_prob": 6.895148341179436e-10
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "start": 8,
+    "end": 13,
+    "result": {
+      "text": " Earth launching.",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 5.0,
+          "text": " Earth launching.",
+          "tokens": [
+            50365,
+            4755,
+            18354,
+            13,
+            50615
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.7519354025522867,
+          "compression_ratio": 0.6666666666666666,
+          "no_speech_prob": 8.130732753741654e-10
+        }
+      ],
+      "language": "en"
+    }
+  }
+]

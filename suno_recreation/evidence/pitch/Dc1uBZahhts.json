@@ -1,0 +1,60 @@
+{
+  "method": "pYIN on estimated vocal stem, 8kHz, 1024 frame, 128 hop, f0 65-700 Hz; retain voiced probability >=0.7 and audible RMS",
+  "warning": "Model-separated vocal may contain instruments; pYIN may choose octave errors and excludes unvoiced/uncertain frames. Quantiles describe retained frames, not scored melody or true vocal range.",
+  "retained_fraction": 0.03842264914054601,
+  "phrases": [
+    {
+      "time": "0.0\u20131.5",
+      "words": "Flaunching, flaunching!",
+      "retained_seconds": 0.11,
+      "retained_fraction": 0.07
+    },
+    {
+      "time": "1.7\u20133.0",
+      "words": "What's around your pot?",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "3.2\u20133.8",
+      "words": "A flaunching!",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "3.8\u20135.3",
+      "words": "[Sloping?] nicely, keeping it dry.",
+      "retained_seconds": 0.11,
+      "retained_fraction": 0.07
+    },
+    {
+      "time": "5.3\u20137.7",
+      "words": "Flaunching 'round your pot, up in the sky.",
+      "retained_seconds": 0.21,
+      "retained_fraction": 0.09,
+      "midi_p10_median_p90": [
+        47.99,
+        52.99,
+        55.17
+      ],
+      "nearest_notes_p10_median_p90": [
+        "C3",
+        "F3",
+        "G3"
+      ]
+    },
+    {
+      "time": "9.6\u201310.8",
+      "words": "A flaunching!",
+      "retained_seconds": 0.14,
+      "retained_fraction": 0.12
+    },
+    {
+      "time": "10.8\u201315.8",
+      "words": "No further intelligible words recovered; musical/video tail.",
+      "retained_seconds": 0.03,
+      "retained_fraction": 0.01
+    }
+  ],
+  "runtime_s": 3.968592882156372
+}

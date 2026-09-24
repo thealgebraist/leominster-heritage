@@ -1,0 +1,205 @@
+{
+  "model": "vosk-model-en-us-0.22",
+  "sample_rate": 16000,
+  "chunks": [
+    {
+      "result": [
+        {
+          "conf": 0.876929,
+          "end": 1.076585,
+          "start": 0.866585,
+          "word": "don't"
+        },
+        {
+          "conf": 0.876929,
+          "end": 3.165686,
+          "start": 2.947925,
+          "word": "don't"
+        },
+        {
+          "conf": 0.876929,
+          "end": 6.27,
+          "start": 6.06,
+          "word": "don't"
+        },
+        {
+          "conf": 0.876929,
+          "end": 6.72,
+          "start": 6.54,
+          "word": "don't"
+        },
+        {
+          "conf": 0.876929,
+          "end": 7.08,
+          "start": 6.96,
+          "word": "don't"
+        },
+        {
+          "conf": 0.876929,
+          "end": 7.2,
+          "start": 7.08,
+          "word": "think"
+        },
+        {
+          "conf": 0.876929,
+          "end": 7.320466,
+          "start": 7.200622,
+          "word": "that"
+        },
+        {
+          "conf": 0.941383,
+          "end": 7.459064,
+          "start": 7.387323,
+          "word": "that"
+        },
+        {
+          "conf": 0.556704,
+          "end": 7.655257,
+          "start": 7.459064,
+          "word": "contact"
+        },
+        {
+          "conf": 0.325121,
+          "end": 7.77,
+          "start": 7.655257,
+          "word": "that's"
+        },
+        {
+          "conf": 1.0,
+          "end": 8.04,
+          "start": 7.843434,
+          "word": "gone"
+        },
+        {
+          "conf": 1.0,
+          "end": 8.25,
+          "start": 8.04,
+          "word": "gone"
+        },
+        {
+          "conf": 1.0,
+          "end": 8.49,
+          "start": 8.25,
+          "word": "gone"
+        },
+        {
+          "conf": 0.868111,
+          "end": 8.61,
+          "start": 8.49,
+          "word": "to"
+        },
+        {
+          "conf": 1.0,
+          "end": 8.7,
+          "start": 8.61,
+          "word": "a"
+        },
+        {
+          "conf": 1.0,
+          "end": 9.15,
+          "start": 8.91,
+          "word": "good"
+        },
+        {
+          "conf": 1.0,
+          "end": 9.51,
+          "start": 9.18,
+          "word": "day"
+        },
+        {
+          "conf": 1.0,
+          "end": 10.02,
+          "start": 9.81,
+          "word": "good"
+        },
+        {
+          "conf": 1.0,
+          "end": 10.41,
+          "start": 10.05,
+          "word": "day"
+        },
+        {
+          "conf": 1.0,
+          "end": 10.92,
+          "start": 10.68,
+          "word": "good"
+        },
+        {
+          "conf": 1.0,
+          "end": 11.25,
+          "start": 10.95,
+          "word": "day"
+        },
+        {
+          "conf": 1.0,
+          "end": 11.79,
+          "start": 11.55,
+          "word": "good"
+        },
+        {
+          "conf": 1.0,
+          "end": 12.15,
+          "start": 11.82,
+          "word": "day"
+        },
+        {
+          "conf": 1.0,
+          "end": 12.87,
+          "start": 12.69,
+          "word": "good"
+        },
+        {
+          "conf": 1.0,
+          "end": 13.5,
+          "start": 12.9,
+          "word": "day"
+        },
+        {
+          "conf": 1.0,
+          "end": 13.83,
+          "start": 13.56,
+          "word": "good"
+        },
+        {
+          "conf": 0.485133,
+          "end": 14.25,
+          "start": 13.86,
+          "word": "time"
+        }
+      ],
+      "text": "don't don't don't don't don't think that that contact that's gone gone gone to a good day good day good day good day good day good time"
+    },
+    {
+      "result": [
+        {
+          "conf": 1.0,
+          "end": 16.44,
+          "start": 16.2,
+          "word": "good"
+        },
+        {
+          "conf": 1.0,
+          "end": 17.18051,
+          "start": 16.47,
+          "word": "day"
+        },
+        {
+          "conf": 1.0,
+          "end": 17.79,
+          "start": 17.471283,
+          "word": "good"
+        },
+        {
+          "conf": 1.0,
+          "end": 18.956158,
+          "start": 17.79,
+          "word": "day"
+        }
+      ],
+      "text": "good day good day"
+    }
+  ],
+  "transcript": "don't don't don't don't don't think that that contact that's gone gone gone to a good day good day good day good day good day good time good day good day",
+  "runtime_s": 4.018,
+  "provenance": "Offline recognizer, unconstrained vocabulary; raw hypothesis, not corrected."
+}

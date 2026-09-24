@@ -1,0 +1,14 @@
+{
+  "job": {
+    "audio": "/Users/anders/projects/barge/suno_recreation/evidence/stems/DdLxzBIoJ8F_backing.wav",
+    "start": 0,
+    "end": 15,
+    "normalize": true,
+    "prompt": "Describe only the audible backing music: rhythm, bass, pitched instruments, timbre and sound effects. Is the sound mainly electronic synthesizers, acoustic instruments, vocal noises, or a mixture? Do not invent lyrics or where the audio came from. State uncertainty when the instrument is unclear.",
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/DdLxzBIoJ8F_backing.json"
+  },
+  "model": "RumiLabs/MOSS-Audio-4B-Thinking-MLX-4bit",
+  "response": "The audio features an electronic backing track characterized by a steady, danceable rhythm. The instrumentation includes synthesized bass and drums, along with other keyboard or synth sounds. The sound effects such as beeps, glides, and wah-wah sounds are clearly audible over the music. The track is instrumental, so there are no vocal noises or lyrics to identify. The primary sound sources are electronic synthesizers, providing both the rhythmic foundation and melodic/harmonic elements.",
+  "generation_s": 4.796000003814697,
+  "status": "machine interpretation; separated stems may contain artifacts"
+}

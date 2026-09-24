@@ -1,0 +1,2507 @@
+[
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500017578123
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500011718748
+      }
+    ],
+    "time" : 0
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001420459
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82778388593297347
+      },
+      {
+        "confidence" : 1,
+        "text" : "IWi-Fi",
+        "y" : 0.76093750004394534
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19293346941540368
+      }
+    ],
+    "time" : 0.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001225493
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500011718748
+      }
+    ],
+    "time" : 1
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001201923
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500010044643
+      }
+    ],
+    "time" : 1.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 2
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "SOMINSTER",
+        "y" : 0.84071535278364329
+      },
+      {
+        "confidence" : 1,
+        "text" : "14",
+        "y" : 0.42187500012620194
+      },
+      {
+        "confidence" : 1,
+        "text" : "ETTERS",
+        "y" : 0.33281250017578123
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19290482013868504
+      }
+    ],
+    "time" : 2.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500017578123
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500011718748
+      }
+    ],
+    "time" : 3
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 3.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19452400449655693
+      }
+    ],
+    "time" : 4
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001201923
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500001488099
+      },
+      {
+        "confidence" : 1,
+        "text" : "D",
+        "y" : 0.20000000016741071
+      }
+    ],
+    "time" : 4.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82844889429231883
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19396982245335415
+      }
+    ],
+    "time" : 5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "BOMINS",
+        "y" : 0.84188746297460948
+      },
+      {
+        "confidence" : 1,
+        "text" : "TERITAGES",
+        "y" : 0.82557112111220721
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19136860093181407
+      }
+    ],
+    "time" : 5.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEON",
+        "y" : 0.84218750004971588
+      },
+      {
+        "confidence" : 1,
+        "text" : "ER",
+        "y" : 0.83281250003906249
+      },
+      {
+        "confidence" : 1,
+        "text" : "TER",
+        "y" : 0.84062500008928565
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19219300885072355
+      }
+    ],
+    "time" : 6
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500011718755
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500001358691
+      },
+      {
+        "confidence" : 1,
+        "text" : "Green",
+        "y" : 0.2288968472687094
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15781250018749993
+      }
+    ],
+    "time" : 6.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.5,
+        "text" : "ЛН",
+        "y" : 0.86406250009374996
+      },
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84218750000997344
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82973061689216177
+      },
+      {
+        "confidence" : 1,
+        "text" : "Red",
+        "y" : 0.23437500018066404
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.152591563427106
+      }
+    ],
+    "time" : 7
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500014062502
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82968750012499992
+      },
+      {
+        "confidence" : 1,
+        "text" : "60",
+        "y" : 0.63437500019531246
+      }
+    ],
+    "time" : 7.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500002343743
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82872502876762066
+      },
+      {
+        "confidence" : 1,
+        "text" : "DELICATES:",
+        "y" : 0.40470939261611216
+      },
+      {
+        "confidence" : 1,
+        "text" : "D",
+        "y" : 0.19531250018415169
+      }
+    ],
+    "time" : 8
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001096496
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82819030279574246
+      },
+      {
+        "confidence" : 1,
+        "text" : "The Old Vicarage",
+        "y" : 0.61691618519499958
+      },
+      {
+        "confidence" : 1,
+        "text" : "Doo",
+        "y" : 0.19531250013980261
+      }
+    ],
+    "time" : 8.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.18870764841681331
+      }
+    ],
+    "time" : 9
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84218750001215281
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82778342189229215
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.18934948489428027
+      }
+    ],
+    "time" : 9.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500017578123
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82968750012499992
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19073541803684579
+      }
+    ],
+    "time" : 10
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001136364
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82803618919789068
+      },
+      {
+        "confidence" : 1,
+        "text" : "BILL SOM",
+        "y" : 0.54062500001464842
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19304964240202904
+      }
+    ],
+    "time" : 10.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "FOMINSTER",
+        "y" : 0.84140771311017415
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.8296875000116356
+      },
+      {
+        "confidence" : 1,
+        "text" : "Ca",
+        "y" : 0.22968750017361117
+      },
+      {
+        "confidence" : 1,
+        "text" : "Fla",
+        "y" : 0.15847955845183004
+      }
+    ],
+    "time" : 11
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "EOMINSTER",
+        "y" : 0.84062500001225493
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82802791605370651
+      },
+      {
+        "confidence" : 1,
+        "text" : "Blue",
+        "y" : 0.22628974541206559
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15499610358015781
+      }
+    ],
+    "time" : 11.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001358698
+      },
+      {
+        "confidence" : 1,
+        "text" : "ERITAGE",
+        "y" : 0.82931780509777808
+      },
+      {
+        "confidence" : 1,
+        "text" : "Nº 2",
+        "y" : 0.74062500004595588
+      },
+      {
+        "confidence" : 1,
+        "text" : "The Gatehouse\".",
+        "y" : 0.72031250025000004
+      },
+      {
+        "confidence" : 1,
+        "text" : "Black",
+        "y" : 0.2308323605784075
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15625000021763391
+      }
+    ],
+    "time" : 12
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "SEOMNST",
+        "y" : 0.84375000000952749
+      },
+      {
+        "confidence" : 1,
+        "text" : "21",
+        "y" : 0.47187500016601569
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19258175625756557
+      }
+    ],
+    "time" : 12.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER •",
+        "y" : 0.84062500011718755
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82832763651829966
+      }
+    ],
+    "time" : 13
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 13.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84375000013671875
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.83125000001188853
+      }
+    ],
+    "time" : 14
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001329787
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500001302081
+      },
+      {
+        "confidence" : 1,
+        "text" : "20",
+        "y" : 0.66875000014322916
+      },
+      {
+        "confidence" : 1,
+        "text" : "Вa~",
+        "y" : 0.23214590479726405
+      },
+      {
+        "confidence" : 1,
+        "text" : "Dơ~",
+        "y" : 0.15207172267456792
+      }
+    ],
+    "time" : 14.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84218750000994325
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.8296875000116356
+      },
+      {
+        "confidence" : 1,
+        "text" : "The Old Vicarage",
+        "y" : 0.61875000001674108
+      },
+      {
+        "confidence" : 1,
+        "text" : "Fron",
+        "y" : 0.22968750021205353
+      },
+      {
+        "confidence" : 1,
+        "text" : "Doo",
+        "y" : 0.15468750014508925
+      }
+    ],
+    "time" : 15
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "NSTER",
+        "y" : 0.83862061663486998
+      },
+      {
+        "confidence" : 0.5,
+        "text" : "ASE",
+        "y" : 0.82812500014062507
+      },
+      {
+        "confidence" : 1,
+        "text" : "Big",
+        "y" : 0.21609645950393941
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15396342236809324
+      }
+    ],
+    "time" : 15.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "EOMINSTER",
+        "y" : 0.84218750001093756
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.83125000001019023
+      },
+      {
+        "confidence" : 1,
+        "text" : "26",
+        "y" : 0.74531250006250005
+      },
+      {
+        "confidence" : 1,
+        "text" : "Small",
+        "y" : 0.23213991151474378
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15541284734223004
+      }
+    ],
+    "time" : 16
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 16.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINST",
+        "y" : 0.84375000001674105
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.831250000109375
+      },
+      {
+        "confidence" : 1,
+        "text" : "Doo",
+        "y" : 0.19464551230078619
+      }
+    ],
+    "time" : 17
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTE",
+        "y" : 0.84062500001602558
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82968750001562497
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19042240009383204
+      }
+    ],
+    "time" : 17.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "TERIT",
+        "y" : 0.82812500017187496
+      },
+      {
+        "confidence" : 1,
+        "text" : "D",
+        "y" : 0.1640625001388889
+      }
+    ],
+    "time" : 18
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "DINSTER",
+        "y" : 0.84054297285624857
+      },
+      {
+        "confidence" : 1,
+        "text" : "TAGE",
+        "y" : 0.82812500002717393
+      },
+      {
+        "confidence" : 1,
+        "text" : "21a",
+        "y" : 0.57031250020089286
+      },
+      {
+        "confidence" : 1,
+        "text" : "New",
+        "y" : 0.22564438902713013
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15561356936907855
+      }
+    ],
+    "time" : 18.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Nó. 10.",
+        "y" : 0.92500000012931038
+      },
+      {
+        "confidence" : 1,
+        "text" : "THE BEAU",
+        "y" : 0.63335336519095486
+      },
+      {
+        "confidence" : 1,
+        "text" : "ž022",
+        "y" : 0.35937500004687506
+      },
+      {
+        "confidence" : 1,
+        "text" : "35",
+        "y" : 0.30781250005859373
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "2022",
+        "y" : 0.29218750008593752
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19107371249999416
+      }
+    ],
+    "time" : 19
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOM",
+        "y" : 0.84375000001698375
+      },
+      {
+        "confidence" : 1,
+        "text" : "NSTER",
+        "y" : 0.84375000011718748
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.83125000013671868
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19025189447772739
+      }
+    ],
+    "time" : 19.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500014062502
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500010044643
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19211388355325609
+      }
+    ],
+    "time" : 20
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "SE",
+        "y" : 0.47656250005580358
+      },
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001201923
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82811803349245183
+      },
+      {
+        "confidence" : 1,
+        "text" : "Stable",
+        "y" : 0.22889105104502794
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.1562500001746322
+      }
+    ],
+    "time" : 20.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001096496
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.8269837655251574
+      },
+      {
+        "confidence" : 1,
+        "text" : "Stable",
+        "y" : 0.23048735506961471
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15522238928617182
+      }
+    ],
+    "time" : 21
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Lr",
+        "y" : 0.86250000017045458
+      },
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84068622877122312
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.8312500000911458
+      },
+      {
+        "confidence" : 1,
+        "text" : "Stable",
+        "y" : 0.22793649371430225
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15354300753485006
+      }
+    ],
+    "time" : 21.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84218750001072307
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82968750001188862
+      },
+      {
+        "confidence" : 1,
+        "text" : "Cellar",
+        "y" : 0.22674021509677278
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15548149122824984
+      }
+    ],
+    "time" : 22
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500011718755
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.8296875000116356
+      },
+      {
+        "confidence" : 1,
+        "text" : "Cellar",
+        "y" : 0.22778865997691378
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15170347769449466
+      }
+    ],
+    "time" : 22.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84218750002878284
+      },
+      {
+        "confidence" : 1,
+        "text" : "RITAGE",
+        "y" : 0.82971856572657421
+      },
+      {
+        "confidence" : 1,
+        "text" : "Cellar",
+        "y" : 0.22916464511748835
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15402723899493753
+      }
+    ],
+    "time" : 23
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500017578123
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82793585595575325
+      },
+      {
+        "confidence" : 1,
+        "text" : "Cellar",
+        "y" : 0.22794490234409193
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15382577209350823
+      }
+    ],
+    "time" : 23.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "EOMINSTER",
+        "y" : 0.84062500001225493
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82968750001367186
+      }
+    ],
+    "time" : 24
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 24.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 25
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 25.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 26
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001201923
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.8312500000099734
+      }
+    ],
+    "time" : 26.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : ".EOMINSTER",
+        "y" : 0.84062500001358698
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82968750001215275
+      }
+    ],
+    "time" : 27
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 27.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 28
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001225493
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82745815286970159
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.18749999942325579
+      }
+    ],
+    "time" : 28.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.8389128926464704
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGS",
+        "y" : 0.82731415418418175
+      },
+      {
+        "confidence" : 1,
+        "text" : "Peı",
+        "y" : 0.8875000001953125
+      }
+    ],
+    "time" : 29
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84218750058086234
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82744107826429603
+      }
+    ],
+    "time" : 29.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "80% OFF",
+        "y" : 0.4046875000205592
+      },
+      {
+        "confidence" : 1,
+        "text" : "MARKED PRICES",
+        "y" : 0.39531250001860119
+      },
+      {
+        "confidence" : 1,
+        "text" : "OMINSTER",
+        "y" : 0.44531250004882816
+      },
+      {
+        "confidence" : 1,
+        "text" : "MOVING!",
+        "y" : 0.43906250013020842
+      },
+      {
+        "confidence" : 1,
+        "text" : "MINSTER",
+        "y" : 0.32812500001775569
+      },
+      {
+        "confidence" : 1,
+        "text" : "HOUSE",
+        "y" : 0.3187500000217014
+      },
+      {
+        "confidence" : 1,
+        "text" : "Panel•",
+        "y" : 0.22535166467142798
+      },
+      {
+        "confidence" : 1,
+        "text" : "Doo~",
+        "y" : 0.15781250015625015
+      }
+    ],
+    "time" : 30
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "80% OFF",
+        "y" : 0.39823845416508818
+      },
+      {
+        "confidence" : 1,
+        "text" : "ERITAGE",
+        "y" : 0.82968750003038194
+      },
+      {
+        "confidence" : 1,
+        "text" : "MINSTER",
+        "y" : 0.31718750003125007
+      },
+      {
+        "confidence" : 1,
+        "text" : "HOUSE",
+        "y" : 0.30781250005859373
+      },
+      {
+        "confidence" : 1,
+        "text" : "Panelled",
+        "y" : 0.23046050696867104
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15846347979368003
+      }
+    ],
+    "time" : 30.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.5,
+        "text" : "TER",
+        "y" : 0.82983455906019099
+      },
+      {
+        "confidence" : 1,
+        "text" : "Plank",
+        "y" : 0.23125000015624997
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.1554212274242911
+      }
+    ],
+    "time" : 31
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "gh Ròs",
+        "y" : 0.52031250003700658
+      },
+      {
+        "confidence" : 1,
+        "text" : "JEOMINSTER",
+        "y" : 0.84375000001055744
+      },
+      {
+        "confidence" : 1,
+        "text" : "CHERITA CIE",
+        "y" : 0.83101079969835201
+      }
+    ],
+    "time" : 31.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "BFOMI",
+        "y" : 0.84375000004687495
+      },
+      {
+        "confidence" : 1,
+        "text" : "STER",
+        "y" : 0.8421875000260417
+      },
+      {
+        "confidence" : 1,
+        "text" : "TERIT",
+        "y" : 0.83125000002467109
+      },
+      {
+        "confidence" : 1,
+        "text" : "AGE",
+        "y" : 0.83125000003906246
+      },
+      {
+        "confidence" : 1,
+        "text" : "184",
+        "y" : 0.51093750022569451
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.18984977333084996
+      }
+    ],
+    "time" : 32
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Studded",
+        "y" : 0.23004850746925098
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15510685277100256
+      }
+    ],
+    "time" : 32.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEONITAGE",
+        "y" : 0.82817350884368024
+      },
+      {
+        "confidence" : 1,
+        "text" : "Studded",
+        "y" : 0.22704744340654659
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15337552261814447
+      }
+    ],
+    "time" : 33
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "FOMINSTER",
+        "y" : 0.84062500014062502
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERFTAGE",
+        "y" : 0.82812500010044643
+      },
+      {
+        "confidence" : 1,
+        "text" : "Arched",
+        "y" : 0.22968750019531259
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.13840767213373706
+      }
+    ],
+    "time" : 33.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001096496
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82763452812033711
+      },
+      {
+        "confidence" : 1,
+        "text" : "Arched",
+        "y" : 0.22769472900175958
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15495202350173154
+      }
+    ],
+    "time" : 34
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001096496
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82836768221364321
+      },
+      {
+        "confidence" : 1,
+        "text" : "Arched",
+        "y" : 0.22759256962146968
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15781250020089277
+      }
+    ],
+    "time" : 34.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83906365407271633
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500010044643
+      },
+      {
+        "confidence" : 1,
+        "text" : "Arched",
+        "y" : 0.22635807696234145
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15483125924230046
+      }
+    ],
+    "time" : 35
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMAAN STER",
+        "y" : 0.84375000000697542
+      },
+      {
+        "confidence" : 1,
+        "text" : "• HERITAGE",
+        "y" : 0.82812500002314815
+      },
+      {
+        "confidence" : 1,
+        "text" : "18",
+        "y" : 0.69531250026785707
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19071998919704514
+      }
+    ],
+    "time" : 35.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "EOMINSTER",
+        "y" : 0.84062500002083329
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82773252885195214
+      },
+      {
+        "confidence" : 1,
+        "text" : "36",
+        "y" : 0.74687500016493058
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19292196242600634
+      }
+    ],
+    "time" : 36
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Secret",
+        "y" : 0.22785100577196238
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.1562500001746322
+      }
+    ],
+    "time" : 36.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "secret",
+        "y" : 0.22871917969183519
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15371231420662246
+      }
+    ],
+    "time" : 37
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Secret",
+        "y" : 0.22784491769450954
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15554994046909765
+      }
+    ],
+    "time" : 37.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001201923
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82758271704970365
+      }
+    ],
+    "time" : 38
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500017578123
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500014062507
+      },
+      {
+        "confidence" : 1,
+        "text" : "Where?",
+        "y" : 0.18142316063003283
+      }
+    ],
+    "time" : 38.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500017578123
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500014062507
+      }
+    ],
+    "time" : 39
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001420459
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500014062507
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.18750000021763391
+      }
+    ],
+    "time" : 39.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001225493
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500010044643
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19305173205519388
+      }
+    ],
+    "time" : 40
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001096496
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82815738703986397
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19160929755347844
+      }
+    ],
+    "time" : 40.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84218750015624999
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82740394912944015
+      }
+    ],
+    "time" : 41
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83833244074098179
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82777589570343002
+      }
+    ],
+    "time" : 41.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "EOMINSTER",
+        "y" : 0.84062500001602558
+      },
+      {
+        "confidence" : 1,
+        "text" : "IERITAGE",
+        "y" : 0.82968750001657199
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19042426846105032
+      }
+    ],
+    "time" : 42
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500001329781
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19229125735060271
+      }
+    ],
+    "time" : 42.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83906250001233551
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82776368955674451
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19132506613897715
+      }
+    ],
+    "time" : 43
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82968750001402247
+      },
+      {
+        "confidence" : 1,
+        "text" : "Green",
+        "y" : 0.2281071837719425
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15552951308485419
+      }
+    ],
+    "time" : 43.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.5,
+        "text" : "OMI",
+        "y" : 0.84375000009375001
+      },
+      {
+        "confidence" : 1,
+        "text" : "STER",
+        "y" : 0.84062500003125007
+      },
+      {
+        "confidence" : 1,
+        "text" : "GE",
+        "y" : 0.8296875000455729
+      },
+      {
+        "confidence" : 1,
+        "text" : "Red",
+        "y" : 0.23281250027698852
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15625000015625012
+      }
+    ],
+    "time" : 44
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001116069
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.831250000109375
+      },
+      {
+        "confidence" : 1,
+        "text" : "Blue",
+        "y" : 0.22657640927982703
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.15538899953904795
+      }
+    ],
+    "time" : 44.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEC",
+        "y" : 0.84218750013671873
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "HE.",
+        "y" : 0.82761338485522729
+      },
+      {
+        "confidence" : 1,
+        "text" : "Cat",
+        "y" : 0.22880816016197536
+      },
+      {
+        "confidence" : 1,
+        "text" : "Flap",
+        "y" : 0.14245946786814179
+      }
+    ],
+    "time" : 45
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTE",
+        "y" : 0.84062500001188856
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82968750014062498
+      },
+      {
+        "confidence" : 1,
+        "text" : "Cat",
+        "y" : 0.22724920494369183
+      },
+      {
+        "confidence" : 1,
+        "text" : "Flap",
+        "y" : 0.14359529850891062
+      }
+    ],
+    "time" : 45.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500017578123
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500010044643
+      }
+    ],
+    "time" : 46
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500017578123
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500010044643
+      }
+    ],
+    "time" : 46.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "EOM",
+        "y" : 0.84375000002055922
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19228198862765744
+      }
+    ],
+    "time" : 47
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84218750001093756
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500001329781
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19228198862765744
+      }
+    ],
+    "time" : 47.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001096496
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.8285910392196576
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19454004213800469
+      }
+    ],
+    "time" : 48
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001116069
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82831811979730108
+      }
+    ],
+    "time" : 48.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.19193641736058975
+      }
+    ],
+    "time" : 49
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500017578123
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500010044643
+      }
+    ],
+    "time" : 49.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500014062502
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500010044643
+      }
+    ],
+    "time" : 50
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500014062502
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500010044643
+      }
+    ],
+    "time" : 50.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500014062502
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500010044643
+      }
+    ],
+    "time" : 51
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEO",
+        "y" : 0.84062500003676477
+      },
+      {
+        "confidence" : 1,
+        "text" : "HE",
+        "y" : 0.82968750008928571
+      },
+      {
+        "confidence" : 1,
+        "text" : "Dumble",
+        "y" : 0.22644064362391114
+      }
+    ],
+    "time" : 51.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEO",
+        "y" : 0.84062500003676477
+      },
+      {
+        "confidence" : 1,
+        "text" : "HE",
+        "y" : 0.82812500010044643
+      },
+      {
+        "confidence" : 1,
+        "text" : "STE",
+        "y" : 0.84062500008928565
+      },
+      {
+        "confidence" : 0.5,
+        "text" : "HAG E",
+        "y" : 0.82968750015625004
+      },
+      {
+        "confidence" : 1,
+        "text" : "Dumble",
+        "y" : 0.22721509955424135
+      }
+    ],
+    "time" : 52
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Dumble",
+        "y" : 0.22724206970308314
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.13024255950926966
+      }
+    ],
+    "time" : 52.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Dumble",
+        "y" : 0.22642525270128822
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.13065470843134153
+      }
+    ],
+    "time" : 53
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Dumble",
+        "y" : 0.22783385815730273
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.1287833424136775
+      }
+    ],
+    "time" : 53.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Dumble",
+        "y" : 0.22932442449001478
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.13051654119829925
+      }
+    ],
+    "time" : 54
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Dumble",
+        "y" : 0.22783892473083311
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.1312500001692708
+      }
+    ],
+    "time" : 54.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Dumble",
+        "y" : 0.22714298965989754
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.12783346188869849
+      }
+    ],
+    "time" : 55
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Dumble",
+        "y" : 0.22878380340036542
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.13077186066189128
+      }
+    ],
+    "time" : 55.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Dumble",
+        "y" : 0.22756141146576192
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.1305616887249178
+      }
+    ],
+    "time" : 56
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Dumble",
+        "y" : 0.22936611773942306
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.12877812702403768
+      }
+    ],
+    "time" : 56.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Dumble",
+        "y" : 0.22907295253504389
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.12811653037432347
+      }
+    ],
+    "time" : 57
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Dumble",
+        "y" : 0.22730432173211268
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.13068597333031495
+      }
+    ],
+    "time" : 57.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Dumble",
+        "y" : 0.2271629842501397
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.13125000017922805
+      }
+    ],
+    "time" : 58
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Dumble",
+        "y" : 0.22909989975413159
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.13100937030756654
+      }
+    ],
+    "time" : 58.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Dumble",
+        "y" : 0.22908966565529276
+      },
+      {
+        "confidence" : 1,
+        "text" : "Door",
+        "y" : 0.13055193143453392
+      }
+    ],
+    "time" : 59
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500017578123
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500010044643
+      }
+    ],
+    "time" : 59.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001201923
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500010044643
+      }
+    ],
+    "time" : 60
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500001201923
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500010044643
+      }
+    ],
+    "time" : 60.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Door!",
+        "y" : 0.18592479552711882
+      }
+    ],
+    "time" : 61
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.78612552304512662
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.76919286631891493
+      }
+    ],
+    "time" : 61.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.62253157909865375
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.58769580057693616
+      }
+    ],
+    "time" : 62
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "FUF",
+        "y" : 0.59197453990020121
+      },
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.52675449739719116
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.47769835711575626
+      },
+      {
+        "confidence" : 1,
+        "text" : "Putting Historic",
+        "y" : 0.34379415904718003
+      },
+      {
+        "confidence" : 1,
+        "text" : "Leominser",
+        "y" : 0.30468750031250003
+      },
+      {
+        "confidence" : 1,
+        "text" : "On the Map",
+        "y" : 0.24883199750355511
+      }
+    ],
+    "time" : 62.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.52675449731166191
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.47769835711575626
+      },
+      {
+        "confidence" : 1,
+        "text" : "Putting Historic",
+        "y" : 0.34379415904718003
+      },
+      {
+        "confidence" : 1,
+        "text" : "Leominser",
+        "y" : 0.30468750031250003
+      },
+      {
+        "confidence" : 1,
+        "text" : "On the Map",
+        "y" : 0.2488237735526323
+      }
+    ],
+    "time" : 63
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.52675449739719116
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.47769835711575626
+      },
+      {
+        "confidence" : 1,
+        "text" : "Putting Historic",
+        "y" : 0.34379415904718003
+      },
+      {
+        "confidence" : 1,
+        "text" : "Leominser",
+        "y" : 0.30468750031250003
+      },
+      {
+        "confidence" : 1,
+        "text" : "On the Map",
+        "y" : 0.24879495470667368
+      }
+    ],
+    "time" : 63.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.52675449739719116
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.47769835711575626
+      },
+      {
+        "confidence" : 1,
+        "text" : "Putting Historic",
+        "y" : 0.34379415904718003
+      },
+      {
+        "confidence" : 1,
+        "text" : "Leominser",
+        "y" : 0.30468750031250003
+      },
+      {
+        "confidence" : 1,
+        "text" : "On the Map",
+        "y" : 0.24879495470667368
+      }
+    ],
+    "time" : 64
+  }
+]

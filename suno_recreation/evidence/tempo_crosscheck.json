@@ -1,0 +1,186 @@
+[
+  {
+    "source": "Dc1uBZahhts.wav",
+    "method": "Spectral-flux onset envelope; scipy autocorrelation, peak interpolation; no tempo prior",
+    "candidates": [
+      {
+        "bpm": 135.664719368257,
+        "correlation": 0.6025661669729956
+      },
+      {
+        "bpm": 67.65161961294805,
+        "correlation": 0.4939370639415082
+      },
+      {
+        "bpm": 90.22450660777238,
+        "correlation": 0.47099843112903517
+      },
+      {
+        "bpm": 110.36688886621712,
+        "correlation": -0.07909716525006875
+      }
+    ],
+    "interpretation": "Strong pulse around 135 BPM, with half-time and other subdivision aliases. Does not determine meter."
+  },
+  {
+    "source": "Dc8axxYIC3k.wav",
+    "method": "Spectral-flux onset envelope; scipy autocorrelation, peak interpolation; no tempo prior",
+    "candidates": [
+      {
+        "bpm": 67.71448830348066,
+        "correlation": 0.5633673753122063
+      },
+      {
+        "bpm": 135.65045156208276,
+        "correlation": 0.5448066285171764
+      },
+      {
+        "bpm": 90.29061573260577,
+        "correlation": 0.5409415142925954
+      },
+      {
+        "bpm": 107.04185448628071,
+        "correlation": -0.09523051807185419
+      }
+    ],
+    "interpretation": "Strong pulse around 135 BPM, with half-time and other subdivision aliases. Does not determine meter."
+  },
+  {
+    "source": "DcRZB_PBFkr.wav",
+    "method": "Spectral-flux onset envelope; scipy autocorrelation, peak interpolation; no tempo prior",
+    "candidates": [
+      {
+        "bpm": 134.71924218965484,
+        "correlation": 0.6551175772069061
+      },
+      {
+        "bpm": 67.29680787024931,
+        "correlation": 0.6550257526406935
+      },
+      {
+        "bpm": 90.0085910475015,
+        "correlation": 0.38359803618618094
+      },
+      {
+        "bpm": 175.3201415163553,
+        "correlation": -0.05629356106052473
+      }
+    ],
+    "interpretation": "Strong pulse around 135 BPM, with half-time and other subdivision aliases. Does not determine meter."
+  },
+  {
+    "source": "DcYTYvMBSMn.wav",
+    "method": "Spectral-flux onset envelope; scipy autocorrelation, peak interpolation; no tempo prior",
+    "candidates": [
+      {
+        "bpm": 67.42833519208757,
+        "correlation": 0.6420635318486413
+      },
+      {
+        "bpm": 89.85566167295359,
+        "correlation": 0.5726006146463208
+      },
+      {
+        "bpm": 134.66847241105177,
+        "correlation": 0.5597141402225123
+      },
+      {
+        "bpm": 108.98491896032752,
+        "correlation": -0.1011556057790764
+      }
+    ],
+    "interpretation": "Strong pulse around 135 BPM, with half-time and other subdivision aliases. Does not determine meter."
+  },
+  {
+    "source": "DcbYsWLhhdZ.wav",
+    "method": "Spectral-flux onset envelope; scipy autocorrelation, peak interpolation; no tempo prior",
+    "candidates": [
+      {
+        "bpm": 67.5609159106839,
+        "correlation": 0.6431663683749206
+      },
+      {
+        "bpm": 134.94322830006573,
+        "correlation": 0.6249651340960606
+      },
+      {
+        "bpm": 90.02793972794589,
+        "correlation": 0.5413357450234237
+      },
+      {
+        "bpm": 181.77054271278328,
+        "correlation": -0.1036349601249956
+      }
+    ],
+    "interpretation": "Strong pulse around 135 BPM, with half-time and other subdivision aliases. Does not determine meter."
+  },
+  {
+    "source": "DcqWhZtBIEI.wav",
+    "method": "Spectral-flux onset envelope; scipy autocorrelation, peak interpolation; no tempo prior",
+    "candidates": [
+      {
+        "bpm": 134.6494368241943,
+        "correlation": 0.6414357433203879
+      },
+      {
+        "bpm": 67.30527236483645,
+        "correlation": 0.5534200840636931
+      },
+      {
+        "bpm": 89.80980526350758,
+        "correlation": 0.46759362677477795
+      },
+      {
+        "bpm": 176.06577641022807,
+        "correlation": -0.1555280356876395
+      }
+    ],
+    "interpretation": "Strong pulse around 135 BPM, with half-time and other subdivision aliases. Does not determine meter."
+  },
+  {
+    "source": "DcvxvGDhSeb.wav",
+    "method": "Spectral-flux onset envelope; scipy autocorrelation, peak interpolation; no tempo prior",
+    "candidates": [
+      {
+        "bpm": 136.32272447202985,
+        "correlation": 0.592421984554268
+      },
+      {
+        "bpm": 68.17245646907247,
+        "correlation": 0.569399677590623
+      },
+      {
+        "bpm": 90.80212491920139,
+        "correlation": 0.5203632307090338
+      },
+      {
+        "bpm": 112.39685928466511,
+        "correlation": -0.10966942173462789
+      }
+    ],
+    "interpretation": "Strong pulse around 135 BPM, with half-time and other subdivision aliases. Does not determine meter."
+  },
+  {
+    "source": "DdLxzBIoJ8F.wav",
+    "method": "Spectral-flux onset envelope; scipy autocorrelation, peak interpolation; no tempo prior",
+    "candidates": [
+      {
+        "bpm": 136.50709276527638,
+        "correlation": 0.582334353705489
+      },
+      {
+        "bpm": 68.15708418857112,
+        "correlation": 0.5741572432134937
+      },
+      {
+        "bpm": 90.81561710946623,
+        "correlation": 0.5082554787119951
+      },
+      {
+        "bpm": 188.86755555387202,
+        "correlation": -0.19075736309487318
+      }
+    ],
+    "interpretation": "Strong pulse around 135 BPM, with half-time and other subdivision aliases. Does not determine meter."
+  }
+]

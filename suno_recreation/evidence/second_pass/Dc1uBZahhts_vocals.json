@@ -1,0 +1,14 @@
+{
+  "job": {
+    "audio": "/Users/anders/projects/barge/suno_recreation/evidence/stems/Dc1uBZahhts_vocals.wav",
+    "start": 0,
+    "end": 12,
+    "normalize": true,
+    "prompt": "Transcribe the words, preserving repetitions. In particular, what is the phrase before \"nicely keeping it dry\"? Do not guess if unclear.",
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/Dc1uBZahhts_vocals.json"
+  },
+  "model": "RumiLabs/MOSS-Audio-4B-Thinking-MLX-4bit",
+  "response": "Flunching! Flunching! What's around your... Flunching! Soaping nicely keeping it dry, flunching 'round your pot up in the sky. Ehh, flunching!",
+  "generation_s": 2.723874092102051,
+  "status": "machine interpretation; separated stems may contain artifacts"
+}

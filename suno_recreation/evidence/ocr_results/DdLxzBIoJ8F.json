@@ -1,0 +1,1941 @@
+[
+  {
+    "texts" : [
+
+    ],
+    "time" : 0
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Hall House",
+        "y" : 0.14873818719282084
+      }
+    ],
+    "time" : 0.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 1
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Hall House",
+        "y" : 0.14763377226810126
+      }
+    ],
+    "time" : 1.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 2
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Have you",
+        "y" : 0.28340377625984536
+      },
+      {
+        "confidence" : 1,
+        "text" : "Visted a",
+        "y" : 0.1988634526979467
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "Hail Ft",
+        "y" : 0.10562351958356386
+      }
+    ],
+    "time" : 2.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Have you",
+        "y" : 0.28591637446574847
+      },
+      {
+        "confidence" : 1,
+        "text" : "Visteda",
+        "y" : 0.19224417217573464
+      },
+      {
+        "confidence" : 1,
+        "text" : "Hall House",
+        "y" : 0.10572683987176801
+      }
+    ],
+    "time" : 3
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 3.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "20",
+        "y" : 0.51250000007812502
+      }
+    ],
+    "time" : 4
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 4.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "20a",
+        "y" : 0.73357263865783318
+      },
+      {
+        "confidence" : 1,
+        "text" : "Back Door",
+        "y" : 0.1484375000193584
+      }
+    ],
+    "time" : 5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Leis Sea",
+        "y" : 0.23395095027565804
+      }
+    ],
+    "time" : 5.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Leis See Your",
+        "y" : 0.23125000002579599
+      },
+      {
+        "confidence" : 1,
+        "text" : "Cross passage",
+        "y" : 0.13395641490976762
+      }
+    ],
+    "time" : 6
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 6.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 7
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Hall House",
+        "y" : 0.15000000002547542
+      }
+    ],
+    "time" : 7.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 8
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 8.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 9
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Hall House",
+        "y" : 0.14583333241119456
+      }
+    ],
+    "time" : 9.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 10
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 10.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 11
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Open Hall",
+        "y" : 0.14062500002394152
+      }
+    ],
+    "time" : 11.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Nice ano",
+        "y" : 0.14264652107573106
+      }
+    ],
+    "time" : 12
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 12.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "THE HALL HOUSE",
+        "y" : 0.89062500001291323
+      },
+      {
+        "confidence" : 1,
+        "text" : "TYPICAL PLAN",
+        "y" : 0.85156250000798361
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END •",
+        "y" : 0.74531250001736116
+      },
+      {
+        "confidence" : 1,
+        "text" : "PRIVATE SPACE",
+        "y" : 0.72656250000990319
+      },
+      {
+        "confidence" : 1,
+        "text" : "SOLAR",
+        "y" : 0.7292219117686064
+      },
+      {
+        "confidence" : 1,
+        "text" : "DAIS",
+        "y" : 0.62187500003125007
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END •",
+        "y" : 0.60781250001474052
+      },
+      {
+        "confidence" : 1,
+        "text" : "HALL",
+        "y" : 0.5479699619365922
+      },
+      {
+        "confidence" : 1,
+        "text" : "LOWER END",
+        "y" : 0.45625000001260085
+      },
+      {
+        "confidence" : 1,
+        "text" : "OPEN HEARTH",
+        "y" : 0.39375000001531868
+      },
+      {
+        "confidence" : 1,
+        "text" : "CROSS PASSAGE",
+        "y" : 0.32656250001041665
+      },
+      {
+        "confidence" : 1,
+        "text" : "PASSAGE",
+        "y" : 0.32925124691450058
+      },
+      {
+        "confidence" : 1,
+        "text" : "SERVICE END",
+        "y" : 0.22812500019531246
+      },
+      {
+        "confidence" : 1,
+        "text" : "BUTTERY",
+        "y" : 0.22948957459735697
+      },
+      {
+        "confidence" : 1,
+        "text" : "PANTRY",
+        "y" : 0.22968750001828453
+      },
+      {
+        "confidence" : 1,
+        "text" : "Service End",
+        "y" : 0.11562500002953513
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END • PRIVATE SPACE",
+        "y" : 0.098437500006571255
+      },
+      {
+        "confidence" : 1,
+        "text" : "LOWER END • PUBLIC SPACE",
+        "y" : 0.098437500007401368
+      }
+    ],
+    "time" : 13
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "THE HALL HOUSE",
+        "y" : 0.887500000024671
+      },
+      {
+        "confidence" : 1,
+        "text" : "TYPICAL PLAN",
+        "y" : 0.85340701355824478
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END •",
+        "y" : 0.75312500001352167
+      },
+      {
+        "confidence" : 1,
+        "text" : "PRIVATE SPACE",
+        "y" : 0.73281250001474052
+      },
+      {
+        "confidence" : 1,
+        "text" : "SOLAR",
+        "y" : 0.73715509252853095
+      },
+      {
+        "confidence" : 1,
+        "text" : "DAIS",
+        "y" : 0.63125000002963361
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END •",
+        "y" : 0.61875000001302083
+      },
+      {
+        "confidence" : 1,
+        "text" : "HALL",
+        "y" : 0.5608160510885154
+      },
+      {
+        "confidence" : 1,
+        "text" : "LOWER END",
+        "y" : 0.47031250001324154
+      },
+      {
+        "confidence" : 1,
+        "text" : "OPEN HEARTH",
+        "y" : 0.40937500001004468
+      },
+      {
+        "confidence" : 1,
+        "text" : "CROSS PASSAGE",
+        "y" : 0.34375000001474054
+      },
+      {
+        "confidence" : 1,
+        "text" : "PASSAGE",
+        "y" : 0.34666850642970515
+      },
+      {
+        "confidence" : 1,
+        "text" : "SERVICE END",
+        "y" : 0.24687500001562501
+      },
+      {
+        "confidence" : 1,
+        "text" : "BUTTERY",
+        "y" : 0.24843750001591425
+      },
+      {
+        "confidence" : 1,
+        "text" : "PANTRY",
+        "y" : 0.2484030642097933
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END • PRIVATE SPACE",
+        "y" : 0.12187500000568185
+      },
+      {
+        "confidence" : 1,
+        "text" : "LOWER END • PUBLIC SPACE",
+        "y" : 0.12187500000600959
+      }
+    ],
+    "time" : 13.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "THE HALL HOUSE",
+        "y" : 0.87031250000797189
+      },
+      {
+        "confidence" : 1,
+        "text" : "TYPICAL PLAN",
+        "y" : 0.83281250000816232
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END •",
+        "y" : 0.72968750001326654
+      },
+      {
+        "confidence" : 1,
+        "text" : "PRIVATE SPACE",
+        "y" : 0.70937500001132248
+      },
+      {
+        "confidence" : 1,
+        "text" : "SOLAR",
+        "y" : 0.71382838862222864
+      },
+      {
+        "confidence" : 1,
+        "text" : "DAIS",
+        "y" : 0.60894571622575389
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END •",
+        "y" : 0.59531250001326652
+      },
+      {
+        "confidence" : 1,
+        "text" : "HALL",
+        "y" : 0.53571056800567951
+      },
+      {
+        "confidence" : 1,
+        "text" : "LOWER END",
+        "y" : 0.44687500001152658
+      },
+      {
+        "confidence" : 1,
+        "text" : "OPEN HEARTH",
+        "y" : 0.38437500002232139
+      },
+      {
+        "confidence" : 1,
+        "text" : "CROSS PASSAGE",
+        "y" : 0.31875000001070197
+      },
+      {
+        "confidence" : 1,
+        "text" : "PASSAGE",
+        "y" : 0.32187500001562497
+      },
+      {
+        "confidence" : 1,
+        "text" : "SERVICE END",
+        "y" : 0.22187500001260085
+      },
+      {
+        "confidence" : 1,
+        "text" : "BUTTERY",
+        "y" : 0.22292958579536337
+      },
+      {
+        "confidence" : 1,
+        "text" : "PANTRY",
+        "y" : 0.2233635075571675
+      },
+      {
+        "confidence" : 1,
+        "text" : "At the Side",
+        "y" : 0.11537746266188265
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END • PRIVATE SPACE",
+        "y" : 0.09531250000781244
+      },
+      {
+        "confidence" : 1,
+        "text" : "LOWER END • PUBLIC SPACE",
+        "y" : 0.09531250000710223
+      }
+    ],
+    "time" : 14
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "THE HALL HOUSE",
+        "y" : 0.8718750001953125
+      },
+      {
+        "confidence" : 1,
+        "text" : "TYPICAL PLAN",
+        "y" : 0.83437500021875
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END •",
+        "y" : 0.72968750001531868
+      },
+      {
+        "confidence" : 1,
+        "text" : "PRIVATE SPACE",
+        "y" : 0.71093750001004463
+      },
+      {
+        "confidence" : 1,
+        "text" : "SOLAR",
+        "y" : 0.71534804033880239
+      },
+      {
+        "confidence" : 1,
+        "text" : "DAIS",
+        "y" : 0.60908904972551048
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END •",
+        "y" : 0.59531250001502412
+      },
+      {
+        "confidence" : 1,
+        "text" : "HALL",
+        "y" : 0.5375000000260417
+      },
+      {
+        "confidence" : 1,
+        "text" : "LOWER END",
+        "y" : 0.44687500001302083
+      },
+      {
+        "confidence" : 1,
+        "text" : "OPEN HEARTH",
+        "y" : 0.38593750019531248
+      },
+      {
+        "confidence" : 1,
+        "text" : "CROSS PASSAGE",
+        "y" : 0.32031250001070199
+      },
+      {
+        "confidence" : 1,
+        "text" : "PASSAGE",
+        "y" : 0.32334180401355694
+      },
+      {
+        "confidence" : 1,
+        "text" : "SERVICE END",
+        "y" : 0.22343750001098628
+      },
+      {
+        "confidence" : 1,
+        "text" : "BUTTERY",
+        "y" : 0.22500000018749999
+      },
+      {
+        "confidence" : 1,
+        "text" : "PANTRY",
+        "y" : 0.22475462422225501
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END • PRIVATE SPACE",
+        "y" : 0.096875000008175838
+      },
+      {
+        "confidence" : 1,
+        "text" : "LOWER END • PUBLIC SPACE",
+        "y" : 0.096875000010340218
+      }
+    ],
+    "time" : 14.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "THE HALL HOUSE",
+        "y" : 0.89531250001816864
+      },
+      {
+        "confidence" : 1,
+        "text" : "TYPICAL PLAN",
+        "y" : 0.85781250000934828
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END •",
+        "y" : 0.75468750001378671
+      },
+      {
+        "confidence" : 1,
+        "text" : "PRIVATE SPACE",
+        "y" : 0.73437500001446754
+      },
+      {
+        "confidence" : 1,
+        "text" : "SOLAR",
+        "y" : 0.73881831022229671
+      },
+      {
+        "confidence" : 1,
+        "text" : "DAIS",
+        "y" : 0.63281250006696421
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END •",
+        "y" : 0.61875000001502412
+      },
+      {
+        "confidence" : 1,
+        "text" : "HALL",
+        "y" : 0.5601634934816202
+      },
+      {
+        "confidence" : 1,
+        "text" : "LOWER END",
+        "y" : 0.47031250001280733
+      },
+      {
+        "confidence" : 1,
+        "text" : "OPEN HEARTH",
+        "y" : 0.40937500001816862
+      },
+      {
+        "confidence" : 1,
+        "text" : "CROSS PASSAGE",
+        "y" : 0.34375000001070199
+      },
+      {
+        "confidence" : 1,
+        "text" : "PASSAGE",
+        "y" : 0.34630718381884473
+      },
+      {
+        "confidence" : 1,
+        "text" : "SERVICE END",
+        "y" : 0.24687500001260076
+      },
+      {
+        "confidence" : 1,
+        "text" : "BUTTERY",
+        "y" : 0.24823697658459376
+      },
+      {
+        "confidence" : 1,
+        "text" : "PANTRY",
+        "y" : 0.24834849326379105
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "UUODeNENOO NUICSNCE",
+        "y" : 0.10522586446108728
+      }
+    ],
+    "time" : 15
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "THE HALL HOUSE",
+        "y" : 0.86718750000785383
+      },
+      {
+        "confidence" : 1,
+        "text" : "TYPICAL PLAN",
+        "y" : 0.8296875000084134
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END •",
+        "y" : 0.72968750001406246
+      },
+      {
+        "confidence" : 1,
+        "text" : "PRIVATE SPACE",
+        "y" : 0.71093750001034006
+      },
+      {
+        "confidence" : 1,
+        "text" : "SOLAR",
+        "y" : 0.7155370012119241
+      },
+      {
+        "confidence" : 1,
+        "text" : "DAIS",
+        "y" : 0.61250000002790173
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END •",
+        "y" : 0.59843750001816853
+      },
+      {
+        "confidence" : 1,
+        "text" : "HALL",
+        "y" : 0.54218750005974259
+      },
+      {
+        "confidence" : 1,
+        "text" : "LOWER END",
+        "y" : 0.45468750007102277
+      },
+      {
+        "confidence" : 1,
+        "text" : "OPEN HEARTH",
+        "y" : 0.39375000001148897
+      },
+      {
+        "confidence" : 1,
+        "text" : "CROSS PASSAGE",
+        "y" : 0.33125000002790173
+      },
+      {
+        "confidence" : 1,
+        "text" : "PASSAGE",
+        "y" : 0.33423008696810719
+      },
+      {
+        "confidence" : 1,
+        "text" : "SERVICE END",
+        "y" : 0.2375000000115266
+      },
+      {
+        "confidence" : 1,
+        "text" : "BUTTERY",
+        "y" : 0.23892920465922951
+      },
+      {
+        "confidence" : 1,
+        "text" : "PANTRY",
+        "y" : 0.23906250001909723
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "UPPER AND PRYAVY SEAT ETOMER ÉND - PUBLC SEACE",
+        "y" : 0.10615702227110047
+      }
+    ],
+    "time" : 15.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "THE HALL HOUSE",
+        "y" : 0.89687500000793152
+      },
+      {
+        "confidence" : 1,
+        "text" : "TYPICAL PLAN",
+        "y" : 0.85937500000810185
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END •",
+        "y" : 0.75625000001352161
+      },
+      {
+        "confidence" : 1,
+        "text" : "PRIVATE SPACE",
+        "y" : 0.73593750001662239
+      },
+      {
+        "confidence" : 1,
+        "text" : "SOLAR",
+        "y" : 0.74055130036831562
+      },
+      {
+        "confidence" : 1,
+        "text" : "DAIS",
+        "y" : 0.63437500002929692
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END •",
+        "y" : 0.62031250003004801
+      },
+      {
+        "confidence" : 1,
+        "text" : "HALL",
+        "y" : 0.56085476764090658
+      },
+      {
+        "confidence" : 1,
+        "text" : "LOWER END",
+        "y" : 0.47187500001134075
+      },
+      {
+        "confidence" : 1,
+        "text" : "OPEN HEARTH",
+        "y" : 0.40937500001594385
+      },
+      {
+        "confidence" : 1,
+        "text" : "CROSS PASSAGE",
+        "y" : 0.34375000001070199
+      },
+      {
+        "confidence" : 1,
+        "text" : "PASSAGE",
+        "y" : 0.3463428393152308
+      },
+      {
+        "confidence" : 1,
+        "text" : "SERVICE END",
+        "y" : 0.24687500001816853
+      },
+      {
+        "confidence" : 1,
+        "text" : "BUTTERY",
+        "y" : 0.24802534283869881
+      },
+      {
+        "confidence" : 1,
+        "text" : "PANTRY",
+        "y" : 0.24783534819837083
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END • PRIVATE SPACE",
+        "y" : 0.12031250000558025
+      },
+      {
+        "confidence" : 1,
+        "text" : "LOWER END • PUBLIC SPACE",
+        "y" : 0.12031250000595239
+      }
+    ],
+    "time" : 16
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "THE HALL HOUSE",
+        "y" : 0.8944459683780539
+      },
+      {
+        "confidence" : 1,
+        "text" : "TYPICAL PLAN",
+        "y" : 0.85625000000770246
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END •",
+        "y" : 0.75000000002003209
+      },
+      {
+        "confidence" : 1,
+        "text" : "PRIVATE SPACE",
+        "y" : 0.7296875000108507
+      },
+      {
+        "confidence" : 1,
+        "text" : "SOLAR",
+        "y" : 0.73416505085394934
+      },
+      {
+        "confidence" : 1,
+        "text" : "DAIS",
+        "y" : 0.62500000002963363
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END •",
+        "y" : 0.61093750001446756
+      },
+      {
+        "confidence" : 1,
+        "text" : "HALL",
+        "y" : 0.55156250002477125
+      },
+      {
+        "confidence" : 1,
+        "text" : "LOWER END",
+        "y" : 0.4578125000124007
+      },
+      {
+        "confidence" : 1,
+        "text" : "OPEN HEARTH",
+        "y" : 0.39531250001905494
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "COSYNSA PRS",
+        "y" : 0.26538611946114643
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "pthere",
+        "y" : 0.28281250007161451
+      },
+      {
+        "confidence" : 1,
+        "text" : "SERVICE END",
+        "y" : 0.22812500001201919
+      },
+      {
+        "confidence" : 1,
+        "text" : "BUTTERY",
+        "y" : 0.22951885701133778
+      },
+      {
+        "confidence" : 1,
+        "text" : "PANTRY",
+        "y" : 0.22949758918921626
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END • PRIVATE SPACE",
+        "y" : 0.096875000006114265
+      },
+      {
+        "confidence" : 1,
+        "text" : "LOWER END • PUBLIC SPACE",
+        "y" : 0.096875000006893308
+      }
+    ],
+    "time" : 16.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "THE HALL HOUSE",
+        "y" : 0.89218750019531246
+      },
+      {
+        "confidence" : 1,
+        "text" : "TYPICAL PLAN",
+        "y" : 0.85468750021874995
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END •",
+        "y" : 0.75156250001352165
+      },
+      {
+        "confidence" : 1,
+        "text" : "PRIVATE SPACE",
+        "y" : 0.7312500000144676
+      },
+      {
+        "confidence" : 1,
+        "text" : "SOLAR",
+        "y" : 0.73575545625979288
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END •",
+        "y" : 0.6171875000132665
+      },
+      {
+        "confidence" : 1,
+        "text" : "DAIS",
+        "y" : 0.63125000002864584
+      },
+      {
+        "confidence" : 1,
+        "text" : "HALL",
+        "y" : 0.55923973845711572
+      },
+      {
+        "confidence" : 1,
+        "text" : "LOWER END",
+        "y" : 0.46875000001302081
+      },
+      {
+        "confidence" : 1,
+        "text" : "OPEN HEARTH",
+        "y" : 0.40781250001280733
+      },
+      {
+        "confidence" : 1,
+        "text" : "CROSS PASSAGE",
+        "y" : 0.34218750001070197
+      },
+      {
+        "confidence" : 1,
+        "text" : "PASSAGE",
+        "y" : 0.34503874109828625
+      },
+      {
+        "confidence" : 1,
+        "text" : "Show me Where",
+        "y" : 0.28819691218804988
+      },
+      {
+        "confidence" : 1,
+        "text" : "SERVICE END",
+        "y" : 0.24687500001116069
+      },
+      {
+        "confidence" : 1,
+        "text" : "BUTTERY",
+        "y" : 0.24843750001502407
+      },
+      {
+        "confidence" : 1,
+        "text" : "PANTRY",
+        "y" : 0.24843750001775566
+      },
+      {
+        "confidence" : 1,
+        "text" : "Your Screens",
+        "y" : 0.19243579001889688
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "UPR HNg PRN TH SANCE GCNT TD PUHC SENCE",
+        "y" : 0.10117961379022267
+      }
+    ],
+    "time" : 17
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "THE HALL HOUSE",
+        "y" : 0.87031250026041662
+      },
+      {
+        "confidence" : 1,
+        "text" : "TYPICAL PLAN",
+        "y" : 0.83125000000804228
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END •",
+        "y" : 0.72812500001562497
+      },
+      {
+        "confidence" : 1,
+        "text" : "PRIVATE SPACE",
+        "y" : 0.70937500000990317
+      },
+      {
+        "confidence" : 1,
+        "text" : "SOLAR",
+        "y" : 0.71188117716814703
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END •",
+        "y" : 0.59375000001302092
+      },
+      {
+        "confidence" : 1,
+        "text" : "DAIS",
+        "y" : 0.60781250002693965
+      },
+      {
+        "confidence" : 1,
+        "text" : "HALL",
+        "y" : 0.53584316599013859
+      },
+      {
+        "confidence" : 1,
+        "text" : "LOWER END",
+        "y" : 0.44531250001736111
+      },
+      {
+        "confidence" : 1,
+        "text" : "OPEN HEARTH",
+        "y" : 0.38281250001100353
+      },
+      {
+        "confidence" : 1,
+        "text" : "CROSS PASSAGE",
+        "y" : 0.31718750015624997
+      },
+      {
+        "confidence" : 1,
+        "text" : "PASSAGE",
+        "y" : 0.32164918931257014
+      },
+      {
+        "confidence" : 1,
+        "text" : "SERVICE END",
+        "y" : 0.22187500001098637
+      },
+      {
+        "confidence" : 1,
+        "text" : "BUTTERY",
+        "y" : 0.22331821100391736
+      },
+      {
+        "confidence" : 1,
+        "text" : "PANTRY",
+        "y" : 0.22275666298399188
+      },
+      {
+        "confidence" : 1,
+        "text" : "UPPER END • PRIVATE SPACE",
+        "y" : 0.09531250017578119
+      },
+      {
+        "confidence" : 1,
+        "text" : "LOWER END • PUBLIC SPACE",
+        "y" : 0.095312500005952372
+      }
+    ],
+    "time" : 17.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Hall F",
+        "y" : 0.15121088481877476
+      }
+    ],
+    "time" : 18
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "CAFEARK",
+        "y" : 0.29531250013888888
+      },
+      {
+        "confidence" : 1,
+        "text" : "Hall House",
+        "y" : 0.15000000002520153
+      }
+    ],
+    "time" : 18.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 19
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 19.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Smoke Blackend",
+        "y" : 0.2910109585197741
+      }
+    ],
+    "time" : 20
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Smoke Blackend",
+        "y" : 0.29083473081557165
+      },
+      {
+        "confidence" : 1,
+        "text" : "All the",
+        "y" : 0.19934516698341798
+      },
+      {
+        "confidence" : 1,
+        "text" : "Way",
+        "y" : 0.090179795867888046
+      }
+    ],
+    "time" : 20.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 21
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Big",
+        "y" : 0.28223420306791991
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "·OId",
+        "y" : 0.19218750008316532
+      }
+    ],
+    "time" : 21.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 22
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 22.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 23
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Inserted Floor",
+        "y" : 0.14583333267846432
+      }
+    ],
+    "time" : 23.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 24
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Oh Behavei",
+        "y" : 0.13828207281001714
+      }
+    ],
+    "time" : 24.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 25
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 25.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Hall House",
+        "y" : 0.14583333241119456
+      }
+    ],
+    "time" : 26
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 26.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 27
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 27.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Hall House",
+        "y" : 0.14673380127682201
+      }
+    ],
+    "time" : 28
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 28.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 29
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "20",
+        "y" : 0.51406250006893384
+      }
+    ],
+    "time" : 29.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 30
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "20A",
+        "y" : 0.67656250006347651
+      },
+      {
+        "confidence" : 1,
+        "text" : "Back Door",
+        "y" : 0.1459671200087872
+      }
+    ],
+    "time" : 30.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 31
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Straight Througn",
+        "y" : 0.22026830460775138
+      }
+    ],
+    "time" : 31.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Straight Througn",
+        "y" : 0.22296506265015559
+      },
+      {
+        "confidence" : 1,
+        "text" : "The Cross",
+        "y" : 0.15456889247480077
+      },
+      {
+        "confidence" : 1,
+        "text" : "passage",
+        "y" : 0.089248172726933972
+      }
+    ],
+    "time" : 32
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 32.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Hall House",
+        "y" : 0.1477147072838001
+      }
+    ],
+    "time" : 33
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 33.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 34
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Nice Big Frame",
+        "y" : 0.13906250001614884
+      }
+    ],
+    "time" : 34.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 35
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Plenty of Bays",
+        "y" : 0.13945670386859599
+      }
+    ],
+    "time" : 35.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 36
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "END •",
+        "y" : 0.96718750020312505
+      },
+      {
+        "confidence" : 1,
+        "text" : "SPACE",
+        "y" : 0.94196354898309342
+      },
+      {
+        "confidence" : 1,
+        "text" : "SOLAR",
+        "y" : 0.94491990508767476
+      },
+      {
+        "confidence" : 1,
+        "text" : "DAIS",
+        "y" : 0.80996142375735702
+      },
+      {
+        "confidence" : 1,
+        "text" : "END •",
+        "y" : 0.79218750003580729
+      },
+      {
+        "confidence" : 1,
+        "text" : "HALL",
+        "y" : 0.71391038898207371
+      },
+      {
+        "confidence" : 1,
+        "text" : "END",
+        "y" : 0.5984375000253378
+      },
+      {
+        "confidence" : 1,
+        "text" : "OPEN HEARTH",
+        "y" : 0.5187500000104166
+      },
+      {
+        "confidence" : 1,
+        "text" : "SSAGE",
+        "y" : 0.43225201757597909
+      },
+      {
+        "confidence" : 1,
+        "text" : "PASSAGE",
+        "y" : 0.43750000001420453
+      },
+      {
+        "confidence" : 1,
+        "text" : "E END",
+        "y" : 0.305756288797148
+      },
+      {
+        "confidence" : 1,
+        "text" : "BUTTERY",
+        "y" : 0.30937500001493556
+      },
+      {
+        "confidence" : 1,
+        "text" : "PANTRY",
+        "y" : 0.30904324950622053
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "UPPER END SAD SPACI CE-END ECL. PUBLIC SPAC",
+        "y" : 0.13750000005345397
+      }
+    ],
+    "time" : 36.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 37
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Seen Better Days",
+        "y" : 0.13951516720377233
+      }
+    ],
+    "time" : 37.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 38
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Besr WisHes",
+        "y" : 0.31503430030744373
+      },
+      {
+        "confidence" : 1,
+        "text" : "The Card Shop",
+        "y" : 0.27968750015624999
+      },
+      {
+        "confidence" : 1,
+        "text" : "Solar",
+        "y" : 0.22805458308827675
+      },
+      {
+        "confidence" : 1,
+        "text" : "CARDS TOR",
+        "y" : 0.34983998167608754
+      },
+      {
+        "confidence" : 1,
+        "text" : "ALL OCC",
+        "y" : 0.33281250003305285
+      },
+      {
+        "confidence" : 1,
+        "text" : "ONS",
+        "y" : 0.32812500018229163
+      }
+    ],
+    "time" : 38.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "CARDS TOR",
+        "y" : 0.3015625000241815
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "Brsvoialt",
+        "y" : 0.23281250028645828
+      },
+      {
+        "confidence" : 1,
+        "text" : "ALL OCC",
+        "y" : 0.27968750002757348
+      },
+      {
+        "confidence" : 1,
+        "text" : "The Card Shop",
+        "y" : 0.21093750016927082
+      },
+      {
+        "confidence" : 1,
+        "text" : "ONS",
+        "y" : 0.27968750005371101
+      },
+      {
+        "confidence" : 1,
+        "text" : "Upstairs",
+        "y" : 0.1163965596082136
+      }
+    ],
+    "time" : 39
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.5,
+        "text" : "Bcsm",
+        "y" : 0.20625000029017859
+      },
+      {
+        "confidence" : 1,
+        "text" : "WiSHES",
+        "y" : 0.2114471482984801
+      },
+      {
+        "confidence" : 1,
+        "text" : "The Card Shop",
+        "y" : 0.14531250007291663
+      },
+      {
+        "confidence" : 1,
+        "text" : "Welco",
+        "y" : 0.12343750004557275
+      },
+      {
+        "confidence" : 1,
+        "text" : "Te Best",
+        "y" : 0.10787500066292
+      },
+      {
+        "confidence" : 1,
+        "text" : "CARDS",
+        "y" : 0.25613418820899647
+      },
+      {
+        "confidence" : 1,
+        "text" : "ALL OC(",
+        "y" : 0.22559447305099489
+      },
+      {
+        "confidence" : 1,
+        "text" : "OR",
+        "y" : 0.25625000015624999
+      },
+      {
+        "confidence" : 1,
+        "text" : "ONS",
+        "y" : 0.22656250016741075
+      }
+    ],
+    "time" : 39.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Very",
+        "y" : 0.21673623182032886
+      }
+    ],
+    "time" : 40
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Very",
+        "y" : 0.21958599513541732
+      },
+      {
+        "confidence" : 1,
+        "text" : "Private",
+        "y" : 0.12363303330595632
+      }
+    ],
+    "time" : 40.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 41
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Hall House",
+        "y" : 0.14842766547746433
+      }
+    ],
+    "time" : 41.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 42
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 42.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Pall",
+        "y" : 0.15581943329268455
+      }
+    ],
+    "time" : 43
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Hall House",
+        "y" : 0.14813657883644904
+      }
+    ],
+    "time" : 43.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 44
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Have you",
+        "y" : 0.28396759408993755
+      }
+    ],
+    "time" : 44.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Have you",
+        "y" : 0.2792138806052642
+      },
+      {
+        "confidence" : 1,
+        "text" : "Visted a",
+        "y" : 0.19889675679324648
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "HelDiLk",
+        "y" : 0.10929502898257404
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "DUEIE",
+        "y" : 0.1031801470689464
+      }
+    ],
+    "time" : 45
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Have you",
+        "y" : 0.28662043992261144
+      },
+      {
+        "confidence" : 1,
+        "text" : "Visted a",
+        "y" : 0.18930931397958339
+      },
+      {
+        "confidence" : 1,
+        "text" : "Hall House",
+        "y" : 0.10390625054166658
+      }
+    ],
+    "time" : 45.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Have you",
+        "y" : 0.2863148652715144
+      },
+      {
+        "confidence" : 1,
+        "text" : "Visted a",
+        "y" : 0.20123263003776615
+      },
+      {
+        "confidence" : 1,
+        "text" : "Hall House",
+        "y" : 0.10228494706679458
+      }
+    ],
+    "time" : 46
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 46.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 47
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 47.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.55781250015624995
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.507357921744649
+      }
+    ],
+    "time" : 48
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.55781250015624995
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.50745667706537501
+      },
+      {
+        "confidence" : 1,
+        "text" : "Putting Historic",
+        "y" : 0.35156250002665446
+      },
+      {
+        "confidence" : 1,
+        "text" : "Leomins l",
+        "y" : 0.30551427499607287
+      }
+    ],
+    "time" : 48.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.55781250015624995
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.50745667827285268
+      },
+      {
+        "confidence" : 1,
+        "text" : "Putting Historic",
+        "y" : 0.35156250003191025
+      },
+      {
+        "confidence" : 1,
+        "text" : "Leominster",
+        "y" : 0.30781250002244975
+      },
+      {
+        "confidence" : 1,
+        "text" : "Back on the",
+        "y" : 0.25781250003051759
+      },
+      {
+        "confidence" : 1,
+        "text" : "Map!",
+        "y" : 0.19983628879471949
+      }
+    ],
+    "time" : 49
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "MIN",
+        "y" : 0.55937500014914776
+      },
+      {
+        "confidence" : 1,
+        "text" : "ERITA",
+        "y" : 0.51194966884525461
+      }
+    ],
+    "time" : 49.5
+  }
+]

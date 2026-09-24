@@ -1,0 +1,2611 @@
+[
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.8375000001171875
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.8249325470007054
+      },
+      {
+        "confidence" : 1,
+        "text" : "columnr",
+        "y" : 0.25186732657336641
+      }
+    ],
+    "time" : 0
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83712801110841806
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82656250001953124
+      },
+      {
+        "confidence" : 1,
+        "text" : "Columın",
+        "y" : 0.25781250028125002
+      },
+      {
+        "confidence" : 1,
+        "text" : "columi",
+        "y" : 0.17703390683317954
+      }
+    ],
+    "time" : 0.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 1
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "OMINSTER",
+        "y" : 0.83750000002016134
+      },
+      {
+        "confidence" : 1,
+        "text" : "ERITAGE",
+        "y" : 0.82629010418071158
+      },
+      {
+        "confidence" : 1,
+        "text" : "Doric Column",
+        "y" : 0.1603130775982653
+      }
+    ],
+    "time" : 1.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Leominster",
+        "y" : 0.24920400910260254
+      },
+      {
+        "confidence" : 1,
+        "text" : "Festival",
+        "y" : 0.23478506812520483
+      },
+      {
+        "confidence" : 0.5,
+        "text" : "× ·L00*",
+        "y" : 0.17789569142247819
+      },
+      {
+        "confidence" : 1,
+        "text" : "FOF",
+        "y" : 0.52968750012499999
+      },
+      {
+        "confidence" : 1,
+        "text" : "ALL E",
+        "y" : 0.51875000002170135
+      }
+    ],
+    "time" : 2
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000014062498
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82656250008928578
+      },
+      {
+        "confidence" : 1,
+        "text" : "Leominster",
+        "y" : 0.1834369141858071
+      },
+      {
+        "confidence" : 1,
+        "text" : "Festival",
+        "y" : 0.16590679348865556
+      },
+      {
+        "confidence" : 1,
+        "text" : "truscan",
+        "y" : 0.16268481193067275
+      },
+      {
+        "confidence" : 1,
+        "text" : "BLOON",
+        "y" : 0.093750000214843809
+      }
+    ],
+    "time" : 2.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "EOMINST",
+        "y" : 0.83718032799147812
+      },
+      {
+        "confidence" : 1,
+        "text" : "TERITAC",
+        "y" : 0.82728463054775814
+      },
+      {
+        "confidence" : 1,
+        "text" : "Calan",
+        "y" : 0.45645189559578969
+      },
+      {
+        "confidence" : 1,
+        "text" : "029 2037 3933",
+        "y" : 0.4357572118678148
+      },
+      {
+        "confidence" : 1,
+        "text" : "www.calanretail.co.uk",
+        "y" : 0.42644003368337202
+      },
+      {
+        "confidence" : 1,
+        "text" : "R SALE",
+        "y" : 0.38816366027131333
+      },
+      {
+        "confidence" : 1,
+        "text" : "ENQUIRIES",
+        "y" : 0.36168198453227007
+      }
+    ],
+    "time" : 3
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "ERITAG",
+        "y" : 0.82429445895397824
+      },
+      {
+        "confidence" : 1,
+        "text" : "Calan",
+        "y" : 0.44457720675970547
+      },
+      {
+        "confidence" : 1,
+        "text" : "029 2037 3933",
+        "y" : 0.41995809599339973
+      },
+      {
+        "confidence" : 1,
+        "text" : "www.calanretail.co.uk",
+        "y" : 0.40751039426912994
+      },
+      {
+        "confidence" : 1,
+        "text" : "R SALE",
+        "y" : 0.35894514199212357
+      },
+      {
+        "confidence" : 1,
+        "text" : "ENQUIRIES",
+        "y" : 0.33028944460303167
+      },
+      {
+        "confidence" : 1,
+        "text" : "Tuscan",
+        "y" : 0.15585997154964171
+      }
+    ],
+    "time" : 3.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "Л76 ОНН",
+        "y" : 0.44687500001644742
+      },
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.84062500018229169
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.8260579321228062
+      },
+      {
+        "confidence" : 1,
+        "text" : "column",
+        "y" : 0.24717463900926939
+      }
+    ],
+    "time" : 4
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001096492
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82472158969142817
+      },
+      {
+        "confidence" : 1,
+        "text" : "CENTI",
+        "y" : 0.3923731006488822
+      },
+      {
+        "confidence" : 1,
+        "text" : "OPEI",
+        "y" : 0.35370021263692519
+      },
+      {
+        "confidence" : 1,
+        "text" : "Column",
+        "y" : 0.25499231540703504
+      },
+      {
+        "confidence" : 1,
+        "text" : "Column",
+        "y" : 0.16877973128262336
+      }
+    ],
+    "time" : 4.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "EOMINSTER",
+        "y" : 0.83750000001225489
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.8252165509615379
+      },
+      {
+        "confidence" : 1,
+        "text" : "Doric Column",
+        "y" : 0.16562500004142999
+      }
+    ],
+    "time" : 5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "EOMINSTER",
+        "y" : 0.83750000001420455
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGEA",
+        "y" : 0.8250000001004465
+      },
+      {
+        "confidence" : 1,
+        "text" : "Ca",
+        "y" : 0.56250000011718748
+      },
+      {
+        "confidence" : 1,
+        "text" : "029 20",
+        "y" : 0.55000000007812511
+      },
+      {
+        "confidence" : 1,
+        "text" : "FOR SI",
+        "y" : 0.52812500004557295
+      },
+      {
+        "confidence" : 1,
+        "text" : "ALL ENQU",
+        "y" : 0.51641221984916508
+      },
+      {
+        "confidence" : 1,
+        "text" : "Leominster",
+        "y" : 0.26659787736315876
+      },
+      {
+        "confidence" : 1,
+        "text" : "Festival",
+        "y" : 0.25388942360399225
+      }
+    ],
+    "time" : 5.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "INSTER",
+        "y" : 0.83856350818874337
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82412179710192301
+      },
+      {
+        "confidence" : 1,
+        "text" : "Leominster",
+        "y" : 0.20079108551968239
+      },
+      {
+        "confidence" : 1,
+        "text" : "Festival",
+        "y" : 0.18390624966662461
+      },
+      {
+        "confidence" : 1,
+        "text" : "OMINS",
+        "y" : 0.17403963418806012
+      },
+      {
+        "confidence" : 1,
+        "text" : "Tuscan",
+        "y" : 0.16304594791933591
+      },
+      {
+        "confidence" : 1,
+        "text" : "LOO*",
+        "y" : 0.11499619101006697
+      }
+    ],
+    "time" : 6
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEON",
+        "y" : 0.83947198275917401
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.8244319304982195
+      }
+    ],
+    "time" : 6.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "OMINSTER",
+        "y" : 0.83750000001736113
+      },
+      {
+        "confidence" : 1,
+        "text" : "ERITAGE",
+        "y" : 0.8233487762698537
+      },
+      {
+        "confidence" : 1,
+        "text" : "Tuscan",
+        "y" : 0.16398835028559411
+      }
+    ],
+    "time" : 7
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000014062498
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82421621616124974
+      }
+    ],
+    "time" : 7.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.8375000001757813
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82466152125349224
+      }
+    ],
+    "time" : 8
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001358693
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82633426350515338
+      }
+    ],
+    "time" : 8.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "OMINSTER",
+        "y" : 0.83674919101288392
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82436577652780674
+      },
+      {
+        "confidence" : 1,
+        "text" : "CОBB",
+        "y" : 0.37170923876969775
+      },
+      {
+        "confidence" : 1,
+        "text" : "AMOS",
+        "y" : 0.35186298126416593
+      },
+      {
+        "confidence" : 1,
+        "text" : "FOR SALE",
+        "y" : 0.32066854055925198
+      },
+      {
+        "confidence" : 1,
+        "text" : "01568 610 310 cobbamos com",
+        "y" : 0.30466779591098292
+      }
+    ],
+    "time" : 9
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMIN",
+        "y" : 0.83672416439167085
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.8265625000152439
+      },
+      {
+        "confidence" : 1,
+        "text" : "COI",
+        "y" : 0.33713362029473548
+      },
+      {
+        "confidence" : 1,
+        "text" : "AM",
+        "y" : 0.31875000015624999
+      },
+      {
+        "confidence" : 1,
+        "text" : "FOR :",
+        "y" : 0.27718749928211373
+      },
+      {
+        "confidence" : 1,
+        "text" : "01568 610 310",
+        "y" : 0.26057692315278658
+      },
+      {
+        "confidence" : 1,
+        "text" : "Corinthian",
+        "y" : 0.16263938271467393
+      }
+    ],
+    "time" : 9.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001406244
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82493120209896786
+      },
+      {
+        "confidence" : 1,
+        "text" : "0156",
+        "y" : 0.22343750005408647
+      },
+      {
+        "confidence" : 1,
+        "text" : "Corinthian",
+        "y" : 0.16547034409991657
+      }
+    ],
+    "time" : 10
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001278413
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82507027747780348
+      },
+      {
+        "confidence" : 1,
+        "text" : "Corinthian",
+        "y" : 0.16595869365413629
+      }
+    ],
+    "time" : 10.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "•BF",
+        "y" : 0.9654447115337722
+      },
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER N",
+        "y" : 0.83736528095649532
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82426581273788235
+      },
+      {
+        "confidence" : 1,
+        "text" : "ES+DO+V",
+        "y" : 0.8029742645570267
+      },
+      {
+        "confidence" : 1,
+        "text" : "QUEEN EL",
+        "y" : 0.37505080672933566
+      },
+      {
+        "confidence" : 1,
+        "text" : "ZABETA",
+        "y" : 0.37277918813404265
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "HER SUABESTE",
+        "y" : 0.33437500015624999
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "но коновоу пнота",
+        "y" : 0.31718750001757812
+      },
+      {
+        "confidence" : 1,
+        "text" : "ER ROYAL HIGHNES",
+        "y" : 0.3715073529673848
+      },
+      {
+        "confidence" : 1,
+        "text" : "FE PRUNCES MARGARET",
+        "y" : 0.3570052703491392
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "T5 COIROCE DE TNAN",
+        "y" : 0.32500000001953122
+      }
+    ],
+    "time" : 11
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "ŤKĘ•",
+        "y" : 0.9627205876864392
+      },
+      {
+        "confidence" : 0.5,
+        "text" : "\\Oř",
+        "y" : 0.9515625001692708
+      },
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83688809094980321
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82500000008789065
+      },
+      {
+        "confidence" : 1,
+        "text" : "QUEEN ELIZABETH",
+        "y" : 0.34177768098709649
+      },
+      {
+        "confidence" : 1,
+        "text" : "THE QUEEN MOTHEE",
+        "y" : 0.32931882069124574
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "INVELED TON ELAOUE AN TES",
+        "y" : 0.31956557038254052
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "aеesees оF пE nуm",
+        "y" : 0.31406250002038039
+      },
+      {
+        "confidence" : 1,
+        "text" : "HEE NAUEST",
+        "y" : 0.29350624458582564
+      },
+      {
+        "confidence" : 1,
+        "text" : "PHE SONDUO OF VECHINSTER",
+        "y" : 0.27968750005208332
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "CR LUNE SEC",
+        "y" : 0.2640625000130209
+      },
+      {
+        "confidence" : 1,
+        "text" : "HER ROYAL HIGHNES",
+        "y" : 0.33678097269369278
+      },
+      {
+        "confidence" : 1,
+        "text" : "RE PRINCESS MARGARET",
+        "y" : 0.32110180267532118
+      },
+      {
+        "confidence" : 1,
+        "text" : "SYIHD THS ILAES CH THH",
+        "y" : 0.31093750001346987
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "ROCASE CO FERR V SOT",
+        "y" : 0.30067166271909707
+      },
+      {
+        "confidence" : 1,
+        "text" : "lonic",
+        "y" : 0.16718750028645835
+      }
+    ],
+    "time" : 11.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.8375000001757813
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82454223559934747
+      },
+      {
+        "confidence" : 1,
+        "text" : "llanic",
+        "y" : 0.16610738609271858
+      }
+    ],
+    "time" : 12
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "PPOK",
+        "y" : 0.71562500015624997
+      },
+      {
+        "confidence" : 1,
+        "text" : "HONOR•OF-AKENGDO",
+        "y" : 0.75195850044240564
+      },
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000002068015
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82477985113244801
+      },
+      {
+        "confidence" : 1,
+        "text" : "lonic",
+        "y" : 0.16650206594557593
+      }
+    ],
+    "time" : 12.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Wright",
+        "y" : 0.89668138912852791
+      },
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83906250001139326
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82602406218646218
+      },
+      {
+        "confidence" : 1,
+        "text" : "Tervs",
+        "y" : 0.71857127389105169
+      },
+      {
+        "confidence" : 1,
+        "text" : "Cards",
+        "y" : 0.30937500003676477
+      },
+      {
+        "confidence" : 1,
+        "text" : "BOO",
+        "y" : 0.24375000016601567
+      }
+    ],
+    "time" : 13
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.8375000001171875
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82420896819878442
+      },
+      {
+        "confidence" : 1,
+        "text" : "Pilaster",
+        "y" : 0.1652678354175483
+      }
+    ],
+    "time" : 13.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMIN",
+        "y" : 0.83750000001657199
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERIT",
+        "y" : 0.82656250002025466
+      },
+      {
+        "confidence" : 1,
+        "text" : "TER",
+        "y" : 0.83750000005681824
+      },
+      {
+        "confidence" : 1,
+        "text" : "GE",
+        "y" : 0.82656250009114585
+      },
+      {
+        "confidence" : 1,
+        "text" : "22",
+        "y" : 0.62031250007352945
+      },
+      {
+        "confidence" : 1,
+        "text" : "Doric",
+        "y" : 0.19843750027343743
+      },
+      {
+        "confidence" : 1,
+        "text" : "Pilaster",
+        "y" : 0.12005277302744377
+      }
+    ],
+    "time" : 14
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "AFV",
+        "y" : 0.91424862695962517
+      },
+      {
+        "confidence" : 1,
+        "text" : "ти",
+        "y" : 0.34375000005796374
+      },
+      {
+        "confidence" : 1,
+        "text" : "CR",
+        "y" : 0.93437500006076391
+      },
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001225489
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82500000011718755
+      }
+    ],
+    "time" : 14.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001077585
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82461158338908103
+      }
+    ],
+    "time" : 15
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83685437746392011
+      },
+      {
+        "confidence" : 1,
+        "text" : "HARITAGE",
+        "y" : 0.82500000001714935
+      },
+      {
+        "confidence" : 1,
+        "text" : "Capital",
+        "y" : 0.15781250003670932
+      }
+    ],
+    "time" : 15.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000014062498
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82546750424314053
+      },
+      {
+        "confidence" : 1,
+        "text" : "Capital",
+        "y" : 0.15625000003810974
+      }
+    ],
+    "time" : 16
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "BOMINSTER",
+        "y" : 0.83875873163949433
+      },
+      {
+        "confidence" : 1,
+        "text" : "RITAG",
+        "y" : 0.8281250000292969
+      },
+      {
+        "confidence" : 1,
+        "text" : "Pilaster",
+        "y" : 0.16698562562613228
+      }
+    ],
+    "time" : 16.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Wright",
+        "y" : 0.90000000003149228
+      },
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83906250001139326
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.8250000001004465
+      },
+      {
+        "confidence" : 1,
+        "text" : "lerus",
+        "y" : 0.71285377422387475
+      },
+      {
+        "confidence" : 1,
+        "text" : "Cards",
+        "y" : 0.30926056291322956
+      },
+      {
+        "confidence" : 1,
+        "text" : "BỌO",
+        "y" : 0.24218750013281254
+      },
+      {
+        "confidence" : 1,
+        "text" : "Pilaster",
+        "y" : 0.16366819586687131
+      }
+    ],
+    "time" : 17
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83669015581513595
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82442176819555724
+      },
+      {
+        "confidence" : 1,
+        "text" : "Doric",
+        "y" : 0.19950845260918937
+      },
+      {
+        "confidence" : 1,
+        "text" : "Pilaster",
+        "y" : 0.13384084417485942
+      }
+    ],
+    "time" : 17.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "AFVI",
+        "y" : 0.91424862807789731
+      },
+      {
+        "confidence" : 1,
+        "text" : "CR",
+        "y" : 0.93162574114634034
+      },
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001225489
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82646560755765497
+      }
+    ],
+    "time" : 18
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001077585
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82479672517845626
+      }
+    ],
+    "time" : 18.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001201919
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82411056885220224
+      },
+      {
+        "confidence" : 1,
+        "text" : "capital",
+        "y" : 0.15593927238720973
+      }
+    ],
+    "time" : 19
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000014062498
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82656250008928578
+      }
+    ],
+    "time" : 19.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 20
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.8375000001757813
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500007812506
+      }
+    ],
+    "time" : 20.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001096492
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500007812506
+      }
+    ],
+    "time" : 21
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001116076
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82426790829618879
+      },
+      {
+        "confidence" : 1,
+        "text" : "Palladio!",
+        "y" : 0.1579842448802925
+      }
+    ],
+    "time" : 21.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "-LOMINSTE",
+        "y" : 0.83334316061199609
+      },
+      {
+        "confidence" : 1,
+        "text" : "TERITAC",
+        "y" : 0.82656250006835941
+      },
+      {
+        "confidence" : 1,
+        "text" : "Palladiol",
+        "y" : 0.14843750025275748
+      }
+    ],
+    "time" : 22
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMIN TER",
+        "y" : 0.83750000001275504
+      },
+      {
+        "confidence" : 1,
+        "text" : "ERITAGE",
+        "y" : 0.82656250001242904
+      },
+      {
+        "confidence" : 1,
+        "text" : "Palladio!",
+        "y" : 0.1451392498597428
+      }
+    ],
+    "time" : 22.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001096492
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82419880460902828
+      }
+    ],
+    "time" : 23
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "TYBEN",
+        "y" : 0.95673491375737962
+      },
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001116076
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82486223946344472
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "S+DO*",
+        "y" : 0.81207191616302943
+      },
+      {
+        "confidence" : 1,
+        "text" : "QUEEN BLIZABE",
+        "y" : 0.3713567367567
+      },
+      {
+        "confidence" : 1,
+        "text" : "ER ROYAL HIGHNESS",
+        "y" : 0.3692346753252953
+      },
+      {
+        "confidence" : 1,
+        "text" : "E PRINCESS MARGARE",
+        "y" : 0.35589883981958503
+      }
+    ],
+    "time" : 23.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.5,
+        "text" : "TAE COLYMINE",
+        "y" : 0.90769552277095078
+      },
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001757807
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82475311013582198
+      },
+      {
+        "confidence" : 1,
+        "text" : "QUIBEN ELIZABETA",
+        "y" : 0.33916807421728867
+      },
+      {
+        "confidence" : 1,
+        "text" : "THE QUEEN MOTHEE",
+        "y" : 0.32705335341528274
+      },
+      {
+        "confidence" : 1,
+        "text" : "HER ALAUESTI",
+        "y" : 0.29218750002604166
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "SE CONE S60",
+        "y" : 0.26093750001420457
+      },
+      {
+        "confidence" : 1,
+        "text" : "HIER ROYAL HIGHNESS",
+        "y" : 0.33756739273586978
+      },
+      {
+        "confidence" : 1,
+        "text" : "IE PRINCESS MARGARET",
+        "y" : 0.32090992672492502
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "DOVLO TВ ПAдS CH TH",
+        "y" : 0.30312500004136034
+      },
+      {
+        "confidence" : 1,
+        "text" : "lonic",
+        "y" : 0.16484630478338891
+      }
+    ],
+    "time" : 24
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001225489
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500009114587
+      },
+      {
+        "confidence" : 1,
+        "text" : "lonic",
+        "y" : 0.16672949612175625
+      }
+    ],
+    "time" : 24.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83906250000976557
+      },
+      {
+        "confidence" : 1,
+        "text" : "• HERITAGE",
+        "y" : 0.82812500009114587
+      },
+      {
+        "confidence" : 1,
+        "text" : "lonic",
+        "y" : 0.16672061778962155
+      }
+    ],
+    "time" : 25
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "GRAPE",
+        "y" : 0.76359375413390662
+      },
+      {
+        "confidence" : 0.5,
+        "text" : "Vr",
+        "y" : 0.9171875000559544
+      },
+      {
+        "confidence" : 1,
+        "text" : "LEOMI",
+        "y" : 0.83906250001802885
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERI",
+        "y" : 0.82812500002130685
+      },
+      {
+        "confidence" : 1,
+        "text" : "music",
+        "y" : 0.51718750020312498
+      },
+      {
+        "confidence" : 1,
+        "text" : "Junday",
+        "y" : 0.49726769687244465
+      },
+      {
+        "confidence" : 1,
+        "text" : "Fluted",
+        "y" : 0.24785526397328361
+      }
+    ],
+    "time" : 25.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "EOMIN",
+        "y" : 0.84062500002232143
+      },
+      {
+        "confidence" : 0.5,
+        "text" : "ГEK",
+        "y" : 0.83750000012499992
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82461185704826656
+      }
+    ],
+    "time" : 26
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "OMINSTEI",
+        "y" : 0.84062500003348217
+      },
+      {
+        "confidence" : 1,
+        "text" : "ERITA",
+        "y" : 0.82968750002604164
+      },
+      {
+        "confidence" : 1,
+        "text" : "Doria",
+        "y" : 0.19426822368242935
+      },
+      {
+        "confidence" : 1,
+        "text" : "Column",
+        "y" : 0.13169832428163664
+      }
+    ],
+    "time" : 26.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "OMI",
+        "y" : 0.839062500109375
+      },
+      {
+        "confidence" : 1,
+        "text" : "STER",
+        "y" : 0.8375000001171875
+      },
+      {
+        "confidence" : 1,
+        "text" : "GE",
+        "y" : 0.82500000005681817
+      }
+    ],
+    "time" : 27
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "EON",
+        "y" : 0.84062500002441409
+      },
+      {
+        "confidence" : 1,
+        "text" : "ERIT",
+        "y" : 0.82812500005208334
+      },
+      {
+        "confidence" : 1,
+        "text" : "Tuscan",
+        "y" : 0.16300538948006671
+      }
+    ],
+    "time" : 27.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMT",
+        "y" : 0.8370952077812206
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "OEDN",
+        "y" : 0.83715865372365861
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITACE",
+        "y" : 0.82441337600139564
+      },
+      {
+        "confidence" : 1,
+        "text" : "MO",
+        "y" : 0.42656250005729168
+      },
+      {
+        "confidence" : 1,
+        "text" : "HOM",
+        "y" : 0.41718750003125005
+      },
+      {
+        "confidence" : 1,
+        "text" : "Tuscan",
+        "y" : 0.16401078710596395
+      }
+    ],
+    "time" : 28
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMIN!",
+        "y" : 0.8373474651879057
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITA",
+        "y" : 0.82641688965451077
+      },
+      {
+        "confidence" : 1,
+        "text" : "MORTIMER",
+        "y" : 0.40897243491848889
+      },
+      {
+        "confidence" : 1,
+        "text" : "HOMECARE LTD",
+        "y" : 0.39442326162380414
+      },
+      {
+        "confidence" : 1,
+        "text" : "because \"there's no place like home\"",
+        "y" : 0.36171103818757044
+      },
+      {
+        "confidence" : 1,
+        "text" : "Tuscan",
+        "y" : 0.16069633245312398
+      }
+    ],
+    "time" : 28.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "GRAPE",
+        "y" : 0.78027573592229049
+      },
+      {
+        "confidence" : 1,
+        "text" : "UF",
+        "y" : 0.86012931062591536
+      },
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTE",
+        "y" : 0.83700471675474009
+      },
+      {
+        "confidence" : 1,
+        "text" : "ERI",
+        "y" : 0.82812500011718748
+      },
+      {
+        "confidence" : 1,
+        "text" : "<Wi-FiF",
+        "y" : 0.57968750003417968
+      },
+      {
+        "confidence" : 1,
+        "text" : "musici",
+        "y" : 0.51718750004231773
+      },
+      {
+        "confidence" : 1,
+        "text" : "Junday",
+        "y" : 0.49843750004394527
+      },
+      {
+        "confidence" : 1,
+        "text" : "Fluted",
+        "y" : 0.24800626359545075
+      }
+    ],
+    "time" : 29
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 29.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "RITAGE",
+        "y" : 0.82812500004687495
+      },
+      {
+        "confidence" : 1,
+        "text" : "Doria",
+        "y" : 0.1968750000364583
+      },
+      {
+        "confidence" : 1,
+        "text" : "Column",
+        "y" : 0.13137322162984932
+      }
+    ],
+    "time" : 30
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 30.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001116076
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82426336812968981
+      },
+      {
+        "confidence" : 1,
+        "text" : "Tuscan",
+        "y" : 0.16480150560856044
+      }
+    ],
+    "time" : 31
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001116076
+      },
+      {
+        "confidence" : 1,
+        "text" : "ERITAGE",
+        "y" : 0.82582369709874093
+      },
+      {
+        "confidence" : 1,
+        "text" : "Tuscam",
+        "y" : 0.16030514509561589
+      }
+    ],
+    "time" : 31.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINS",
+        "y" : 0.83739376331870696
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAG",
+        "y" : 0.82559143494906839
+      },
+      {
+        "confidence" : 1,
+        "text" : "Tuscan",
+        "y" : 0.16480139136485084
+      }
+    ],
+    "time" : 32
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 32.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001096492
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82480609803197358
+      }
+    ],
+    "time" : 33
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 33.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.8375000001757813
+      },
+      {
+        "confidence" : 1,
+        "text" : "RRITAGE",
+        "y" : 0.82442780895690082
+      },
+      {
+        "confidence" : 1,
+        "text" : "CОBB",
+        "y" : 0.36893564293541492
+      },
+      {
+        "confidence" : 1,
+        "text" : "AMOS",
+        "y" : 0.35156250003314393
+      },
+      {
+        "confidence" : 1,
+        "text" : "FOR SALE",
+        "y" : 0.31531628511382359
+      },
+      {
+        "confidence" : 1,
+        "text" : "01568 610 310 cobbamos.c",
+        "y" : 0.29644558550578393
+      }
+    ],
+    "time" : 34
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "EOMINSTER",
+        "y" : 0.83906250010416672
+      },
+      {
+        "confidence" : 1,
+        "text" : "ERITAGE",
+        "y" : 0.82416709141659239
+      },
+      {
+        "confidence" : 1,
+        "text" : "Corinthian",
+        "y" : 0.16618360876243199
+      }
+    ],
+    "time" : 34.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.8375000000113636
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.821765230024742
+      },
+      {
+        "confidence" : 1,
+        "text" : "Corinthian",
+        "y" : 0.16562500003216907
+      }
+    ],
+    "time" : 35
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 35.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "EOMINSTER",
+        "y" : 0.83750000001250002
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82452258012746527
+      }
+    ],
+    "time" : 36
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.8390625000099432
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82812500007812506
+      },
+      {
+        "confidence" : 1,
+        "text" : "onic",
+        "y" : 0.16673683366747161
+      }
+    ],
+    "time" : 36.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "·LŸ",
+        "y" : 0.85625000013327202
+      },
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001116076
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82461339244578102
+      },
+      {
+        "confidence" : 1,
+        "text" : "VIPORFHE -HONOR•OF-AKEN",
+        "y" : 0.67622426960819693
+      },
+      {
+        "confidence" : 1,
+        "text" : "lonic",
+        "y" : 0.16494395793521011
+      }
+    ],
+    "time" : 37
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83611003070877099
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82538457037476132
+      },
+      {
+        "confidence" : 1,
+        "text" : "lonic",
+        "y" : 0.16681966177375218
+      }
+    ],
+    "time" : 37.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83906250000959437
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.8248029910181599
+      },
+      {
+        "confidence" : 1,
+        "text" : "capital",
+        "y" : 0.15595709643718203
+      }
+    ],
+    "time" : 38
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "GEOMINSTER",
+        "y" : 0.83750000001225489
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERNAGE",
+        "y" : 0.82298266069700166
+      },
+      {
+        "confidence" : 1,
+        "text" : "COBB",
+        "y" : 0.37662712338584003
+      },
+      {
+        "confidence" : 1,
+        "text" : "AMOS",
+        "y" : 0.36093750002322644
+      },
+      {
+        "confidence" : 1,
+        "text" : "FOR SALE",
+        "y" : 0.3296435276168711
+      },
+      {
+        "confidence" : 1,
+        "text" : "01568 610 310 cobbamos.com",
+        "y" : 0.31412225998749244
+      }
+    ],
+    "time" : 38.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Corintnian",
+        "y" : 0.16478890502517629
+      },
+      {
+        "confidence" : 1,
+        "text" : "CОB",
+        "y" : 0.34441286766351897
+      },
+      {
+        "confidence" : 1,
+        "text" : "AMO",
+        "y" : 0.32343750005345395
+      },
+      {
+        "confidence" : 1,
+        "text" : "FOR SA",
+        "y" : 0.28484550280123866
+      },
+      {
+        "confidence" : 1,
+        "text" : "01568 610 310",
+        "y" : 0.268702237478885
+      }
+    ],
+    "time" : 39
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Leominster",
+        "y" : 0.26680424502847611
+      },
+      {
+        "confidence" : 1,
+        "text" : "Festival",
+        "y" : 0.253199255825171
+      },
+      {
+        "confidence" : 1,
+        "text" : "EOMINSTER",
+        "y" : 0.83750000001329794
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82481511460602808
+      },
+      {
+        "confidence" : 1,
+        "text" : "Ca",
+        "y" : 0.56250000011718748
+      },
+      {
+        "confidence" : 1,
+        "text" : "029 20",
+        "y" : 0.55000000007812511
+      },
+      {
+        "confidence" : 1,
+        "text" : "FOR S\/",
+        "y" : 0.52812500004206731
+      },
+      {
+        "confidence" : 1,
+        "text" : "ALL ENQU",
+        "y" : 0.51698489936947356
+      },
+      {
+        "confidence" : 1,
+        "text" : "Shaft",
+        "y" : 0.1671875000301204
+      }
+    ],
+    "time" : 39.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Shaft",
+        "y" : 0.16589722934481677
+      },
+      {
+        "confidence" : 1,
+        "text" : "eominster",
+        "y" : 0.059331452472605406
+      },
+      {
+        "confidence" : 1,
+        "text" : "Festival",
+        "y" : 0.037867641351256531
+      },
+      {
+        "confidence" : 1,
+        "text" : "029 20",
+        "y" : 0.60000000005022325
+      },
+      {
+        "confidence" : 1,
+        "text" : "FOR S\/",
+        "y" : 0.5546875001562499
+      },
+      {
+        "confidence" : 1,
+        "text" : "ALL ENQL",
+        "y" : 0.53250483949165339
+      }
+    ],
+    "time" : 40
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINS",
+        "y" : 0.83733493916428747
+      },
+      {
+        "confidence" : 1,
+        "text" : "TBR",
+        "y" : 0.839062500109375
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82523930887473529
+      },
+      {
+        "confidence" : 1,
+        "text" : "Cal",
+        "y" : 0.54531250033854162
+      },
+      {
+        "confidence" : 1,
+        "text" : "029 203",
+        "y" : 0.53107388846079906
+      },
+      {
+        "confidence" : 1,
+        "text" : "FOR SA",
+        "y" : 0.50728145988787388
+      },
+      {
+        "confidence" : 1,
+        "text" : "ALL ENQUI",
+        "y" : 0.49218750003906242
+      },
+      {
+        "confidence" : 1,
+        "text" : "Leominster",
+        "y" : 0.26358173119819783
+      },
+      {
+        "confidence" : 1,
+        "text" : "Festival",
+        "y" : 0.25229108123384136
+      },
+      {
+        "confidence" : 1,
+        "text" : "Shaft",
+        "y" : 0.16603669835166779
+      }
+    ],
+    "time" : 40.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001096492
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.8250000000149601
+      }
+    ],
+    "time" : 41
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LAFV",
+        "y" : 0.89127187335680746
+      },
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001116076
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82456646596198491
+      }
+    ],
+    "time" : 41.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "EOM.",
+        "y" : 0.83906250015624995
+      },
+      {
+        "confidence" : 1,
+        "text" : "NSTER",
+        "y" : 0.83742247822855576
+      },
+      {
+        "confidence" : 1,
+        "text" : "CERILAGE",
+        "y" : 0.82656250015624999
+      },
+      {
+        "confidence" : 1,
+        "text" : "COBB",
+        "y" : 0.37549633019908568
+      },
+      {
+        "confidence" : 1,
+        "text" : "AMOS",
+        "y" : 0.35896101739144626
+      },
+      {
+        "confidence" : 1,
+        "text" : "FOR SALE",
+        "y" : 0.33022160210891716
+      },
+      {
+        "confidence" : 1,
+        "text" : "01568 610 310 cobbam",
+        "y" : 0.31312069787282648
+      }
+    ],
+    "time" : 42
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "RI",
+        "y" : 0.84062500011718755
+      },
+      {
+        "confidence" : 1,
+        "text" : "COB",
+        "y" : 0.34184846639876076
+      },
+      {
+        "confidence" : 1,
+        "text" : "AMC",
+        "y" : 0.32195177237716943
+      },
+      {
+        "confidence" : 1,
+        "text" : "FOR S",
+        "y" : 0.28277306927321177
+      },
+      {
+        "confidence" : 1,
+        "text" : "01568 610 310",
+        "y" : 0.26686356708405135
+      },
+      {
+        "confidence" : 1,
+        "text" : "Corinthian",
+        "y" : 0.16514161851597375
+      }
+    ],
+    "time" : 42.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001116076
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82482988985962091
+      },
+      {
+        "confidence" : 1,
+        "text" : "Shaft",
+        "y" : 0.16479675913528491
+      }
+    ],
+    "time" : 43
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001096492
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82474634358439347
+      },
+      {
+        "confidence" : 1,
+        "text" : "Shaft",
+        "y" : 0.16562500023437499
+      }
+    ],
+    "time" : 43.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001077585
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82537350997046732
+      },
+      {
+        "confidence" : 1,
+        "text" : "Shaft",
+        "y" : 0.16875000024999998
+      }
+    ],
+    "time" : 44
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001116076
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82484363480276834
+      },
+      {
+        "confidence" : 1,
+        "text" : "Shaft",
+        "y" : 0.16793459679239242
+      }
+    ],
+    "time" : 44.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001116076
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82656250008928578
+      }
+    ],
+    "time" : 45
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001116076
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82500000008789065
+      }
+    ],
+    "time" : 45.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 46
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83596869199131829
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82449304659025457
+      },
+      {
+        "confidence" : 1,
+        "text" : "Composite",
+        "y" : 0.14297745229826897
+      }
+    ],
+    "time" : 46.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001116076
+      },
+      {
+        "confidence" : 1,
+        "text" : "HER",
+        "y" : 0.82656250002976184
+      },
+      {
+        "confidence" : 1,
+        "text" : "Composite",
+        "y" : 0.13707710424169106
+      }
+    ],
+    "time" : 47
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.8375000001757813
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERIT",
+        "y" : 0.82656250002976184
+      },
+      {
+        "confidence" : 1,
+        "text" : "GE",
+        "y" : 0.82656250013671873
+      }
+    ],
+    "time" : 47.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.8375000001757813
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITA",
+        "y" : 0.82656250002976184
+      },
+      {
+        "confidence" : 1,
+        "text" : "GE",
+        "y" : 0.82812500015625001
+      }
+    ],
+    "time" : 48
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001250002
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82481098035822609
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "КрâŸŞ",
+        "y" : 0.28437500019531248
+      },
+      {
+        "confidence" : 1,
+        "text" : "Palladiol",
+        "y" : 0.14097582726699576
+      }
+    ],
+    "time" : 48.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Palladio!",
+        "y" : 0.13632489472665932
+      }
+    ],
+    "time" : 49
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.83750000001096492
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.82500000017578123
+      },
+      {
+        "confidence" : 1,
+        "text" : "Palladio!",
+        "y" : 0.13484075696218001
+      }
+    ],
+    "time" : 49.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTE",
+        "y" : 0.83750000002008929
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERTTAGE",
+        "y" : 0.8246775351784188
+      },
+      {
+        "confidence" : 1,
+        "text" : "Palladio!",
+        "y" : 0.13564226662761203
+      }
+    ],
+    "time" : 50
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 50.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.82031250011718748
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.80625000010044645
+      }
+    ],
+    "time" : 51
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.54602368996662121
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.50577707553592
+      }
+    ],
+    "time" : 51.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.52343750013950896
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.47632170011487995
+      }
+    ],
+    "time" : 52
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.5205637623062378
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.47968750025390627
+      },
+      {
+        "confidence" : 1,
+        "text" : "Putting Historic",
+        "y" : 0.33750000002757363
+      },
+      {
+        "confidence" : 1,
+        "text" : "Leominster on",
+        "y" : 0.29531250026785716
+      },
+      {
+        "confidence" : 1,
+        "text" : "the Map!",
+        "y" : 0.22793394387682997
+      }
+    ],
+    "time" : 52.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.5205637623062378
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.4796875001220704
+      },
+      {
+        "confidence" : 1,
+        "text" : "Putting Historic",
+        "y" : 0.33750000002757363
+      },
+      {
+        "confidence" : 1,
+        "text" : "Leominster on",
+        "y" : 0.29531250026785716
+      },
+      {
+        "confidence" : 1,
+        "text" : "the Map!",
+        "y" : 0.23667921744047782
+      }
+    ],
+    "time" : 53
+  }
+]

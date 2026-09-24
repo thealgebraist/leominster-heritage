@@ -1,0 +1,83 @@
+[
+  {
+    "start": 38,
+    "end": 43,
+    "result": {
+      "text": " Fan light, side light, oriel, through, bayway.",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 5.0,
+          "text": " Fan light, side light, oriel, through, bayway.",
+          "tokens": [
+            50365,
+            18564,
+            1442,
+            11,
+            1252,
+            1442,
+            11,
+            420,
+            1187,
+            11,
+            807,
+            11,
+            13642,
+            676,
+            13,
+            50615
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.8856234269983628,
+          "compression_ratio": 0.9787234042553191,
+          "no_speech_prob": 1.3479102278779465e-09
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "start": 12,
+    "end": 15,
+    "result": {
+      "text": " Mullion in the middle, glazing ear of the lot, casement.",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 3.0,
+          "text": " Mullion in the middle, glazing ear of the lot, casement.",
+          "tokens": [
+            50365,
+            376,
+            858,
+            313,
+            294,
+            264,
+            2808,
+            11,
+            8771,
+            8781,
+            1273,
+            295,
+            264,
+            688,
+            11,
+            3058,
+            1712,
+            13,
+            50515
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.5881805896759034,
+          "compression_ratio": 0.9180327868852459,
+          "no_speech_prob": 8.261307749002356e-10
+        }
+      ],
+      "language": "en"
+    }
+  }
+]

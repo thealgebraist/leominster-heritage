@@ -1,0 +1,432 @@
+{
+  "model": "vosk-model-small-en-us-0.15",
+  "sample_rate": 16000,
+  "chunks": [
+    {
+      "result": [
+        {
+          "conf": 0.496338,
+          "end": 0.252958,
+          "start": 0.0,
+          "word": "the"
+        },
+        {
+          "conf": 0.784854,
+          "end": 0.93,
+          "start": 0.51,
+          "word": "corbell"
+        },
+        {
+          "conf": 0.455861,
+          "end": 1.381797,
+          "start": 0.93,
+          "word": "codable"
+        },
+        {
+          "conf": 0.480323,
+          "end": 1.83,
+          "start": 1.381797,
+          "word": "corbell"
+        },
+        {
+          "conf": 1.0,
+          "end": 2.28,
+          "start": 1.832598,
+          "word": "barge"
+        },
+        {
+          "conf": 0.822112,
+          "end": 2.7,
+          "start": 2.28,
+          "word": "board"
+        },
+        {
+          "conf": 1.0,
+          "end": 3.18,
+          "start": 2.7,
+          "word": "barge"
+        },
+        {
+          "conf": 0.541597,
+          "end": 3.6,
+          "start": 3.18,
+          "word": "board"
+        },
+        {
+          "conf": 0.979661,
+          "end": 4.062081,
+          "start": 3.641276,
+          "word": "quotable"
+        },
+        {
+          "conf": 0.329049,
+          "end": 4.47,
+          "start": 4.32,
+          "word": "about"
+        },
+        {
+          "conf": 0.941879,
+          "end": 4.991492,
+          "start": 4.540696,
+          "word": "portable"
+        },
+        {
+          "conf": 0.477814,
+          "end": 5.4,
+          "start": 4.991492,
+          "word": "quotable"
+        },
+        {
+          "conf": 1.0,
+          "end": 5.85,
+          "start": 5.4,
+          "word": "barge"
+        },
+        {
+          "conf": 0.544952,
+          "end": 6.27,
+          "start": 5.85,
+          "word": "pole"
+        },
+        {
+          "conf": 1.0,
+          "end": 6.75,
+          "start": 6.3,
+          "word": "barge"
+        },
+        {
+          "conf": 0.769656,
+          "end": 7.14,
+          "start": 6.75,
+          "word": "pole"
+        }
+      ],
+      "text": "the corbell codable corbell barge board barge board quotable about portable quotable barge pole barge pole"
+    },
+    {
+      "result": [
+        {
+          "conf": 0.706149,
+          "end": 8.61,
+          "start": 8.07,
+          "word": "million"
+        },
+        {
+          "conf": 1.0,
+          "end": 9.42,
+          "start": 8.94,
+          "word": "million"
+        },
+        {
+          "conf": 1.0,
+          "end": 9.87,
+          "start": 9.42,
+          "word": "million"
+        },
+        {
+          "conf": 1.0,
+          "end": 10.35,
+          "start": 9.87,
+          "word": "million"
+        },
+        {
+          "conf": 0.339601,
+          "end": 11.128879,
+          "start": 10.59,
+          "word": "price"
+        },
+        {
+          "conf": 1.0,
+          "end": 11.693628,
+          "start": 11.128879,
+          "word": "by"
+        },
+        {
+          "conf": 1.0,
+          "end": 12.400071,
+          "start": 11.836941,
+          "word": "surprise"
+        },
+        {
+          "conf": 0.743986,
+          "end": 12.96,
+          "start": 12.51,
+          "word": "price"
+        },
+        {
+          "conf": 0.638646,
+          "end": 13.217626,
+          "start": 12.96,
+          "word": "by"
+        },
+        {
+          "conf": 1.0,
+          "end": 13.707112,
+          "start": 13.217626,
+          "word": "surprise"
+        },
+        {
+          "conf": 1.0,
+          "end": 14.28,
+          "start": 13.83,
+          "word": "surprise"
+        },
+        {
+          "conf": 0.779034,
+          "end": 14.638689,
+          "start": 14.52,
+          "word": "to"
+        },
+        {
+          "conf": 1.0,
+          "end": 15.12,
+          "start": 14.638689,
+          "word": "avoid"
+        },
+        {
+          "conf": 0.855971,
+          "end": 15.539183,
+          "start": 15.42,
+          "word": "to"
+        },
+        {
+          "conf": 1.0,
+          "end": 16.05,
+          "start": 15.539183,
+          "word": "avoid"
+        },
+        {
+          "conf": 0.902708,
+          "end": 16.32,
+          "start": 16.08,
+          "word": "going"
+        },
+        {
+          "conf": 1.0,
+          "end": 16.53,
+          "start": 16.32,
+          "word": "one"
+        },
+        {
+          "conf": 1.0,
+          "end": 16.77,
+          "start": 16.53,
+          "word": "point"
+        },
+        {
+          "conf": 1.0,
+          "end": 17.01,
+          "start": 16.77,
+          "word": "point"
+        },
+        {
+          "conf": 1.0,
+          "end": 17.25,
+          "start": 17.01,
+          "word": "point"
+        },
+        {
+          "conf": 1.0,
+          "end": 17.49,
+          "start": 17.25,
+          "word": "point"
+        },
+        {
+          "conf": 1.0,
+          "end": 17.76,
+          "start": 17.49,
+          "word": "point"
+        },
+        {
+          "conf": 1.0,
+          "end": 18.15,
+          "start": 17.82,
+          "word": "during"
+        },
+        {
+          "conf": 1.0,
+          "end": 18.21,
+          "start": 18.15,
+          "word": "the"
+        },
+        {
+          "conf": 1.0,
+          "end": 18.757046,
+          "start": 18.27,
+          "word": "course"
+        },
+        {
+          "conf": 0.217401,
+          "end": 19.2,
+          "start": 18.78,
+          "word": "training"
+        },
+        {
+          "conf": 0.693954,
+          "end": 19.693883,
+          "start": 19.210208,
+          "word": "course"
+        },
+        {
+          "conf": 0.747999,
+          "end": 20.31,
+          "start": 19.71969,
+          "word": "address"
+        },
+        {
+          "conf": 1.0,
+          "end": 20.76,
+          "start": 20.55,
+          "word": "but"
+        },
+        {
+          "conf": 1.0,
+          "end": 21.15,
+          "start": 20.76,
+          "word": "dress"
+        },
+        {
+          "conf": 1.0,
+          "end": 21.75,
+          "start": 21.45,
+          "word": "but"
+        }
+      ],
+      "text": "million million million million price by surprise price by surprise surprise to avoid to avoid going one point point point point point during the course training course address but dress but"
+    },
+    {
+      "result": [
+        {
+          "conf": 1.0,
+          "end": 24.96,
+          "start": 23.76,
+          "word": "it's"
+        },
+        {
+          "conf": 1.0,
+          "end": 25.32,
+          "start": 24.96,
+          "word": "called"
+        },
+        {
+          "conf": 0.852183,
+          "end": 25.44,
+          "start": 25.32,
+          "word": "i'll"
+        },
+        {
+          "conf": 1.0,
+          "end": 25.68,
+          "start": 25.44,
+          "word": "call"
+        },
+        {
+          "conf": 1.0,
+          "end": 25.831234,
+          "start": 25.68,
+          "word": "about"
+        },
+        {
+          "conf": 0.742692,
+          "end": 25.86,
+          "start": 25.831234,
+          "word": "a"
+        },
+        {
+          "conf": 1.0,
+          "end": 26.1,
+          "start": 25.89,
+          "word": "call"
+        },
+        {
+          "conf": 1.0,
+          "end": 26.31,
+          "start": 26.1,
+          "word": "about"
+        },
+        {
+          "conf": 1.0,
+          "end": 26.34,
+          "start": 26.31,
+          "word": "a"
+        },
+        {
+          "conf": 0.510385,
+          "end": 26.58,
+          "start": 26.34,
+          "word": "car"
+        },
+        {
+          "conf": 0.641588,
+          "end": 26.816153,
+          "start": 26.58,
+          "word": "ballot"
+        },
+        {
+          "conf": 1.0,
+          "end": 27.24,
+          "start": 26.816153,
+          "word": "box"
+        },
+        {
+          "conf": 1.0,
+          "end": 27.66,
+          "start": 27.24,
+          "word": "mod"
+        },
+        {
+          "conf": 1.0,
+          "end": 28.11,
+          "start": 27.69,
+          "word": "podge"
+        },
+        {
+          "conf": 0.890656,
+          "end": 28.470337,
+          "start": 28.11,
+          "word": "more"
+        },
+        {
+          "conf": 0.770249,
+          "end": 28.89,
+          "start": 28.56,
+          "word": "money"
+        },
+        {
+          "conf": 0.770249,
+          "end": 29.07,
+          "start": 28.89,
+          "word": "on"
+        },
+        {
+          "conf": 0.77691,
+          "end": 30.26389,
+          "start": 30.15,
+          "word": "the"
+        },
+        {
+          "conf": 0.378621,
+          "end": 31.11,
+          "start": 30.26389,
+          "word": "price"
+        },
+        {
+          "conf": 0.612061,
+          "end": 31.322626,
+          "start": 31.17,
+          "word": "but"
+        },
+        {
+          "conf": 0.520671,
+          "end": 32.04,
+          "start": 31.322626,
+          "word": "raise"
+        }
+      ],
+      "text": "it's called i'll call about a call about a car ballot box mod podge more money on the price but raise"
+    }
+  ],
+  "transcript": "the corbell codable corbell barge board barge board quotable about portable quotable barge pole barge pole million million million million price by surprise price by surprise surprise to avoid to avoid going one point point point point point during the course training course address but dress but it's called i'll call about a call about a car ballot box mod podge more money on the price but raise",
+  "runtime_s": 2.393,
+  "provenance": "Offline recognizer, unconstrained vocabulary; raw hypothesis, not corrected."
+}

@@ -1,0 +1,122 @@
+{
+  "method": "pYIN on estimated vocal stem, 8kHz, 1024 frame, 128 hop, f0 65-700 Hz; retain voiced probability >=0.7 and audible RMS",
+  "warning": "Model-separated vocal may contain instruments; pYIN may choose octave errors and excludes unvoiced/uncertain frames. Quantiles describe retained frames, not scored melody or true vocal range.",
+  "retained_fraction": 0.1026252983293556,
+  "phrases": [
+    {
+      "time": "0.0\u20137.0",
+      "words": "Column, column, Doric column / Tuscan, Tuscan. [twice]",
+      "retained_seconds": 1.41,
+      "retained_fraction": 0.2,
+      "midi_p10_median_p90": [
+        46.39,
+        56.04,
+        56.29
+      ],
+      "nearest_notes_p10_median_p90": [
+        "A\u266f2",
+        "G\u266f3",
+        "G\u266f3"
+      ]
+    },
+    {
+      "time": "7.0\u201312.8",
+      "words": "Ah\u2014Corinthian / Ionic, Ionic.",
+      "retained_seconds": 0.77,
+      "retained_fraction": 0.13,
+      "midi_p10_median_p90": [
+        51.09,
+        58.19,
+        58.19
+      ],
+      "nearest_notes_p10_median_p90": [
+        "D\u266f3",
+        "A\u266f3",
+        "A\u266f3"
+      ]
+    },
+    {
+      "time": "12.8\u201319.7",
+      "words": "Pilaster, pilaster, Doric pilaster / Capital, capital. [twice]",
+      "retained_seconds": 0.56,
+      "retained_fraction": 0.08,
+      "midi_p10_median_p90": [
+        55.03,
+        55.09,
+        56.09
+      ],
+      "nearest_notes_p10_median_p90": [
+        "G3",
+        "G3",
+        "G\u266f3"
+      ]
+    },
+    {
+      "time": "19.7\u201325.3",
+      "words": "Ah\u2014Palladio / Ionic, Ionic.",
+      "retained_seconds": 0.72,
+      "retained_fraction": 0.13,
+      "midi_p10_median_p90": [
+        50.99,
+        51.19,
+        58.19
+      ],
+      "nearest_notes_p10_median_p90": [
+        "D\u266f3",
+        "D\u266f3",
+        "A\u266f3"
+      ]
+    },
+    {
+      "time": "25.3\u201332.8",
+      "words": "Fluted, fluted, Doric column / Tuscan, Tuscan. [twice]",
+      "retained_seconds": 1.66,
+      "retained_fraction": 0.22,
+      "midi_p10_median_p90": [
+        50.99,
+        56.09,
+        56.19
+      ],
+      "nearest_notes_p10_median_p90": [
+        "D\u266f3",
+        "G\u266f3",
+        "G\u266f3"
+      ]
+    },
+    {
+      "time": "32.8\u201337.8",
+      "words": "Ah\u2014Corinthian / Ionic, Ionic.",
+      "retained_seconds": 0.29,
+      "retained_fraction": 0.06,
+      "midi_p10_median_p90": [
+        50.99,
+        51.09,
+        51.09
+      ],
+      "nearest_notes_p10_median_p90": [
+        "D\u266f3",
+        "D\u266f3",
+        "D\u266f3"
+      ]
+    },
+    {
+      "time": "37.8\u201344.5",
+      "words": "Capital, capital, Corinthian / Shaft, shaft. [twice]",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "44.5\u201349.2",
+      "words": "Ah\u2014Composite / Palladio!",
+      "retained_seconds": 0.1,
+      "retained_fraction": 0.02
+    },
+    {
+      "time": "49.2\u201353.6",
+      "words": "Musical/end-card tail.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    }
+  ],
+  "runtime_s": 0.7766380310058594
+}

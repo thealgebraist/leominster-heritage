@@ -1,0 +1,429 @@
+{
+  "text": " Corbel, Corbel, Corbel, Corbel, Corbel, Bargeboard, Bargeboard, Bargeboard, Corbel, Corbel, Corbel, Corbel, Bargeboard, Bargeboard, Bargeboard, Mullion, Mullion, Mullion, Mullion, Mullion, Mullion, Mullion, Corbel, Corbel, Corbel, Corbel, Barchboard, Barchboard Muleon, Muleon Brace, Brace Videol!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 7.08,
+      "text": " Corbel, Corbel, Corbel, Corbel, Corbel, Bargeboard, Bargeboard, Bargeboard, Corbel, Corbel, Corbel, Corbel, Bargeboard, Bargeboard, Bargeboard,",
+      "tokens": [
+        50365,
+        3925,
+        5390,
+        11,
+        3925,
+        5390,
+        11,
+        3925,
+        5390,
+        11,
+        3925,
+        5390,
+        11,
+        3925,
+        5390,
+        11,
+        4156,
+        432,
+        3787,
+        11,
+        4156,
+        432,
+        3787,
+        11,
+        4156,
+        432,
+        3787,
+        11,
+        3925,
+        5390,
+        11,
+        3925,
+        5390,
+        11,
+        3925,
+        5390,
+        11,
+        3925,
+        5390,
+        11,
+        4156,
+        432,
+        3787,
+        11,
+        4156,
+        432,
+        3787,
+        11,
+        4156,
+        432,
+        3787,
+        11,
+        50721
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.12382241990831164,
+      "compression_ratio": 14.176470588235293,
+      "no_speech_prob": 1.0181301635103779e-10,
+      "words": [
+        {
+          "word": " Corbel,",
+          "start": 0.0,
+          "end": 0.44,
+          "probability": 0.59326171875
+        },
+        {
+          "word": " Corbel,",
+          "start": 0.54,
+          "end": 0.86,
+          "probability": 0.77587890625
+        },
+        {
+          "word": " Corbel,",
+          "start": 0.94,
+          "end": 1.3,
+          "probability": 0.99072265625
+        },
+        {
+          "word": " Corbel,",
+          "start": 1.48,
+          "end": 1.56,
+          "probability": 0.9833984375
+        },
+        {
+          "word": " Corbel,",
+          "start": 1.56,
+          "end": 1.78,
+          "probability": 0.63671875
+        },
+        {
+          "word": " Bargeboard,",
+          "start": 1.9,
+          "end": 2.6,
+          "probability": 0.6142578125
+        },
+        {
+          "word": " Bargeboard,",
+          "start": 2.7,
+          "end": 3.46,
+          "probability": 0.98974609375
+        },
+        {
+          "word": " Bargeboard,",
+          "start": 3.56,
+          "end": 3.56,
+          "probability": 0.8623046875
+        },
+        {
+          "word": " Corbel,",
+          "start": 3.6,
+          "end": 4.0,
+          "probability": 0.96435546875
+        },
+        {
+          "word": " Corbel,",
+          "start": 4.08,
+          "end": 4.44,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " Corbel,",
+          "start": 4.52,
+          "end": 4.88,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " Corbel,",
+          "start": 5.0,
+          "end": 5.3,
+          "probability": 0.9912109375
+        },
+        {
+          "word": " Bargeboard,",
+          "start": 5.44,
+          "end": 6.1,
+          "probability": 0.91796875
+        },
+        {
+          "word": " Bargeboard,",
+          "start": 6.3,
+          "end": 7.02,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " Bargeboard,",
+          "start": 7.08,
+          "end": 7.08,
+          "probability": 0.9267578125
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 7.3,
+      "end": 24.7,
+      "text": " Mullion, Mullion, Mullion, Mullion, Mullion, Mullion, Mullion,",
+      "tokens": [
+        50721,
+        41621,
+        313,
+        11,
+        41621,
+        313,
+        11,
+        41621,
+        313,
+        11,
+        41621,
+        313,
+        11,
+        41621,
+        313,
+        11,
+        41621,
+        313,
+        11,
+        41621,
+        313,
+        11,
+        50888
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.12382241990831164,
+      "compression_ratio": 14.176470588235293,
+      "no_speech_prob": 1.0181301635103779e-10,
+      "words": [
+        {
+          "word": " Mullion,",
+          "start": 7.3,
+          "end": 7.66,
+          "probability": 0.50927734375
+        },
+        {
+          "word": " Mullion,",
+          "start": 7.98,
+          "end": 8.46,
+          "probability": 0.947265625
+        },
+        {
+          "word": " Mullion,",
+          "start": 8.46,
+          "end": 8.54,
+          "probability": 0.9921875
+        },
+        {
+          "word": " Mullion,",
+          "start": 8.62,
+          "end": 9.36,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " Mullion,",
+          "start": 9.42,
+          "end": 9.8,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " Mullion,",
+          "start": 9.88,
+          "end": 10.28,
+          "probability": 0.99365234375
+        },
+        {
+          "word": " Mullion,",
+          "start": 11.14,
+          "end": 24.7,
+          "probability": 0.98388671875
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2470,
+      "start": 24.7,
+      "end": 26.72,
+      "text": " Corbel, Corbel, Corbel, Corbel,",
+      "tokens": [
+        50365,
+        3925,
+        5390,
+        11,
+        3925,
+        5390,
+        11,
+        3925,
+        5390,
+        11,
+        3925,
+        5390,
+        11,
+        50465
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5137538486056857,
+      "compression_ratio": 1.5789473684210527,
+      "no_speech_prob": 1.5602533154357445e-10,
+      "words": [
+        {
+          "word": " Corbel,",
+          "start": 24.7,
+          "end": 25.36,
+          "probability": 0.736328125
+        },
+        {
+          "word": " Corbel,",
+          "start": 25.48,
+          "end": 25.82,
+          "probability": 0.8134765625
+        },
+        {
+          "word": " Corbel,",
+          "start": 25.92,
+          "end": 26.26,
+          "probability": 0.9951171875
+        },
+        {
+          "word": " Corbel,",
+          "start": 26.38,
+          "end": 26.72,
+          "probability": 0.9873046875
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2470,
+      "start": 26.88,
+      "end": 28.44,
+      "text": " Barchboard, Barchboard",
+      "tokens": [
+        50465,
+        363,
+        1178,
+        3787,
+        11,
+        363,
+        1178,
+        3787,
+        50553
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5137538486056857,
+      "compression_ratio": 1.5789473684210527,
+      "no_speech_prob": 1.5602533154357445e-10,
+      "words": [
+        {
+          "word": " Barchboard,",
+          "start": 26.88,
+          "end": 27.54,
+          "probability": 0.275634765625
+        },
+        {
+          "word": " Barchboard",
+          "start": 27.7,
+          "end": 28.44,
+          "probability": 0.98193359375
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2470,
+      "start": 28.44,
+      "end": 30.02,
+      "text": " Muleon, Muleon",
+      "tokens": [
+        50553,
+        376,
+        2271,
+        266,
+        11,
+        376,
+        2271,
+        266,
+        50633
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5137538486056857,
+      "compression_ratio": 1.5789473684210527,
+      "no_speech_prob": 1.5602533154357445e-10,
+      "words": [
+        {
+          "word": " Muleon,",
+          "start": 28.44,
+          "end": 29.08,
+          "probability": 0.418212890625
+        },
+        {
+          "word": " Muleon",
+          "start": 29.3,
+          "end": 30.02,
+          "probability": 0.93603515625
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 2470,
+      "start": 30.02,
+      "end": 31.98,
+      "text": " Brace, Brace",
+      "tokens": [
+        50633,
+        1603,
+        617,
+        11,
+        1603,
+        617,
+        50730
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5137538486056857,
+      "compression_ratio": 1.5789473684210527,
+      "no_speech_prob": 1.5602533154357445e-10,
+      "words": [
+        {
+          "word": " Brace,",
+          "start": 30.02,
+          "end": 30.92,
+          "probability": 0.76220703125
+        },
+        {
+          "word": " Brace",
+          "start": 31.22,
+          "end": 31.98,
+          "probability": 0.9228515625
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 2470,
+      "start": 31.98,
+      "end": 32.84,
+      "text": " Videol!",
+      "tokens": [
+        50730,
+        7926,
+        401,
+        0,
+        50774
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5137538486056857,
+      "compression_ratio": 1.5789473684210527,
+      "no_speech_prob": 1.5602533154357445e-10,
+      "words": [
+        {
+          "word": " Videol!",
+          "start": 31.98,
+          "end": 32.84,
+          "probability": 0.29443359375
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

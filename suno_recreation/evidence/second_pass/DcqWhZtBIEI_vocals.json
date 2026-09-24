@@ -1,0 +1,14 @@
+{
+  "job": {
+    "audio": "/Users/anders/projects/barge/suno_recreation/evidence/stems/DcqWhZtBIEI_vocals.wav",
+    "start": 37,
+    "end": 44,
+    "normalize": true,
+    "prompt": "Transcribe the words exactly, especially the word after \"oriel\". Do not guess if unclear.",
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/DcqWhZtBIEI_vocals.json"
+  },
+  "model": "RumiLabs/MOSS-Audio-4B-Thinking-MLX-4bit",
+  "response": "Fan light, sidelight, oriel too. Bay window, bow window.",
+  "generation_s": 1.46744704246521,
+  "status": "machine interpretation; separated stems may contain artifacts"
+}

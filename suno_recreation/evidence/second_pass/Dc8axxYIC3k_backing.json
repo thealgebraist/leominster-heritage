@@ -1,0 +1,14 @@
+{
+  "job": {
+    "audio": "/Users/anders/projects/barge/suno_recreation/evidence/stems/Dc8axxYIC3k_backing.wav",
+    "start": 0,
+    "end": 15,
+    "normalize": true,
+    "prompt": "Describe only the audible backing music: rhythm, bass, pitched instruments, timbre and sound effects. Is the sound mainly electronic synthesizers, acoustic instruments, vocal noises, or a mixture? Do not invent lyrics or where the audio came from. State uncertainty when the instrument is unclear.",
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/Dc8axxYIC3k_backing.json"
+  },
+  "model": "RumiLabs/MOSS-Audio-4B-Thinking-MLX-4bit",
+  "response": "The audio features an instrumental track characterized by an upbeat, rhythmic feel. The rhythm is driven by acoustic drums and possibly hand percussion, with a steady bassline providing the foundation. A pitched instrument, likely an electric guitar or keyboard mimicking a marimba or xylophone, plays short melodic phrases. The timbre is bright and cheerful, suggesting acoustic or lightly electronic instruments rather than heavy synthesizers. There are no lyrics; instead, there are vocal noises (\"Dum dum dum\") acting as sound effects before the music begins. The mix includes acoustic elements like drums, bass, and piano-like sounds, indicating acoustic instruments primarily.",
+  "generation_s": 5.97174596786499,
+  "status": "machine interpretation; separated stems may contain artifacts"
+}

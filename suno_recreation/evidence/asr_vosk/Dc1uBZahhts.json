@@ -1,0 +1,158 @@
+{
+  "model": "vosk-model-small-en-us-0.15",
+  "sample_rate": 16000,
+  "chunks": [
+    {
+      "result": [
+        {
+          "conf": 1.0,
+          "end": 0.18,
+          "start": 0.06,
+          "word": "for"
+        },
+        {
+          "conf": 0.580848,
+          "end": 0.63,
+          "start": 0.18,
+          "word": "launching"
+        },
+        {
+          "conf": 1.0,
+          "end": 1.62,
+          "start": 0.75,
+          "word": "plunging"
+        },
+        {
+          "conf": 0.879938,
+          "end": 2.19,
+          "start": 1.8,
+          "word": "what's"
+        },
+        {
+          "conf": 1.0,
+          "end": 2.58,
+          "start": 2.19,
+          "word": "around"
+        },
+        {
+          "conf": 0.977332,
+          "end": 2.799232,
+          "start": 2.58,
+          "word": "job"
+        },
+        {
+          "conf": 0.420812,
+          "end": 3.025454,
+          "start": 2.799232,
+          "word": "pug"
+        },
+        {
+          "conf": 1.0,
+          "end": 3.63,
+          "start": 3.025454,
+          "word": "definitely"
+        },
+        {
+          "conf": 1.0,
+          "end": 3.9,
+          "start": 3.63,
+          "word": "so"
+        },
+        {
+          "conf": 0.610783,
+          "end": 4.05,
+          "start": 3.9,
+          "word": "be"
+        },
+        {
+          "conf": 0.937435,
+          "end": 4.56,
+          "start": 4.070907,
+          "word": "nicely"
+        },
+        {
+          "conf": 1.0,
+          "end": 4.89,
+          "start": 4.56,
+          "word": "keeping"
+        },
+        {
+          "conf": 0.887954,
+          "end": 4.95,
+          "start": 4.89,
+          "word": "a"
+        },
+        {
+          "conf": 0.763001,
+          "end": 5.49,
+          "start": 4.954406,
+          "word": "drive"
+        },
+        {
+          "conf": 0.907806,
+          "end": 5.91,
+          "start": 5.49,
+          "word": "launching"
+        },
+        {
+          "conf": 0.901331,
+          "end": 6.18,
+          "start": 5.91,
+          "word": "around"
+        },
+        {
+          "conf": 0.550438,
+          "end": 6.33,
+          "start": 6.18,
+          "word": "your"
+        },
+        {
+          "conf": 1.0,
+          "end": 6.63,
+          "start": 6.333026,
+          "word": "put"
+        },
+        {
+          "conf": 1.0,
+          "end": 6.87,
+          "start": 6.63,
+          "word": "up"
+        },
+        {
+          "conf": 1.0,
+          "end": 7.02,
+          "start": 6.87,
+          "word": "in"
+        },
+        {
+          "conf": 1.0,
+          "end": 7.11,
+          "start": 7.02,
+          "word": "the"
+        },
+        {
+          "conf": 1.0,
+          "end": 7.74,
+          "start": 7.11,
+          "word": "sky"
+        },
+        {
+          "conf": 0.609854,
+          "end": 9.900001,
+          "start": 9.45,
+          "word": "earth"
+        },
+        {
+          "conf": 1.0,
+          "end": 10.83,
+          "start": 9.901346,
+          "word": "launching"
+        }
+      ],
+      "text": "for launching plunging what's around job pug definitely so be nicely keeping a drive launching around your put up in the sky earth launching"
+    }
+  ],
+  "transcript": "for launching plunging what's around job pug definitely so be nicely keeping a drive launching around your put up in the sky earth launching",
+  "runtime_s": 1.418,
+  "provenance": "Offline recognizer, unconstrained vocabulary; raw hypothesis, not corrected."
+}

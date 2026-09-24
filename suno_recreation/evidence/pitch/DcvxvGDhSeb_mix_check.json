@@ -1,0 +1,99 @@
+{
+  "method": "librosa pYIN, 8 kHz source mixture and HPSS harmonic component; f0 70-650 Hz; probability >=.8; RMS above 30th percentile/floor .003",
+  "warning": "Includes backing, which can dominate detected pitch; quantiles are candidate periodicities, not an established sung line.",
+  "retained_fraction_and_phrase_summaries": [
+    {
+      "signal": "mix",
+      "retained_fraction": 0.0021,
+      "phrases": [
+        {
+          "time": "0.0\u20133.8",
+          "retained_fraction": 0.004
+        },
+        {
+          "time": "3.8\u20136.5",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "6.8\u20139.2",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "9.2\u201311.8",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "12.2\u201314.8",
+          "retained_fraction": 0.012
+        },
+        {
+          "time": "16.0\u201318.7",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "18.7\u201322.5",
+          "retained_fraction": 0.0
+        }
+      ]
+    },
+    {
+      "signal": "harmonic",
+      "retained_fraction": 0.0832,
+      "phrases": [
+        {
+          "time": "0.0\u20133.8",
+          "retained_fraction": 0.063,
+          "p10_median_p90_notes": [
+            "D2",
+            "G2",
+            "B2"
+          ]
+        },
+        {
+          "time": "3.8\u20136.5",
+          "retained_fraction": 0.148,
+          "p10_median_p90_notes": [
+            "G2",
+            "G2",
+            "C3"
+          ]
+        },
+        {
+          "time": "6.8\u20139.2",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "9.2\u201311.8",
+          "retained_fraction": 0.104,
+          "p10_median_p90_notes": [
+            "B2",
+            "C3",
+            "C3"
+          ]
+        },
+        {
+          "time": "12.2\u201314.8",
+          "retained_fraction": 0.179,
+          "p10_median_p90_notes": [
+            "B2",
+            "D3",
+            "D\u266f3"
+          ]
+        },
+        {
+          "time": "16.0\u201318.7",
+          "retained_fraction": 0.13,
+          "p10_median_p90_notes": [
+            "D2",
+            "F2",
+            "B2"
+          ]
+        },
+        {
+          "time": "18.7\u201322.5",
+          "retained_fraction": 0.0
+        }
+      ]
+    }
+  ]
+}

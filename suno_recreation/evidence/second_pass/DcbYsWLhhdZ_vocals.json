@@ -1,0 +1,14 @@
+{
+  "job": {
+    "audio": "/Users/anders/projects/barge/suno_recreation/evidence/stems/DcbYsWLhhdZ_vocals.wav",
+    "start": 23,
+    "end": 29,
+    "normalize": true,
+    "prompt": "Transcribe any audible words in this short vocal passage. If the sound is a nonverbal vocalization rather than a clear word, say so. Do not guess if unclear.",
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/DcbYsWLhhdZ_vocals.json"
+  },
+  "model": "RumiLabs/MOSS-Audio-4B-Thinking-MLX-4bit",
+  "response": "Aaah! Hold on! Door door.",
+  "generation_s": 1.2875289916992188,
+  "status": "machine interpretation; separated stems may contain artifacts"
+}

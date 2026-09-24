@@ -1,0 +1,50 @@
+{
+  "method": "pYIN on estimated vocal stem, 8kHz, 1024 frame, 128 hop, f0 65-700 Hz; retain voiced probability >=0.7 and audible RMS",
+  "warning": "Model-separated vocal may contain instruments; pYIN may choose octave errors and excludes unvoiced/uncertain frames. Quantiles describe retained frames, not scored melody or true vocal range.",
+  "retained_fraction": 0.007885304659498209,
+  "phrases": [
+    {
+      "time": "0.0\u20135.9",
+      "words": "Guttae! \u2026 Guttae! \u2026 Guttae!",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "5.9\u201310.5",
+      "words": "Guttae repeated and rhythmically chopped; exact repeat count unresolved.",
+      "retained_seconds": 0.1,
+      "retained_fraction": 0.02
+    },
+    {
+      "time": "10.5\u201311.3",
+      "words": "Good day!",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "11.4\u201312.1",
+      "words": "Guttae!",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "12.2\u201313.3",
+      "words": "Too many guttae!",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "14.0\u201318.3",
+      "words": "Guttae! Guttae! Guttae! Guttae! [approximately four further calls]",
+      "retained_seconds": 0.08,
+      "retained_fraction": 0.02
+    },
+    {
+      "time": "18.3\u201322.3",
+      "words": "Ending / title-card tail; no further reliable lyric recovered.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    }
+  ],
+  "runtime_s": 0.3367271423339844
+}

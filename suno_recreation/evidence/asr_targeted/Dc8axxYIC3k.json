@@ -1,0 +1,169 @@
+[
+  {
+    "start": 0,
+    "end": 6,
+    "result": {
+      "text": " GUTTA! GUTTA! GUTTA!",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 2.0,
+          "text": " GUTTA!",
+          "tokens": [
+            50365,
+            460,
+            8709,
+            8241,
+            0,
+            50465
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.5609582599840666,
+          "compression_ratio": 1.1764705882352942,
+          "no_speech_prob": 1.2983456532111859e-09
+        },
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 2.0,
+          "end": 4.0,
+          "text": " GUTTA!",
+          "tokens": [
+            50465,
+            460,
+            8709,
+            8241,
+            0,
+            50565
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.5609582599840666,
+          "compression_ratio": 1.1764705882352942,
+          "no_speech_prob": 1.2983456532111859e-09
+        },
+        {
+          "id": 2,
+          "seek": 0,
+          "start": 4.0,
+          "end": 6.0,
+          "text": " GUTTA!",
+          "tokens": [
+            50565,
+            460,
+            8709,
+            8241,
+            0,
+            50665
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.5609582599840666,
+          "compression_ratio": 1.1764705882352942,
+          "no_speech_prob": 1.2983456532111859e-09
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "start": 6,
+    "end": 12,
+    "result": {
+      "text": " Good day, good day, good day, good day, good day, good day, good day, good day.",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 6.0,
+          "text": " Good day, good day, good day, good day, good day, good day, good day, good day.",
+          "tokens": [
+            50365,
+            2205,
+            786,
+            11,
+            665,
+            786,
+            11,
+            665,
+            786,
+            11,
+            665,
+            786,
+            11,
+            665,
+            786,
+            11,
+            665,
+            786,
+            11,
+            665,
+            786,
+            11,
+            665,
+            786,
+            13,
+            50665
+          ],
+          "temperature": 0.4,
+          "avg_logprob": -0.2281829516092936,
+          "compression_ratio": 3.590909090909091,
+          "no_speech_prob": 6.496684301637856e-10
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "start": 12,
+    "end": 19,
+    "result": {
+      "text": " Too many guttae, guttae, guttae, guttae, guttae, guttae.",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 6.98,
+          "text": " Too many guttae, guttae, guttae, guttae, guttae, guttae.",
+          "tokens": [
+            50365,
+            11395,
+            867,
+            5228,
+            1328,
+            68,
+            11,
+            5228,
+            1328,
+            68,
+            11,
+            5228,
+            1328,
+            68,
+            11,
+            5228,
+            1328,
+            68,
+            11,
+            5228,
+            1328,
+            68,
+            11,
+            5228,
+            1328,
+            68,
+            13,
+            50714
+          ],
+          "temperature": 0.4,
+          "avg_logprob": -0.3000581346709153,
+          "compression_ratio": 2.074074074074074,
+          "no_speech_prob": 1.0968899122332232e-09
+        }
+      ],
+      "language": "en"
+    }
+  }
+]

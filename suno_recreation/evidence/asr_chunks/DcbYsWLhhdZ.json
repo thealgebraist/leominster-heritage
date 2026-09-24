@@ -1,0 +1,1193 @@
+[
+  {
+    "offset": 0.0,
+    "result": {
+      "text": " Door Door Door Door Door Door Door Green Door Red Door Door Door",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 0.4,
+          "text": " Door",
+          "tokens": [
+            50365,
+            29636,
+            50390
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.41079892052544487,
+          "compression_ratio": 2.3703703703703702,
+          "no_speech_prob": 1.5284747426069778e-11,
+          "words": [
+            {
+              "word": " Door",
+              "start": 0.0,
+              "end": 0.4,
+              "probability": 0.533203125
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 1.7,
+          "end": 2.06,
+          "text": " Door",
+          "tokens": [
+            50450,
+            29636,
+            50480
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.41079892052544487,
+          "compression_ratio": 2.3703703703703702,
+          "no_speech_prob": 1.5284747426069778e-11,
+          "words": [
+            {
+              "word": " Door",
+              "start": 1.6400000000000001,
+              "end": 2.06,
+              "probability": 0.32080078125
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "seek": 0,
+          "start": 3.08,
+          "end": 3.92,
+          "text": " Door",
+          "tokens": [
+            50540,
+            29636,
+            50565
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.41079892052544487,
+          "compression_ratio": 2.3703703703703702,
+          "no_speech_prob": 1.5284747426069778e-11,
+          "words": [
+            {
+              "word": " Door",
+              "start": 3.08,
+              "end": 3.92,
+              "probability": 0.66162109375
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "seek": 0,
+          "start": 3.92,
+          "end": 4.62,
+          "text": " Door",
+          "tokens": [
+            50565,
+            29636,
+            50590
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.41079892052544487,
+          "compression_ratio": 2.3703703703703702,
+          "no_speech_prob": 1.5284747426069778e-11,
+          "words": [
+            {
+              "word": " Door",
+              "start": 3.92,
+              "end": 4.62,
+              "probability": 0.71044921875
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "seek": 0,
+          "start": 4.62,
+          "end": 5.04,
+          "text": " Door",
+          "tokens": [
+            50590,
+            29636,
+            50615
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.41079892052544487,
+          "compression_ratio": 2.3703703703703702,
+          "no_speech_prob": 1.5284747426069778e-11,
+          "words": [
+            {
+              "word": " Door",
+              "start": 4.62,
+              "end": 5.04,
+              "probability": 0.71533203125
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "seek": 0,
+          "start": 5.04,
+          "end": 5.38,
+          "text": " Door",
+          "tokens": [
+            50615,
+            29636,
+            50640
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.41079892052544487,
+          "compression_ratio": 2.3703703703703702,
+          "no_speech_prob": 1.5284747426069778e-11,
+          "words": [
+            {
+              "word": " Door",
+              "start": 5.04,
+              "end": 5.38,
+              "probability": 0.364013671875
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "seek": 0,
+          "start": 5.38,
+          "end": 5.5,
+          "text": " Door",
+          "tokens": [
+            50640,
+            29636,
+            50665
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.41079892052544487,
+          "compression_ratio": 2.3703703703703702,
+          "no_speech_prob": 1.5284747426069778e-11,
+          "words": [
+            {
+              "word": " Door",
+              "start": 5.38,
+              "end": 5.5,
+              "probability": 0.06304931640625
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "seek": 0,
+          "start": 5.5,
+          "end": 6.52,
+          "text": " Green Door",
+          "tokens": [
+            50665,
+            6969,
+            29636,
+            50690
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.41079892052544487,
+          "compression_ratio": 2.3703703703703702,
+          "no_speech_prob": 1.5284747426069778e-11,
+          "words": [
+            {
+              "word": " Green",
+              "start": 5.5,
+              "end": 6.08,
+              "probability": 0.90283203125
+            },
+            {
+              "word": " Door",
+              "start": 6.08,
+              "end": 6.52,
+              "probability": 0.94970703125
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "seek": 0,
+          "start": 6.52,
+          "end": 7.44,
+          "text": " Red Door",
+          "tokens": [
+            50690,
+            4477,
+            29636,
+            50740
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.41079892052544487,
+          "compression_ratio": 2.3703703703703702,
+          "no_speech_prob": 1.5284747426069778e-11,
+          "words": [
+            {
+              "word": " Red",
+              "start": 6.52,
+              "end": 6.92,
+              "probability": 0.92041015625
+            },
+            {
+              "word": " Door",
+              "start": 6.92,
+              "end": 7.44,
+              "probability": 0.9970703125
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "seek": 0,
+          "start": 7.44,
+          "end": 7.86,
+          "text": " Door",
+          "tokens": [
+            50740,
+            29636,
+            50765
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.41079892052544487,
+          "compression_ratio": 2.3703703703703702,
+          "no_speech_prob": 1.5284747426069778e-11,
+          "words": [
+            {
+              "word": " Door",
+              "start": 7.44,
+              "end": 7.86,
+              "probability": 0.99853515625
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "seek": 0,
+          "start": 7.86,
+          "end": 8.22,
+          "text": " Door",
+          "tokens": [
+            50765,
+            29636,
+            50790
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.41079892052544487,
+          "compression_ratio": 2.3703703703703702,
+          "no_speech_prob": 1.5284747426069778e-11,
+          "words": [
+            {
+              "word": " Door",
+              "start": 7.86,
+              "end": 8.22,
+              "probability": 0.9951171875
+            }
+          ]
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "offset": 7.5,
+    "result": {
+      "text": " door door door door door door cat flap blue door black door door door door door door back door front door big door small door door",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 7.12,
+          "text": " door door door door door door cat flap blue door black door door door door door door back door",
+          "tokens": [
+            50365,
+            2853,
+            2853,
+            2853,
+            2853,
+            2853,
+            2853,
+            3857,
+            30781,
+            3344,
+            2853,
+            2211,
+            2853,
+            2853,
+            2853,
+            2853,
+            2853,
+            2853,
+            646,
+            2853,
+            50723
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.31607135649650325,
+          "compression_ratio": 2.2033898305084745,
+          "no_speech_prob": 7.459785567043298e-11,
+          "words": [
+            {
+              "word": " door",
+              "start": 0.0,
+              "end": 0.42,
+              "probability": 0.42333984375
+            },
+            {
+              "word": " door",
+              "start": 0.42,
+              "end": 0.8,
+              "probability": 0.87060546875
+            },
+            {
+              "word": " door",
+              "start": 0.8,
+              "end": 1.48,
+              "probability": 0.98291015625
+            },
+            {
+              "word": " door",
+              "start": 1.48,
+              "end": 2.08,
+              "probability": 0.98046875
+            },
+            {
+              "word": " door",
+              "start": 2.08,
+              "end": 2.28,
+              "probability": 0.9599609375
+            },
+            {
+              "word": " door",
+              "start": 2.28,
+              "end": 2.86,
+              "probability": 0.89599609375
+            },
+            {
+              "word": " cat",
+              "start": 2.86,
+              "end": 3.34,
+              "probability": 0.234130859375
+            },
+            {
+              "word": " flap",
+              "start": 3.34,
+              "end": 3.54,
+              "probability": 0.5556640625
+            },
+            {
+              "word": " blue",
+              "start": 3.54,
+              "end": 3.8,
+              "probability": 0.9267578125
+            },
+            {
+              "word": " door",
+              "start": 3.8,
+              "end": 4.02,
+              "probability": 0.9951171875
+            },
+            {
+              "word": " black",
+              "start": 4.02,
+              "end": 4.26,
+              "probability": 0.853515625
+            },
+            {
+              "word": " door",
+              "start": 4.26,
+              "end": 4.54,
+              "probability": 0.99755859375
+            },
+            {
+              "word": " door",
+              "start": 4.54,
+              "end": 5.12,
+              "probability": 0.99755859375
+            },
+            {
+              "word": " door",
+              "start": 5.12,
+              "end": 5.7,
+              "probability": 0.9970703125
+            },
+            {
+              "word": " door",
+              "start": 5.7,
+              "end": 6.06,
+              "probability": 0.99462890625
+            },
+            {
+              "word": " door",
+              "start": 6.06,
+              "end": 6.42,
+              "probability": 0.97021484375
+            },
+            {
+              "word": " door",
+              "start": 6.42,
+              "end": 6.48,
+              "probability": 0.87939453125
+            },
+            {
+              "word": " back",
+              "start": 6.48,
+              "end": 6.9,
+              "probability": 0.188232421875
+            },
+            {
+              "word": " door",
+              "start": 6.9,
+              "end": 7.12,
+              "probability": 0.990234375
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 7.12,
+          "end": 8.94,
+          "text": " front door big door small door door",
+          "tokens": [
+            50723,
+            1868,
+            2853,
+            955,
+            2853,
+            1359,
+            2853,
+            2853,
+            50811
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.31607135649650325,
+          "compression_ratio": 2.2033898305084745,
+          "no_speech_prob": 7.459785567043298e-11,
+          "words": [
+            {
+              "word": " front",
+              "start": 7.12,
+              "end": 7.36,
+              "probability": 0.9287109375
+            },
+            {
+              "word": " door",
+              "start": 7.36,
+              "end": 7.58,
+              "probability": 0.99853515625
+            },
+            {
+              "word": " big",
+              "start": 7.58,
+              "end": 7.78,
+              "probability": 0.85595703125
+            },
+            {
+              "word": " door",
+              "start": 7.78,
+              "end": 7.98,
+              "probability": 0.99609375
+            },
+            {
+              "word": " small",
+              "start": 7.98,
+              "end": 8.2,
+              "probability": 0.8984375
+            },
+            {
+              "word": " door",
+              "start": 8.2,
+              "end": 8.58,
+              "probability": 0.99853515625
+            },
+            {
+              "word": " door",
+              "start": 8.58,
+              "end": 8.94,
+              "probability": 0.98681640625
+            }
+          ]
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "offset": 15.5,
+    "result": {
+      "text": " Small door, door door door door door Trap door, old door, new door door Stable door Cellar door!",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 2.02,
+          "text": " Small door, door door door door door",
+          "tokens": [
+            50365,
+            15287,
+            2853,
+            11,
+            2853,
+            2853,
+            2853,
+            2853,
+            2853,
+            50473
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.3898891841664034,
+          "compression_ratio": 1.7777777777777777,
+          "no_speech_prob": 3.8697326593117864e-11,
+          "words": [
+            {
+              "word": " Small",
+              "start": 0.0,
+              "end": 0.28,
+              "probability": 0.79345703125
+            },
+            {
+              "word": " door,",
+              "start": 0.28,
+              "end": 0.56,
+              "probability": 0.96533203125
+            },
+            {
+              "word": " door",
+              "start": 0.7,
+              "end": 1.12,
+              "probability": 0.9775390625
+            },
+            {
+              "word": " door",
+              "start": 1.12,
+              "end": 1.42,
+              "probability": 0.84423828125
+            },
+            {
+              "word": " door",
+              "start": 1.42,
+              "end": 1.7,
+              "probability": 0.95947265625
+            },
+            {
+              "word": " door",
+              "start": 1.7,
+              "end": 1.92,
+              "probability": 0.78369140625
+            },
+            {
+              "word": " door",
+              "start": 1.92,
+              "end": 2.02,
+              "probability": 0.412109375
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 2.02,
+          "end": 4.06,
+          "text": " Trap door, old door, new door door",
+          "tokens": [
+            50473,
+            314,
+            4007,
+            2853,
+            11,
+            1331,
+            2853,
+            11,
+            777,
+            2853,
+            2853,
+            50582
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.3898891841664034,
+          "compression_ratio": 1.7777777777777777,
+          "no_speech_prob": 3.8697326593117864e-11,
+          "words": [
+            {
+              "word": " Trap",
+              "start": 2.02,
+              "end": 2.5,
+              "probability": 0.505859375
+            },
+            {
+              "word": " door,",
+              "start": 2.5,
+              "end": 2.72,
+              "probability": 0.99267578125
+            },
+            {
+              "word": " old",
+              "start": 2.8,
+              "end": 3.02,
+              "probability": 0.93212890625
+            },
+            {
+              "word": " door,",
+              "start": 3.02,
+              "end": 3.14,
+              "probability": 0.9990234375
+            },
+            {
+              "word": " new",
+              "start": 3.22,
+              "end": 3.4,
+              "probability": 0.990234375
+            },
+            {
+              "word": " door",
+              "start": 3.4,
+              "end": 3.66,
+              "probability": 0.99951171875
+            },
+            {
+              "word": " door",
+              "start": 3.66,
+              "end": 4.06,
+              "probability": 0.97265625
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "seek": 0,
+          "start": 4.06,
+          "end": 5.6,
+          "text": " Stable door",
+          "tokens": [
+            50582,
+            745,
+            712,
+            2853,
+            50656
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.3898891841664034,
+          "compression_ratio": 1.7777777777777777,
+          "no_speech_prob": 3.8697326593117864e-11,
+          "words": [
+            {
+              "word": " Stable",
+              "start": 4.06,
+              "end": 5.02,
+              "probability": 0.73681640625
+            },
+            {
+              "word": " door",
+              "start": 5.02,
+              "end": 5.6,
+              "probability": 0.99755859375
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "seek": 0,
+          "start": 6.359999999999999,
+          "end": 7.38,
+          "text": " Cellar door!",
+          "tokens": [
+            50656,
+            28859,
+            289,
+            2853,
+            0,
+            50743
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.3898891841664034,
+          "compression_ratio": 1.7777777777777777,
+          "no_speech_prob": 3.8697326593117864e-11,
+          "words": [
+            {
+              "word": " Cellar",
+              "start": 6.359999999999999,
+              "end": 6.92,
+              "probability": 0.6337890625
+            },
+            {
+              "word": " door!",
+              "start": 6.92,
+              "end": 7.38,
+              "probability": 0.990234375
+            }
+          ]
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "offset": 23.5,
+    "result": {
+      "text": " Hold on!",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 2.98,
+          "end": 4.12,
+          "text": " Hold on!",
+          "tokens": [
+            50365,
+            6962,
+            322,
+            0,
+            50579
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.5531518459320068,
+          "compression_ratio": 0.5,
+          "no_speech_prob": 5.525638627212892e-11,
+          "words": [
+            {
+              "word": " Hold",
+              "start": 2.98,
+              "end": 3.82,
+              "probability": 0.4423828125
+            },
+            {
+              "word": " on!",
+              "start": 3.82,
+              "end": 4.12,
+              "probability": 0.9013671875
+            }
+          ]
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "offset": 31.5,
+    "result": {
+      "text": " Door door, study door, arch door, door door, secret door, where? Behind the door",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 6.6,
+          "text": " Door door, study door, arch door, door door, secret door, where?",
+          "tokens": [
+            50365,
+            29636,
+            2853,
+            11,
+            2979,
+            2853,
+            11,
+            3912,
+            2853,
+            11,
+            2853,
+            2853,
+            11,
+            4054,
+            2853,
+            11,
+            689,
+            30,
+            50696
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.3349863815307617,
+          "compression_ratio": 1.3559322033898304,
+          "no_speech_prob": 6.777708949634587e-11,
+          "words": [
+            {
+              "word": " Door",
+              "start": 0.0,
+              "end": 0.4,
+              "probability": 0.81689453125
+            },
+            {
+              "word": " door,",
+              "start": 0.4,
+              "end": 0.7,
+              "probability": 0.62353515625
+            },
+            {
+              "word": " study",
+              "start": 0.92,
+              "end": 1.14,
+              "probability": 0.6845703125
+            },
+            {
+              "word": " door,",
+              "start": 1.14,
+              "end": 1.6,
+              "probability": 0.99951171875
+            },
+            {
+              "word": " arch",
+              "start": 2.02,
+              "end": 2.42,
+              "probability": 0.83544921875
+            },
+            {
+              "word": " door,",
+              "start": 2.42,
+              "end": 2.96,
+              "probability": 0.99658203125
+            },
+            {
+              "word": " door",
+              "start": 3.74,
+              "end": 3.98,
+              "probability": 0.97509765625
+            },
+            {
+              "word": " door,",
+              "start": 3.98,
+              "end": 4.26,
+              "probability": 0.9833984375
+            },
+            {
+              "word": " secret",
+              "start": 4.82,
+              "end": 4.88,
+              "probability": 0.93408203125
+            },
+            {
+              "word": " door,",
+              "start": 4.88,
+              "end": 5.58,
+              "probability": 0.99951171875
+            },
+            {
+              "word": " where?",
+              "start": 6.34,
+              "end": 6.6,
+              "probability": 0.888671875
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 6.82,
+          "end": 8.08,
+          "text": " Behind the door",
+          "tokens": [
+            50713,
+            20475,
+            264,
+            2853,
+            50779
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.3349863815307617,
+          "compression_ratio": 1.3559322033898304,
+          "no_speech_prob": 6.777708949634587e-11,
+          "words": [
+            {
+              "word": " Behind",
+              "start": 6.82,
+              "end": 7.52,
+              "probability": 0.92138671875
+            },
+            {
+              "word": " the",
+              "start": 7.52,
+              "end": 7.74,
+              "probability": 0.9970703125
+            },
+            {
+              "word": " door",
+              "start": 7.74,
+              "end": 8.08,
+              "probability": 0.998046875
+            }
+          ]
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "offset": 39.5,
+    "result": {
+      "text": " Green door, red door, blue door Cut, flop Door, door",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 3.080000000000001,
+          "end": 5.1,
+          "text": " Green door, red door, blue door",
+          "tokens": [
+            50365,
+            6969,
+            2853,
+            11,
+            2182,
+            2853,
+            11,
+            3344,
+            2853,
+            50621
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.4504269191196987,
+          "compression_ratio": 1.1304347826086956,
+          "no_speech_prob": 5.594252144858203e-11,
+          "words": [
+            {
+              "word": " Green",
+              "start": 3.080000000000001,
+              "end": 3.8,
+              "probability": 0.1495361328125
+            },
+            {
+              "word": " door,",
+              "start": 3.8,
+              "end": 4.02,
+              "probability": 0.869140625
+            },
+            {
+              "word": " red",
+              "start": 4.32,
+              "end": 4.32,
+              "probability": 0.9501953125
+            },
+            {
+              "word": " door,",
+              "start": 4.32,
+              "end": 4.46,
+              "probability": 0.9990234375
+            },
+            {
+              "word": " blue",
+              "start": 4.52,
+              "end": 4.74,
+              "probability": 0.9951171875
+            },
+            {
+              "word": " door",
+              "start": 4.74,
+              "end": 5.1,
+              "probability": 0.99951171875
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 5.1,
+          "end": 6.44,
+          "text": " Cut, flop",
+          "tokens": [
+            50621,
+            9431,
+            11,
+            25343,
+            50691
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.4504269191196987,
+          "compression_ratio": 1.1304347826086956,
+          "no_speech_prob": 5.594252144858203e-11,
+          "words": [
+            {
+              "word": " Cut,",
+              "start": 5.1,
+              "end": 5.66,
+              "probability": 0.3603515625
+            },
+            {
+              "word": " flop",
+              "start": 6.08,
+              "end": 6.44,
+              "probability": 0.470947265625
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "seek": 0,
+          "start": 6.44,
+          "end": 8.3,
+          "text": " Door, door",
+          "tokens": [
+            50691,
+            29636,
+            11,
+            2853,
+            50786
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.4504269191196987,
+          "compression_ratio": 1.1304347826086956,
+          "no_speech_prob": 5.594252144858203e-11,
+          "words": [
+            {
+              "word": " Door,",
+              "start": 6.44,
+              "end": 7.56,
+              "probability": 0.16259765625
+            },
+            {
+              "word": " door",
+              "start": 8.14,
+              "end": 8.3,
+              "probability": 0.99072265625
+            }
+          ]
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "offset": 47.5,
+    "result": {
+      "text": " Dumbledore, Dumbledore. And one more. Dumbledore!",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 1.56,
+          "text": " Dumbledore, Dumbledore.",
+          "tokens": [
+            50365,
+            413,
+            19928,
+            418,
+            11,
+            413,
+            19928,
+            418,
+            13,
+            50465
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.6564219101615574,
+          "compression_ratio": 1.2894736842105263,
+          "no_speech_prob": 1.806892829803175e-11,
+          "words": [
+            {
+              "word": " Dumbledore,",
+              "start": 0.0,
+              "end": 0.78,
+              "probability": 0.5546875
+            },
+            {
+              "word": " Dumbledore.",
+              "start": 1.02,
+              "end": 1.56,
+              "probability": 0.5654296875
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "seek": 0,
+          "start": 1.56,
+          "end": 2.7,
+          "text": " And one more.",
+          "tokens": [
+            50465,
+            400,
+            472,
+            544,
+            13,
+            50565
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.6564219101615574,
+          "compression_ratio": 1.2894736842105263,
+          "no_speech_prob": 1.806892829803175e-11,
+          "words": [
+            {
+              "word": " And",
+              "start": 1.56,
+              "end": 1.76,
+              "probability": 0.90478515625
+            },
+            {
+              "word": " one",
+              "start": 1.76,
+              "end": 2.06,
+              "probability": 0.98583984375
+            },
+            {
+              "word": " more.",
+              "start": 2.06,
+              "end": 2.7,
+              "probability": 0.99072265625
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "seek": 0,
+          "start": 3.9800000000000004,
+          "end": 4.9,
+          "text": " Dumbledore!",
+          "tokens": [
+            50565,
+            413,
+            19928,
+            418,
+            0,
+            50665
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.6564219101615574,
+          "compression_ratio": 1.2894736842105263,
+          "no_speech_prob": 1.806892829803175e-11,
+          "words": [
+            {
+              "word": " Dumbledore!",
+              "start": 3.9800000000000004,
+              "end": 4.9,
+              "probability": 0.98681640625
+            }
+          ]
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "offset": 55.5,
+    "result": {
+      "text": " Duh.",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 3.9,
+          "end": 5.3,
+          "text": " Duh.",
+          "tokens": [
+            50365,
+            413,
+            3232,
+            13,
+            50630
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.7555087407430013,
+          "compression_ratio": 0.3333333333333333,
+          "no_speech_prob": 7.375165061995759e-11,
+          "words": [
+            {
+              "word": " Duh.",
+              "start": 3.9,
+              "end": 5.3,
+              "probability": 0.48193359375
+            }
+          ]
+        }
+      ],
+      "language": "en"
+    }
+  }
+]

@@ -1,0 +1,1059 @@
+{
+  "text": " Hall House, Hall House, have you visited a Hall House? Front door, back door, let's see your cross passage. Hall House, Hall House. Open hall, nice and wide, service end, at the side, upper end, lower end. Show me where your screens have been. Hall House, Hall House, smoke blackened all the way, big old hearth, what can I say? Inserted floor, oh behave. Hall House, Hall House. Front door, back door, straight through the cross passage Hall House! Hall House! Nice big frame, plenty of bays, service and seem better days Solar upstairs, very private Hall House! Hall House! Have you visited a Hall House?",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 3.98,
+      "text": " Hall House, Hall House, have you visited a Hall House?",
+      "tokens": [
+        50365,
+        5434,
+        4928,
+        11,
+        5434,
+        4928,
+        11,
+        362,
+        291,
+        11220,
+        257,
+        5434,
+        4928,
+        30,
+        50565
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1939633520025956,
+      "compression_ratio": 1.8047619047619048,
+      "no_speech_prob": 4.768591337772632e-12,
+      "words": [
+        {
+          "word": " Hall",
+          "start": 0.0,
+          "end": 0.6,
+          "probability": 0.59912109375
+        },
+        {
+          "word": " House,",
+          "start": 0.6,
+          "end": 1.0,
+          "probability": 0.38525390625
+        },
+        {
+          "word": " Hall",
+          "start": 1.16,
+          "end": 1.46,
+          "probability": 0.92138671875
+        },
+        {
+          "word": " House,",
+          "start": 1.46,
+          "end": 1.76,
+          "probability": 0.9833984375
+        },
+        {
+          "word": " have",
+          "start": 1.98,
+          "end": 2.18,
+          "probability": 0.59912109375
+        },
+        {
+          "word": " you",
+          "start": 2.18,
+          "end": 2.34,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " visited",
+          "start": 2.34,
+          "end": 2.9,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " a",
+          "start": 2.9,
+          "end": 3.24,
+          "probability": 0.79736328125
+        },
+        {
+          "word": " Hall",
+          "start": 3.24,
+          "end": 3.54,
+          "probability": 0.59912109375
+        },
+        {
+          "word": " House?",
+          "start": 3.54,
+          "end": 3.98,
+          "probability": 0.96923828125
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 4.14,
+      "end": 7.18,
+      "text": " Front door, back door, let's see your cross passage.",
+      "tokens": [
+        50565,
+        17348,
+        2853,
+        11,
+        646,
+        2853,
+        11,
+        718,
+        311,
+        536,
+        428,
+        3278,
+        11497,
+        13,
+        50715
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1939633520025956,
+      "compression_ratio": 1.8047619047619048,
+      "no_speech_prob": 4.768591337772632e-12,
+      "words": [
+        {
+          "word": " Front",
+          "start": 4.14,
+          "end": 4.3,
+          "probability": 0.9775390625
+        },
+        {
+          "word": " door,",
+          "start": 4.3,
+          "end": 4.6,
+          "probability": 0.8515625
+        },
+        {
+          "word": " back",
+          "start": 4.76,
+          "end": 4.98,
+          "probability": 0.9814453125
+        },
+        {
+          "word": " door,",
+          "start": 4.98,
+          "end": 5.28,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " let's",
+          "start": 5.54,
+          "end": 5.96,
+          "probability": 0.9873046875
+        },
+        {
+          "word": " see",
+          "start": 5.96,
+          "end": 6.08,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " your",
+          "start": 6.08,
+          "end": 6.3,
+          "probability": 0.98974609375
+        },
+        {
+          "word": " cross",
+          "start": 6.3,
+          "end": 6.62,
+          "probability": 0.98095703125
+        },
+        {
+          "word": " passage.",
+          "start": 6.62,
+          "end": 7.18,
+          "probability": 0.869140625
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 7.38,
+      "end": 10.18,
+      "text": " Hall House, Hall House.",
+      "tokens": [
+        50715,
+        5434,
+        4928,
+        11,
+        5434,
+        4928,
+        13,
+        50915
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1939633520025956,
+      "compression_ratio": 1.8047619047619048,
+      "no_speech_prob": 4.768591337772632e-12,
+      "words": [
+        {
+          "word": " Hall",
+          "start": 7.38,
+          "end": 7.62,
+          "probability": 0.994140625
+        },
+        {
+          "word": " House,",
+          "start": 7.62,
+          "end": 8.12,
+          "probability": 0.99072265625
+        },
+        {
+          "word": " Hall",
+          "start": 8.58,
+          "end": 9.62,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " House.",
+          "start": 9.62,
+          "end": 10.18,
+          "probability": 0.99853515625
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 11.06,
+      "end": 16.3,
+      "text": " Open hall, nice and wide, service end, at the side, upper end, lower end.",
+      "tokens": [
+        50915,
+        7238,
+        6500,
+        11,
+        1481,
+        293,
+        4874,
+        11,
+        2643,
+        917,
+        11,
+        412,
+        264,
+        1252,
+        11,
+        6597,
+        917,
+        11,
+        3126,
+        917,
+        13,
+        51165
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1939633520025956,
+      "compression_ratio": 1.8047619047619048,
+      "no_speech_prob": 4.768591337772632e-12,
+      "words": [
+        {
+          "word": " Open",
+          "start": 11.06,
+          "end": 11.56,
+          "probability": 0.99365234375
+        },
+        {
+          "word": " hall,",
+          "start": 11.56,
+          "end": 11.9,
+          "probability": 0.87451171875
+        },
+        {
+          "word": " nice",
+          "start": 12.06,
+          "end": 12.34,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " and",
+          "start": 12.34,
+          "end": 12.48,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " wide,",
+          "start": 12.48,
+          "end": 12.84,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " service",
+          "start": 13.0,
+          "end": 13.3,
+          "probability": 0.97900390625
+        },
+        {
+          "word": " end,",
+          "start": 13.3,
+          "end": 13.7,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " at",
+          "start": 13.84,
+          "end": 14.02,
+          "probability": 0.9638671875
+        },
+        {
+          "word": " the",
+          "start": 14.02,
+          "end": 14.18,
+          "probability": 1.0
+        },
+        {
+          "word": " side,",
+          "start": 14.18,
+          "end": 14.62,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " upper",
+          "start": 14.82,
+          "end": 15.04,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " end,",
+          "start": 15.04,
+          "end": 15.42,
+          "probability": 0.99365234375
+        },
+        {
+          "word": " lower",
+          "start": 15.66,
+          "end": 15.88,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " end.",
+          "start": 15.88,
+          "end": 16.3,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 16.48,
+      "end": 18.0,
+      "text": " Show me where your screens have been.",
+      "tokens": [
+        51165,
+        6895,
+        385,
+        689,
+        428,
+        11171,
+        362,
+        668,
+        13,
+        51265
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1939633520025956,
+      "compression_ratio": 1.8047619047619048,
+      "no_speech_prob": 4.768591337772632e-12,
+      "words": [
+        {
+          "word": " Show",
+          "start": 16.48,
+          "end": 16.64,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " me",
+          "start": 16.64,
+          "end": 16.84,
+          "probability": 1.0
+        },
+        {
+          "word": " where",
+          "start": 16.84,
+          "end": 17.08,
+          "probability": 1.0
+        },
+        {
+          "word": " your",
+          "start": 17.08,
+          "end": 17.26,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " screens",
+          "start": 17.26,
+          "end": 17.58,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " have",
+          "start": 17.58,
+          "end": 17.76,
+          "probability": 1.0
+        },
+        {
+          "word": " been.",
+          "start": 17.76,
+          "end": 18.0,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 18.14,
+      "end": 23.04,
+      "text": " Hall House, Hall House, smoke blackened all the way, big old hearth, what can I say?",
+      "tokens": [
+        51265,
+        5434,
+        4928,
+        11,
+        5434,
+        4928,
+        11,
+        8439,
+        2211,
+        5320,
+        439,
+        264,
+        636,
+        11,
+        955,
+        1331,
+        1568,
+        392,
+        11,
+        437,
+        393,
+        286,
+        584,
+        30,
+        51515
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1939633520025956,
+      "compression_ratio": 1.8047619047619048,
+      "no_speech_prob": 4.768591337772632e-12,
+      "words": [
+        {
+          "word": " Hall",
+          "start": 18.14,
+          "end": 18.24,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " House,",
+          "start": 18.24,
+          "end": 18.7,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " Hall",
+          "start": 18.9,
+          "end": 19.1,
+          "probability": 0.99609375
+        },
+        {
+          "word": " House,",
+          "start": 19.1,
+          "end": 19.48,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " smoke",
+          "start": 19.68,
+          "end": 19.96,
+          "probability": 0.939453125
+        },
+        {
+          "word": " blackened",
+          "start": 19.96,
+          "end": 20.48,
+          "probability": 0.88623046875
+        },
+        {
+          "word": " all",
+          "start": 20.48,
+          "end": 20.7,
+          "probability": 0.99169921875
+        },
+        {
+          "word": " the",
+          "start": 20.7,
+          "end": 20.9,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " way,",
+          "start": 20.9,
+          "end": 21.12,
+          "probability": 1.0
+        },
+        {
+          "word": " big",
+          "start": 21.32,
+          "end": 21.5,
+          "probability": 0.99267578125
+        },
+        {
+          "word": " old",
+          "start": 21.5,
+          "end": 21.74,
+          "probability": 0.98388671875
+        },
+        {
+          "word": " hearth,",
+          "start": 21.74,
+          "end": 22.16,
+          "probability": 0.98486328125
+        },
+        {
+          "word": " what",
+          "start": 22.24,
+          "end": 22.34,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " can",
+          "start": 22.34,
+          "end": 22.5,
+          "probability": 1.0
+        },
+        {
+          "word": " I",
+          "start": 22.5,
+          "end": 22.64,
+          "probability": 0.998046875
+        },
+        {
+          "word": " say?",
+          "start": 22.64,
+          "end": 23.04,
+          "probability": 1.0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 0,
+      "start": 23.42,
+      "end": 25.02,
+      "text": " Inserted floor, oh behave.",
+      "tokens": [
+        51515,
+        36487,
+        292,
+        4123,
+        11,
+        1954,
+        15158,
+        13,
+        51615
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1939633520025956,
+      "compression_ratio": 1.8047619047619048,
+      "no_speech_prob": 4.768591337772632e-12,
+      "words": [
+        {
+          "word": " Inserted",
+          "start": 23.42,
+          "end": 23.92,
+          "probability": 0.994140625
+        },
+        {
+          "word": " floor,",
+          "start": 23.92,
+          "end": 24.26,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " oh",
+          "start": 24.5,
+          "end": 24.64,
+          "probability": 0.98095703125
+        },
+        {
+          "word": " behave.",
+          "start": 24.64,
+          "end": 25.02,
+          "probability": 0.93798828125
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 0,
+      "start": 25.78,
+      "end": 28.66,
+      "text": " Hall House, Hall House.",
+      "tokens": [
+        51615,
+        5434,
+        4928,
+        11,
+        5434,
+        4928,
+        13,
+        51815
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.1939633520025956,
+      "compression_ratio": 1.8047619047619048,
+      "no_speech_prob": 4.768591337772632e-12,
+      "words": [
+        {
+          "word": " Hall",
+          "start": 25.78,
+          "end": 26.1,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " House,",
+          "start": 26.1,
+          "end": 26.58,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " Hall",
+          "start": 27.08,
+          "end": 28.14,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " House.",
+          "start": 28.14,
+          "end": 28.66,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 2866,
+      "start": 28.66,
+      "end": 32.72,
+      "text": " Front door, back door, straight through the cross passage",
+      "tokens": [
+        50365,
+        17348,
+        2853,
+        11,
+        646,
+        2853,
+        11,
+        2997,
+        807,
+        264,
+        3278,
+        11497,
+        50565
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23753971042055072,
+      "compression_ratio": 1.547945205479452,
+      "no_speech_prob": 2.3179819175211946e-11,
+      "words": [
+        {
+          "word": " Front",
+          "start": 28.66,
+          "end": 29.84,
+          "probability": 0.78271484375
+        },
+        {
+          "word": " door,",
+          "start": 29.84,
+          "end": 30.1,
+          "probability": 0.91552734375
+        },
+        {
+          "word": " back",
+          "start": 30.26,
+          "end": 30.5,
+          "probability": 0.966796875
+        },
+        {
+          "word": " door,",
+          "start": 30.5,
+          "end": 30.8,
+          "probability": 0.99169921875
+        },
+        {
+          "word": " straight",
+          "start": 31.0,
+          "end": 31.36,
+          "probability": 0.81689453125
+        },
+        {
+          "word": " through",
+          "start": 31.36,
+          "end": 31.62,
+          "probability": 0.98095703125
+        },
+        {
+          "word": " the",
+          "start": 31.62,
+          "end": 31.8,
+          "probability": 0.982421875
+        },
+        {
+          "word": " cross",
+          "start": 31.8,
+          "end": 32.12,
+          "probability": 0.97314453125
+        },
+        {
+          "word": " passage",
+          "start": 32.12,
+          "end": 32.72,
+          "probability": 0.681640625
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 2866,
+      "start": 32.72,
+      "end": 33.66,
+      "text": " Hall House!",
+      "tokens": [
+        50565,
+        5434,
+        4928,
+        0,
+        50615
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23753971042055072,
+      "compression_ratio": 1.547945205479452,
+      "no_speech_prob": 2.3179819175211946e-11,
+      "words": [
+        {
+          "word": " Hall",
+          "start": 32.72,
+          "end": 33.08,
+          "probability": 0.22900390625
+        },
+        {
+          "word": " House!",
+          "start": 33.08,
+          "end": 33.66,
+          "probability": 0.402099609375
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 2866,
+      "start": 33.78,
+      "end": 34.36,
+      "text": " Hall House!",
+      "tokens": [
+        50615,
+        5434,
+        4928,
+        0,
+        50665
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23753971042055072,
+      "compression_ratio": 1.547945205479452,
+      "no_speech_prob": 2.3179819175211946e-11,
+      "words": [
+        {
+          "word": " Hall",
+          "start": 33.78,
+          "end": 34.06,
+          "probability": 0.1412353515625
+        },
+        {
+          "word": " House!",
+          "start": 34.06,
+          "end": 34.36,
+          "probability": 0.96826171875
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 2866,
+      "start": 34.42,
+      "end": 38.04,
+      "text": " Nice big frame, plenty of bays, service and seem better days",
+      "tokens": [
+        50665,
+        5490,
+        955,
+        3920,
+        11,
+        7140,
+        295,
+        272,
+        3772,
+        11,
+        2643,
+        293,
+        1643,
+        1101,
+        1708,
+        50815
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23753971042055072,
+      "compression_ratio": 1.547945205479452,
+      "no_speech_prob": 2.3179819175211946e-11,
+      "words": [
+        {
+          "word": " Nice",
+          "start": 34.42,
+          "end": 34.7,
+          "probability": 0.982421875
+        },
+        {
+          "word": " big",
+          "start": 34.7,
+          "end": 34.9,
+          "probability": 0.98388671875
+        },
+        {
+          "word": " frame,",
+          "start": 34.9,
+          "end": 35.26,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " plenty",
+          "start": 35.42,
+          "end": 35.62,
+          "probability": 0.990234375
+        },
+        {
+          "word": " of",
+          "start": 35.62,
+          "end": 35.86,
+          "probability": 0.994140625
+        },
+        {
+          "word": " bays,",
+          "start": 35.86,
+          "end": 36.18,
+          "probability": 0.75390625
+        },
+        {
+          "word": " service",
+          "start": 36.32,
+          "end": 36.64,
+          "probability": 0.73779296875
+        },
+        {
+          "word": " and",
+          "start": 36.64,
+          "end": 36.98,
+          "probability": 0.7373046875
+        },
+        {
+          "word": " seem",
+          "start": 36.98,
+          "end": 37.28,
+          "probability": 0.26220703125
+        },
+        {
+          "word": " better",
+          "start": 37.28,
+          "end": 37.58,
+          "probability": 0.9609375
+        },
+        {
+          "word": " days",
+          "start": 37.58,
+          "end": 38.04,
+          "probability": 0.927734375
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 2866,
+      "start": 38.04,
+      "end": 40.94,
+      "text": " Solar upstairs, very private",
+      "tokens": [
+        50815,
+        22385,
+        16462,
+        11,
+        588,
+        4551,
+        50965
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23753971042055072,
+      "compression_ratio": 1.547945205479452,
+      "no_speech_prob": 2.3179819175211946e-11,
+      "words": [
+        {
+          "word": " Solar",
+          "start": 38.04,
+          "end": 38.76,
+          "probability": 0.2047119140625
+        },
+        {
+          "word": " upstairs,",
+          "start": 38.76,
+          "end": 39.36,
+          "probability": 0.98291015625
+        },
+        {
+          "word": " very",
+          "start": 39.96,
+          "end": 40.4,
+          "probability": 0.99462890625
+        },
+        {
+          "word": " private",
+          "start": 40.4,
+          "end": 40.94,
+          "probability": 0.99755859375
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 2866,
+      "start": 40.94,
+      "end": 41.98,
+      "text": " Hall House!",
+      "tokens": [
+        50965,
+        5434,
+        4928,
+        0,
+        51015
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23753971042055072,
+      "compression_ratio": 1.547945205479452,
+      "no_speech_prob": 2.3179819175211946e-11,
+      "words": [
+        {
+          "word": " Hall",
+          "start": 40.94,
+          "end": 41.5,
+          "probability": 0.7099609375
+        },
+        {
+          "word": " House!",
+          "start": 41.5,
+          "end": 41.98,
+          "probability": 0.99267578125
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 2866,
+      "start": 42.84,
+      "end": 43.68,
+      "text": " Hall House!",
+      "tokens": [
+        51065,
+        5434,
+        4928,
+        0,
+        51115
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23753971042055072,
+      "compression_ratio": 1.547945205479452,
+      "no_speech_prob": 2.3179819175211946e-11,
+      "words": [
+        {
+          "word": " Hall",
+          "start": 42.84,
+          "end": 43.28,
+          "probability": 0.90966796875
+        },
+        {
+          "word": " House!",
+          "start": 43.28,
+          "end": 43.68,
+          "probability": 0.99658203125
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 2866,
+      "start": 44.22,
+      "end": 46.82,
+      "text": " Have you visited a Hall House?",
+      "tokens": [
+        51165,
+        3560,
+        291,
+        11220,
+        257,
+        5434,
+        4928,
+        30,
+        51265
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.23753971042055072,
+      "compression_ratio": 1.547945205479452,
+      "no_speech_prob": 2.3179819175211946e-11,
+      "words": [
+        {
+          "word": " Have",
+          "start": 44.22,
+          "end": 44.88,
+          "probability": 0.9921875
+        },
+        {
+          "word": " you",
+          "start": 44.88,
+          "end": 45.04,
+          "probability": 0.998046875
+        },
+        {
+          "word": " visited",
+          "start": 45.04,
+          "end": 45.62,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " a",
+          "start": 45.62,
+          "end": 45.98,
+          "probability": 0.9921875
+        },
+        {
+          "word": " Hall",
+          "start": 45.98,
+          "end": 46.34,
+          "probability": 0.84375
+        },
+        {
+          "word": " House?",
+          "start": 46.34,
+          "end": 46.82,
+          "probability": 0.98388671875
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

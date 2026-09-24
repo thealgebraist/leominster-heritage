@@ -1,0 +1,14 @@
+{
+  "job": {
+    "audio": "/Users/anders/projects/barge/suno_recreation/evidence/stems/DcYTYvMBSMn_backing.wav",
+    "start": 0,
+    "end": 15,
+    "normalize": true,
+    "prompt": "Describe only the audible backing music: rhythm, bass, pitched instruments, timbre and sound effects. Is the sound mainly electronic synthesizers, acoustic instruments, vocal noises, or a mixture? Do not invent lyrics or where the audio came from. State uncertainty when the instrument is unclear.",
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/DcYTYvMBSMn_backing.json"
+  },
+  "model": "RumiLabs/MOSS-Audio-4B-Thinking-MLX-4bit",
+  "response": "The audio features an electronic dance music track characterized by a steady, four-on-the-floor beat, synthesized bassline, and electronic synth sounds. The timbre is synthetic and energetic, with sound effects like turntable scratches adding texture. There are no vocals or lyrics present. The music is purely instrumental. It appears to be an excerpt of an electronic dance track.",
+  "generation_s": 4.018989086151123,
+  "status": "machine interpretation; separated stems may contain artifacts"
+}

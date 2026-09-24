@@ -1,0 +1,154 @@
+{
+  "method": "pYIN on estimated vocal stem, 8kHz, 1024 frame, 128 hop, f0 65-700 Hz; retain voiced probability >=0.7 and audible RMS",
+  "warning": "Model-separated vocal may contain instruments; pYIN may choose octave errors and excludes unvoiced/uncertain frames. Quantiles describe retained frames, not scored melody or true vocal range.",
+  "retained_fraction": 0.04636632686616245,
+  "phrases": [
+    {
+      "time": "0.0\u20134.1",
+      "words": "Hall house, hall house / Have you visited a hall house?",
+      "retained_seconds": 0.11,
+      "retained_fraction": 0.03
+    },
+    {
+      "time": "4.1\u20137.3",
+      "words": "Front door, back door / Let's see your cross passage.",
+      "retained_seconds": 0.14,
+      "retained_fraction": 0.04
+    },
+    {
+      "time": "7.4\u201310.3",
+      "words": "Hall house, hall house.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "11.0\u201314.5",
+      "words": "Open hall, nice and wide / Service end, at the side.",
+      "retained_seconds": 0.66,
+      "retained_fraction": 0.19,
+      "midi_p10_median_p90": [
+        47.89,
+        47.99,
+        48.99
+      ],
+      "nearest_notes_p10_median_p90": [
+        "C3",
+        "C3",
+        "C\u266f3"
+      ]
+    },
+    {
+      "time": "14.5\u201318.1",
+      "words": "Upper end, lower end / Show me where your screens have been.",
+      "retained_seconds": 0.38,
+      "retained_fraction": 0.11,
+      "midi_p10_median_p90": [
+        47.99,
+        48.99,
+        54.99
+      ],
+      "nearest_notes_p10_median_p90": [
+        "C3",
+        "C\u266f3",
+        "G3"
+      ]
+    },
+    {
+      "time": "18.1\u201319.9",
+      "words": "Hall house, hall house.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "20.0\u201323.2",
+      "words": "Smoke-blackened all the way / Big old hearth, what can I say?",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "23.4\u201325.1",
+      "words": "Inserted floor, oh behave!",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "25.8\u201328.7",
+      "words": "Hall house, hall house.",
+      "retained_seconds": 0.14,
+      "retained_fraction": 0.05
+    },
+    {
+      "time": "28.7\u201332.8",
+      "words": "Front door, back door / Straight through the cross passage.",
+      "retained_seconds": 0.19,
+      "retained_fraction": 0.05,
+      "midi_p10_median_p90": [
+        48.14,
+        48.99,
+        49.19
+      ],
+      "nearest_notes_p10_median_p90": [
+        "C3",
+        "C\u266f3",
+        "C\u266f3"
+      ]
+    },
+    {
+      "time": "32.8\u201334.4",
+      "words": "Hall house, hall house.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "34.4\u201338.1",
+      "words": "Nice big frame, plenty of bays / Service end, seen better days.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "38.1\u201341.0",
+      "words": "Solar upstairs / Very private.",
+      "retained_seconds": 0.29,
+      "retained_fraction": 0.1,
+      "midi_p10_median_p90": [
+        45.56,
+        45.79,
+        45.99
+      ],
+      "nearest_notes_p10_median_p90": [
+        "A\u266f2",
+        "A\u266f2",
+        "A\u266f2"
+      ]
+    },
+    {
+      "time": "41.0\u201343.9",
+      "words": "Hall house, hall house.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "44.2\u201346.9",
+      "words": "Have you visited a hall house?",
+      "retained_seconds": 0.34,
+      "retained_fraction": 0.12,
+      "midi_p10_median_p90": [
+        46.09,
+        48.99,
+        52.99
+      ],
+      "nearest_notes_p10_median_p90": [
+        "A\u266f2",
+        "C\u266f3",
+        "F3"
+      ]
+    },
+    {
+      "time": "46.9\u201350.0",
+      "words": "Musical/end-card tail.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    }
+  ],
+  "runtime_s": 0.6908001899719238
+}

@@ -1,0 +1,33 @@
+[Rhythmic verse]
+Column, column, Doric column
+Tuscan, Tuscan
+Column, column, Doric column
+Tuscan, Tuscan
+[Held melodic exclamation]
+Ah, Corinthian
+Ionic, Ionic
+[Rhythmic verse]
+Pilaster, pilaster, Doric pilaster
+Capital, capital
+Pilaster, pilaster, Doric pilaster
+Capital, capital
+[Held melodic exclamation]
+Ah, Palladio
+Ionic, Ionic
+[Rhythmic verse]
+Fluted, fluted, Doric column
+Tuscan, Tuscan
+Fluted, fluted, Doric column
+Tuscan, Tuscan
+[Held melodic exclamation]
+Ah, Corinthian
+Ionic, Ionic
+[Rhythmic verse]
+Capital, capital, Corinthian
+Shaft, shaft
+Capital, capital, Corinthian
+Shaft, shaft
+[Held final exclamation]
+Ah, composite
+Palladio!
+[Short ending]

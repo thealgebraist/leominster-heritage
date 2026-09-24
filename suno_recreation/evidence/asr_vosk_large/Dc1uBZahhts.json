@@ -1,0 +1,163 @@
+{
+  "model": "vosk-model-en-us-0.22",
+  "sample_rate": 16000,
+  "chunks": [
+    {
+      "result": [
+        {
+          "conf": 1.0,
+          "end": 0.12,
+          "start": 0.0,
+          "word": "if"
+        },
+        {
+          "conf": 1.0,
+          "end": 0.6,
+          "start": 0.12,
+          "word": "lounging"
+        },
+        {
+          "conf": 1.0,
+          "end": 1.62,
+          "start": 0.78,
+          "word": "lounging"
+        },
+        {
+          "conf": 0.481616,
+          "end": 2.43,
+          "start": 2.34,
+          "word": "it"
+        },
+        {
+          "conf": 0.532287,
+          "end": 2.58,
+          "start": 2.43,
+          "word": "on"
+        },
+        {
+          "conf": 0.640696,
+          "end": 2.79,
+          "start": 2.61,
+          "word": "your"
+        },
+        {
+          "conf": 0.664343,
+          "end": 3.03,
+          "start": 2.82,
+          "word": "pug"
+        },
+        {
+          "conf": 0.69762,
+          "end": 3.9,
+          "start": 3.69,
+          "word": "so"
+        },
+        {
+          "conf": 0.80499,
+          "end": 4.11,
+          "start": 3.9,
+          "word": "being"
+        },
+        {
+          "conf": 1.0,
+          "end": 4.56,
+          "start": 4.111524,
+          "word": "nicely"
+        },
+        {
+          "conf": 1.0,
+          "end": 4.89,
+          "start": 4.56,
+          "word": "keeping"
+        },
+        {
+          "conf": 1.0,
+          "end": 4.98,
+          "start": 4.89,
+          "word": "it"
+        },
+        {
+          "conf": 1.0,
+          "end": 5.37,
+          "start": 4.98,
+          "word": "dry"
+        },
+        {
+          "conf": 1.0,
+          "end": 5.52,
+          "start": 5.37,
+          "word": "for"
+        },
+        {
+          "conf": 0.832263,
+          "end": 5.91,
+          "start": 5.52,
+          "word": "launching"
+        },
+        {
+          "conf": 1.0,
+          "end": 6.18,
+          "start": 5.91,
+          "word": "around"
+        },
+        {
+          "conf": 0.647171,
+          "end": 6.33,
+          "start": 6.18,
+          "word": "your"
+        },
+        {
+          "conf": 1.0,
+          "end": 6.63,
+          "start": 6.33,
+          "word": "put"
+        },
+        {
+          "conf": 1.0,
+          "end": 6.87,
+          "start": 6.63,
+          "word": "up"
+        },
+        {
+          "conf": 1.0,
+          "end": 7.02,
+          "start": 6.87,
+          "word": "in"
+        },
+        {
+          "conf": 1.0,
+          "end": 7.14,
+          "start": 7.02,
+          "word": "the"
+        },
+        {
+          "conf": 1.0,
+          "end": 7.74,
+          "start": 7.14,
+          "word": "sky"
+        }
+      ],
+      "text": "if lounging lounging it on your pug so being nicely keeping it dry for launching around your put up in the sky"
+    },
+    {
+      "result": [
+        {
+          "conf": 0.525768,
+          "end": 9.9,
+          "start": 9.78,
+          "word": "if"
+        },
+        {
+          "conf": 1.0,
+          "end": 10.83,
+          "start": 9.9,
+          "word": "launching"
+        }
+      ],
+      "text": "if launching"
+    }
+  ],
+  "transcript": "if lounging lounging it on your pug so being nicely keeping it dry for launching around your put up in the sky if launching",
+  "runtime_s": 2.123,
+  "provenance": "Offline recognizer, unconstrained vocabulary; raw hypothesis, not corrected."
+}

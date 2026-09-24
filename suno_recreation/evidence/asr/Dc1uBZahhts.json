@@ -1,0 +1,287 @@
+{
+  "text": " Flaunching, flaunching! What's around your pot? Air Flaunching! Soaping nicely, keeping it dry Flaunching round your pot up in the sky Air Flaunching!",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 1.44,
+      "text": " Flaunching, flaunching!",
+      "tokens": [
+        50365,
+        479,
+        875,
+        46079,
+        11,
+        46338,
+        46079,
+        0,
+        50453
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.42363664839002824,
+      "compression_ratio": 1.5151515151515151,
+      "no_speech_prob": 3.034531306789212e-11,
+      "words": [
+        {
+          "word": " Flaunching,",
+          "start": 0.0,
+          "end": 0.5,
+          "probability": 0.8134765625
+        },
+        {
+          "word": " flaunching!",
+          "start": 0.74,
+          "end": 1.44,
+          "probability": 0.66357421875
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 1.68,
+      "end": 2.94,
+      "text": " What's around your pot?",
+      "tokens": [
+        50453,
+        708,
+        311,
+        926,
+        428,
+        1847,
+        30,
+        50516
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.42363664839002824,
+      "compression_ratio": 1.5151515151515151,
+      "no_speech_prob": 3.034531306789212e-11,
+      "words": [
+        {
+          "word": " What's",
+          "start": 1.68,
+          "end": 2.16,
+          "probability": 0.916015625
+        },
+        {
+          "word": " around",
+          "start": 2.16,
+          "end": 2.5,
+          "probability": 0.9794921875
+        },
+        {
+          "word": " your",
+          "start": 2.5,
+          "end": 2.7,
+          "probability": 0.9892578125
+        },
+        {
+          "word": " pot?",
+          "start": 2.7,
+          "end": 2.94,
+          "probability": 0.9853515625
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 0,
+      "start": 3.2,
+      "end": 3.62,
+      "text": " Air Flaunching!",
+      "tokens": [
+        50516,
+        5774,
+        479,
+        875,
+        46079,
+        0,
+        50550
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.42363664839002824,
+      "compression_ratio": 1.5151515151515151,
+      "no_speech_prob": 3.034531306789212e-11,
+      "words": [
+        {
+          "word": " Air",
+          "start": 3.2,
+          "end": 3.2,
+          "probability": 0.81103515625
+        },
+        {
+          "word": " Flaunching!",
+          "start": 3.2,
+          "end": 3.62,
+          "probability": 0.75341796875
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 0,
+      "start": 3.7,
+      "end": 5.22,
+      "text": " Soaping nicely, keeping it dry",
+      "tokens": [
+        50550,
+        407,
+        569,
+        278,
+        9594,
+        11,
+        5145,
+        309,
+        4016,
+        50634
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.42363664839002824,
+      "compression_ratio": 1.5151515151515151,
+      "no_speech_prob": 3.034531306789212e-11,
+      "words": [
+        {
+          "word": " Soaping",
+          "start": 3.7,
+          "end": 4.1,
+          "probability": 0.990234375
+        },
+        {
+          "word": " nicely,",
+          "start": 4.1,
+          "end": 4.44,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " keeping",
+          "start": 4.6,
+          "end": 4.76,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " it",
+          "start": 4.76,
+          "end": 4.96,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " dry",
+          "start": 4.96,
+          "end": 5.22,
+          "probability": 0.99951171875
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 0,
+      "start": 5.22,
+      "end": 7.6,
+      "text": " Flaunching round your pot up in the sky",
+      "tokens": [
+        50634,
+        479,
+        875,
+        46079,
+        3098,
+        428,
+        1847,
+        493,
+        294,
+        264,
+        5443,
+        50751
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.42363664839002824,
+      "compression_ratio": 1.5151515151515151,
+      "no_speech_prob": 3.034531306789212e-11,
+      "words": [
+        {
+          "word": " Flaunching",
+          "start": 5.22,
+          "end": 5.84,
+          "probability": 0.79248046875
+        },
+        {
+          "word": " round",
+          "start": 5.84,
+          "end": 6.1,
+          "probability": 0.546875
+        },
+        {
+          "word": " your",
+          "start": 6.1,
+          "end": 6.26,
+          "probability": 0.99755859375
+        },
+        {
+          "word": " pot",
+          "start": 6.26,
+          "end": 6.56,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " up",
+          "start": 6.56,
+          "end": 6.78,
+          "probability": 0.9150390625
+        },
+        {
+          "word": " in",
+          "start": 6.78,
+          "end": 7.0,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " the",
+          "start": 7.0,
+          "end": 7.14,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " sky",
+          "start": 7.14,
+          "end": 7.6,
+          "probability": 0.9990234375
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 0,
+      "start": 9.58,
+      "end": 10.62,
+      "text": " Air Flaunching!",
+      "tokens": [
+        50835,
+        5774,
+        479,
+        875,
+        46079,
+        0,
+        50905
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.42363664839002824,
+      "compression_ratio": 1.5151515151515151,
+      "no_speech_prob": 3.034531306789212e-11,
+      "words": [
+        {
+          "word": " Air",
+          "start": 9.58,
+          "end": 10.1,
+          "probability": 0.9619140625
+        },
+        {
+          "word": " Flaunching!",
+          "start": 10.1,
+          "end": 10.62,
+          "probability": 0.9921875
+        }
+      ]
+    }
+  ],
+  "language": "en"
+}

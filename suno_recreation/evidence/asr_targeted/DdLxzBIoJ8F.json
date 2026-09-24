@@ -1,0 +1,48 @@
+[
+  {
+    "start": 34,
+    "end": 41,
+    "result": {
+      "text": " Nice big frame, plenty of bays, service and seem better days, solar upstairs, very private.",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 7.0,
+          "text": " Nice big frame, plenty of bays, service and seem better days, solar upstairs, very private.",
+          "tokens": [
+            50365,
+            5490,
+            955,
+            3920,
+            11,
+            7140,
+            295,
+            272,
+            3772,
+            11,
+            2643,
+            293,
+            1643,
+            1101,
+            1708,
+            11,
+            7936,
+            16462,
+            11,
+            588,
+            4551,
+            13,
+            50715
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.220587690671285,
+          "compression_ratio": 1.123456790123457,
+          "no_speech_prob": 1.875888111513291e-09
+        }
+      ],
+      "language": "en"
+    }
+  }
+]

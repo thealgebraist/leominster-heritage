@@ -1,0 +1,14 @@
+{
+  "job": {
+    "audio": "/Users/anders/projects/barge/suno_recreation/evidence/stems/DcvxvGDhSeb_vocals.wav",
+    "start": 0,
+    "end": 12,
+    "normalize": true,
+    "prompt": "Transcribe the words exactly, including specialist architectural terms if recognizable. Describe the pronunciation and stress of the repeated terms. Do not guess if unclear.",
+    "output": "/Users/anders/projects/barge/suno_recreation/evidence/second_pass/DcvxvGDhSeb_vocals.json"
+  },
+  "model": "RumiLabs/MOSS-Audio-4B-Thinking-MLX-4bit",
+  "response": "etchinoss, and tossiss, etchinoss, and tossiss, a bullbus and a gently swelling shaft. Etchinoss! And tossiss, a bullbus and a gently swelling shaft. The repeated words \"etchinoss\" and \"tossiss\" are pronounced with a staccato, rhythmic delivery, almost like incantations. The word \"bullbus\" is spoken in the same manner as \"etchinoss\" and \"tossiss\", suggesting it's part of the magical or repetitive chant structure of the audio clip. The phrase \"gently swirling shaft\" is delivered melodically, contrasting with the sharpness of the preceding words.",
+  "generation_s": 6.069124221801758,
+  "status": "machine interpretation; separated stems may contain artifacts"
+}

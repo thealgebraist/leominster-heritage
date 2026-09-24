@@ -1,0 +1,150 @@
+{
+  "method": "librosa pYIN, 8 kHz source mixture and HPSS harmonic component; f0 70-650 Hz; probability >=.8; RMS above 30th percentile/floor .003",
+  "warning": "Includes backing, which can dominate detected pitch; quantiles are candidate periodicities, not an established sung line.",
+  "retained_fraction_and_phrase_summaries": [
+    {
+      "signal": "mix",
+      "retained_fraction": 0.0236,
+      "phrases": [
+        {
+          "time": "0.0\u20137.0",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "7.0\u201312.8",
+          "retained_fraction": 0.011
+        },
+        {
+          "time": "12.8\u201319.7",
+          "retained_fraction": 0.016
+        },
+        {
+          "time": "19.7\u201325.3",
+          "retained_fraction": 0.011
+        },
+        {
+          "time": "25.3\u201332.8",
+          "retained_fraction": 0.041,
+          "p10_median_p90_notes": [
+            "D\u266f2",
+            "G\u266f2",
+            "G\u266f2"
+          ]
+        },
+        {
+          "time": "32.8\u201337.8",
+          "retained_fraction": 0.019
+        },
+        {
+          "time": "37.8\u201344.5",
+          "retained_fraction": 0.057,
+          "p10_median_p90_notes": [
+            "D\u266f2",
+            "A2",
+            "A\u266f2"
+          ]
+        },
+        {
+          "time": "44.5\u201349.2",
+          "retained_fraction": 0.031,
+          "p10_median_p90_notes": [
+            "A\u266f2",
+            "A\u266f2",
+            "A\u266f2"
+          ]
+        },
+        {
+          "time": "49.2\u201353.6",
+          "retained_fraction": 0.022
+        }
+      ]
+    },
+    {
+      "signal": "harmonic",
+      "retained_fraction": 0.1897,
+      "phrases": [
+        {
+          "time": "0.0\u20137.0",
+          "retained_fraction": 0.171,
+          "p10_median_p90_notes": [
+            "D\u266f2",
+            "D\u266f2",
+            "G\u266f2"
+          ]
+        },
+        {
+          "time": "7.0\u201312.8",
+          "retained_fraction": 0.24,
+          "p10_median_p90_notes": [
+            "A\u266f2",
+            "A\u266f2",
+            "D3"
+          ]
+        },
+        {
+          "time": "12.8\u201319.7",
+          "retained_fraction": 0.051,
+          "p10_median_p90_notes": [
+            "G2",
+            "G\u266f2",
+            "G\u266f2"
+          ]
+        },
+        {
+          "time": "19.7\u201325.3",
+          "retained_fraction": 0.214,
+          "p10_median_p90_notes": [
+            "A\u266f2",
+            "A\u266f2",
+            "D\u266f3"
+          ]
+        },
+        {
+          "time": "25.3\u201332.8",
+          "retained_fraction": 0.203,
+          "p10_median_p90_notes": [
+            "D\u266f2",
+            "D\u266f2",
+            "G\u266f2"
+          ]
+        },
+        {
+          "time": "32.8\u201337.8",
+          "retained_fraction": 0.233,
+          "p10_median_p90_notes": [
+            "G\u266f2",
+            "A\u266f2",
+            "D3"
+          ]
+        },
+        {
+          "time": "37.8\u201344.5",
+          "retained_fraction": 0.272,
+          "p10_median_p90_notes": [
+            "D\u266f2",
+            "D\u266f2",
+            "A\u266f2"
+          ]
+        },
+        {
+          "time": "44.5\u201349.2",
+          "retained_fraction": 0.235,
+          "p10_median_p90_notes": [
+            "A\u266f2",
+            "A\u266f2",
+            "A\u266f2"
+          ]
+        },
+        {
+          "time": "49.2\u201353.6",
+          "retained_fraction": 0.095,
+          "p10_median_p90_notes": [
+            "D\u266f2",
+            "D\u266f2",
+            "D\u266f3"
+          ]
+        }
+      ]
+    }
+  ]
+}

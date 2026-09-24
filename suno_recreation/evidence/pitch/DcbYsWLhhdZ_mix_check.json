@@ -1,0 +1,253 @@
+{
+  "method": "librosa pYIN, 8 kHz source mixture and HPSS harmonic component; f0 70-650 Hz; probability >=.8; RMS above 30th percentile/floor .003",
+  "warning": "Includes backing, which can dominate detected pitch; quantiles are candidate periodicities, not an established sung line.",
+  "retained_fraction_and_phrase_summaries": [
+    {
+      "signal": "mix",
+      "retained_fraction": 0.0079,
+      "phrases": [
+        {
+          "time": "0.0\u20136.3",
+          "retained_fraction": 0.013
+        },
+        {
+          "time": "6.3\u20137.6",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "7.6\u201311.2",
+          "retained_fraction": 0.004
+        },
+        {
+          "time": "11.2\u201312.4",
+          "retained_fraction": 0.08
+        },
+        {
+          "time": "12.4\u201314.2",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "14.2\u201316.4",
+          "retained_fraction": 0.022
+        },
+        {
+          "time": "16.4\u201318.0",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "18.0\u201318.9",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "18.9\u201320.3",
+          "retained_fraction": 0.023
+        },
+        {
+          "time": "20.3\u201323.5",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "23.5\u201328.8",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "28.8\u201331.9",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "31.9\u201335.2",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "35.2\u201340.0",
+          "retained_fraction": 0.003
+        },
+        {
+          "time": "40.0\u201342.9",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "42.9\u201345.9",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "46.0\u201350.3",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "51.5\u201359.3",
+          "retained_fraction": 0.004
+        },
+        {
+          "time": "59.4\u201361.3",
+          "retained_fraction": 0.101,
+          "p10_median_p90_notes": [
+            "G\u266f2",
+            "G\u266f2",
+            "G\u266f2"
+          ]
+        },
+        {
+          "time": "61.3\u201364.7",
+          "retained_fraction": 0.0
+        }
+      ]
+    },
+    {
+      "signal": "harmonic",
+      "retained_fraction": 0.0742,
+      "phrases": [
+        {
+          "time": "0.0\u20136.3",
+          "retained_fraction": 0.155,
+          "p10_median_p90_notes": [
+            "C\u266f2",
+            "F2",
+            "F2"
+          ]
+        },
+        {
+          "time": "6.3\u20137.6",
+          "retained_fraction": 0.012
+        },
+        {
+          "time": "7.6\u201311.2",
+          "retained_fraction": 0.076,
+          "p10_median_p90_notes": [
+            "C\u266f2",
+            "C\u266f2",
+            "F2"
+          ]
+        },
+        {
+          "time": "11.2\u201312.4",
+          "retained_fraction": 0.187,
+          "p10_median_p90_notes": [
+            "F2",
+            "F2",
+            "F2"
+          ]
+        },
+        {
+          "time": "12.4\u201314.2",
+          "retained_fraction": 0.071,
+          "p10_median_p90_notes": [
+            "D\u266f2",
+            "D\u266f2",
+            "D\u266f2"
+          ]
+        },
+        {
+          "time": "14.2\u201316.4",
+          "retained_fraction": 0.153,
+          "p10_median_p90_notes": [
+            "D\u266f2",
+            "F2",
+            "F2"
+          ]
+        },
+        {
+          "time": "16.4\u201318.0",
+          "retained_fraction": 0.06
+        },
+        {
+          "time": "18.0\u201318.9",
+          "retained_fraction": 0.105
+        },
+        {
+          "time": "18.9\u201320.3",
+          "retained_fraction": 0.092,
+          "p10_median_p90_notes": [
+            "F2",
+            "F2",
+            "F2"
+          ]
+        },
+        {
+          "time": "20.3\u201323.5",
+          "retained_fraction": 0.0
+        },
+        {
+          "time": "23.5\u201328.8",
+          "retained_fraction": 0.024,
+          "p10_median_p90_notes": [
+            "F2",
+            "F2",
+            "F2"
+          ]
+        },
+        {
+          "time": "28.8\u201331.9",
+          "retained_fraction": 0.077,
+          "p10_median_p90_notes": [
+            "C\u266f2",
+            "D\u266f2",
+            "F2"
+          ]
+        },
+        {
+          "time": "31.9\u201335.2",
+          "retained_fraction": 0.092,
+          "p10_median_p90_notes": [
+            "C\u266f2",
+            "D\u266f2",
+            "F2"
+          ]
+        },
+        {
+          "time": "35.2\u201340.0",
+          "retained_fraction": 0.14,
+          "p10_median_p90_notes": [
+            "F2",
+            "C3",
+            "F3"
+          ]
+        },
+        {
+          "time": "40.0\u201342.9",
+          "retained_fraction": 0.033
+        },
+        {
+          "time": "42.9\u201345.9",
+          "retained_fraction": 0.107,
+          "p10_median_p90_notes": [
+            "D\u266f2",
+            "F2",
+            "F2"
+          ]
+        },
+        {
+          "time": "46.0\u201350.3",
+          "retained_fraction": 0.03,
+          "p10_median_p90_notes": [
+            "E2",
+            "E2",
+            "E2"
+          ]
+        },
+        {
+          "time": "51.5\u201359.3",
+          "retained_fraction": 0.053,
+          "p10_median_p90_notes": [
+            "C\u266f2",
+            "F2",
+            "F2"
+          ]
+        },
+        {
+          "time": "59.4\u201361.3",
+          "retained_fraction": 0.118,
+          "p10_median_p90_notes": [
+            "G\u266f2",
+            "G\u266f2",
+            "G\u266f2"
+          ]
+        },
+        {
+          "time": "61.3\u201364.7",
+          "retained_fraction": 0.0
+        }
+      ]
+    }
+  ]
+}

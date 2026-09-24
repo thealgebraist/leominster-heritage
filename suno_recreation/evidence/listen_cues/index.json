@@ -1,0 +1,249 @@
+{
+  "purpose": "Navigation aids for listening and comparing source timestamps. Excerpts are lossless PCM slices from the existing 16 kHz mono analysis WAV; plots show RMS and spectral onset strength, not notes or definitive beat labels. Door-knocker omitted.",
+  "tracks": [
+    {
+      "id": "Dc1uBZahhts",
+      "title": "Flaunching",
+      "duration": 15.814,
+      "chunks": [
+        [
+          0.0,
+          8.0
+        ],
+        [
+          8.0,
+          15.81
+        ]
+      ],
+      "plot": "evidence/listen_cues/Dc1uBZahhts/waveform_onsets.png"
+    },
+    {
+      "id": "Dc8axxYIC3k",
+      "title": "Guttae / Good Day",
+      "duration": 22.316,
+      "chunks": [
+        [
+          0.0,
+          8.0
+        ],
+        [
+          8.0,
+          16.0
+        ],
+        [
+          16.0,
+          22.32
+        ]
+      ],
+      "plot": "evidence/listen_cues/Dc8axxYIC3k/waveform_onsets.png"
+    },
+    {
+      "id": "DcRZB_PBFkr",
+      "title": "Corbel / Bargeboard / Architectural Features",
+      "duration": 38.013,
+      "chunks": [
+        [
+          0.0,
+          8.0
+        ],
+        [
+          8.0,
+          16.0
+        ],
+        [
+          16.0,
+          24.0
+        ],
+        [
+          24.0,
+          32.0
+        ],
+        [
+          32.0,
+          38.01
+        ]
+      ],
+      "plot": "evidence/listen_cues/DcRZB_PBFkr/waveform_onsets.png"
+    },
+    {
+      "id": "DcYTYvMBSMn",
+      "title": "Columns / Classical Orders",
+      "duration": 53.616,
+      "chunks": [
+        [
+          0.0,
+          8.0
+        ],
+        [
+          8.0,
+          16.0
+        ],
+        [
+          16.0,
+          24.0
+        ],
+        [
+          24.0,
+          32.0
+        ],
+        [
+          32.0,
+          40.0
+        ],
+        [
+          40.0,
+          48.0
+        ],
+        [
+          48.0,
+          53.62
+        ]
+      ],
+      "plot": "evidence/listen_cues/DcYTYvMBSMn/waveform_onsets.png"
+    },
+    {
+      "id": "DcbYsWLhhdZ",
+      "title": "Doors",
+      "duration": 64.715,
+      "chunks": [
+        [
+          0.0,
+          8.0
+        ],
+        [
+          8.0,
+          16.0
+        ],
+        [
+          16.0,
+          24.0
+        ],
+        [
+          24.0,
+          32.0
+        ],
+        [
+          32.0,
+          40.0
+        ],
+        [
+          40.0,
+          48.0
+        ],
+        [
+          48.0,
+          56.0
+        ],
+        [
+          56.0,
+          64.0
+        ],
+        [
+          64.0,
+          64.72
+        ]
+      ],
+      "plot": "evidence/listen_cues/DcbYsWLhhdZ/waveform_onsets.png"
+    },
+    {
+      "id": "DcqWhZtBIEI",
+      "title": "Windows",
+      "duration": 67.037,
+      "chunks": [
+        [
+          0.0,
+          8.0
+        ],
+        [
+          8.0,
+          16.0
+        ],
+        [
+          16.0,
+          24.0
+        ],
+        [
+          24.0,
+          32.0
+        ],
+        [
+          32.0,
+          40.0
+        ],
+        [
+          40.0,
+          48.0
+        ],
+        [
+          48.0,
+          56.0
+        ],
+        [
+          56.0,
+          64.0
+        ],
+        [
+          64.0,
+          67.04
+        ]
+      ],
+      "plot": "evidence/listen_cues/DcqWhZtBIEI/waveform_onsets.png"
+    },
+    {
+      "id": "DcvxvGDhSeb",
+      "title": "Echinus / Entasis",
+      "duration": 22.502,
+      "chunks": [
+        [
+          0.0,
+          8.0
+        ],
+        [
+          8.0,
+          16.0
+        ],
+        [
+          16.0,
+          22.5
+        ]
+      ],
+      "plot": "evidence/listen_cues/DcvxvGDhSeb/waveform_onsets.png"
+    },
+    {
+      "id": "DdLxzBIoJ8F",
+      "title": "Hall House",
+      "duration": 48.647,
+      "chunks": [
+        [
+          0.0,
+          8.0
+        ],
+        [
+          8.0,
+          16.0
+        ],
+        [
+          16.0,
+          24.0
+        ],
+        [
+          24.0,
+          32.0
+        ],
+        [
+          32.0,
+          40.0
+        ],
+        [
+          40.0,
+          48.0
+        ],
+        [
+          48.0,
+          48.65
+        ]
+      ],
+      "plot": "evidence/listen_cues/DdLxzBIoJ8F/waveform_onsets.png"
+    }
+  ]
+}

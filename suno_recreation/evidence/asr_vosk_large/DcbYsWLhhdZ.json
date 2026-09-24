@@ -1,0 +1,471 @@
+{
+  "model": "vosk-model-en-us-0.22",
+  "sample_rate": 16000,
+  "chunks": [
+    {
+      "result": [
+        {
+          "conf": 0.95288,
+          "end": 0.45,
+          "start": 0.06,
+          "word": "door"
+        },
+        {
+          "conf": 0.409208,
+          "end": 1.779442,
+          "start": 1.712353,
+          "word": "to"
+        },
+        {
+          "conf": 0.870757,
+          "end": 2.152595,
+          "start": 1.779442,
+          "word": "door"
+        }
+      ],
+      "text": "door to door"
+    },
+    {
+      "result": [
+        {
+          "conf": 1.0,
+          "end": 4.02,
+          "start": 3.39,
+          "word": "door"
+        },
+        {
+          "conf": 1.0,
+          "end": 4.44,
+          "start": 4.05,
+          "word": "to"
+        },
+        {
+          "conf": 1.0,
+          "end": 5.263304,
+          "start": 4.44,
+          "word": "door"
+        },
+        {
+          "conf": 1.0,
+          "end": 6.246281,
+          "start": 5.722331,
+          "word": "green"
+        },
+        {
+          "conf": 0.773813,
+          "end": 6.63,
+          "start": 6.246281,
+          "word": "door"
+        },
+        {
+          "conf": 1.0,
+          "end": 6.99,
+          "start": 6.66,
+          "word": "red"
+        },
+        {
+          "conf": 1.0,
+          "end": 7.53,
+          "start": 7.11,
+          "word": "duh"
+        },
+        {
+          "conf": 0.502252,
+          "end": 7.894711,
+          "start": 7.59,
+          "word": "duh"
+        },
+        {
+          "conf": 1.0,
+          "end": 8.175879,
+          "start": 7.894711,
+          "word": "duh"
+        },
+        {
+          "conf": 1.0,
+          "end": 8.85,
+          "start": 8.49,
+          "word": "duh"
+        },
+        {
+          "conf": 1.0,
+          "end": 9.33,
+          "start": 8.94,
+          "word": "duh"
+        },
+        {
+          "conf": 1.0,
+          "end": 9.96,
+          "start": 9.54,
+          "word": "duh"
+        },
+        {
+          "conf": 1.0,
+          "end": 10.59,
+          "start": 10.23,
+          "word": "duh"
+        },
+        {
+          "conf": 1.0,
+          "end": 10.89,
+          "start": 10.65,
+          "word": "cat"
+        },
+        {
+          "conf": 1.0,
+          "end": 11.16,
+          "start": 10.89,
+          "word": "flap"
+        },
+        {
+          "conf": 0.759934,
+          "end": 11.37,
+          "start": 11.16,
+          "word": "blue"
+        },
+        {
+          "conf": 0.334769,
+          "end": 11.83022,
+          "start": 11.518334,
+          "word": "door"
+        },
+        {
+          "conf": 0.888295,
+          "end": 14.19,
+          "start": 12.122015,
+          "word": "the"
+        },
+        {
+          "conf": 0.665758,
+          "end": 14.46,
+          "start": 14.25,
+          "word": "back"
+        },
+        {
+          "conf": 0.665758,
+          "end": 14.79,
+          "start": 14.46,
+          "word": "door"
+        },
+        {
+          "conf": 1.0,
+          "end": 14.91,
+          "start": 14.79,
+          "word": "and"
+        },
+        {
+          "conf": 0.570278,
+          "end": 15.186775,
+          "start": 14.980645,
+          "word": "do"
+        },
+        {
+          "conf": 0.813584,
+          "end": 15.721047,
+          "start": 15.370598,
+          "word": "do"
+        },
+        {
+          "conf": 1.0,
+          "end": 16.072579,
+          "start": 15.721047,
+          "word": "do"
+        },
+        {
+          "conf": 1.0,
+          "end": 16.497744,
+          "start": 16.1488,
+          "word": "do"
+        },
+        {
+          "conf": 1.0,
+          "end": 16.80063,
+          "start": 16.519642,
+          "word": "do"
+        },
+        {
+          "conf": 1.0,
+          "end": 17.131831,
+          "start": 16.901309,
+          "word": "do"
+        },
+        {
+          "conf": 1.0,
+          "end": 17.457197,
+          "start": 17.190278,
+          "word": "do"
+        },
+        {
+          "conf": 1.0,
+          "end": 18.076018,
+          "start": 17.707236,
+          "word": "do"
+        },
+        {
+          "conf": 1.0,
+          "end": 18.475474,
+          "start": 18.163616,
+          "word": "do"
+        },
+        {
+          "conf": 1.0,
+          "end": 18.879688,
+          "start": 18.615798,
+          "word": "do"
+        },
+        {
+          "conf": 1.0,
+          "end": 19.100784,
+          "start": 18.896464,
+          "word": "do"
+        },
+        {
+          "conf": 0.985398,
+          "end": 19.498989,
+          "start": 19.100784,
+          "word": "do"
+        },
+        {
+          "conf": 0.986544,
+          "end": 20.67,
+          "start": 19.92,
+          "word": "stable"
+        },
+        {
+          "conf": 0.501007,
+          "end": 21.151476,
+          "start": 20.706857,
+          "word": "da"
+        },
+        {
+          "conf": 0.311009,
+          "end": 23.52,
+          "start": 22.41,
+          "word": "na"
+        }
+      ],
+      "text": "door to door green door red duh duh duh duh duh duh duh cat flap blue door the back door and do do do do do do do do do do do do stable da na"
+    },
+    {
+      "result": [
+        {
+          "conf": 0.952308,
+          "end": 27.9,
+          "start": 23.52,
+          "word": "that"
+        },
+        {
+          "conf": 0.777024,
+          "end": 28.5,
+          "start": 27.99,
+          "word": "door"
+        },
+        {
+          "conf": 1.0,
+          "end": 29.13,
+          "start": 28.56,
+          "word": "also"
+        },
+        {
+          "conf": 0.917707,
+          "end": 29.76,
+          "start": 29.13,
+          "word": "door"
+        },
+        {
+          "conf": 1.0,
+          "end": 30.18,
+          "start": 29.79,
+          "word": "panel"
+        },
+        {
+          "conf": 1.0,
+          "end": 30.6,
+          "start": 30.18,
+          "word": "door"
+        },
+        {
+          "conf": 1.0,
+          "end": 30.93,
+          "start": 30.66,
+          "word": "thing"
+        },
+        {
+          "conf": 1.0,
+          "end": 31.05,
+          "start": 30.93,
+          "word": "to"
+        },
+        {
+          "conf": 1.0,
+          "end": 32.284753,
+          "start": 31.05,
+          "word": "do"
+        },
+        {
+          "conf": 0.931393,
+          "end": 32.79,
+          "start": 32.342732,
+          "word": "studies"
+        },
+        {
+          "conf": 0.552959,
+          "end": 33.42,
+          "start": 32.82,
+          "word": "do"
+        },
+        {
+          "conf": 1.0,
+          "end": 34.5978,
+          "start": 33.483552,
+          "word": "do"
+        },
+        {
+          "conf": 1.0,
+          "end": 35.735654,
+          "start": 34.866028,
+          "word": "do"
+        },
+        {
+          "conf": 1.0,
+          "end": 37.05,
+          "start": 36.63,
+          "word": "do"
+        },
+        {
+          "conf": 0.437453,
+          "end": 38.25,
+          "start": 37.62,
+          "word": "where"
+        },
+        {
+          "conf": 1.0,
+          "end": 39.15,
+          "start": 38.4,
+          "word": "behind"
+        },
+        {
+          "conf": 1.0,
+          "end": 39.27,
+          "start": 39.15,
+          "word": "the"
+        },
+        {
+          "conf": 0.740248,
+          "end": 39.93,
+          "start": 39.27,
+          "word": "do"
+        },
+        {
+          "conf": 1.0,
+          "end": 40.618433,
+          "start": 40.158296,
+          "word": "do"
+        },
+        {
+          "conf": 1.0,
+          "end": 41.835959,
+          "start": 41.114015,
+          "word": "do"
+        },
+        {
+          "conf": 1.0,
+          "end": 42.75,
+          "start": 42.006226,
+          "word": "do"
+        },
+        {
+          "conf": 1.0,
+          "end": 43.65,
+          "start": 43.38,
+          "word": "do"
+        },
+        {
+          "conf": 1.0,
+          "end": 44.04,
+          "start": 43.8,
+          "word": "do"
+        },
+        {
+          "conf": 1.0,
+          "end": 44.25,
+          "start": 44.04,
+          "word": "do"
+        },
+        {
+          "conf": 1.0,
+          "end": 44.64,
+          "start": 44.25,
+          "word": "do"
+        },
+        {
+          "conf": 0.828305,
+          "end": 45.27,
+          "start": 44.85,
+          "word": "that"
+        }
+      ],
+      "text": "that door also door panel door thing to do studies do do do do where behind the do do do do do do do do that"
+    },
+    {
+      "result": [
+        {
+          "conf": 0.989292,
+          "end": 46.11,
+          "start": 45.39,
+          "word": "for"
+        },
+        {
+          "conf": 0.849052,
+          "end": 48.55229,
+          "start": 46.32,
+          "word": "the"
+        },
+        {
+          "conf": 0.881007,
+          "end": 49.71,
+          "start": 49.32,
+          "word": "one"
+        }
+      ],
+      "text": "for the one"
+    },
+    {
+      "result": [
+        {
+          "conf": 1.0,
+          "end": 51.81,
+          "start": 51.36,
+          "word": "i"
+        },
+        {
+          "conf": 1.0,
+          "end": 52.35,
+          "start": 51.87,
+          "word": "do"
+        }
+      ],
+      "text": "i do"
+    },
+    {
+      "result": [
+        {
+          "conf": 1.0,
+          "end": 60.18,
+          "start": 53.73,
+          "word": "the"
+        },
+        {
+          "conf": 1.0,
+          "end": 60.87,
+          "start": 60.24,
+          "word": "door"
+        }
+      ],
+      "text": "the door"
+    }
+  ],
+  "transcript": "door to door door to door green door red duh duh duh duh duh duh duh cat flap blue door the back door and do do do do do do do do do do do do stable da na that door also door panel door thing to do studies do do do do where behind the do do do do do do do do that for the one i do the door",
+  "runtime_s": 20.157,
+  "provenance": "Offline recognizer, unconstrained vocabulary; raw hypothesis, not corrected."
+}

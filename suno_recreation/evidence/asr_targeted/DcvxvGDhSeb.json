@@ -1,0 +1,71 @@
+[
+  {
+    "start": 3.5,
+    "end": 7,
+    "result": {
+      "text": " A bulbous and a gently swirling shaft.",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 3.3200000000000003,
+          "text": " A bulbous and a gently swirling shaft.",
+          "tokens": [
+            50365,
+            316,
+            21122,
+            563,
+            293,
+            257,
+            13073,
+            30310,
+            278,
+            18467,
+            13,
+            50531
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.3989108158991887,
+          "compression_ratio": 0.8260869565217391,
+          "no_speech_prob": 8.116964878013277e-10
+        }
+      ],
+      "language": "en"
+    }
+  },
+  {
+    "start": 9,
+    "end": 12,
+    "result": {
+      "text": " Bulbous and a gently swelling shaft.",
+      "segments": [
+        {
+          "id": 0,
+          "seek": 0,
+          "start": 0.0,
+          "end": 3.0,
+          "text": " Bulbous and a gently swelling shaft.",
+          "tokens": [
+            50365,
+            19825,
+            65,
+            563,
+            293,
+            257,
+            13073,
+            33127,
+            18467,
+            13,
+            50515
+          ],
+          "temperature": 0,
+          "avg_logprob": -0.33617281913757324,
+          "compression_ratio": 0.8181818181818182,
+          "no_speech_prob": 6.697264964827809e-10
+        }
+      ],
+      "language": "en"
+    }
+  }
+]

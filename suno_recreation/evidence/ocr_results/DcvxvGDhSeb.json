@@ -1,0 +1,1122 @@
+[
+  {
+    "texts" : [
+
+    ],
+    "time" : 0
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Echinus",
+        "y" : 0.22454710308025316
+      }
+    ],
+    "time" : 0.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "п†uoY",
+        "y" : 0.69062500011718753
+      },
+      {
+        "confidence" : 0.5,
+        "text" : "JэłгoH",
+        "y" : 0.67304928753217474
+      },
+      {
+        "confidence" : 1,
+        "text" : "YTMUMNCO",
+        "y" : 0.64928308829802739
+      },
+      {
+        "confidence" : 1,
+        "text" : "ЗЯтИВО",
+        "y" : 0.64062500003004808
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "OLE Ota Bao",
+        "y" : 0.72031250003348213
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "БОYА",
+        "y" : 0.70000000003605767
+      }
+    ],
+    "time" : 1
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.5,
+        "text" : "oтzee eTo 210",
+        "y" : 0.73281249558824535
+      },
+      {
+        "confidence" : 1,
+        "text" : "ПJuoY",
+        "y" : 0.7015625000260417
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "эfгоH",
+        "y" : 0.68281250003196026
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "CONNFML",
+        "y" : 0.65739767689402695
+      },
+      {
+        "confidence" : 1,
+        "text" : "ЗЯТИВО",
+        "y" : 0.64843750003004808
+      },
+      {
+        "confidence" : 1,
+        "text" : "Entasis",
+        "y" : 0.22489160130716057
+      }
+    ],
+    "time" : 1.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Echih",
+        "y" : 0.22201303863044775
+      }
+    ],
+    "time" : 2
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Echinus",
+        "y" : 0.22427687069942426
+      }
+    ],
+    "time" : 2.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "on ona Bato",
+        "y" : 0.72174789540440465
+      },
+      {
+        "confidence" : 1,
+        "text" : "ЗОКА",
+        "y" : 0.70312500003255207
+      },
+      {
+        "confidence" : 1,
+        "text" : "ПJUOY",
+        "y" : 0.69062500002812499
+      },
+      {
+        "confidence" : 1,
+        "text" : "efгoH",
+        "y" : 0.6730254626711234
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "YТVUМІОO",
+        "y" : 0.65156250003255212
+      },
+      {
+        "confidence" : 1,
+        "text" : "ЗЯТИВО",
+        "y" : 0.64218750003255209
+      },
+      {
+        "confidence" : 1,
+        "text" : "Entasis",
+        "y" : 0.22442170789930649
+      }
+    ],
+    "time" : 3
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "ora ora Bato",
+        "y" : 0.73906250001183715
+      },
+      {
+        "confidence" : 1,
+        "text" : "rłuoY",
+        "y" : 0.70625000019531248
+      },
+      {
+        "confidence" : 0.5,
+        "text" : "э†гоН",
+        "y" : 0.68750000003057066
+      },
+      {
+        "confidence" : 1,
+        "text" : "Entasis",
+        "y" : 0.22344684928738601
+      }
+    ],
+    "time" : 3.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "A Bulbous",
+        "y" : 0.25872316979964127
+      },
+      {
+        "confidence" : 1,
+        "text" : "End",
+        "y" : 0.1875000001838234
+      }
+    ],
+    "time" : 4
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "pua",
+        "y" : 0.18749998216341357
+      },
+      {
+        "confidence" : 1,
+        "text" : "A Bulbous",
+        "y" : 0.25736799838644331
+      }
+    ],
+    "time" : 4.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.5,
+        "text" : "DIE OIa Baz1o",
+        "y" : 0.72187500001775562
+      },
+      {
+        "confidence" : 1,
+        "text" : "nłuoY",
+        "y" : 0.69062500010044636
+      },
+      {
+        "confidence" : 1,
+        "text" : "słгoH",
+        "y" : 0.67333969998698273
+      },
+      {
+        "confidence" : 1,
+        "text" : "ЗЯТИЗО",
+        "y" : 0.64062500003004808
+      },
+      {
+        "confidence" : 1,
+        "text" : "Gently",
+        "y" : 0.35694266199538727
+      }
+    ],
+    "time" : 5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Orz Ola Bacio",
+        "y" : 0.71395220542147331
+      },
+      {
+        "confidence" : 1,
+        "text" : "dłuoY",
+        "y" : 0.68906250003255209
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "IsfгaH",
+        "y" : 0.67187500002704326
+      },
+      {
+        "confidence" : 1,
+        "text" : "ЗЯТИЗО",
+        "y" : 0.63750000009374996
+      },
+      {
+        "confidence" : 1,
+        "text" : "А Gently",
+        "y" : 0.35814888030659886
+      },
+      {
+        "confidence" : 1,
+        "text" : "Swelling",
+        "y" : 0.26832264184175325
+      }
+    ],
+    "time" : 5.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "orE0la 88-",
+        "y" : 0.71102195903484311
+      },
+      {
+        "confidence" : 1,
+        "text" : "rtuoY",
+        "y" : 0.69610174888654597
+      },
+      {
+        "confidence" : 0.5,
+        "text" : "ІstгoH",
+        "y" : 0.67730698554525015
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "затизс",
+        "y" : 0.6421875000426136
+      },
+      {
+        "confidence" : 1,
+        "text" : "Shaft",
+        "y" : 0.18502941773011661
+      }
+    ],
+    "time" : 6
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "012e8 e1o 270",
+        "y" : 0.72187499554312151
+      },
+      {
+        "confidence" : 1,
+        "text" : "ЗОИА",
+        "y" : 0.70156250015624999
+      },
+      {
+        "confidence" : 1,
+        "text" : "NjuoY",
+        "y" : 0.69062500011718753
+      },
+      {
+        "confidence" : 1,
+        "text" : "э†гoH",
+        "y" : 0.67343750010044645
+      },
+      {
+        "confidence" : 1,
+        "text" : "CONWVLLA",
+        "y" : 0.64909482756803849
+      },
+      {
+        "confidence" : 1,
+        "text" : "ЗятИЗО",
+        "y" : 0.64062500015625001
+      },
+      {
+        "confidence" : 1,
+        "text" : "Shaft",
+        "y" : 0.18576133255864791
+      }
+    ],
+    "time" : 6.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 7
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Echinus",
+        "y" : 0.22179877463205544
+      }
+    ],
+    "time" : 7.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 8
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "T9 010 210",
+        "y" : 0.77343749591565047
+      },
+      {
+        "confidence" : 1,
+        "text" : "dtuoY",
+        "y" : 0.73593750015625004
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "эJгоН",
+        "y" : 0.71562500002520157
+      },
+      {
+        "confidence" : 0.5,
+        "text" : "СЗИЦНЕ",
+        "y" : 0.6781249977948739
+      },
+      {
+        "confidence" : 1,
+        "text" : "HUHD",
+        "y" : 0.635937500078125
+      },
+      {
+        "confidence" : 1,
+        "text" : "Entasis",
+        "y" : 0.22294314373928037
+      }
+    ],
+    "time" : 8.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 9
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "A Bulbous",
+        "y" : 0.25491063190269059
+      },
+      {
+        "confidence" : 0.5,
+        "text" : "Eno",
+        "y" : 0.16818624003717608
+      }
+    ],
+    "time" : 9.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "«3rd",
+        "y" : 0.612500000078125
+      },
+      {
+        "confidence" : 1,
+        "text" : "djuoY",
+        "y" : 0.69062500019531248
+      },
+      {
+        "confidence" : 1,
+        "text" : "эłгоН",
+        "y" : 0.67315859723538218
+      },
+      {
+        "confidence" : 0.5,
+        "text" : "YTMUMICO",
+        "y" : 0.64917279412885698
+      },
+      {
+        "confidence" : 1,
+        "text" : "ЗЯТИВО",
+        "y" : 0.64062500003004808
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "OtE ora Baato",
+        "y" : 0.72022153923184928
+      },
+      {
+        "confidence" : 0.5,
+        "text" : "НОХА",
+        "y" : 0.70156250015624999
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "TMOM WMAOXUA",
+        "y" : 0.66775773170227193
+      }
+    ],
+    "time" : 10
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "OE Ora Baato",
+        "y" : 0.72023333797084332
+      },
+      {
+        "confidence" : 1,
+        "text" : "dtuoY",
+        "y" : 0.69062500019531248
+      },
+      {
+        "confidence" : 1,
+        "text" : "эłгоН",
+        "y" : 0.67337918966226051
+      },
+      {
+        "confidence" : 1,
+        "text" : "YTMUMICO",
+        "y" : 0.64916360302859522
+      },
+      {
+        "confidence" : 1,
+        "text" : "ЗЯТИЗО",
+        "y" : 0.64062500003004808
+      },
+      {
+        "confidence" : 0.5,
+        "text" : "HDYIAS",
+        "y" : 0.70156250003004805
+      },
+      {
+        "confidence" : 1,
+        "text" : "Or",
+        "y" : 0.57656250006510423
+      },
+      {
+        "confidence" : 1,
+        "text" : "Gently",
+        "y" : 0.36023631314202065
+      }
+    ],
+    "time" : 10.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "0тгев ето эт0",
+        "y" : 0.72024351472647208
+      },
+      {
+        "confidence" : 1,
+        "text" : "rtuoY",
+        "y" : 0.69042442162810058
+      },
+      {
+        "confidence" : 1,
+        "text" : "эłгоH",
+        "y" : 0.6733768053706306
+      },
+      {
+        "confidence" : 1,
+        "text" : "YTMUMICO",
+        "y" : 0.64910560338660028
+      },
+      {
+        "confidence" : 1,
+        "text" : "ЗЯТИЗО",
+        "y" : 0.64062500003004808
+      },
+      {
+        "confidence" : 1,
+        "text" : "ЗDКА",
+        "y" : 0.70156250015624999
+      },
+      {
+        "confidence" : 1,
+        "text" : "Or",
+        "y" : 0.57656250006510423
+      },
+      {
+        "confidence" : 1,
+        "text" : "Swelling",
+        "y" : 0.26821729328188737
+      }
+    ],
+    "time" : 11
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "OzE Oia SaatO",
+        "y" : 0.72031250005859371
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "НОMАS",
+        "y" : 0.70156250003551135
+      },
+      {
+        "confidence" : 1,
+        "text" : "dtuoY",
+        "y" : 0.69026960889852629
+      },
+      {
+        "confidence" : 1,
+        "text" : "эłгоH",
+        "y" : 0.67326329279426278
+      },
+      {
+        "confidence" : 1,
+        "text" : "YTMUMICO",
+        "y" : 0.64910560338660028
+      },
+      {
+        "confidence" : 1,
+        "text" : "ЗЯТИЗО",
+        "y" : 0.64062500003004808
+      },
+      {
+        "confidence" : 1,
+        "text" : "Shaft",
+        "y" : 0.17309012808965218
+      }
+    ],
+    "time" : 11.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "rtuoY",
+        "y" : 0.6904695266574854
+      },
+      {
+        "confidence" : 1,
+        "text" : "эłгоH",
+        "y" : 0.67343750003348213
+      },
+      {
+        "confidence" : 0.5,
+        "text" : "УТИUМІОО",
+        "y" : 0.64929227952189095
+      },
+      {
+        "confidence" : 1,
+        "text" : "ЗЯТИВО",
+        "y" : 0.64062500003004808
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "OrE DIa SaatO",
+        "y" : 0.72031250001616376
+      },
+      {
+        "confidence" : 0.5,
+        "text" : "ЗОКА",
+        "y" : 0.70156250015624999
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "PMOM WMACЛOCTUA e",
+        "y" : 0.66786851413256287
+      }
+    ],
+    "time" : 12
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "Aauan",
+        "y" : 0.36488379109503577
+      },
+      {
+        "confidence" : 1,
+        "text" : "CEALE",
+        "y" : 0.66172648520992738
+      },
+      {
+        "confidence" : 0.5,
+        "text" : "CONNULLA",
+        "y" : 0.6751403349478341
+      },
+      {
+        "confidence" : 1,
+        "text" : "EAI HOWEZ",
+        "y" : 0.69554250907460624
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "ДОПЕИ",
+        "y" : 0.7218749956468391
+      },
+      {
+        "confidence" : 1,
+        "text" : "а ето зто",
+        "y" : 0.75781249704443876
+      }
+    ],
+    "time" : 12.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "riłuoY",
+        "y" : 0.77812500018229169
+      },
+      {
+        "confidence" : 1,
+        "text" : "|эłгоH",
+        "y" : 0.75312500003771554
+      },
+      {
+        "confidence" : 1,
+        "text" : "YTIVUMMOO",
+        "y" : 0.7194935346588982
+      },
+      {
+        "confidence" : 1,
+        "text" : "Зятизо",
+        "y" : 0.70468750005681824
+      },
+      {
+        "confidence" : 1,
+        "text" : "Garden Competition 2020",
+        "y" : 0.46406250009765626
+      },
+      {
+        "confidence" : 1,
+        "text" : "My Haруry",
+        "y" : 0.45625000002441407
+      },
+      {
+        "confidence" : 0.5,
+        "text" : "weli",
+        "y" : 0.27474838186016837
+      }
+    ],
+    "time" : 13
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "ґłuoY",
+        "y" : 0.75924459401524813
+      },
+      {
+        "confidence" : 1,
+        "text" : "JetгoH",
+        "y" : 0.73418429810353136
+      },
+      {
+        "confidence" : 0.5,
+        "text" : "БYTIVUMNOO",
+        "y" : 0.70060096117629711
+      },
+      {
+        "confidence" : 1,
+        "text" : "ЗЯТИЗО",
+        "y" : 0.68654411740678034
+      },
+      {
+        "confidence" : 0.30000001192092896,
+        "text" : "ЛUПУ",
+        "y" : 0.64375000002055915
+      },
+      {
+        "confidence" : 1,
+        "text" : "OF",
+        "y" : 0.60000000015624999
+      },
+      {
+        "confidence" : 1,
+        "text" : "Garden Competition 2026",
+        "y" : 0.58906250001055738
+      },
+      {
+        "confidence" : 1,
+        "text" : "Swelling",
+        "y" : 0.27025570543631572
+      }
+    ],
+    "time" : 13.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "10 270",
+        "y" : 0.7812499977878038
+      },
+      {
+        "confidence" : 1,
+        "text" : "nłuoY",
+        "y" : 0.74199434895049488
+      },
+      {
+        "confidence" : 1,
+        "text" : "JetгoH",
+        "y" : 0.72031250003437497
+      },
+      {
+        "confidence" : 1,
+        "text" : "•CONNTHLLA",
+        "y" : 0.69218749629424092
+      },
+      {
+        "confidence" : 1,
+        "text" : "ЗАТИВО",
+        "y" : 0.67908415734271554
+      },
+      {
+        "confidence" : 1,
+        "text" : "Or",
+        "y" : 0.60312500007812497
+      },
+      {
+        "confidence" : 1,
+        "text" : "Shaft",
+        "y" : 0.1884576303162252
+      }
+    ],
+    "time" : 14
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "21O 270",
+        "y" : 0.76562499704734122
+      },
+      {
+        "confidence" : 1,
+        "text" : "djuoY",
+        "y" : 0.72789315137835664
+      },
+      {
+        "confidence" : 1,
+        "text" : "lэłгоН",
+        "y" : 0.70781250017187503
+      },
+      {
+        "confidence" : 1,
+        "text" : "CONNNULLA",
+        "y" : 0.67812499629345968
+      },
+      {
+        "confidence" : 1,
+        "text" : "ЗАТИЗО",
+        "y" : 0.66615301699907215
+      },
+      {
+        "confidence" : 1,
+        "text" : "ЯUНО",
+        "y" : 0.62500000005681811
+      },
+      {
+        "confidence" : 1,
+        "text" : "Shaft",
+        "y" : 0.19031623038045209
+      }
+    ],
+    "time" : 14.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 15
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 15.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 16
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 16.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 17
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "A Gently",
+        "y" : 0.35905365780108256
+      },
+      {
+        "confidence" : 1,
+        "text" : "Swelling",
+        "y" : 0.26503910992880919
+      }
+    ],
+    "time" : 17.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "A Gently",
+        "y" : 0.35898684669568048
+      },
+      {
+        "confidence" : 1,
+        "text" : "Swelling",
+        "y" : 0.27113259991103522
+      },
+      {
+        "confidence" : 1,
+        "text" : "Shaft",
+        "y" : 0.18999790579440057
+      }
+    ],
+    "time" : 18
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "A Gently",
+        "y" : 0.3558948677435837
+      },
+      {
+        "confidence" : 1,
+        "text" : "Swelling",
+        "y" : 0.26965501844446893
+      },
+      {
+        "confidence" : 1,
+        "text" : "Shaft",
+        "y" : 0.18667666398117733
+      }
+    ],
+    "time" : 18.5
+  },
+  {
+    "texts" : [
+
+    ],
+    "time" : 19
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.57656250014423072
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.53125000018465907
+      },
+      {
+        "confidence" : 1,
+        "text" : "Putting Histori",
+        "y" : 0.38914225050840412
+      },
+      {
+        "confidence" : 1,
+        "text" : "Leominste",
+        "y" : 0.34687500019531248
+      },
+      {
+        "confidence" : 1,
+        "text" : "back on the",
+        "y" : 0.29643153144191237
+      },
+      {
+        "confidence" : 1,
+        "text" : "мар",
+        "y" : 0.23568297544607231
+      }
+    ],
+    "time" : 19.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.57656250014423072
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.53125000018465907
+      },
+      {
+        "confidence" : 1,
+        "text" : "Putting Historic",
+        "y" : 0.39375000001490545
+      },
+      {
+        "confidence" : 1,
+        "text" : "Leominster",
+        "y" : 0.3484375000214629
+      },
+      {
+        "confidence" : 1,
+        "text" : "back on the",
+        "y" : 0.30000000001302085
+      },
+      {
+        "confidence" : 1,
+        "text" : "Map!",
+        "y" : 0.23848824994406004
+      }
+    ],
+    "time" : 20
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.57656250014423072
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.52315026811057863
+      },
+      {
+        "confidence" : 1,
+        "text" : "Putting Historic",
+        "y" : 0.39375000001490545
+      },
+      {
+        "confidence" : 1,
+        "text" : "Leominster",
+        "y" : 0.3484375000214629
+      },
+      {
+        "confidence" : 1,
+        "text" : "back on the",
+        "y" : 0.30000000001310823
+      },
+      {
+        "confidence" : 1,
+        "text" : "Map!",
+        "y" : 0.2381191845436017
+      }
+    ],
+    "time" : 20.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.57656250014423072
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.52308645686604271
+      },
+      {
+        "confidence" : 1,
+        "text" : "Putting Historic",
+        "y" : 0.39375000001490545
+      },
+      {
+        "confidence" : 1,
+        "text" : "Leominster",
+        "y" : 0.3484375000214629
+      },
+      {
+        "confidence" : 1,
+        "text" : "back on the",
+        "y" : 0.30000000001310823
+      },
+      {
+        "confidence" : 1,
+        "text" : "Map!",
+        "y" : 0.23869637044719538
+      }
+    ],
+    "time" : 21
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "LEOMINSTER",
+        "y" : 0.57656250014423072
+      },
+      {
+        "confidence" : 1,
+        "text" : "HERITAGE",
+        "y" : 0.52308645686604271
+      },
+      {
+        "confidence" : 1,
+        "text" : "Putting Historic",
+        "y" : 0.39375000001490545
+      },
+      {
+        "confidence" : 1,
+        "text" : "Leominster",
+        "y" : 0.35000000002083331
+      },
+      {
+        "confidence" : 1,
+        "text" : "back on the",
+        "y" : 0.30000000001310823
+      },
+      {
+        "confidence" : 1,
+        "text" : "Map!",
+        "y" : 0.23869637044719538
+      }
+    ],
+    "time" : 21.5
+  },
+  {
+    "texts" : [
+      {
+        "confidence" : 1,
+        "text" : "Putting Historic",
+        "y" : 0.39375000001490545
+      },
+      {
+        "confidence" : 1,
+        "text" : "Leominster",
+        "y" : 0.34843750002170137
+      },
+      {
+        "confidence" : 1,
+        "text" : "back on the",
+        "y" : 0.30156250001258389
+      },
+      {
+        "confidence" : 1,
+        "text" : "Map!",
+        "y" : 0.23865398530742044
+      }
+    ],
+    "time" : 22
+  }
+]

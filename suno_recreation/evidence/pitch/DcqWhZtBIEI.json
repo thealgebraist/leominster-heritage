@@ -1,0 +1,124 @@
+{
+  "method": "pYIN on estimated vocal stem, 8kHz, 1024 frame, 128 hop, f0 65-700 Hz; retain voiced probability >=0.7 and audible RMS",
+  "warning": "Model-separated vocal may contain instruments; pYIN may choose octave errors and excludes unvoiced/uncertain frames. Quantiles describe retained frames, not scored melody or true vocal range.",
+  "retained_fraction": 0.018138424821002388,
+  "phrases": [
+    {
+      "time": "0.0\u20136.9",
+      "words": "Window repeated [four principal calls, with possible extra chopped repetitions].",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "7.0\u201310.9",
+      "words": "Mullion, muntin, meeting rail, transom.",
+      "retained_seconds": 0.03,
+      "retained_fraction": 0.01
+    },
+    {
+      "time": "10.9\u201314.8",
+      "words": "Window, window, what have you got? / Mullion in the middle, glazing in the lot.",
+      "retained_seconds": 0.02,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "14.8\u201319.4",
+      "words": "Casement! / Is that a casement? / Yes, a casement!",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "19.4\u201321.3",
+      "words": "Open it out, shut it again.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "21.4\u201324.9",
+      "words": "Stay, fastener, hinge, pane.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "24.9\u201328.4",
+      "words": "Rail, stile, glazing bar / Rail, stile, glazing bar.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "28.4\u201330.5",
+      "words": "Sash goes up, sash comes down.",
+      "retained_seconds": 0.05,
+      "retained_fraction": 0.02
+    },
+    {
+      "time": "30.5\u201335.7",
+      "words": "Sash cord! / Where's it gone? / In the box. / Obviously.",
+      "retained_seconds": 0.03,
+      "retained_fraction": 0.01
+    },
+    {
+      "time": "35.7\u201338.6",
+      "words": "Window repeated [exact count unresolved].",
+      "retained_seconds": 0.58,
+      "retained_fraction": 0.2,
+      "midi_p10_median_p90": [
+        51.09,
+        55.09,
+        58.19
+      ],
+      "nearest_notes_p10_median_p90": [
+        "D\u266f3",
+        "G3",
+        "A\u266f3"
+      ]
+    },
+    {
+      "time": "38.7\u201342.2",
+      "words": "Fanlight, sidelight, oriel [too?].",
+      "retained_seconds": 0.3,
+      "retained_fraction": 0.09,
+      "midi_p10_median_p90": [
+        55.09,
+        57.09,
+        59.21
+      ],
+      "nearest_notes_p10_median_p90": [
+        "G3",
+        "A3",
+        "B3"
+      ]
+    },
+    {
+      "time": "42.2\u201348.6",
+      "words": "Bay window, bow window / What does it do? / Lets in light. / Very good.",
+      "retained_seconds": 0.1,
+      "retained_fraction": 0.01
+    },
+    {
+      "time": "49.7\u201355.0",
+      "words": "Casement! / Is that a casement? / Yes, a casement!",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "56.9\u201360.4",
+      "words": "Mullion, muntin, transom, pane.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "60.4\u201364.4",
+      "words": "Open the window / Shut it again.",
+      "retained_seconds": 0.02,
+      "retained_fraction": 0.0
+    },
+    {
+      "time": "64.4\u201367.0",
+      "words": "Musical/end-card tail.",
+      "retained_seconds": 0.0,
+      "retained_fraction": 0.0
+    }
+  ],
+  "runtime_s": 0.9952609539031982
+}

@@ -1,0 +1,233 @@
+{
+  "model": "vosk-model-small-en-us-0.15",
+  "sample_rate": 16000,
+  "chunks": [
+    {
+      "result": [
+        {
+          "conf": 0.662426,
+          "end": 0.50605,
+          "start": 0.27,
+          "word": "good"
+        },
+        {
+          "conf": 0.811271,
+          "end": 0.78,
+          "start": 0.50605,
+          "word": "time"
+        }
+      ],
+      "text": "good time"
+    },
+    {
+      "result": [
+        {
+          "conf": 0.530795,
+          "end": 2.73,
+          "start": 2.49,
+          "word": "don't"
+        },
+        {
+          "conf": 0.627666,
+          "end": 4.5,
+          "start": 4.26,
+          "word": "god"
+        }
+      ],
+      "text": "don't god"
+    },
+    {
+      "result": [
+        {
+          "conf": 0.684447,
+          "end": 6.301136,
+          "start": 6.06,
+          "word": "don't"
+        },
+        {
+          "conf": 0.276975,
+          "end": 6.51,
+          "start": 6.301136,
+          "word": "that"
+        },
+        {
+          "conf": 0.76585,
+          "end": 6.93,
+          "start": 6.51,
+          "word": "goddamn"
+        },
+        {
+          "conf": 0.927977,
+          "end": 7.17,
+          "start": 6.93,
+          "word": "gonna"
+        },
+        {
+          "conf": 0.927977,
+          "end": 7.29,
+          "start": 7.17,
+          "word": "get"
+        },
+        {
+          "conf": 0.927977,
+          "end": 7.38,
+          "start": 7.29,
+          "word": "the"
+        },
+        {
+          "conf": 0.927977,
+          "end": 7.669583,
+          "start": 7.38,
+          "word": "conduct"
+        },
+        {
+          "conf": 0.605764,
+          "end": 7.77,
+          "start": 7.68,
+          "word": "of"
+        },
+        {
+          "conf": 0.927977,
+          "end": 7.83,
+          "start": 7.77,
+          "word": "i"
+        },
+        {
+          "conf": 0.927977,
+          "end": 8.04,
+          "start": 7.83,
+          "word": "don't"
+        },
+        {
+          "conf": 1.0,
+          "end": 8.28,
+          "start": 8.04,
+          "word": "don't"
+        },
+        {
+          "conf": 1.0,
+          "end": 8.49,
+          "start": 8.28,
+          "word": "don't"
+        },
+        {
+          "conf": 1.0,
+          "end": 8.750114,
+          "start": 8.49,
+          "word": "don't"
+        },
+        {
+          "conf": 0.670479,
+          "end": 8.91,
+          "start": 8.76,
+          "word": "have"
+        },
+        {
+          "conf": 0.969518,
+          "end": 9.24,
+          "start": 8.91,
+          "word": "got"
+        },
+        {
+          "conf": 0.969518,
+          "end": 9.48,
+          "start": 9.24,
+          "word": "a"
+        },
+        {
+          "conf": 1.0,
+          "end": 10.02,
+          "start": 9.78,
+          "word": "good"
+        },
+        {
+          "conf": 0.637914,
+          "end": 10.41,
+          "start": 10.02,
+          "word": "day"
+        },
+        {
+          "conf": 0.934062,
+          "end": 10.92,
+          "start": 10.65,
+          "word": "good"
+        },
+        {
+          "conf": 0.97903,
+          "end": 11.79,
+          "start": 11.52,
+          "word": "good"
+        },
+        {
+          "conf": 0.896459,
+          "end": 12.15,
+          "start": 11.79,
+          "word": "day"
+        },
+        {
+          "conf": 0.41642,
+          "end": 12.63,
+          "start": 12.48,
+          "word": "but"
+        },
+        {
+          "conf": 0.49633,
+          "end": 12.69,
+          "start": 12.63,
+          "word": "he"
+        },
+        {
+          "conf": 1.0,
+          "end": 12.902193,
+          "start": 12.69,
+          "word": "got"
+        },
+        {
+          "conf": 0.515342,
+          "end": 13.5,
+          "start": 12.902193,
+          "word": "day"
+        },
+        {
+          "conf": 0.383388,
+          "end": 13.83,
+          "start": 13.56,
+          "word": "got"
+        }
+      ],
+      "text": "don't that goddamn gonna get the conduct of i don't don't don't don't have got a good day good good day but he got day got"
+    },
+    {
+      "result": [
+        {
+          "conf": 1.0,
+          "end": 16.47,
+          "start": 16.2,
+          "word": "good"
+        },
+        {
+          "conf": 0.632671,
+          "end": 16.92,
+          "start": 16.47,
+          "word": "to"
+        },
+        {
+          "conf": 0.632671,
+          "end": 17.756343,
+          "start": 17.52,
+          "word": "go"
+        },
+        {
+          "conf": 0.922879,
+          "end": 18.36,
+          "start": 17.77194,
+          "word": "day"
+        }
+      ],
+      "text": "good to go day"
+    }
+  ],
+  "transcript": "good time don't god don't that goddamn gonna get the conduct of i don't don't don't don't have got a good day good good day but he got day got good to go day",
+  "runtime_s": 1.534,
+  "provenance": "Offline recognizer, unconstrained vocabulary; raw hypothesis, not corrected."
+}

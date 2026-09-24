@@ -1,0 +1,11 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+*.mp4
+*.wav
+*.jpg
+*.jpeg
+*.png
+suno_recreation/evidence/ocr
+suno_recreation/evidence/ocr_frames

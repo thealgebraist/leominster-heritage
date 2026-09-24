@@ -1,0 +1,507 @@
+{
+  "model": "vosk-model-small-en-us-0.15",
+  "sample_rate": 16000,
+  "chunks": [
+    {
+      "result": [
+        {
+          "conf": 1.0,
+          "end": 0.48,
+          "start": 0.0,
+          "word": "them"
+        },
+        {
+          "conf": 1.0,
+          "end": 1.05,
+          "start": 0.48,
+          "word": "portland"
+        },
+        {
+          "conf": 1.0,
+          "end": 1.68,
+          "start": 1.05,
+          "word": "oregon"
+        },
+        {
+          "conf": 1.0,
+          "end": 1.83,
+          "start": 1.68,
+          "word": "and"
+        },
+        {
+          "conf": 0.669944,
+          "end": 2.34,
+          "start": 1.86,
+          "word": "postgame"
+        },
+        {
+          "conf": 0.386235,
+          "end": 2.94,
+          "start": 2.79,
+          "word": "was"
+        },
+        {
+          "conf": 0.474875,
+          "end": 3.18,
+          "start": 2.94,
+          "word": "gonna"
+        },
+        {
+          "conf": 0.617941,
+          "end": 3.9,
+          "start": 3.63,
+          "word": "call"
+        },
+        {
+          "conf": 0.374928,
+          "end": 4.045724,
+          "start": 3.9,
+          "word": "them"
+        },
+        {
+          "conf": 0.695703,
+          "end": 4.481709,
+          "start": 4.045724,
+          "word": "column"
+        },
+        {
+          "conf": 0.507469,
+          "end": 4.8,
+          "start": 4.503171,
+          "word": "taught"
+        },
+        {
+          "conf": 0.721064,
+          "end": 4.92,
+          "start": 4.8,
+          "word": "in"
+        },
+        {
+          "conf": 0.774073,
+          "end": 5.637832,
+          "start": 4.92,
+          "word": "columbus"
+        },
+        {
+          "conf": 0.587596,
+          "end": 5.960085,
+          "start": 5.64588,
+          "word": "and"
+        },
+        {
+          "conf": 0.461376,
+          "end": 6.57,
+          "start": 6.3,
+          "word": "dusk"
+        },
+        {
+          "conf": 0.512687,
+          "end": 6.81,
+          "start": 6.57,
+          "word": "and"
+        },
+        {
+          "conf": 1.0,
+          "end": 8.67,
+          "start": 6.93,
+          "word": "ah"
+        },
+        {
+          "conf": 0.688395,
+          "end": 9.39,
+          "start": 8.73,
+          "word": "currently"
+        },
+        {
+          "conf": 0.688187,
+          "end": 9.81,
+          "start": 9.39,
+          "word": "an"
+        },
+        {
+          "conf": 1.0,
+          "end": 11.19,
+          "start": 10.53,
+          "word": "ionic"
+        },
+        {
+          "conf": 1.0,
+          "end": 12.06,
+          "start": 11.46,
+          "word": "ionic"
+        },
+        {
+          "conf": 1.0,
+          "end": 12.48,
+          "start": 12.3,
+          "word": "my"
+        },
+        {
+          "conf": 1.0,
+          "end": 12.81,
+          "start": 12.48,
+          "word": "last"
+        },
+        {
+          "conf": 0.567828,
+          "end": 13.32,
+          "start": 12.876103,
+          "word": "minister"
+        },
+        {
+          "conf": 0.415278,
+          "end": 13.5,
+          "start": 13.32,
+          "word": "got"
+        },
+        {
+          "conf": 1.0,
+          "end": 13.86,
+          "start": 13.77,
+          "word": "we"
+        },
+        {
+          "conf": 1.0,
+          "end": 14.16,
+          "start": 13.86,
+          "word": "lost"
+        },
+        {
+          "conf": 1.0,
+          "end": 14.28,
+          "start": 14.16,
+          "word": "our"
+        },
+        {
+          "conf": 0.824252,
+          "end": 14.67,
+          "start": 14.28,
+          "word": "capital"
+        },
+        {
+          "conf": 0.582389,
+          "end": 15.059999,
+          "start": 14.909999,
+          "word": "at"
+        },
+        {
+          "conf": 0.582389,
+          "end": 15.239999,
+          "start": 15.059999,
+          "word": "all"
+        }
+      ],
+      "text": "them portland oregon and postgame was gonna call them column taught in columbus and dusk and ah currently an ionic ionic my last minister got we lost our capital at all"
+    },
+    {
+      "result": [
+        {
+          "conf": 0.948636,
+          "end": 16.05,
+          "start": 15.84,
+          "word": "my"
+        },
+        {
+          "conf": 0.948636,
+          "end": 16.377341,
+          "start": 16.05,
+          "word": "last"
+        },
+        {
+          "conf": 0.357341,
+          "end": 17.16,
+          "start": 16.86,
+          "word": "dog"
+        },
+        {
+          "conf": 1.0,
+          "end": 17.49,
+          "start": 17.31,
+          "word": "will"
+        },
+        {
+          "conf": 1.0,
+          "end": 17.91,
+          "start": 17.55,
+          "word": "start"
+        },
+        {
+          "conf": 0.529029,
+          "end": 18.36,
+          "start": 18.09,
+          "word": "don't"
+        },
+        {
+          "conf": 0.572636,
+          "end": 19.68,
+          "start": 18.84,
+          "word": "ah"
+        }
+      ],
+      "text": "my last dog will start don't ah"
+    },
+    {
+      "result": [
+        {
+          "conf": 1.0,
+          "end": 21.06,
+          "start": 19.71,
+          "word": "ah"
+        },
+        {
+          "conf": 0.891179,
+          "end": 21.93,
+          "start": 21.51,
+          "word": "idea"
+        },
+        {
+          "conf": 0.891179,
+          "end": 22.89,
+          "start": 21.93,
+          "word": "how"
+        },
+        {
+          "conf": 0.537774,
+          "end": 23.58,
+          "start": 22.98,
+          "word": "ionic"
+        },
+        {
+          "conf": 1.0,
+          "end": 24.54,
+          "start": 23.94,
+          "word": "ionic"
+        },
+        {
+          "conf": 1.0,
+          "end": 25.620586,
+          "start": 24.84,
+          "word": "fujitsu"
+        },
+        {
+          "conf": 0.604458,
+          "end": 25.857691,
+          "start": 25.620586,
+          "word": "that"
+        },
+        {
+          "conf": 0.490931,
+          "end": 26.25,
+          "start": 25.86,
+          "word": "dolly"
+        },
+        {
+          "conf": 0.490931,
+          "end": 26.73,
+          "start": 26.31,
+          "word": "parton"
+        },
+        {
+          "conf": 0.586206,
+          "end": 27.27,
+          "start": 26.742653,
+          "word": "tuscan"
+        },
+        {
+          "conf": 0.648083,
+          "end": 28.14,
+          "start": 27.87,
+          "word": "going"
+        },
+        {
+          "conf": 0.578596,
+          "end": 28.875776,
+          "start": 28.74776,
+          "word": "to"
+        },
+        {
+          "conf": 0.485115,
+          "end": 29.19,
+          "start": 28.881042,
+          "word": "do"
+        },
+        {
+          "conf": 0.931649,
+          "end": 29.398341,
+          "start": 29.19,
+          "word": "that"
+        },
+        {
+          "conf": 0.715408,
+          "end": 29.705737,
+          "start": 29.398341,
+          "word": "door"
+        },
+        {
+          "conf": 0.379691,
+          "end": 30.3,
+          "start": 29.705737,
+          "word": "economy"
+        },
+        {
+          "conf": 0.552127,
+          "end": 30.81,
+          "start": 30.33,
+          "word": "tuscan"
+        },
+        {
+          "conf": 0.918095,
+          "end": 31.592651,
+          "start": 31.322651,
+          "word": "can"
+        },
+        {
+          "conf": 0.997567,
+          "end": 33.625276,
+          "start": 31.89,
+          "word": "ah"
+        },
+        {
+          "conf": 0.444458,
+          "end": 34.08,
+          "start": 33.63,
+          "word": "korean"
+        },
+        {
+          "conf": 0.549549,
+          "end": 34.38,
+          "start": 34.127369,
+          "word": "the"
+        },
+        {
+          "conf": 1.0,
+          "end": 36.03,
+          "start": 35.43,
+          "word": "bionic"
+        },
+        {
+          "conf": 1.0,
+          "end": 36.63,
+          "start": 36.36,
+          "word": "eye"
+        },
+        {
+          "conf": 1.0,
+          "end": 36.81,
+          "start": 36.63,
+          "word": "on"
+        },
+        {
+          "conf": 0.716178,
+          "end": 36.96,
+          "start": 36.81,
+          "word": "it"
+        }
+      ],
+      "text": "ah idea how ionic ionic fujitsu that dolly parton tuscan going to do that door economy tuscan can ah korean the bionic eye on it"
+    },
+    {
+      "result": [
+        {
+          "conf": 0.721116,
+          "end": 37.89,
+          "start": 37.68,
+          "word": "don't"
+        },
+        {
+          "conf": 0.622377,
+          "end": 38.136266,
+          "start": 38.04,
+          "word": "have"
+        },
+        {
+          "conf": 0.788874,
+          "end": 38.228302,
+          "start": 38.136727,
+          "word": "the"
+        },
+        {
+          "conf": 0.901261,
+          "end": 38.49,
+          "start": 38.228302,
+          "word": "looming"
+        },
+        {
+          "conf": 0.901261,
+          "end": 38.88,
+          "start": 38.49,
+          "word": "fear"
+        },
+        {
+          "conf": 1.0,
+          "end": 39.54,
+          "start": 39.06,
+          "word": "sha"
+        },
+        {
+          "conf": 1.0,
+          "end": 40.17,
+          "start": 39.78,
+          "word": "sha"
+        },
+        {
+          "conf": 1.0,
+          "end": 43.11,
+          "start": 42.66,
+          "word": "sha"
+        },
+        {
+          "conf": 1.0,
+          "end": 43.74,
+          "start": 43.35,
+          "word": "sha"
+        }
+      ],
+      "text": "don't have the looming fear sha sha sha sha"
+    },
+    {
+      "result": [
+        {
+          "conf": 0.529901,
+          "end": 46.62,
+          "start": 46.32,
+          "word": "com"
+        },
+        {
+          "conf": 0.529901,
+          "end": 46.98,
+          "start": 46.62,
+          "word": "os"
+        },
+        {
+          "conf": 0.786937,
+          "end": 47.31,
+          "start": 46.98,
+          "word": "and"
+        },
+        {
+          "conf": 0.627698,
+          "end": 48.319219,
+          "start": 47.91,
+          "word": "while"
+        },
+        {
+          "conf": 0.404593,
+          "end": 49.05,
+          "start": 48.33,
+          "word": "idea"
+        }
+      ],
+      "text": "com os and while idea"
+    },
+    {
+      "result": [
+        {
+          "conf": 0.526669,
+          "end": 50.25,
+          "start": 49.68,
+          "word": "how"
+        }
+      ],
+      "text": "how"
+    }
+  ],
+  "transcript": "them portland oregon and postgame was gonna call them column taught in columbus and dusk and ah currently an ionic ionic my last minister got we lost our capital at all my last dog will start don't ah ah idea how ionic ionic fujitsu that dolly parton tuscan going to do that door economy tuscan can ah korean the bionic eye on it don't have the looming fear sha sha sha sha com os and while idea how",
+  "runtime_s": 3.784,
+  "provenance": "Offline recognizer, unconstrained vocabulary; raw hypothesis, not corrected."
+}

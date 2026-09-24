@@ -1,0 +1,228 @@
+{
+  "model": "vosk-model-small-en-us-0.15",
+  "sample_rate": 16000,
+  "chunks": [
+    {
+      "result": [
+        {
+          "conf": 0.546949,
+          "end": 0.418699,
+          "start": 0.334919,
+          "word": "you"
+        },
+        {
+          "conf": 0.63234,
+          "end": 0.595867,
+          "start": 0.418699,
+          "word": "know"
+        },
+        {
+          "conf": 0.622286,
+          "end": 1.08,
+          "start": 0.9,
+          "word": "and"
+        },
+        {
+          "conf": 0.99148,
+          "end": 1.38,
+          "start": 1.08,
+          "word": "toss"
+        },
+        {
+          "conf": 0.99148,
+          "end": 1.5,
+          "start": 1.38,
+          "word": "a"
+        },
+        {
+          "conf": 0.598299,
+          "end": 1.98,
+          "start": 1.5,
+          "word": "spit"
+        },
+        {
+          "conf": 0.82585,
+          "end": 2.16,
+          "start": 1.98,
+          "word": "you"
+        },
+        {
+          "conf": 0.82585,
+          "end": 2.340766,
+          "start": 2.16,
+          "word": "know"
+        },
+        {
+          "conf": 0.783644,
+          "end": 2.940395,
+          "start": 2.340766,
+          "word": "spent"
+        },
+        {
+          "conf": 0.721626,
+          "end": 3.06,
+          "start": 2.940395,
+          "word": "ah"
+        },
+        {
+          "conf": 0.320694,
+          "end": 3.45,
+          "start": 3.06,
+          "word": "says"
+        },
+        {
+          "conf": 0.593347,
+          "end": 3.69,
+          "start": 3.57,
+          "word": "a"
+        },
+        {
+          "conf": 0.604739,
+          "end": 4.23,
+          "start": 3.700047,
+          "word": "bulbous"
+        },
+        {
+          "conf": 1.0,
+          "end": 4.512549,
+          "start": 4.23,
+          "word": "and"
+        },
+        {
+          "conf": 0.891462,
+          "end": 5.04,
+          "start": 4.595822,
+          "word": "gently"
+        },
+        {
+          "conf": 0.763593,
+          "end": 5.46,
+          "start": 5.04,
+          "word": "swelling"
+        },
+        {
+          "conf": 1.0,
+          "end": 6.71233,
+          "start": 5.46,
+          "word": "shaw"
+        }
+      ],
+      "text": "you know and toss a spit you know spent ah says a bulbous and gently swelling shaw"
+    },
+    {
+      "result": [
+        {
+          "conf": 0.873898,
+          "end": 8.19,
+          "start": 7.98,
+          "word": "and"
+        },
+        {
+          "conf": 0.70035,
+          "end": 8.85,
+          "start": 8.19,
+          "word": "process"
+        },
+        {
+          "conf": 0.540319,
+          "end": 8.997061,
+          "start": 8.85,
+          "word": "of"
+        },
+        {
+          "conf": 1.0,
+          "end": 9.54,
+          "start": 8.997061,
+          "word": "bulbous"
+        },
+        {
+          "conf": 1.0,
+          "end": 9.77627,
+          "start": 9.54,
+          "word": "and"
+        },
+        {
+          "conf": 0.713293,
+          "end": 9.87,
+          "start": 9.78,
+          "word": "i"
+        },
+        {
+          "conf": 1.0,
+          "end": 10.32,
+          "start": 9.87373,
+          "word": "gently"
+        },
+        {
+          "conf": 1.0,
+          "end": 10.8,
+          "start": 10.32,
+          "word": "swirling"
+        },
+        {
+          "conf": 1.0,
+          "end": 11.874503,
+          "start": 10.8,
+          "word": "shaw"
+        },
+        {
+          "conf": 0.250154,
+          "end": 12.51,
+          "start": 12.33,
+          "word": "by"
+        },
+        {
+          "conf": 1.0,
+          "end": 13.32,
+          "start": 12.520037,
+          "word": "gently"
+        },
+        {
+          "conf": 0.420898,
+          "end": 14.25,
+          "start": 13.32,
+          "word": "swelling"
+        },
+        {
+          "conf": 0.673035,
+          "end": 14.73,
+          "start": 14.25,
+          "word": "shaw"
+        }
+      ],
+      "text": "and process of bulbous and i gently swirling shaw by gently swelling shaw"
+    },
+    {
+      "result": [
+        {
+          "conf": 0.48213,
+          "end": 16.92,
+          "start": 16.83,
+          "word": "or"
+        },
+        {
+          "conf": 1.0,
+          "end": 17.37,
+          "start": 16.925248,
+          "word": "gently"
+        },
+        {
+          "conf": 0.619854,
+          "end": 17.85,
+          "start": 17.37,
+          "word": "swirling"
+        },
+        {
+          "conf": 0.211088,
+          "end": 18.27,
+          "start": 17.85,
+          "word": "sharp"
+        }
+      ],
+      "text": "or gently swirling sharp"
+    }
+  ],
+  "transcript": "you know and toss a spit you know spent ah says a bulbous and gently swelling shaw and process of bulbous and i gently swirling shaw by gently swelling shaw or gently swirling sharp",
+  "runtime_s": 1.561,
+  "provenance": "Offline recognizer, unconstrained vocabulary; raw hypothesis, not corrected."
+}

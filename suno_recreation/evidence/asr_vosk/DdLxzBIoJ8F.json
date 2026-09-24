@@ -1,0 +1,634 @@
+{
+  "model": "vosk-model-small-en-us-0.15",
+  "sample_rate": 16000,
+  "chunks": [
+    {
+      "result": [
+        {
+          "conf": 0.889105,
+          "end": 0.69,
+          "start": 0.42,
+          "word": "oh"
+        },
+        {
+          "conf": 0.663196,
+          "end": 1.11,
+          "start": 0.69,
+          "word": "house"
+        },
+        {
+          "conf": 0.521828,
+          "end": 1.537828,
+          "start": 1.29,
+          "word": "ha"
+        },
+        {
+          "conf": 0.469432,
+          "end": 1.725887,
+          "start": 1.537828,
+          "word": "ha"
+        },
+        {
+          "conf": 0.952575,
+          "end": 1.98,
+          "start": 1.725887,
+          "word": "was"
+        },
+        {
+          "conf": 1.0,
+          "end": 2.19,
+          "start": 1.98,
+          "word": "have"
+        },
+        {
+          "conf": 1.0,
+          "end": 2.37,
+          "start": 2.19,
+          "word": "you"
+        },
+        {
+          "conf": 1.0,
+          "end": 3.105352,
+          "start": 2.37,
+          "word": "visited"
+        },
+        {
+          "conf": 0.503915,
+          "end": 3.24,
+          "start": 3.15,
+          "word": "a"
+        },
+        {
+          "conf": 1.0,
+          "end": 3.72,
+          "start": 3.24,
+          "word": "whole"
+        },
+        {
+          "conf": 0.570543,
+          "end": 4.11,
+          "start": 3.72,
+          "word": "house"
+        },
+        {
+          "conf": 1.0,
+          "end": 4.38,
+          "start": 4.11,
+          "word": "front"
+        },
+        {
+          "conf": 1.0,
+          "end": 4.74,
+          "start": 4.38,
+          "word": "door"
+        },
+        {
+          "conf": 0.593199,
+          "end": 5.43,
+          "start": 4.8,
+          "word": "backdoor"
+        },
+        {
+          "conf": 1.0,
+          "end": 5.94,
+          "start": 5.67,
+          "word": "let's"
+        },
+        {
+          "conf": 1.0,
+          "end": 6.127396,
+          "start": 5.94,
+          "word": "see"
+        },
+        {
+          "conf": 0.671505,
+          "end": 6.3,
+          "start": 6.127396,
+          "word": "ya"
+        },
+        {
+          "conf": 0.944314,
+          "end": 6.69,
+          "start": 6.3,
+          "word": "cross"
+        },
+        {
+          "conf": 0.549321,
+          "end": 7.05,
+          "start": 6.69,
+          "word": "pass"
+        },
+        {
+          "conf": 0.501948,
+          "end": 7.29,
+          "start": 7.05719,
+          "word": "it"
+        },
+        {
+          "conf": 0.741314,
+          "end": 7.71,
+          "start": 7.29,
+          "word": "all"
+        },
+        {
+          "conf": 0.791509,
+          "end": 8.16,
+          "start": 7.71,
+          "word": "house"
+        },
+        {
+          "conf": 0.766038,
+          "end": 9.72,
+          "start": 9.42,
+          "word": "paul"
+        },
+        {
+          "conf": 0.812562,
+          "end": 10.32,
+          "start": 9.72,
+          "word": "how's"
+        },
+        {
+          "conf": 1.0,
+          "end": 11.636298,
+          "start": 11.22,
+          "word": "open"
+        },
+        {
+          "conf": 1.0,
+          "end": 12.03,
+          "start": 11.643702,
+          "word": "whole"
+        },
+        {
+          "conf": 0.916738,
+          "end": 12.36,
+          "start": 12.03,
+          "word": "nice"
+        },
+        {
+          "conf": 0.916738,
+          "end": 12.51,
+          "start": 12.36,
+          "word": "and"
+        },
+        {
+          "conf": 1.0,
+          "end": 12.93,
+          "start": 12.51,
+          "word": "wide"
+        },
+        {
+          "conf": 1.0,
+          "end": 13.44,
+          "start": 12.93,
+          "word": "service"
+        },
+        {
+          "conf": 1.0,
+          "end": 13.88338,
+          "start": 13.44,
+          "word": "and"
+        },
+        {
+          "conf": 0.854953,
+          "end": 14.07,
+          "start": 13.92,
+          "word": "on"
+        },
+        {
+          "conf": 1.0,
+          "end": 14.19,
+          "start": 14.07,
+          "word": "the"
+        },
+        {
+          "conf": 1.0,
+          "end": 14.82,
+          "start": 14.19,
+          "word": "side"
+        },
+        {
+          "conf": 1.0,
+          "end": 15.15,
+          "start": 14.82,
+          "word": "upper"
+        },
+        {
+          "conf": 1.0,
+          "end": 15.54,
+          "start": 15.15,
+          "word": "and"
+        },
+        {
+          "conf": 1.0,
+          "end": 16.02,
+          "start": 15.54,
+          "word": "lower"
+        },
+        {
+          "conf": 0.725848,
+          "end": 16.38,
+          "start": 16.02,
+          "word": "end"
+        },
+        {
+          "conf": 1.0,
+          "end": 16.68,
+          "start": 16.41,
+          "word": "show"
+        },
+        {
+          "conf": 1.0,
+          "end": 16.92,
+          "start": 16.68,
+          "word": "me"
+        },
+        {
+          "conf": 1.0,
+          "end": 17.16,
+          "start": 16.92,
+          "word": "where"
+        },
+        {
+          "conf": 0.629832,
+          "end": 17.28,
+          "start": 17.16,
+          "word": "your"
+        },
+        {
+          "conf": 1.0,
+          "end": 17.67,
+          "start": 17.28,
+          "word": "screens"
+        },
+        {
+          "conf": 1.0,
+          "end": 17.79,
+          "start": 17.67,
+          "word": "have"
+        },
+        {
+          "conf": 1.0,
+          "end": 18.12,
+          "start": 17.79,
+          "word": "been"
+        },
+        {
+          "conf": 1.0,
+          "end": 18.3,
+          "start": 18.12,
+          "word": "all"
+        },
+        {
+          "conf": 1.0,
+          "end": 18.81,
+          "start": 18.3,
+          "word": "house"
+        },
+        {
+          "conf": 1.0,
+          "end": 19.17,
+          "start": 18.93,
+          "word": "all"
+        },
+        {
+          "conf": 1.0,
+          "end": 19.62,
+          "start": 19.17,
+          "word": "house"
+        },
+        {
+          "conf": 0.694476,
+          "end": 20.04,
+          "start": 19.71,
+          "word": "smoke"
+        },
+        {
+          "conf": 1.0,
+          "end": 20.34,
+          "start": 20.04,
+          "word": "black"
+        },
+        {
+          "conf": 1.0,
+          "end": 20.52,
+          "start": 20.34,
+          "word": "and"
+        },
+        {
+          "conf": 1.0,
+          "end": 20.76,
+          "start": 20.52,
+          "word": "all"
+        },
+        {
+          "conf": 1.0,
+          "end": 20.88,
+          "start": 20.76,
+          "word": "the"
+        },
+        {
+          "conf": 1.0,
+          "end": 21.27,
+          "start": 20.88,
+          "word": "way"
+        },
+        {
+          "conf": 1.0,
+          "end": 21.57,
+          "start": 21.27,
+          "word": "big"
+        },
+        {
+          "conf": 1.0,
+          "end": 21.78,
+          "start": 21.57,
+          "word": "old"
+        }
+      ],
+      "text": "oh house ha ha was have you visited a whole house front door backdoor let's see ya cross pass it all house paul how's open whole nice and wide service and on the side upper and lower end show me where your screens have been all house all house smoke black and all the way big old"
+    },
+    {
+      "result": [
+        {
+          "conf": 0.379448,
+          "end": 22.17,
+          "start": 21.87,
+          "word": "ah"
+        },
+        {
+          "conf": 1.0,
+          "end": 22.38,
+          "start": 22.23,
+          "word": "what"
+        },
+        {
+          "conf": 1.0,
+          "end": 22.56,
+          "start": 22.38,
+          "word": "can"
+        },
+        {
+          "conf": 1.0,
+          "end": 22.68,
+          "start": 22.56,
+          "word": "i"
+        },
+        {
+          "conf": 1.0,
+          "end": 23.22,
+          "start": 22.68,
+          "word": "say"
+        },
+        {
+          "conf": 1.0,
+          "end": 23.97,
+          "start": 23.31,
+          "word": "inserted"
+        },
+        {
+          "conf": 1.0,
+          "end": 24.72,
+          "start": 23.97,
+          "word": "flow"
+        },
+        {
+          "conf": 1.0,
+          "end": 25.59,
+          "start": 24.72,
+          "word": "behave"
+        },
+        {
+          "conf": 1.0,
+          "end": 26.22,
+          "start": 25.71,
+          "word": "all"
+        },
+        {
+          "conf": 1.0,
+          "end": 26.668118,
+          "start": 26.22,
+          "word": "house"
+        }
+      ],
+      "text": "ah what can i say inserted flow behave all house"
+    },
+    {
+      "result": [
+        {
+          "conf": 0.71934,
+          "end": 28.2,
+          "start": 27.96,
+          "word": "all"
+        },
+        {
+          "conf": 0.502852,
+          "end": 28.89,
+          "start": 28.2,
+          "word": "how's"
+        }
+      ],
+      "text": "all how's"
+    },
+    {
+      "result": [
+        {
+          "conf": 0.290859,
+          "end": 30.18,
+          "start": 29.91,
+          "word": "don't"
+        },
+        {
+          "conf": 0.328384,
+          "end": 30.93,
+          "start": 30.57,
+          "word": "door"
+        },
+        {
+          "conf": 1.0,
+          "end": 31.44,
+          "start": 31.14,
+          "word": "straight"
+        },
+        {
+          "conf": 1.0,
+          "end": 31.68,
+          "start": 31.44,
+          "word": "through"
+        },
+        {
+          "conf": 1.0,
+          "end": 31.8,
+          "start": 31.68,
+          "word": "the"
+        },
+        {
+          "conf": 1.0,
+          "end": 32.22,
+          "start": 31.8,
+          "word": "cross"
+        },
+        {
+          "conf": 0.752394,
+          "end": 32.79,
+          "start": 32.31,
+          "word": "passage"
+        },
+        {
+          "conf": 1.0,
+          "end": 33.24,
+          "start": 32.812573,
+          "word": "whole"
+        },
+        {
+          "conf": 1.0,
+          "end": 33.69,
+          "start": 33.24,
+          "word": "house"
+        },
+        {
+          "conf": 1.0,
+          "end": 34.74,
+          "start": 34.47,
+          "word": "nice"
+        },
+        {
+          "conf": 1.0,
+          "end": 34.95,
+          "start": 34.74,
+          "word": "big"
+        },
+        {
+          "conf": 1.0,
+          "end": 35.37,
+          "start": 34.95,
+          "word": "frame"
+        },
+        {
+          "conf": 1.0,
+          "end": 35.73,
+          "start": 35.37,
+          "word": "plenty"
+        },
+        {
+          "conf": 1.0,
+          "end": 35.85,
+          "start": 35.73,
+          "word": "of"
+        },
+        {
+          "conf": 0.542542,
+          "end": 36.232969,
+          "start": 35.85,
+          "word": "based"
+        },
+        {
+          "conf": 1.0,
+          "end": 36.75,
+          "start": 36.232969,
+          "word": "service"
+        },
+        {
+          "conf": 1.0,
+          "end": 37.000411,
+          "start": 36.75,
+          "word": "and"
+        },
+        {
+          "conf": 0.520309,
+          "end": 37.08,
+          "start": 37.000411,
+          "word": "and"
+        },
+        {
+          "conf": 1.0,
+          "end": 37.38,
+          "start": 37.08,
+          "word": "seen"
+        },
+        {
+          "conf": 1.0,
+          "end": 37.65,
+          "start": 37.38,
+          "word": "better"
+        },
+        {
+          "conf": 1.0,
+          "end": 38.34,
+          "start": 37.65,
+          "word": "days"
+        },
+        {
+          "conf": 1.0,
+          "end": 38.88,
+          "start": 38.37,
+          "word": "solar"
+        },
+        {
+          "conf": 1.0,
+          "end": 39.81,
+          "start": 38.88,
+          "word": "upstairs"
+        },
+        {
+          "conf": 1.0,
+          "end": 40.47,
+          "start": 40.14,
+          "word": "very"
+        },
+        {
+          "conf": 1.0,
+          "end": 41.1,
+          "start": 40.47,
+          "word": "private"
+        },
+        {
+          "conf": 0.789452,
+          "end": 42.705513,
+          "start": 42.194169,
+          "word": "ah"
+        }
+      ],
+      "text": "don't door straight through the cross passage whole house nice big frame plenty of based service and and seen better days solar upstairs very private ah"
+    },
+    {
+      "result": [
+        {
+          "conf": 1.0,
+          "end": 44.91,
+          "start": 44.7,
+          "word": "have"
+        },
+        {
+          "conf": 1.0,
+          "end": 45.06,
+          "start": 44.91,
+          "word": "you"
+        },
+        {
+          "conf": 1.0,
+          "end": 45.84,
+          "start": 45.06,
+          "word": "visited"
+        },
+        {
+          "conf": 0.8428,
+          "end": 46.44,
+          "start": 45.84,
+          "word": "all"
+        },
+        {
+          "conf": 0.783717,
+          "end": 46.95,
+          "start": 46.44,
+          "word": "house"
+        }
+      ],
+      "text": "have you visited all house"
+    }
+  ],
+  "transcript": "oh house ha ha was have you visited a whole house front door backdoor let's see ya cross pass it all house paul how's open whole nice and wide service and on the side upper and lower end show me where your screens have been all house all house smoke black and all the way big old ah what can i say inserted flow behave all house all how's don't door straight through the cross passage whole house nice big frame plenty of based service and and seen better days solar upstairs very private ah have you visited all house",
+  "runtime_s": 2.27,
+  "provenance": "Offline recognizer, unconstrained vocabulary; raw hypothesis, not corrected."
+}

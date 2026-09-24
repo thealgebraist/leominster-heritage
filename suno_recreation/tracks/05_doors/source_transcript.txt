@@ -1,0 +1,24 @@
+Doors — source transcript
+Approximate timings; uncertainty markers are not sung words.
+
+0.0–6.3  Door repeated [approximately seven calls].
+6.3–7.6  Green door, red door.
+7.6–10.6  Door repeated; exact count unresolved.
+10.6–11.2  Cat flap [likely; supported by two ASR passes and partial OCR at 11s].
+11.2–12.4  Blue door, black door.
+12.4–14.2  Door repeated.
+14.2–16.4  Back door, front door / Big door, small door.
+16.4–18.0  Door repeated; two overlapping Whisper chunks hear a possible “trap door” near the end, but the word is not caption-confirmed.
+18.0–18.9  Old door, new door.
+18.9–20.3  Door repeated.
+20.3–23.5  Stable door / Cellar door!
+23.5–28.8  Ah! / hold on? / [Hodor?] / intervening vocal passage; the exact wording is unresolved.
+28.8–31.9  Door, panel door [caption also says panelled], plank door.
+31.9–35.2  Door, door, studded door, arched door.
+35.2–40.0  Door, door, secret door / Where? / Behind the door.
+40.0–42.9  Door repeated [approximately six calls].
+42.9–45.9  Green door, red door, blue door / Cat flap!
+46.0–50.3  Door, door, door / And one more…
+51.5–59.3  Dumbledore! [caption splits it as Dumble / Door; held/effected passage follows]
+59.4–61.3  Door!
+61.3–64.7  End-card/music tail.
