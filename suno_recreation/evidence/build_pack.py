@@ -134,7 +134,7 @@ Raw excerpt interpretations are preserved below as evidence links. They are not 
  combined.append(body.replace('../../source_videos/','source_videos/').replace('../../evidence/','evidence/'))
 (ROOT/'COMPLETE_GUIDE.md').write_text('\n\n---\n\n'.join(combined))
 readme=(ROOT/'README.md').read_text().split('\n## Tracks\n')[0]
-readme+='\n## Tracks\n\n| Track | Video | Original file ID | Duration | Copy-ready files |\n|---|---|---|---:|---|\n'+'\n'.join(source_links)+'\n\nAll nine source videos have timed transcripts, pronunciation notes, music analysis, and Suno recreation prompts.\n\n[Download the Apple and Android ringtones](ringtones/README.md)\n\n[Read the complete guide](COMPLETE_GUIDE.md) · [Open the listening and copying page](index.html)\n'
+readme+='\n## Tracks\n\n| Track | Video | Original file ID | Duration | Copy-ready files |\n|---|---|---|---:|---|\n'+'\n'.join(source_links)+'\n\nAll nine source videos have timed transcripts, pronunciation notes, music analysis, and Suno recreation prompts.\n\n[Download the Apple and Android ringtones](ringtones/README.md) · [Read the token and timing audit](ANALYSIS_USAGE.md)\n\n[Read the complete guide](COMPLETE_GUIDE.md) · [Open the listening and copying page](index.html)\n'
 (ROOT/'README.md').write_text(readme)
 # Offline HTML companion: source playback, evidence transcript, and copy-ready prompts.
 def esc(s):return html.escape(s,quote=True)

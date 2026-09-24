@@ -53,6 +53,6 @@ The raw evidence and analysis scripts are in `evidence/`. The manifest records S
 
 All nine source videos have timed transcripts, pronunciation notes, music analysis, and Suno recreation prompts.
 
-[Download the Apple and Android ringtones](ringtones/README.md)
+[Download the Apple and Android ringtones](ringtones/README.md) · [Read the token and timing audit](ANALYSIS_USAGE.md)
 
 [Read the complete guide](COMPLETE_GUIDE.md) · [Open the listening and copying page](index.html)
