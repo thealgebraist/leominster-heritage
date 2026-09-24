@@ -2,6 +2,13 @@
 
 Source: [bargeboard.mp4](../../../account_mp4/bargeboard.mp4) · **38.01 seconds** · [extracted audio](../../evidence/audio/DcRZB_PBFkr.wav)
 
+## Listening/navigation aids
+
+- [Waveform and onset-strength overview (navigation aid, not a score)](../../evidence/listen_cues/DcRZB_PBFkr/waveform_onsets.png)
+- [8-second source-audio excerpts with relative time ranges](../../evidence/listen_cues/DcRZB_PBFkr/)
+
+The excerpts are PCM slices from the existing mono analysis WAV. The plot shows amplitude and spectral onset strength; it does not establish notes, instrumentation, meter, or a transcription. Use the original stereo/video for final listening checks.
+
 ## Transcript and timing
 
 | Approx. source time | Best-supported words / event |
@@ -44,11 +51,21 @@ Broad respellings are performance targets; they do not establish every vowel of 
 
 **Melody and phrase shape:** The short nouns form distinct rhythmic cells: quick two-syllable corbel repeats, longer bargeboard replies, then a succession of new word shapes. The model hears small rises and falls rather than extended lyrical melody. Suggested rendition: retain a narrow repeated-note chant, contrast the slower replies, and put a slightly broader accent on finial. No exact intervals are recovered.
 
-**Rhythm:** Two tempo estimators applied to the same audio show a pulse near 135 BPM or its half-time reading near 67–68 BPM; their agreement is not independent confirmation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 134.7 BPM (peak score 0.66), 67.3 BPM (peak score 0.66), 90.0 BPM (peak score 0.38). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
+**Rhythm:** A fast regular pulse near 135 BPM is supported by two signal-analysis methods; 67–68 BPM is the corresponding half-time interpretation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 134.7 BPM (peak score 0.66), 67.3 BPM (peak score 0.66), 90.0 BPM (peak score 0.38). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
 
 **Tonality and harmony:** One excerpt model suggests a major-like sound, but its instrumental account conflicts with a later excerpt and the key profiles are close. Use a light repetitive tonal centre as a reconstruction choice, without treating G major or C minor as established. Mixed-audio pitch-class profile candidates: G major (0.58), C minor (0.56), C major (0.54). These numbers are correlation scores, not probabilities. They are retained for experimentation, not stated as verified keys. An exact chord sequence and note-by-note melody have not been established.
 
-**Instrumentation and timbre — model interpretation:** The final portion is described as an electronic beat and synthesized backing. The first portion is inconsistently described as nearly vocal-only, so backing prominence may be low or obscured by the voice. Use sparse synthetic low notes and short percussive accents as a conservative recipe; specific instrumental sources are unresolved. The separated-backing query identifies a repetitive synth bassline, bright staccato synth figures and a regular dance beat. This strengthens the electronic backing interpretation where the foreground-vocal query was ambiguous. A four-on-the-floor pattern is model-reported, not independently counted.
+**Section-level chroma comparison:** The leading profiles shift from G major to C major in the mix, and the final short window disagrees sharply between mix and backing. No single track-wide key is supported. The table gives only each signal's top profile candidate; the full ranked candidates, method and caveats are in [section_tonality.json](../../evidence/section_tonality.json) and [section_tonality.py](../../evidence/section_tonality.py). Scores are correlations, not probabilities.
+
+| Time window | Original mix harmonic | Estimated backing harmonic |
+|---|---|---|
+| 0–8s | G major (0.69) | G major (0.62) |
+| 8–16s | C major (0.58) | C minor (0.52) |
+| 16–24s | C major (0.61) | C minor (0.60) |
+| 24–32s | C major (0.59) | G major (0.55) |
+| 32–38s | C♯ minor (0.62) | F major (0.73) |
+
+**Instrumentation and timbre — model interpretation:** The final portion is described as an electronic beat and synthesized backing. The first portion is inconsistently described as nearly vocal-only, so backing prominence may be low or obscured by the voice. Use sparse synthetic low notes and short percussive accents as a conservative recipe; specific instrumental sources are unresolved.
 
 **Production, sound effects, and edits:** Abrupt emphasis, repeated vocal syllables and a short isolated final exclamation are supported by the transcript. Compression, doubling, and small room/reverb effects are model suggestions, not measured production settings. No named TV programme or original music source has been identified.
 

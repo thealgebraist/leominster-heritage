@@ -25,6 +25,8 @@ The first Apple AVFoundation attempt could not decode the source VP9 streams (er
 
 Pitch-class profiles are Krumhansl-style major/minor correlations on the harmonic estimate. Correlations are not calibrated probabilities. Mixed vocals, non-pitched sounds, limited duration, and rhythmic repetition can make the top key candidate wrong. No chord sequence, exact fundamental vocal range, or note-by-note melody was validated.
 
+`section_tonality.py` adds a separate 8-second windowed check. It resamples both original mono mixes and Demucs-estimated backing stems to 22.05 kHz, extracts the HPSS harmonic component, averages chroma-CQT features, then ranks rotated Krumhansl major/minor profiles by Pearson correlation. `section_tonality.json` preserves the top three labels and scores for each signal/window. These windows are analysis bins, not guaranteed phrase boundaries. Similar rankings in mix and backing support only a candidate tonal area; relative-major/minor ambiguity, voice leakage, transient effects, and short excerpts remain. In the Doors clip the F-minor / C-minor / F-minor section pattern is repeated by both signals; in Windows G is recurrent while mode rankings alternate. The Columns profiles cluster around E-flat/B-flat. These are hypotheses for Suno prompt experiments, not verified keys or chords.
+
 ## Audio-description model and resource recovery
 
 An initial attempt to download `mlx-community/Qwen2-Audio-7B-Instruct-4bit` failed with `No space left on device`. Its actual weight file was ~6.56 GB, larger than the model card's rough size claim. The failed download was stopped and its temporary partial file removed. It produced no audio descriptions and is not evidence for the reports.

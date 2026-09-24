@@ -2,6 +2,13 @@
 
 Source: [DcvxvGDhSeb.mp4](../../../account_mp4/DcvxvGDhSeb.mp4) · **22.48 seconds** · [extracted audio](../../evidence/audio/DcvxvGDhSeb.wav)
 
+## Listening/navigation aids
+
+- [Waveform and onset-strength overview (navigation aid, not a score)](../../evidence/listen_cues/DcvxvGDhSeb/waveform_onsets.png)
+- [8-second source-audio excerpts with relative time ranges](../../evidence/listen_cues/DcvxvGDhSeb/)
+
+The excerpts are PCM slices from the existing mono analysis WAV. The plot shows amplitude and spectral onset strength; it does not establish notes, instrumentation, meter, or a transcription. Use the original stereo/video for final listening checks.
+
 ## Transcript and timing
 
 | Approx. source time | Best-supported words / event |
@@ -33,11 +40,19 @@ Cambridge lists UK echinus /ekˈaɪ.nəs/ and US /ɪˈkaɪ.nəs/; [Wiktionary re
 
 **Melody and phrase shape:** Paired three-syllable names alternate with a short phrase and a longer answer ending in shaft. Repetition of “a gently swelling shaft” supplies the ending motif. Suggested rendition: make the technical terms springy and compact, then gently lengthen the final shaft vowel in each response. Actual pitch intervals and any terminal glide are not measured.
 
-**Rhythm:** Two tempo estimators applied to the same audio show a pulse near 135 BPM or its half-time reading near 67–68 BPM; their agreement is not independent confirmation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 136.3 BPM (peak score 0.59), 68.2 BPM (peak score 0.57), 90.8 BPM (peak score 0.52). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
+**Rhythm:** A fast regular pulse near 135 BPM is supported by two signal-analysis methods; 67–68 BPM is the corresponding half-time interpretation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 136.3 BPM (peak score 0.59), 68.2 BPM (peak score 0.57), 90.8 BPM (peak score 0.52). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
 
 **Tonality and harmony:** C major is the leading mixed-audio profile, but C minor also scores meaningfully. Use a light repetitive tonal setting; C major is an optional trial key rather than a verified source key. The vocal rhythm is better established than the harmony. Mixed-audio pitch-class profile candidates: C major (0.69), C minor (0.53), G major (0.50). These numbers are correlation scores, not probabilities. They are retained for experimentation, not stated as verified keys. An exact chord sequence and note-by-note melody have not been established.
 
-**Instrumentation and timbre — model interpretation:** The model identifies synthetic drum, bass and keyboard-like textures. It does not identify an acoustic lead instrument with adequate support. Keep the backing sparse enough to retain all three syllables of each technical word. The separated-backing query suggests a funk/disco-like groove, prominent melodic bass, electronic percussion and staccato synth/brass-like figures. Electric bass versus synthesized bass remains unresolved. These are model interpretations, not instrument credits.
+**Section-level chroma comparison:** The opening favors G major; later windows are weaker and the original mix and separated backing disagree. No stable whole-track key is supported. The table gives only each signal's top profile candidate; the full ranked candidates, method and caveats are in [section_tonality.json](../../evidence/section_tonality.json) and [section_tonality.py](../../evidence/section_tonality.py). Scores are correlations, not probabilities.
+
+| Time window | Original mix harmonic | Estimated backing harmonic |
+|---|---|---|
+| 0–8s | G major (0.69) | G major (0.65) |
+| 8–16s | C minor (0.50) | G minor (0.52) |
+| 16–22s | B minor (0.35) | F major (0.55) |
+
+**Instrumentation and timbre — model interpretation:** The model identifies synthetic drum, bass and keyboard-like textures. It does not identify an acoustic lead instrument with adequate support. Keep the backing sparse enough to retain all three syllables of each technical word.
 
 **Production, sound effects, and edits:** A short swoosh-like sound near the ending is reported by the model. Digital/clean overall texture is plausible, but the exact processor is unknown. The most important audible form is the spaced repetition of the final line, supported by both recognizer passes.
 

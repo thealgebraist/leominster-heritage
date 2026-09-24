@@ -2,6 +2,13 @@
 
 Source: [DdLxzBIoJ8F.mp4](../../../account_mp4/DdLxzBIoJ8F.mp4) · **49.97 seconds** · [extracted audio](../../evidence/audio/DdLxzBIoJ8F.wav)
 
+## Listening/navigation aids
+
+- [Waveform and onset-strength overview (navigation aid, not a score)](../../evidence/listen_cues/DdLxzBIoJ8F/waveform_onsets.png)
+- [8-second source-audio excerpts with relative time ranges](../../evidence/listen_cues/DdLxzBIoJ8F/)
+
+The excerpts are PCM slices from the existing mono analysis WAV. The plot shows amplitude and spectral onset strength; it does not establish notes, instrumentation, meter, or a transcription. Use the original stereo/video for final listening checks.
+
 ## Transcript and timing
 
 | Approx. source time | Best-supported words / event |
@@ -53,11 +60,22 @@ Broad respellings are performance targets; they do not establish every vowel of 
 
 **Melody and phrase shape:** Hall house is the recurring two-word refrain, while the verse moves quickly through rhyming phrases. The source sequence supports repeated couplet-length units, changing to spoken asides on oh behave and very private. Suggested rendition: broaden the two stresses of HALL HOUSE, keep the descriptive lines on a narrow patter melody, and briefly drop the aside into speech. Exact notes and a sung range are not established.
 
-**Rhythm:** Two tempo estimators applied to the same audio show a pulse near 135 BPM or its half-time reading near 67–68 BPM; their agreement is not independent confirmation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 136.5 BPM (peak score 0.58), 68.2 BPM (peak score 0.57), 90.8 BPM (peak score 0.51). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
+**Rhythm:** A fast regular pulse near 135 BPM is supported by two signal-analysis methods; 67–68 BPM is the corresponding half-time interpretation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 136.5 BPM (peak score 0.58), 68.2 BPM (peak score 0.57), 90.8 BPM (peak score 0.51). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
 
 **Tonality and harmony:** Whole-mixture key correlations are weak and nearly tied; no key or major/minor mode is established. Preserve a simple low tonal backing and the rhythmic phrasing rather than forcing a supposedly exact progression. The model’s mood descriptions range from lively/quirky to slightly dark, so the recreation can keep a playful deadpan tone without prescribing a dark minor mode. Mixed-audio pitch-class profile candidates: A♭ major (0.37), D♭ minor (0.37), C minor (0.34). These numbers are correlation scores, not probabilities. They are retained for experimentation, not stated as verified keys. An exact chord sequence and note-by-note melody have not been established.
 
-**Instrumentation and timbre — model interpretation:** The model consistently describes an electronic beat and synthesized low line, with occasional higher chime-like accents. It also suggests sampler-like percussion, but specific 808 hardware and named game associations are unsupported and omitted from the recipe. The separated-backing query also identifies electronic bass, drums and keyboard/synth sounds, with beep, glide and wah-like accents. This strengthens the broad timbral recipe; precise effects remain unverified.
+**Section-level chroma comparison:** C minor ranks first in most windows, but scores are modest and the 8–16 s and ending windows vary. C-minor-leaning backing is an experiment, not a verified key. The table gives only each signal's top profile candidate; the full ranked candidates, method and caveats are in [section_tonality.json](../../evidence/section_tonality.json) and [section_tonality.py](../../evidence/section_tonality.py). Scores are correlations, not probabilities.
+
+| Time window | Original mix harmonic | Estimated backing harmonic |
+|---|---|---|
+| 0–8s | C minor (0.44) | C minor (0.48) |
+| 8–16s | C♯ major (0.39) | G♯ major (0.44) |
+| 16–24s | C minor (0.41) | C minor (0.48) |
+| 24–32s | C minor (0.43) | C minor (0.45) |
+| 32–40s | C minor (0.38) | C minor (0.43) |
+| 40–48s | C major (0.42) | C minor (0.40) |
+
+**Instrumentation and timbre — model interpretation:** The model consistently describes an electronic beat and synthesized low line, with occasional higher chime-like accents. It also suggests sampler-like percussion, but specific 808 hardware and named game associations are unsupported and omitted from the recipe.
 
 **Production, sound effects, and edits:** Short whoosh-like transitions and chime-like accents are model-reported possibilities. The dry foreground voice, pauses, and comic asides are the more stable description. No identifiable original game, show, artist or sample source has been established.
 

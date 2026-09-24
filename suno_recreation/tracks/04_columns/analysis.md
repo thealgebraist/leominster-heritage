@@ -2,6 +2,13 @@
 
 Source: [DcYTYvMBSMn.mp4](../../../account_mp4/DcYTYvMBSMn.mp4) · **53.62 seconds** · [extracted audio](../../evidence/audio/DcYTYvMBSMn.wav)
 
+## Listening/navigation aids
+
+- [Waveform and onset-strength overview (navigation aid, not a score)](../../evidence/listen_cues/DcYTYvMBSMn/waveform_onsets.png)
+- [8-second source-audio excerpts with relative time ranges](../../evidence/listen_cues/DcYTYvMBSMn/)
+
+The excerpts are PCM slices from the existing mono analysis WAV. The plot shows amplitude and spectral onset strength; it does not establish notes, instrumentation, meter, or a transcription. Use the original stereo/video for final listening checks.
+
 ## Transcript and timing
 
 | Approx. source time | Best-supported words / event |
@@ -43,11 +50,23 @@ Broad respellings are performance targets; they do not establish every vowel of 
 
 **Melody and phrase shape:** Each block contrasts rapid catalogue syllables with a sustained Ah and a longer technical name. This contrast is directly supported by the lyric timing and vocalized Ah detections. The model hears speech-like pitch changes and changing phrase contours. Suggested rendition: use one short recurring list motif, open the register and vowel for Ah, then resolve the longer name back into the next list. Exact pitch heights and intervals remain unverified.
 
-**Rhythm:** Two tempo estimators applied to the same audio show a pulse near 135 BPM or its half-time reading near 67–68 BPM; their agreement is not independent confirmation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 67.4 BPM (peak score 0.64), 89.9 BPM (peak score 0.57), 134.7 BPM (peak score 0.56). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
+**Rhythm:** A fast regular pulse near 135 BPM is supported by two signal-analysis methods; 67–68 BPM is the corresponding half-time interpretation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 67.4 BPM (peak score 0.64), 89.9 BPM (peak score 0.57), 134.7 BPM (peak score 0.56). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
 
 **Tonality and harmony:** The strongest mixture profile is B-flat major, ahead of E-flat major, but this is still a heuristic result from a vocal-heavy clip. A bright major-like setting is a reasonable experiment; B-flat major can be tried as a test key, not stated as the original. No harmonic progression is recovered. Mixed-audio pitch-class profile candidates: B♭ major (0.71), E♭ major (0.54), E♭ minor (0.42). These numbers are correlation scores, not probabilities. They are retained for experimentation, not stated as verified keys. An exact chord sequence and note-by-note melody have not been established.
 
-**Instrumentation and timbre — model interpretation:** At least a rhythmic low/percussive backing is indicated. One model excerpt hears drums, bass and synths; another hears beatboxing/sample-like percussion. Prefer a hybrid description—tight synthetic/vocal-like percussion and a low pulse—over claiming a live bass guitar or drum kit. The separated-backing query identifies synth bass, electronic drums and synth figures. This is more consistent with an electronic backing than a purely beatboxed arrangement; it does not rule out vocal-like samples. A scratch-like texture is model-reported and tentative.
+**Section-level chroma comparison:** E-flat/B-flat profile labels recur across most sections in both signals, while major/minor mode and the strongest member of that family vary. An E-flat/B-flat tonal palette is a more cautious prompt test than a single asserted key. The table gives only each signal's top profile candidate; the full ranked candidates, method and caveats are in [section_tonality.json](../../evidence/section_tonality.json) and [section_tonality.py](../../evidence/section_tonality.py). Scores are correlations, not probabilities.
+
+| Time window | Original mix harmonic | Estimated backing harmonic |
+|---|---|---|
+| 0–8s | D♯ minor (0.57) | D♯ major (0.71) |
+| 8–16s | D♯ major (0.72) | D♯ major (0.71) |
+| 16–24s | A♯ major (0.71) | D♯ major (0.64) |
+| 24–32s | D♯ major (0.66) | D♯ major (0.67) |
+| 32–40s | A♯ major (0.71) | A♯ major (0.63) |
+| 40–48s | D♯ major (0.69) | D♯ major (0.68) |
+| 48–54s | D♯ major (0.73) | A♯ major (0.78) |
+
+**Instrumentation and timbre — model interpretation:** At least a rhythmic low/percussive backing is indicated. One model excerpt hears drums, bass and synths; another hears beatboxing/sample-like percussion. Prefer a hybrid description—tight synthetic/vocal-like percussion and a low pulse—over claiming a live bass guitar or drum kit.
 
 **Production, sound effects, and edits:** Possible mild reverb or short delay on the voice. The final Palladio exclamation is followed by a sparse ending and a low percussive cue according to the short tail analysis. Specific delay times and effect devices are not known.
 
@@ -63,7 +82,7 @@ The musical recipe adds explicit directions where the source analysis is incompl
 ## Paste into Suno: Styles
 
 ```text
-Quirky theatrical male catalogue song, about 135 BPM, brisk straight rhythm. Precisely articulated short speech-sung lists contrast with broad sustained open-vowel Ah exclamations and elongated architectural names. Reuse the same compact motif for column, pilaster, fluted and capital sections. Light punchy electronic beat, low bass pulse, dry vocal-like percussion and sparse bright keyboard accents; keep the lead upfront. Suggested bright major mood, modest vocal reverb. Emphasise kuh-RIN-thee-un, eye-ON-ik and puh-LAH-dee-oh clearly. End with composite then Palladio and a short low percussive stop, roughly 54 seconds.
+Quirky theatrical male catalogue song, about 135 BPM, brisk straight rhythm. Precisely articulated short speech-sung lists contrast with broad sustained open-vowel Ah exclamations and elongated architectural names. Reuse the same compact motif for column, pilaster, fluted and capital sections. Light punchy electronic beat, low bass pulse, dry vocal-like percussion and sparse bright keyboard accents; keep the lead upfront. Try an E-flat/B-flat-centered, major-leaning palette but leave the exact mode and chord sequence flexible; this is a section-chroma experiment, not a confirmed key. Emphasise kuh-RIN-thee-un, eye-ON-ik and puh-LAH-dee-oh clearly. End with composite then Palladio and a short low percussive stop, roughly 54 seconds.
 ```
 
 ## Paste into Suno: Lyrics

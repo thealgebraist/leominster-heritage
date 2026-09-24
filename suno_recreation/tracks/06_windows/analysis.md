@@ -2,6 +2,13 @@
 
 Source: [DcqWhZtBIEI.mp4](../../../account_mp4/DcqWhZtBIEI.mp4) · **67.01 seconds** · [extracted audio](../../evidence/audio/DcqWhZtBIEI.wav)
 
+## Listening/navigation aids
+
+- [Waveform and onset-strength overview (navigation aid, not a score)](../../evidence/listen_cues/DcqWhZtBIEI/waveform_onsets.png)
+- [8-second source-audio excerpts with relative time ranges](../../evidence/listen_cues/DcqWhZtBIEI/)
+
+The excerpts are PCM slices from the existing mono analysis WAV. The plot shows amplitude and spectral onset strength; it does not establish notes, instrumentation, meter, or a transcription. Use the original stereo/video for final listening checks.
+
 ## Transcript and timing
 
 | Approx. source time | Best-supported words / event |
@@ -51,11 +58,25 @@ Broad respellings are performance targets; they do not establish every vowel of 
 
 **Melody and phrase shape:** The recurring two-syllable window phrase anchors the catalogue. Short noun lists alternate with question/answer exchanges, creating contour through speech rather than a continuous sung tune. Suggested contours: lift the casement question, settle the yes answer, and lower/flatten obviously. These are practical performance instructions; the source contour has not been transcribed note for note.
 
-**Rhythm:** Two tempo estimators applied to the same audio show a pulse near 135 BPM or its half-time reading near 67–68 BPM; their agreement is not independent confirmation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 134.6 BPM (peak score 0.64), 67.3 BPM (peak score 0.55), 89.8 BPM (peak score 0.47). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
+**Rhythm:** A fast regular pulse near 135 BPM is supported by two signal-analysis methods; 67–68 BPM is the corresponding half-time interpretation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 134.6 BPM (peak score 0.64), 67.3 BPM (peak score 0.55), 89.8 BPM (peak score 0.47). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
 
 **Tonality and harmony:** The mixture gives G major and G minor as the leading candidates; that establishes neither one conclusively. The broad effect is energetic and comic. For a first generation use a simple repeating tonal backing; test G as a centre only if an explicit key is useful. Mixed-audio pitch-class profile candidates: G major (0.73), G minor (0.66), B minor (0.42). These numbers are correlation scores, not probabilities. They are retained for experimentation, not stated as verified keys. An exact chord sequence and note-by-note melody have not been established.
 
-**Instrumentation and timbre — model interpretation:** Early/middle excerpts consistently suggest an electronic low line and bright synth backing. The last excerpt instead describes brass/woodwind-like stabs. It is safer to request short bright, slightly brassy synthetic accents than to claim a real brass or woodwind ensemble. The separated-backing query also identifies electronic bass and synthesized rhythmic/pitched sounds. It supports the broad electronic description; later brassy timbres do not establish a live brass section.
+**Section-level chroma comparison:** G is the leading tonic label throughout nearly all lyric sections in both signals, but major/minor rankings switch. A G-centered backing with mode left flexible is a testable recreation choice. The table gives only each signal's top profile candidate; the full ranked candidates, method and caveats are in [section_tonality.json](../../evidence/section_tonality.json) and [section_tonality.py](../../evidence/section_tonality.py). Scores are correlations, not probabilities.
+
+| Time window | Original mix harmonic | Estimated backing harmonic |
+|---|---|---|
+| 0–8s | G minor (0.65) | G minor (0.61) |
+| 8–16s | G minor (0.69) | G minor (0.74) |
+| 16–24s | G minor (0.67) | G major (0.73) |
+| 24–32s | G minor (0.74) | G minor (0.74) |
+| 32–40s | G major (0.86) | G major (0.81) |
+| 40–48s | G minor (0.79) | G minor (0.80) |
+| 48–56s | G minor (0.79) | G minor (0.77) |
+| 56–64s | G minor (0.71) | G minor (0.70) |
+| 64–67s | A minor (0.44) | F major (0.74) |
+
+**Instrumentation and timbre — model interpretation:** Early/middle excerpts consistently suggest an electronic low line and bright synth backing. The last excerpt instead describes brass/woodwind-like stabs. It is safer to request short bright, slightly brassy synthetic accents than to claim a real brass or woodwind ensemble.
 
 **Production, sound effects, and edits:** Breathy inhalation/gasp-like sounds and abrupt dialogue interjections are reported in the middle. The final excerpt reports reverberant or broadcast-like texture, but its claims of tape hiss and provenance are not verified. Preserve short gaps and character changes; exact sampled sources and effect settings remain unknown.
 
@@ -72,7 +93,7 @@ The musical recipe adds explicit directions where the source analysis is incompl
 ## Paste into Suno: Styles
 
 ```text
-Playful theatrical window song, about 135 BPM, clear male English rhythmic speech-singing over a compact electronic groove. A recurring WIN-doh hook anchors fast architectural lists. Alternate sung calls with dry comic dialogue: Casement, Is that a casement, Yes a casement; give Obviously a lower deadpan delivery and Very good a brief spoken reply. Tight programmed percussion, simple synth bass, bright short slightly brassy keyboard stabs. Narrow vocal motifs and speech-like pitch changes, occasional brief breath or gasp accents. End firmly with Open the window, Shut it again. Around 67 seconds; keep all dialogue audible.
+Playful theatrical window song, about 135 BPM, clear male English rhythmic speech-singing over a compact electronic groove. Keep a G-centered pitch collection with major/minor color flexible; section profiles favor G but do not settle the mode or chords. A recurring WIN-doh hook anchors fast architectural lists. Alternate sung calls with dry comic dialogue: Casement, Is that a casement, Yes a casement; give Obviously a lower deadpan delivery and Very good a brief spoken reply. Tight programmed percussion, simple synth bass, bright short slightly brassy keyboard stabs. Narrow vocal motifs and speech-like pitch changes, occasional brief breath or gasp accents. End firmly with Open the window, Shut it again. Around 67 seconds; keep all dialogue audible.
 ```
 
 ## Paste into Suno: Lyrics
@@ -125,7 +146,7 @@ Shut it again!
 
 ## First comparison after generating
 
-Compare the question/answer spacing, the lower obviously aside and the final commands. A second model supports oriel too, but source listening is still needed for certainty; avoid turning every line into a smooth sung chorus.
+Compare the question/answer spacing, the lower obviously aside and the final commands. Confirm the short word after oriel before calling the transcript exact; avoid turning every line into a smooth sung chorus.
 
 ## Audio-model evidence
 

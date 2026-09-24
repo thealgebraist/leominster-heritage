@@ -2,6 +2,13 @@
 
 Source: [DcbYsWLhhdZ.mp4](../../../account_mp4/DcbYsWLhhdZ.mp4) · **64.69 seconds** · [extracted audio](../../evidence/audio/DcbYsWLhhdZ.wav)
 
+## Listening/navigation aids
+
+- [Waveform and onset-strength overview (navigation aid, not a score)](../../evidence/listen_cues/DcbYsWLhhdZ/waveform_onsets.png)
+- [8-second source-audio excerpts with relative time ranges](../../evidence/listen_cues/DcbYsWLhhdZ/)
+
+The excerpts are PCM slices from the existing mono analysis WAV. The plot shows amplitude and spectral onset strength; it does not establish notes, instrumentation, meter, or a transcription. Use the original stereo/video for final listening checks.
+
 ## Transcript and timing
 
 | Approx. source time | Best-supported words / event |
@@ -52,13 +59,26 @@ Broad respellings are performance targets; they do not establish every vowel of 
 
 **Voice and delivery — model interpretation:** An emphatic male voice uses the same short door sound repeatedly, with spoken/shouted comic interruptions and changes of intensity. Accent labels from the audio model are not reliable enough to fix a regional accent.
 
-**Melody and phrase shape:** A one-word pitch-and-rhythm cell dominates, expanded with adjective pickups. Melodic movement is limited and largely follows speech intonation. Later Dumbledore lengthens the same door vowel into a punchline. Suggested rendition: retain one stable door motif, vary the preceding adjective, and save the largest lengthening and pause for the final pun; exact source notes are not established. A pYIN pass on the separated vocal retains more frames here than on most clips, but its pitch candidates disagree with the original-mix and harmonic-component checks; do not treat them as a note transcription.
+**Melody and phrase shape:** A one-word pitch-and-rhythm cell dominates, expanded with adjective pickups. Melodic movement is limited and largely follows speech intonation. Later Dumbledore lengthens the same door vowel into a punchline. Suggested rendition: retain one stable door motif, vary the preceding adjective, and save the largest lengthening and pause for the final pun; exact source notes are not established.
 
-**Rhythm:** Two tempo estimators applied to the same audio show a pulse near 135 BPM or its half-time reading near 67–68 BPM; their agreement is not independent confirmation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 67.6 BPM (peak score 0.64), 134.9 BPM (peak score 0.62), 90.0 BPM (peak score 0.54). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
+**Rhythm:** A fast regular pulse near 135 BPM is supported by two signal-analysis methods; 67–68 BPM is the corresponding half-time interpretation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 67.6 BPM (peak score 0.64), 134.9 BPM (peak score 0.62), 90.0 BPM (peak score 0.54). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
 
 **Tonality and harmony:** The major/minor profile is essentially tied around C, so the original mode is unresolved. Use a repetitive low tonal loop and light comic mood as a starting point. Do not impose a long changing chord progression on the repeated one-word hook. Mixed-audio pitch-class profile candidates: C minor (0.57), C major (0.57), F minor (0.55). These numbers are correlation scores, not probabilities. They are retained for experimentation, not stated as verified keys. An exact chord sequence and note-by-note melody have not been established.
 
-**Instrumentation and timbre — model interpretation:** Multiple excerpts describe a synthetic bass/melodic backing and programmed percussion. The final excerpt additionally hears bright 8-bit-like arpeggiation and chime-like accents; these are timbral descriptions rather than confirmed console hardware or synthesis methods. The separated-backing query also identifies synthesized bass and short pitched synth/vocal-like chops over a steady danceable rhythm. This strengthens the broad electronic description, without establishing the exact instruments or production chain.
+**Section-level chroma comparison:** Both signals rank F minor first in 0–16 s, C minor in 16–32 s, then F minor through most of 32–64 s. This repeated section pattern supports testing an F-minor / C-minor contrast, but does not prove a chord progression or tonal function. The table gives only each signal's top profile candidate; the full ranked candidates, method and caveats are in [section_tonality.json](../../evidence/section_tonality.json) and [section_tonality.py](../../evidence/section_tonality.py). Scores are correlations, not probabilities.
+
+| Time window | Original mix harmonic | Estimated backing harmonic |
+|---|---|---|
+| 0–8s | F minor (0.72) | F minor (0.68) |
+| 8–16s | F minor (0.72) | F minor (0.48) |
+| 16–24s | C minor (0.46) | C minor (0.58) |
+| 24–32s | C minor (0.67) | C minor (0.60) |
+| 32–40s | F minor (0.69) | F minor (0.58) |
+| 40–48s | F minor (0.62) | F minor (0.49) |
+| 48–56s | F minor (0.63) | F minor (0.57) |
+| 56–64s | F minor (0.56) | F minor (0.65) |
+
+**Instrumentation and timbre — model interpretation:** Multiple excerpts describe a synthetic bass/melodic backing and programmed percussion. The final excerpt additionally hears bright 8-bit-like arpeggiation and chime-like accents; these are timbral descriptions rather than confirmed console hardware or synthesis methods.
 
 **Production, sound effects, and edits:** Abrupt comic interruptions and a long punchline passage are visible in the structure. The model reports cartoon-like noises, short chimes and whooshes in the later portion. The 24–28-second vocal/effect event is still not reliably decoded; the safe recreation choice is a brief break, explicitly differing from an exact transcription.
 
@@ -77,7 +97,7 @@ The musical recipe adds explicit directions where the source analysis is incompl
 ## Paste into Suno: Styles
 
 ```text
-Comic electronic door chant, about 135 BPM. Upfront male English voice, crisp spoken-sung one-word door hook with a long rounded vowel, repeated on a compact pitch cell. Change the adjective pickups while keeping the door motif stable. Simple synth bass and programmed drum groove, short bright keyboard stabs. Use dry spoken questions and answers, sudden small pauses, and a sharp cat flap interruption. Toward the end add a brief bright game-like arpeggio or chime texture, pause after and one more, then a drawn-out Dumbledore punchline and one final door. Roughly 65 seconds; no extra verses.
+Comic electronic door chant, about 135 BPM. Upfront male English voice, crisp spoken-sung one-word door hook with a long rounded vowel, repeated on a compact pitch cell. Change the adjective pickups while keeping the door motif stable. Try an F-minor tonal home, briefly shifting toward C minor in the middle before returning; these are section-profile candidates, not verified chords. Simple synth bass and programmed drum groove, short bright keyboard stabs. Use dry spoken questions and answers, sudden small pauses, and a sharp cat flap interruption. Toward the end add a brief bright game-like arpeggio or chime texture, pause after and one more, then a drawn-out Dumbledore punchline and one final door. Roughly 65 seconds; no extra verses.
 ```
 
 ## Paste into Suno: Lyrics

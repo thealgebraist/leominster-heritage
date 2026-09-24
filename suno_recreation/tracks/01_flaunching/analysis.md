@@ -2,6 +2,13 @@
 
 Source: [Dc1uBZahhts.mp4](../../../account_mp4/Dc1uBZahhts.mp4) · **15.81 seconds** · [extracted audio](../../evidence/audio/Dc1uBZahhts.wav)
 
+## Listening/navigation aids
+
+- [Waveform and onset-strength overview (navigation aid, not a score)](../../evidence/listen_cues/Dc1uBZahhts/waveform_onsets.png)
+- [8-second source-audio excerpts with relative time ranges](../../evidence/listen_cues/Dc1uBZahhts/)
+
+The excerpts are PCM slices from the existing mono analysis WAV. The plot shows amplitude and spectral onset strength; it does not establish notes, instrumentation, meter, or a transcription. Use the original stereo/video for final listening checks.
+
 ## Transcript and timing
 
 | Approx. source time | Best-supported words / event |
@@ -34,11 +41,18 @@ Broad respellings are performance targets; they do not establish every vowel of 
 
 **Melody and phrase shape:** The source text forms two short title calls, a question, an answer, a quick explanatory phrase and a final answer. The audio model describes narrow speech-like pitch movement rather than an elaborate tune. Suggested contour: keep the two title calls almost identical, let the question lift, and make the answer settle; give dry/sky longer phrase-ending vowels. Those directional choices are a recipe, not measured note intervals.
 
-**Rhythm:** Two tempo estimators applied to the same audio show a pulse near 135 BPM or its half-time reading near 67–68 BPM; their agreement is not independent confirmation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 135.7 BPM (peak score 0.60), 67.7 BPM (peak score 0.49), 90.2 BPM (peak score 0.47). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
+**Rhythm:** A fast regular pulse near 135 BPM is supported by two signal-analysis methods; 67–68 BPM is the corresponding half-time interpretation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 135.7 BPM (peak score 0.60), 67.7 BPM (peak score 0.49), 90.2 BPM (peak score 0.47). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
 
 **Tonality and harmony:** Bright and playful in the model interpretation, with a compact repeating backing. The mixture does not support an unambiguous major/minor assignment. For generation, begin with a small cheerful tonal loop and let the voice dominate; avoid prescribing an unsupported chord progression. Mixed-audio pitch-class profile candidates: C minor (0.56), C major (0.47), G major (0.43). These numbers are correlation scores, not probabilities. They are retained for experimentation, not stated as verified keys. An exact chord sequence and note-by-note melody have not been established.
 
-**Instrumentation and timbre — model interpretation:** The model identifies a synthetic bass foundation, bright keyboard/synth-like sounds and punchy percussion. “Electronic novelty jingle” is better supported than a specific band lineup. An actual guitar, acoustic drum kit or named synthesizer is unverified. A second query on the separated backing also identifies synthesized percussion and bass, with short bright keyboard/bell-like figures and possible boing/swoop effects. This supports the broad electronic recipe; its speculation about a game source is rejected.
+**Section-level chroma comparison:** The two 8-second windows disagree across the original mix and separated backing; no stable center is supported. The table gives only each signal's top profile candidate; the full ranked candidates, method and caveats are in [section_tonality.json](../../evidence/section_tonality.json) and [section_tonality.py](../../evidence/section_tonality.py). Scores are correlations, not probabilities.
+
+| Time window | Original mix harmonic | Estimated backing harmonic |
+|---|---|---|
+| 0–8s | C minor (0.61) | G major (0.42) |
+| 8–16s | G major (0.45) | C minor (0.38) |
+
+**Instrumentation and timbre — model interpretation:** The model identifies a synthetic bass foundation, bright keyboard/synth-like sounds and punchy percussion. “Electronic novelty jingle” is better supported than a specific band lineup. An actual guitar, acoustic drum kit or named synthesizer is unverified.
 
 **Production, sound effects, and edits:** The model reports cartoon-like boing/bleep sounds in the final seconds and possible subtle vocal processing. These effect identities are tentative. A brief stutter before the last title call is compatible with repeated ASR readings of an extra pickup. Visual lightning does not establish an audible thunder effect.
 

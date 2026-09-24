@@ -2,6 +2,13 @@
 
 Source: [Dc8axxYIC3k.mp4](../../../account_mp4/Dc8axxYIC3k.mp4) · **22.29 seconds** · [extracted audio](../../evidence/audio/Dc8axxYIC3k.wav)
 
+## Listening/navigation aids
+
+- [Waveform and onset-strength overview (navigation aid, not a score)](../../evidence/listen_cues/Dc8axxYIC3k/waveform_onsets.png)
+- [8-second source-audio excerpts with relative time ranges](../../evidence/listen_cues/Dc8axxYIC3k/)
+
+The excerpts are PCM slices from the existing mono analysis WAV. The plot shows amplitude and spectral onset strength; it does not establish notes, instrumentation, meter, or a transcription. Use the original stereo/video for final listening checks.
+
 ## Transcript and timing
 
 | Approx. source time | Best-supported words / event |
@@ -32,11 +39,19 @@ Broad respellings are performance targets; they do not establish every vowel of 
 
 **Melody and phrase shape:** A tiny two-syllable motif is repeated and compressed into a rapid middle cluster. The important melodic identity is the recurring short inflection and vowel, not a long tune. Suggested rendition: a short lower pickup into a stronger AY syllable, then clipped repeats of that same cell. The exact source pitches and stress distribution are not established.
 
-**Rhythm:** Two tempo estimators applied to the same audio show a pulse near 135 BPM or its half-time reading near 67–68 BPM; their agreement is not independent confirmation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 67.7 BPM (peak score 0.56), 135.7 BPM (peak score 0.54), 90.3 BPM (peak score 0.54). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
+**Rhythm:** A fast regular pulse near 135 BPM is supported by two signal-analysis methods; 67–68 BPM is the corresponding half-time interpretation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 67.7 BPM (peak score 0.56), 135.7 BPM (peak score 0.54), 90.3 BPM (peak score 0.54). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
 
 **Tonality and harmony:** Pitch content is too ambiguous for a reliable key. Treat this as a predominantly rhythmic vocal hook over a minimal tonal backing. A strong one- or two-chord loop is a proposed starting point, not a recovered progression. Mixed-audio pitch-class profile candidates: C minor (0.39), G major (0.37), A♭ major (0.37). These numbers are correlation scores, not probabilities. They are retained for experimentation, not stated as verified keys. An exact chord sequence and note-by-note melody have not been established.
 
-**Instrumentation and timbre — model interpretation:** The separated-backing query conflicts with the mixture query: it suggests acoustic drums/hand percussion and a guitar-or-keyboard mallet-like figure. The instrument identity is unresolved. The common description is a steady bass foundation, a crisp beat and short bright pitched figures; acoustic versus synthetic sources are not established.
+**Section-level chroma comparison:** G major ranks first in both signals through 0–16 s; the short ending window disagrees (C major in the mix, F major in the backing). Treat G as an early-section experiment, not a whole-track key. The table gives only each signal's top profile candidate; the full ranked candidates, method and caveats are in [section_tonality.json](../../evidence/section_tonality.json) and [section_tonality.py](../../evidence/section_tonality.py). Scores are correlations, not probabilities.
+
+| Time window | Original mix harmonic | Estimated backing harmonic |
+|---|---|---|
+| 0–8s | G major (0.40) | G major (0.40) |
+| 8–16s | G major (0.46) | G major (0.59) |
+| 16–22s | C major (0.38) | F major (0.58) |
+
+**Instrumentation and timbre — model interpretation:** Electronic beat and low synthetic pulse are consistently reported. The vocal itself supplies much of the perceived rhythm; the model also hears boom-like vocalizations/grunts. No specific acoustic instruments are established.
 
 **Production, sound effects, and edits:** Stuttered/chopped repetitions and abrupt voice-like exclamations are central to the interpretation. The words versus grunts in the densest middle section remain uncertain. Keep effects short and rhythmically attached to the hook rather than adding a large cinematic transition.
 
@@ -52,7 +67,7 @@ The musical recipe adds explicit directions where the source analysis is incompl
 ## Paste into Suno: Styles
 
 ```text
-Playful male vocal chant over a minimal punchy backing groove, about 135 BPM. A tiny two-syllable guh-tay hook is the main musical motif: spaced calls at first, a tight stuttering cluster in the middle, then the near-homophone good day as a comic spoken interruption. Clear consonants, energetic rounded vowels, short pitch inflections, little sustained melody. Steady low bass pulse, crisp percussion and short bright mallet-like keyboard figures; brief percussive vocal grunts can support the rhythm. Return to spaced guttae calls after too many guttae. Around 22 seconds; compact and repetitive.
+Playful male vocal chant over a minimal punchy electronic beat, about 135 BPM. A tiny two-syllable guh-tay hook is the main musical motif: spaced calls at first, a tight stuttering cluster in the middle, then the near-homophone good day as a comic spoken interruption. Clear consonants, energetic rounded vowels, short pitch inflections, little sustained melody. Synthetic low pulse and crisp percussion; brief percussive vocal grunts can support the rhythm. Return to spaced guttae calls after too many guttae. Around 22 seconds; compact and repetitive.
 ```
 
 ## Paste into Suno: Lyrics

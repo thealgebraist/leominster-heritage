@@ -3,6 +3,7 @@ from track_data import TRACKS
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 MUSIC=json.loads((ROOT/'evidence/music_notes.json').read_text())
 MANIFEST=json.loads((ROOT/'evidence/manifest.json').read_text())
+SECTION_CHROMA=json.loads((ROOT/'evidence/section_tonality.json').read_text())
 SOURCE={pathlib.Path(x['file']).stem:x.get('current_file',x['file']) for x in MANIFEST}
 source_links=[];combined=['# Architectural music — complete recreation guide\n\nRead [README.md](README.md) for evidence limits and Suno instructions.\n']
 for t in TRACKS:
@@ -15,6 +16,9 @@ for t in TRACKS:
  keys=signal['key_profile_candidates'][:3]
  def spell(k):return k.replace('A♯','B♭').replace('D♯','E♭').replace('G♯','A♭').replace('C♯','D♭')
  keytext=', '.join(f'{spell(k)} ({s:.2f})' for s,k in keys)
+ section_chroma=next(x for x in SECTION_CHROMA['tracks'] if x['id']==t['id'])
+ chroma_rows='\n'.join(f"| {x['start_s']:.0f}–{x['end_s']:.0f}s | {x['original_mix_harmonic'][0]['label']} ({x['original_mix_harmonic'][0]['correlation']:.2f}) | {x['separated_backing_harmonic'][0]['label']} ({x['separated_backing_harmonic'][0]['correlation']:.2f}) |" for x in section_chroma['sections'])
+ chroma_block=f"**Section-level chroma comparison:** {section_chroma['interpretation']} The table gives only each signal's top profile candidate; the full ranked candidates, method and caveats are in [section_tonality.json](../../evidence/section_tonality.json) and [section_tonality.py](../../evidence/section_tonality.py). Scores are correlations, not probabilities.\n\n| Time window | Original mix harmonic | Estimated backing harmonic |\n|---|---|---|\n{chroma_rows}"
  descs=[json.loads(x.read_text()) for x in sorted((ROOT/'evidence/audio_descriptions').glob(t['id']+'_*.json'))]
  (p/'lyrics.txt').write_text(t['lyrics']+'\n')
  (p/'source_transcript.txt').write_text(t['title']+' — source transcript\nApproximate timings; uncertainty markers are not sung words.\n\n'+'\n'.join(a+'  '+b for a,b in t['transcript'])+'\n')
@@ -25,11 +29,18 @@ for t in TRACKS:
  (p/'style.txt').write_text(m['style']+'\n')
  pron_note=('Cambridge lists UK echinus /ekˈaɪ.nəs/ and US /ɪˈkaɪ.nəs/; [Wiktionary records entasis /ˈɛntəsɪs/](https://en.wiktionary.org/wiki/entasis). These standard pronunciations are helpful targets, not proof of the recorded vowels.' if t['id']=='DcvxvGDhSeb' else 'Broad respellings are performance targets; they do not establish every vowel of the recorded accent.')
  pron='| Word / phrase | Broad sound / stress guide | Delivery and evidence |\n|---|---|---|\n'+'\n'.join('| '+' | '.join(x)+' |' for x in t['pronunciation'])
- (p/'pronunciation.md').write_text('# '+t['title']+' — pronunciation\n\nCAPITALS indicate stress; respellings are broad performance targets, not narrow IPA. “uh” is a weak vowel; “aw” is a long rounded vowel.\n\n'+('Cambridge lists UK echinus /ekˈaɪ.nəs/ and US /ɪˈkaɪ.nəs/; [Wiktionary records entasis /ˈɛntəsɪs/](https://en.wiktionary.org/wiki/entasis). These are dictionary targets, not proof of the recorded singer’s vowels.\n\n' if t['id']=='DcvxvGDhSeb' else '')+pron+'\n')
+ (p/'pronunciation.md').write_text('# '+t['title']+' — pronunciation\n\nFor dictionary IPA targets for specialist terms (standard pronunciations, not claims about this singer), see [PRONUNCIATION_SOURCES.md](../../PRONUNCIATION_SOURCES.md).\n\nCAPITALS indicate stress; respellings are broad performance targets, not narrow IPA. “uh” is a weak vowel; “aw” is a long rounded vowel.\n\n'+('Cambridge lists UK echinus /ekˈaɪ.nəs/ and US /ɪˈkaɪ.nəs/; [Wiktionary records entasis /ˈɛntəsɪs/](https://en.wiktionary.org/wiki/entasis). These are dictionary targets, not proof of the recorded singer’s vowels.\n\n' if t['id']=='DcvxvGDhSeb' else '')+pron+'\n')
  transcript='| Approx. source time | Best-supported words / event |\n|---|---|\n'+'\n'.join('| '+a+' | '+b+' |' for a,b in t['transcript'])
  body=f'''# {t['title']}
 
 Source: [{pathlib.Path(SOURCE[t['id']]).name}](../../../{SOURCE[t['id']]}) · **{t['duration']:.2f} seconds** · [extracted audio](../../evidence/audio/{t['id']}.wav)
+
+## Listening/navigation aids
+
+- [Waveform and onset-strength overview (navigation aid, not a score)](../../evidence/listen_cues/{t['id']}/waveform_onsets.png)
+- [8-second source-audio excerpts with relative time ranges](../../evidence/listen_cues/{t['id']}/)
+
+The excerpts are PCM slices from the existing mono analysis WAV. The plot shows amplitude and spectral onset strength; it does not establish notes, instrumentation, meter, or a transcription. Use the original stereo/video for final listening checks.
 
 ## Transcript and timing
 
@@ -52,6 +63,8 @@ Punctuation is editorial. Caption timing and sung-word timing can differ. Bracke
 **Rhythm:** {m['rhythm']} {tempo_line}
 
 **Tonality and harmony:** {m['harmony']} Mixed-audio pitch-class profile candidates: {keytext}. These numbers are correlation scores, not probabilities. They are retained for experimentation, not stated as verified keys. An exact chord sequence and note-by-note melody have not been established.
+
+{chroma_block}
 
 **Instrumentation and timbre — model interpretation:** {m['instruments']}
 

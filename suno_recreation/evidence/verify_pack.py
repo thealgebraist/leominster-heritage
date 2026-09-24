@@ -11,13 +11,20 @@ for m in manifest:
  p=root.parent/m.get('current_file',m['file']);actual=hashlib.file_digest(p.open('rb'),'sha256').hexdigest()
  assert actual==m['sha256'],f'Original changed: {p}'
 checks=[]
+section_tonality=json.loads((root/'evidence/section_tonality.json').read_text())
+assert len(section_tonality['tracks'])==8
+assert 'not probabilities' in ' '.join(section_tonality['warnings'])
 for t in TRACKS:
  folder=root/'tracks'/t['slug']
  for name in ['analysis.md','style.txt','lyrics.txt','lyrics_phonetic.txt','pronunciation.md','source_transcript.txt']:
   p=folder/name;assert p.is_file() and p.stat().st_size>30,p
  analysis=(folder/'analysis.md').read_text()
  required_sections=['## Transcript and timing','## Pronunciation and vocal phrasing','## Music, tone, rhythm, and effects','## Source uncertainties and reconstruction choices','## Paste into Suno: Styles','## Paste into Suno: Lyrics']
+ required_sections.extend(['## Listening/navigation aids','**Section-level chroma comparison:**'])
  assert all(s in analysis for s in required_sections),(t['id'],'missing report section')
+ assert '../../evidence/section_tonality.json' in analysis,(t['id'],'missing section chroma evidence link')
+ chroma_track=next(x for x in section_tonality['tracks'] if x['id']==t['id'])
+ assert len(chroma_track['sections'])>=1,(t['id'],'missing chroma windows')
  required_music=['**Voice and delivery','**Melody and phrase shape','**Rhythm','**Tonality and harmony','**Instrumentation and timbre','**Production, sound effects, and edits']
  assert all(s in analysis for s in required_music),(t['id'],'missing requested music dimension')
  assert f'../../evidence/ocr_results/{t["id"]}.json' in analysis,(t['id'],'missing sampled-frame OCR evidence link')
@@ -70,5 +77,5 @@ assert len(p.ids)==len(set(p.ids)) and set(p.copies)<=set(p.ids)
 for ref in p.refs:
  if ref.startswith('#'):assert ref[1:] in p.ids
  elif '://' not in ref:assert (root/ref).exists(),ref
-result={'inventory':'8 included, 1 excluded','source_hashes_verified':len(manifest),'tracks':checks,'report_coverage':'all eight reports contain timed lyrics, pronunciation guidance, melody, tonality, rhythm, instrumentation, effects, Suno prompt sections, and links to sampled visual evidence','audio_cue_validation':'all 8 tracks have a waveform/onset plot and time-aligned PCM excerpts covering their extracted audio duration; excluded knocker has no cue packet','html_structure_and_local_links':'passed','boundary':'These checks verify artifact presence, report coverage, source preservation, model excerpt coverage, and local links. They do not prove transcript accuracy, phonetic accuracy, musical correctness, or Suno reproduction.'}
+result={'inventory':'8 included, 1 excluded','source_hashes_verified':len(manifest),'tracks':checks,'report_coverage':'all eight reports contain timed lyrics, pronunciation guidance, melody, tonal estimates including section comparisons, rhythm, instrumentation, effects, Suno prompt sections, and links to sampled visual evidence','audio_cue_validation':'all 8 tracks have a waveform/onset plot and time-aligned PCM excerpts covering their extracted audio duration; excluded knocker has no cue packet','section_tonality_validation':'8 tracks have original-mix and separated-backing harmonic chroma rankings in 8-second windows; these are diagnostic correlations, not keys/chords or semantic accuracy claims','html_structure_and_local_links':'passed','boundary':'These checks verify artifact presence, report coverage, source preservation, model excerpt coverage, and local links. They do not prove transcript accuracy, phonetic accuracy, musical correctness, or Suno reproduction.'}
 (root/'evidence/pack_checks.json').write_text(json.dumps(result,indent=2));print(json.dumps(result,indent=2))

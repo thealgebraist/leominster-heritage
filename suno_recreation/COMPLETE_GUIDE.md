@@ -1,6 +1,6 @@
 # Architectural music — complete recreation guide
 
-Read [README.md](README.md) for evidence limits and Suno instructions. See [dictionary pronunciation targets](PRONUNCIATION_SOURCES.md) for standard IPA/respelling references; they do not establish the singer’s accent or exact sung vowels.
+Read [README.md](README.md) for evidence limits and Suno instructions.
 
 
 ---
@@ -8,6 +8,13 @@ Read [README.md](README.md) for evidence limits and Suno instructions. See [dict
 # Flaunching
 
 Source: [Dc1uBZahhts.mp4](../account_mp4/Dc1uBZahhts.mp4) · **15.81 seconds** · [extracted audio](evidence/audio/Dc1uBZahhts.wav)
+
+## Listening/navigation aids
+
+- [Waveform and onset-strength overview (navigation aid, not a score)](evidence/listen_cues/Dc1uBZahhts/waveform_onsets.png)
+- [8-second source-audio excerpts with relative time ranges](evidence/listen_cues/Dc1uBZahhts/)
+
+The excerpts are PCM slices from the existing mono analysis WAV. The plot shows amplitude and spectral onset strength; it does not establish notes, instrumentation, meter, or a transcription. Use the original stereo/video for final listening checks.
 
 ## Transcript and timing
 
@@ -41,11 +48,18 @@ Broad respellings are performance targets; they do not establish every vowel of 
 
 **Melody and phrase shape:** The source text forms two short title calls, a question, an answer, a quick explanatory phrase and a final answer. The audio model describes narrow speech-like pitch movement rather than an elaborate tune. Suggested contour: keep the two title calls almost identical, let the question lift, and make the answer settle; give dry/sky longer phrase-ending vowels. Those directional choices are a recipe, not measured note intervals.
 
-**Rhythm:** Two tempo estimators applied to the same audio show a pulse near 135 BPM or its half-time reading near 67–68 BPM; their agreement is not independent confirmation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 135.7 BPM (peak score 0.60), 67.7 BPM (peak score 0.49), 90.2 BPM (peak score 0.47). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
+**Rhythm:** A fast regular pulse near 135 BPM is supported by two signal-analysis methods; 67–68 BPM is the corresponding half-time interpretation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 135.7 BPM (peak score 0.60), 67.7 BPM (peak score 0.49), 90.2 BPM (peak score 0.47). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
 
 **Tonality and harmony:** Bright and playful in the model interpretation, with a compact repeating backing. The mixture does not support an unambiguous major/minor assignment. For generation, begin with a small cheerful tonal loop and let the voice dominate; avoid prescribing an unsupported chord progression. Mixed-audio pitch-class profile candidates: C minor (0.56), C major (0.47), G major (0.43). These numbers are correlation scores, not probabilities. They are retained for experimentation, not stated as verified keys. An exact chord sequence and note-by-note melody have not been established.
 
-**Instrumentation and timbre — model interpretation:** The model identifies a synthetic bass foundation, bright keyboard/synth-like sounds and punchy percussion. “Electronic novelty jingle” is better supported than a specific band lineup. An actual guitar, acoustic drum kit or named synthesizer is unverified. A second query on the separated backing also identifies synthesized percussion and bass, with short bright keyboard/bell-like figures and possible boing/swoop effects. This supports the broad electronic recipe; its speculation about a game source is rejected.
+**Section-level chroma comparison:** The two 8-second windows disagree across the original mix and separated backing; no stable center is supported. The table gives only each signal's top profile candidate; the full ranked candidates, method and caveats are in [section_tonality.json](evidence/section_tonality.json) and [section_tonality.py](evidence/section_tonality.py). Scores are correlations, not probabilities.
+
+| Time window | Original mix harmonic | Estimated backing harmonic |
+|---|---|---|
+| 0–8s | C minor (0.61) | G major (0.42) |
+| 8–16s | G major (0.45) | C minor (0.38) |
+
+**Instrumentation and timbre — model interpretation:** The model identifies a synthetic bass foundation, bright keyboard/synth-like sounds and punchy percussion. “Electronic novelty jingle” is better supported than a specific band lineup. An actual guitar, acoustic drum kit or named synthesizer is unverified.
 
 **Production, sound effects, and edits:** The model reports cartoon-like boing/bleep sounds in the final seconds and possible subtle vocal processing. These effect identities are tentative. A brief stutter before the last title call is compatible with repeated ASR readings of an extra pickup. Visual lightning does not establish an audible thunder effect.
 
@@ -108,6 +122,13 @@ Raw excerpt interpretations are preserved below as evidence links. They are not 
 
 Source: [Dc8axxYIC3k.mp4](../account_mp4/Dc8axxYIC3k.mp4) · **22.29 seconds** · [extracted audio](evidence/audio/Dc8axxYIC3k.wav)
 
+## Listening/navigation aids
+
+- [Waveform and onset-strength overview (navigation aid, not a score)](evidence/listen_cues/Dc8axxYIC3k/waveform_onsets.png)
+- [8-second source-audio excerpts with relative time ranges](evidence/listen_cues/Dc8axxYIC3k/)
+
+The excerpts are PCM slices from the existing mono analysis WAV. The plot shows amplitude and spectral onset strength; it does not establish notes, instrumentation, meter, or a transcription. Use the original stereo/video for final listening checks.
+
 ## Transcript and timing
 
 | Approx. source time | Best-supported words / event |
@@ -138,11 +159,19 @@ Broad respellings are performance targets; they do not establish every vowel of 
 
 **Melody and phrase shape:** A tiny two-syllable motif is repeated and compressed into a rapid middle cluster. The important melodic identity is the recurring short inflection and vowel, not a long tune. Suggested rendition: a short lower pickup into a stronger AY syllable, then clipped repeats of that same cell. The exact source pitches and stress distribution are not established.
 
-**Rhythm:** Two tempo estimators applied to the same audio show a pulse near 135 BPM or its half-time reading near 67–68 BPM; their agreement is not independent confirmation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 67.7 BPM (peak score 0.56), 135.7 BPM (peak score 0.54), 90.3 BPM (peak score 0.54). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
+**Rhythm:** A fast regular pulse near 135 BPM is supported by two signal-analysis methods; 67–68 BPM is the corresponding half-time interpretation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 67.7 BPM (peak score 0.56), 135.7 BPM (peak score 0.54), 90.3 BPM (peak score 0.54). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
 
 **Tonality and harmony:** Pitch content is too ambiguous for a reliable key. Treat this as a predominantly rhythmic vocal hook over a minimal tonal backing. A strong one- or two-chord loop is a proposed starting point, not a recovered progression. Mixed-audio pitch-class profile candidates: C minor (0.39), G major (0.37), A♭ major (0.37). These numbers are correlation scores, not probabilities. They are retained for experimentation, not stated as verified keys. An exact chord sequence and note-by-note melody have not been established.
 
-**Instrumentation and timbre — model interpretation:** The separated-backing query conflicts with the mixture query: it suggests acoustic drums/hand percussion and a guitar-or-keyboard mallet-like figure. The instrument identity is unresolved. The common description is a steady bass foundation, a crisp beat and short bright pitched figures; acoustic versus synthetic sources are not established.
+**Section-level chroma comparison:** G major ranks first in both signals through 0–16 s; the short ending window disagrees (C major in the mix, F major in the backing). Treat G as an early-section experiment, not a whole-track key. The table gives only each signal's top profile candidate; the full ranked candidates, method and caveats are in [section_tonality.json](evidence/section_tonality.json) and [section_tonality.py](evidence/section_tonality.py). Scores are correlations, not probabilities.
+
+| Time window | Original mix harmonic | Estimated backing harmonic |
+|---|---|---|
+| 0–8s | G major (0.40) | G major (0.40) |
+| 8–16s | G major (0.46) | G major (0.59) |
+| 16–22s | C major (0.38) | F major (0.58) |
+
+**Instrumentation and timbre — model interpretation:** Electronic beat and low synthetic pulse are consistently reported. The vocal itself supplies much of the perceived rhythm; the model also hears boom-like vocalizations/grunts. No specific acoustic instruments are established.
 
 **Production, sound effects, and edits:** Stuttered/chopped repetitions and abrupt voice-like exclamations are central to the interpretation. The words versus grunts in the densest middle section remain uncertain. Keep effects short and rhythmically attached to the hook rather than adding a large cinematic transition.
 
@@ -158,7 +187,7 @@ The musical recipe adds explicit directions where the source analysis is incompl
 ## Paste into Suno: Styles
 
 ```text
-Playful male vocal chant over a minimal punchy backing groove, about 135 BPM. A tiny two-syllable guh-tay hook is the main musical motif: spaced calls at first, a tight stuttering cluster in the middle, then the near-homophone good day as a comic spoken interruption. Clear consonants, energetic rounded vowels, short pitch inflections, little sustained melody. Steady low bass pulse, crisp percussion and short bright mallet-like keyboard figures; brief percussive vocal grunts can support the rhythm. Return to spaced guttae calls after too many guttae. Around 22 seconds; compact and repetitive.
+Playful male vocal chant over a minimal punchy electronic beat, about 135 BPM. A tiny two-syllable guh-tay hook is the main musical motif: spaced calls at first, a tight stuttering cluster in the middle, then the near-homophone good day as a comic spoken interruption. Clear consonants, energetic rounded vowels, short pitch inflections, little sustained melody. Synthetic low pulse and crisp percussion; brief percussive vocal grunts can support the rhythm. Return to spaced guttae calls after too many guttae. Around 22 seconds; compact and repetitive.
 ```
 
 ## Paste into Suno: Lyrics
@@ -212,6 +241,13 @@ Raw excerpt interpretations are preserved below as evidence links. They are not 
 
 Source: [bargeboard.mp4](../account_mp4/bargeboard.mp4) · **38.01 seconds** · [extracted audio](evidence/audio/DcRZB_PBFkr.wav)
 
+## Listening/navigation aids
+
+- [Waveform and onset-strength overview (navigation aid, not a score)](evidence/listen_cues/DcRZB_PBFkr/waveform_onsets.png)
+- [8-second source-audio excerpts with relative time ranges](evidence/listen_cues/DcRZB_PBFkr/)
+
+The excerpts are PCM slices from the existing mono analysis WAV. The plot shows amplitude and spectral onset strength; it does not establish notes, instrumentation, meter, or a transcription. Use the original stereo/video for final listening checks.
+
 ## Transcript and timing
 
 | Approx. source time | Best-supported words / event |
@@ -254,11 +290,21 @@ Broad respellings are performance targets; they do not establish every vowel of 
 
 **Melody and phrase shape:** The short nouns form distinct rhythmic cells: quick two-syllable corbel repeats, longer bargeboard replies, then a succession of new word shapes. The model hears small rises and falls rather than extended lyrical melody. Suggested rendition: retain a narrow repeated-note chant, contrast the slower replies, and put a slightly broader accent on finial. No exact intervals are recovered.
 
-**Rhythm:** Two tempo estimators applied to the same audio show a pulse near 135 BPM or its half-time reading near 67–68 BPM; their agreement is not independent confirmation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 134.7 BPM (peak score 0.66), 67.3 BPM (peak score 0.66), 90.0 BPM (peak score 0.38). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
+**Rhythm:** A fast regular pulse near 135 BPM is supported by two signal-analysis methods; 67–68 BPM is the corresponding half-time interpretation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 134.7 BPM (peak score 0.66), 67.3 BPM (peak score 0.66), 90.0 BPM (peak score 0.38). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
 
 **Tonality and harmony:** One excerpt model suggests a major-like sound, but its instrumental account conflicts with a later excerpt and the key profiles are close. Use a light repetitive tonal centre as a reconstruction choice, without treating G major or C minor as established. Mixed-audio pitch-class profile candidates: G major (0.58), C minor (0.56), C major (0.54). These numbers are correlation scores, not probabilities. They are retained for experimentation, not stated as verified keys. An exact chord sequence and note-by-note melody have not been established.
 
-**Instrumentation and timbre — model interpretation:** The final portion is described as an electronic beat and synthesized backing. The first portion is inconsistently described as nearly vocal-only, so backing prominence may be low or obscured by the voice. Use sparse synthetic low notes and short percussive accents as a conservative recipe; specific instrumental sources are unresolved. The separated-backing query identifies a repetitive synth bassline, bright staccato synth figures and a regular dance beat. This strengthens the electronic backing interpretation where the foreground-vocal query was ambiguous. A four-on-the-floor pattern is model-reported, not independently counted.
+**Section-level chroma comparison:** The leading profiles shift from G major to C major in the mix, and the final short window disagrees sharply between mix and backing. No single track-wide key is supported. The table gives only each signal's top profile candidate; the full ranked candidates, method and caveats are in [section_tonality.json](evidence/section_tonality.json) and [section_tonality.py](evidence/section_tonality.py). Scores are correlations, not probabilities.
+
+| Time window | Original mix harmonic | Estimated backing harmonic |
+|---|---|---|
+| 0–8s | G major (0.69) | G major (0.62) |
+| 8–16s | C major (0.58) | C minor (0.52) |
+| 16–24s | C major (0.61) | C minor (0.60) |
+| 24–32s | C major (0.59) | G major (0.55) |
+| 32–38s | C♯ minor (0.62) | F major (0.73) |
+
+**Instrumentation and timbre — model interpretation:** The final portion is described as an electronic beat and synthesized backing. The first portion is inconsistently described as nearly vocal-only, so backing prominence may be low or obscured by the voice. Use sparse synthetic low notes and short percussive accents as a conservative recipe; specific instrumental sources are unresolved.
 
 **Production, sound effects, and edits:** Abrupt emphasis, repeated vocal syllables and a short isolated final exclamation are supported by the transcript. Compression, doubling, and small room/reverb effects are model suggestions, not measured production settings. No named TV programme or original music source has been identified.
 
@@ -335,6 +381,13 @@ Raw excerpt interpretations are preserved below as evidence links. They are not 
 
 Source: [DcYTYvMBSMn.mp4](../account_mp4/DcYTYvMBSMn.mp4) · **53.62 seconds** · [extracted audio](evidence/audio/DcYTYvMBSMn.wav)
 
+## Listening/navigation aids
+
+- [Waveform and onset-strength overview (navigation aid, not a score)](evidence/listen_cues/DcYTYvMBSMn/waveform_onsets.png)
+- [8-second source-audio excerpts with relative time ranges](evidence/listen_cues/DcYTYvMBSMn/)
+
+The excerpts are PCM slices from the existing mono analysis WAV. The plot shows amplitude and spectral onset strength; it does not establish notes, instrumentation, meter, or a transcription. Use the original stereo/video for final listening checks.
+
 ## Transcript and timing
 
 | Approx. source time | Best-supported words / event |
@@ -376,11 +429,23 @@ Broad respellings are performance targets; they do not establish every vowel of 
 
 **Melody and phrase shape:** Each block contrasts rapid catalogue syllables with a sustained Ah and a longer technical name. This contrast is directly supported by the lyric timing and vocalized Ah detections. The model hears speech-like pitch changes and changing phrase contours. Suggested rendition: use one short recurring list motif, open the register and vowel for Ah, then resolve the longer name back into the next list. Exact pitch heights and intervals remain unverified.
 
-**Rhythm:** Two tempo estimators applied to the same audio show a pulse near 135 BPM or its half-time reading near 67–68 BPM; their agreement is not independent confirmation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 67.4 BPM (peak score 0.64), 89.9 BPM (peak score 0.57), 134.7 BPM (peak score 0.56). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
+**Rhythm:** A fast regular pulse near 135 BPM is supported by two signal-analysis methods; 67–68 BPM is the corresponding half-time interpretation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 67.4 BPM (peak score 0.64), 89.9 BPM (peak score 0.57), 134.7 BPM (peak score 0.56). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
 
 **Tonality and harmony:** The strongest mixture profile is B-flat major, ahead of E-flat major, but this is still a heuristic result from a vocal-heavy clip. A bright major-like setting is a reasonable experiment; B-flat major can be tried as a test key, not stated as the original. No harmonic progression is recovered. Mixed-audio pitch-class profile candidates: B♭ major (0.71), E♭ major (0.54), E♭ minor (0.42). These numbers are correlation scores, not probabilities. They are retained for experimentation, not stated as verified keys. An exact chord sequence and note-by-note melody have not been established.
 
-**Instrumentation and timbre — model interpretation:** At least a rhythmic low/percussive backing is indicated. One model excerpt hears drums, bass and synths; another hears beatboxing/sample-like percussion. Prefer a hybrid description—tight synthetic/vocal-like percussion and a low pulse—over claiming a live bass guitar or drum kit. The separated-backing query identifies synth bass, electronic drums and synth figures. This is more consistent with an electronic backing than a purely beatboxed arrangement; it does not rule out vocal-like samples. A scratch-like texture is model-reported and tentative.
+**Section-level chroma comparison:** E-flat/B-flat profile labels recur across most sections in both signals, while major/minor mode and the strongest member of that family vary. An E-flat/B-flat tonal palette is a more cautious prompt test than a single asserted key. The table gives only each signal's top profile candidate; the full ranked candidates, method and caveats are in [section_tonality.json](evidence/section_tonality.json) and [section_tonality.py](evidence/section_tonality.py). Scores are correlations, not probabilities.
+
+| Time window | Original mix harmonic | Estimated backing harmonic |
+|---|---|---|
+| 0–8s | D♯ minor (0.57) | D♯ major (0.71) |
+| 8–16s | D♯ major (0.72) | D♯ major (0.71) |
+| 16–24s | A♯ major (0.71) | D♯ major (0.64) |
+| 24–32s | D♯ major (0.66) | D♯ major (0.67) |
+| 32–40s | A♯ major (0.71) | A♯ major (0.63) |
+| 40–48s | D♯ major (0.69) | D♯ major (0.68) |
+| 48–54s | D♯ major (0.73) | A♯ major (0.78) |
+
+**Instrumentation and timbre — model interpretation:** At least a rhythmic low/percussive backing is indicated. One model excerpt hears drums, bass and synths; another hears beatboxing/sample-like percussion. Prefer a hybrid description—tight synthetic/vocal-like percussion and a low pulse—over claiming a live bass guitar or drum kit.
 
 **Production, sound effects, and edits:** Possible mild reverb or short delay on the voice. The final Palladio exclamation is followed by a sparse ending and a low percussive cue according to the short tail analysis. Specific delay times and effect devices are not known.
 
@@ -396,7 +461,7 @@ The musical recipe adds explicit directions where the source analysis is incompl
 ## Paste into Suno: Styles
 
 ```text
-Quirky theatrical male catalogue song, about 135 BPM, brisk straight rhythm. Precisely articulated short speech-sung lists contrast with broad sustained open-vowel Ah exclamations and elongated architectural names. Reuse the same compact motif for column, pilaster, fluted and capital sections. Light punchy electronic beat, low bass pulse, dry vocal-like percussion and sparse bright keyboard accents; keep the lead upfront. Suggested bright major mood, modest vocal reverb. Emphasise kuh-RIN-thee-un, eye-ON-ik and puh-LAH-dee-oh clearly. End with composite then Palladio and a short low percussive stop, roughly 54 seconds.
+Quirky theatrical male catalogue song, about 135 BPM, brisk straight rhythm. Precisely articulated short speech-sung lists contrast with broad sustained open-vowel Ah exclamations and elongated architectural names. Reuse the same compact motif for column, pilaster, fluted and capital sections. Light punchy electronic beat, low bass pulse, dry vocal-like percussion and sparse bright keyboard accents; keep the lead upfront. Try an E-flat/B-flat-centered, major-leaning palette but leave the exact mode and chord sequence flexible; this is a section-chroma experiment, not a confirmed key. Emphasise kuh-RIN-thee-un, eye-ON-ik and puh-LAH-dee-oh clearly. End with composite then Palladio and a short low percussive stop, roughly 54 seconds.
 ```
 
 ## Paste into Suno: Lyrics
@@ -467,6 +532,13 @@ Raw excerpt interpretations are preserved below as evidence links. They are not 
 
 Source: [DcbYsWLhhdZ.mp4](../account_mp4/DcbYsWLhhdZ.mp4) · **64.69 seconds** · [extracted audio](evidence/audio/DcbYsWLhhdZ.wav)
 
+## Listening/navigation aids
+
+- [Waveform and onset-strength overview (navigation aid, not a score)](evidence/listen_cues/DcbYsWLhhdZ/waveform_onsets.png)
+- [8-second source-audio excerpts with relative time ranges](evidence/listen_cues/DcbYsWLhhdZ/)
+
+The excerpts are PCM slices from the existing mono analysis WAV. The plot shows amplitude and spectral onset strength; it does not establish notes, instrumentation, meter, or a transcription. Use the original stereo/video for final listening checks.
+
 ## Transcript and timing
 
 | Approx. source time | Best-supported words / event |
@@ -517,13 +589,26 @@ Broad respellings are performance targets; they do not establish every vowel of 
 
 **Voice and delivery — model interpretation:** An emphatic male voice uses the same short door sound repeatedly, with spoken/shouted comic interruptions and changes of intensity. Accent labels from the audio model are not reliable enough to fix a regional accent.
 
-**Melody and phrase shape:** A one-word pitch-and-rhythm cell dominates, expanded with adjective pickups. Melodic movement is limited and largely follows speech intonation. Later Dumbledore lengthens the same door vowel into a punchline. Suggested rendition: retain one stable door motif, vary the preceding adjective, and save the largest lengthening and pause for the final pun; exact source notes are not established. A pYIN pass on the separated vocal retains more frames here than on most clips, but its pitch candidates disagree with the original-mix and harmonic-component checks; do not treat them as a note transcription.
+**Melody and phrase shape:** A one-word pitch-and-rhythm cell dominates, expanded with adjective pickups. Melodic movement is limited and largely follows speech intonation. Later Dumbledore lengthens the same door vowel into a punchline. Suggested rendition: retain one stable door motif, vary the preceding adjective, and save the largest lengthening and pause for the final pun; exact source notes are not established.
 
-**Rhythm:** Two tempo estimators applied to the same audio show a pulse near 135 BPM or its half-time reading near 67–68 BPM; their agreement is not independent confirmation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 67.6 BPM (peak score 0.64), 134.9 BPM (peak score 0.62), 90.0 BPM (peak score 0.54). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
+**Rhythm:** A fast regular pulse near 135 BPM is supported by two signal-analysis methods; 67–68 BPM is the corresponding half-time interpretation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 67.6 BPM (peak score 0.64), 134.9 BPM (peak score 0.62), 90.0 BPM (peak score 0.54). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
 
 **Tonality and harmony:** The major/minor profile is essentially tied around C, so the original mode is unresolved. Use a repetitive low tonal loop and light comic mood as a starting point. Do not impose a long changing chord progression on the repeated one-word hook. Mixed-audio pitch-class profile candidates: C minor (0.57), C major (0.57), F minor (0.55). These numbers are correlation scores, not probabilities. They are retained for experimentation, not stated as verified keys. An exact chord sequence and note-by-note melody have not been established.
 
-**Instrumentation and timbre — model interpretation:** Multiple excerpts describe a synthetic bass/melodic backing and programmed percussion. The final excerpt additionally hears bright 8-bit-like arpeggiation and chime-like accents; these are timbral descriptions rather than confirmed console hardware or synthesis methods. The separated-backing query also identifies synthesized bass and short pitched synth/vocal-like chops over a steady danceable rhythm. This strengthens the broad electronic description, without establishing the exact instruments or production chain.
+**Section-level chroma comparison:** Both signals rank F minor first in 0–16 s, C minor in 16–32 s, then F minor through most of 32–64 s. This repeated section pattern supports testing an F-minor / C-minor contrast, but does not prove a chord progression or tonal function. The table gives only each signal's top profile candidate; the full ranked candidates, method and caveats are in [section_tonality.json](evidence/section_tonality.json) and [section_tonality.py](evidence/section_tonality.py). Scores are correlations, not probabilities.
+
+| Time window | Original mix harmonic | Estimated backing harmonic |
+|---|---|---|
+| 0–8s | F minor (0.72) | F minor (0.68) |
+| 8–16s | F minor (0.72) | F minor (0.48) |
+| 16–24s | C minor (0.46) | C minor (0.58) |
+| 24–32s | C minor (0.67) | C minor (0.60) |
+| 32–40s | F minor (0.69) | F minor (0.58) |
+| 40–48s | F minor (0.62) | F minor (0.49) |
+| 48–56s | F minor (0.63) | F minor (0.57) |
+| 56–64s | F minor (0.56) | F minor (0.65) |
+
+**Instrumentation and timbre — model interpretation:** Multiple excerpts describe a synthetic bass/melodic backing and programmed percussion. The final excerpt additionally hears bright 8-bit-like arpeggiation and chime-like accents; these are timbral descriptions rather than confirmed console hardware or synthesis methods.
 
 **Production, sound effects, and edits:** Abrupt comic interruptions and a long punchline passage are visible in the structure. The model reports cartoon-like noises, short chimes and whooshes in the later portion. The 24–28-second vocal/effect event is still not reliably decoded; the safe recreation choice is a brief break, explicitly differing from an exact transcription.
 
@@ -542,7 +627,7 @@ The musical recipe adds explicit directions where the source analysis is incompl
 ## Paste into Suno: Styles
 
 ```text
-Comic electronic door chant, about 135 BPM. Upfront male English voice, crisp spoken-sung one-word door hook with a long rounded vowel, repeated on a compact pitch cell. Change the adjective pickups while keeping the door motif stable. Simple synth bass and programmed drum groove, short bright keyboard stabs. Use dry spoken questions and answers, sudden small pauses, and a sharp cat flap interruption. Toward the end add a brief bright game-like arpeggio or chime texture, pause after and one more, then a drawn-out Dumbledore punchline and one final door. Roughly 65 seconds; no extra verses.
+Comic electronic door chant, about 135 BPM. Upfront male English voice, crisp spoken-sung one-word door hook with a long rounded vowel, repeated on a compact pitch cell. Change the adjective pickups while keeping the door motif stable. Try an F-minor tonal home, briefly shifting toward C minor in the middle before returning; these are section-profile candidates, not verified chords. Simple synth bass and programmed drum groove, short bright keyboard stabs. Use dry spoken questions and answers, sudden small pauses, and a sharp cat flap interruption. Toward the end add a brief bright game-like arpeggio or chime texture, pause after and one more, then a drawn-out Dumbledore punchline and one final door. Roughly 65 seconds; no extra verses.
 ```
 
 ## Paste into Suno: Lyrics
@@ -622,6 +707,13 @@ Raw excerpt interpretations are preserved below as evidence links. They are not 
 
 Source: [DcqWhZtBIEI.mp4](../account_mp4/DcqWhZtBIEI.mp4) · **67.01 seconds** · [extracted audio](evidence/audio/DcqWhZtBIEI.wav)
 
+## Listening/navigation aids
+
+- [Waveform and onset-strength overview (navigation aid, not a score)](evidence/listen_cues/DcqWhZtBIEI/waveform_onsets.png)
+- [8-second source-audio excerpts with relative time ranges](evidence/listen_cues/DcqWhZtBIEI/)
+
+The excerpts are PCM slices from the existing mono analysis WAV. The plot shows amplitude and spectral onset strength; it does not establish notes, instrumentation, meter, or a transcription. Use the original stereo/video for final listening checks.
+
 ## Transcript and timing
 
 | Approx. source time | Best-supported words / event |
@@ -671,11 +763,25 @@ Broad respellings are performance targets; they do not establish every vowel of 
 
 **Melody and phrase shape:** The recurring two-syllable window phrase anchors the catalogue. Short noun lists alternate with question/answer exchanges, creating contour through speech rather than a continuous sung tune. Suggested contours: lift the casement question, settle the yes answer, and lower/flatten obviously. These are practical performance instructions; the source contour has not been transcribed note for note.
 
-**Rhythm:** Two tempo estimators applied to the same audio show a pulse near 135 BPM or its half-time reading near 67–68 BPM; their agreement is not independent confirmation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 134.6 BPM (peak score 0.64), 67.3 BPM (peak score 0.55), 89.8 BPM (peak score 0.47). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
+**Rhythm:** A fast regular pulse near 135 BPM is supported by two signal-analysis methods; 67–68 BPM is the corresponding half-time interpretation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 134.6 BPM (peak score 0.64), 67.3 BPM (peak score 0.55), 89.8 BPM (peak score 0.47). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
 
 **Tonality and harmony:** The mixture gives G major and G minor as the leading candidates; that establishes neither one conclusively. The broad effect is energetic and comic. For a first generation use a simple repeating tonal backing; test G as a centre only if an explicit key is useful. Mixed-audio pitch-class profile candidates: G major (0.73), G minor (0.66), B minor (0.42). These numbers are correlation scores, not probabilities. They are retained for experimentation, not stated as verified keys. An exact chord sequence and note-by-note melody have not been established.
 
-**Instrumentation and timbre — model interpretation:** Early/middle excerpts consistently suggest an electronic low line and bright synth backing. The last excerpt instead describes brass/woodwind-like stabs. It is safer to request short bright, slightly brassy synthetic accents than to claim a real brass or woodwind ensemble. The separated-backing query also identifies electronic bass and synthesized rhythmic/pitched sounds. It supports the broad electronic description; later brassy timbres do not establish a live brass section.
+**Section-level chroma comparison:** G is the leading tonic label throughout nearly all lyric sections in both signals, but major/minor rankings switch. A G-centered backing with mode left flexible is a testable recreation choice. The table gives only each signal's top profile candidate; the full ranked candidates, method and caveats are in [section_tonality.json](evidence/section_tonality.json) and [section_tonality.py](evidence/section_tonality.py). Scores are correlations, not probabilities.
+
+| Time window | Original mix harmonic | Estimated backing harmonic |
+|---|---|---|
+| 0–8s | G minor (0.65) | G minor (0.61) |
+| 8–16s | G minor (0.69) | G minor (0.74) |
+| 16–24s | G minor (0.67) | G major (0.73) |
+| 24–32s | G minor (0.74) | G minor (0.74) |
+| 32–40s | G major (0.86) | G major (0.81) |
+| 40–48s | G minor (0.79) | G minor (0.80) |
+| 48–56s | G minor (0.79) | G minor (0.77) |
+| 56–64s | G minor (0.71) | G minor (0.70) |
+| 64–67s | A minor (0.44) | F major (0.74) |
+
+**Instrumentation and timbre — model interpretation:** Early/middle excerpts consistently suggest an electronic low line and bright synth backing. The last excerpt instead describes brass/woodwind-like stabs. It is safer to request short bright, slightly brassy synthetic accents than to claim a real brass or woodwind ensemble.
 
 **Production, sound effects, and edits:** Breathy inhalation/gasp-like sounds and abrupt dialogue interjections are reported in the middle. The final excerpt reports reverberant or broadcast-like texture, but its claims of tape hiss and provenance are not verified. Preserve short gaps and character changes; exact sampled sources and effect settings remain unknown.
 
@@ -692,7 +798,7 @@ The musical recipe adds explicit directions where the source analysis is incompl
 ## Paste into Suno: Styles
 
 ```text
-Playful theatrical window song, about 135 BPM, clear male English rhythmic speech-singing over a compact electronic groove. A recurring WIN-doh hook anchors fast architectural lists. Alternate sung calls with dry comic dialogue: Casement, Is that a casement, Yes a casement; give Obviously a lower deadpan delivery and Very good a brief spoken reply. Tight programmed percussion, simple synth bass, bright short slightly brassy keyboard stabs. Narrow vocal motifs and speech-like pitch changes, occasional brief breath or gasp accents. End firmly with Open the window, Shut it again. Around 67 seconds; keep all dialogue audible.
+Playful theatrical window song, about 135 BPM, clear male English rhythmic speech-singing over a compact electronic groove. Keep a G-centered pitch collection with major/minor color flexible; section profiles favor G but do not settle the mode or chords. A recurring WIN-doh hook anchors fast architectural lists. Alternate sung calls with dry comic dialogue: Casement, Is that a casement, Yes a casement; give Obviously a lower deadpan delivery and Very good a brief spoken reply. Tight programmed percussion, simple synth bass, bright short slightly brassy keyboard stabs. Narrow vocal motifs and speech-like pitch changes, occasional brief breath or gasp accents. End firmly with Open the window, Shut it again. Around 67 seconds; keep all dialogue audible.
 ```
 
 ## Paste into Suno: Lyrics
@@ -745,7 +851,7 @@ Shut it again!
 
 ## First comparison after generating
 
-Compare the question/answer spacing, the lower obviously aside and the final commands. A second model supports oriel too, but source listening is still needed for certainty; avoid turning every line into a smooth sung chorus.
+Compare the question/answer spacing, the lower obviously aside and the final commands. Confirm the short word after oriel before calling the transcript exact; avoid turning every line into a smooth sung chorus.
 
 ## Audio-model evidence
 
@@ -768,6 +874,13 @@ Raw excerpt interpretations are preserved below as evidence links. They are not 
 # Echinus / Entasis
 
 Source: [DcvxvGDhSeb.mp4](../account_mp4/DcvxvGDhSeb.mp4) · **22.48 seconds** · [extracted audio](evidence/audio/DcvxvGDhSeb.wav)
+
+## Listening/navigation aids
+
+- [Waveform and onset-strength overview (navigation aid, not a score)](evidence/listen_cues/DcvxvGDhSeb/waveform_onsets.png)
+- [8-second source-audio excerpts with relative time ranges](evidence/listen_cues/DcvxvGDhSeb/)
+
+The excerpts are PCM slices from the existing mono analysis WAV. The plot shows amplitude and spectral onset strength; it does not establish notes, instrumentation, meter, or a transcription. Use the original stereo/video for final listening checks.
 
 ## Transcript and timing
 
@@ -800,11 +913,19 @@ Cambridge lists UK echinus /ekˈaɪ.nəs/ and US /ɪˈkaɪ.nəs/; [Wiktionary re
 
 **Melody and phrase shape:** Paired three-syllable names alternate with a short phrase and a longer answer ending in shaft. Repetition of “a gently swelling shaft” supplies the ending motif. Suggested rendition: make the technical terms springy and compact, then gently lengthen the final shaft vowel in each response. Actual pitch intervals and any terminal glide are not measured.
 
-**Rhythm:** Two tempo estimators applied to the same audio show a pulse near 135 BPM or its half-time reading near 67–68 BPM; their agreement is not independent confirmation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 136.3 BPM (peak score 0.59), 68.2 BPM (peak score 0.57), 90.8 BPM (peak score 0.52). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
+**Rhythm:** A fast regular pulse near 135 BPM is supported by two signal-analysis methods; 67–68 BPM is the corresponding half-time interpretation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 136.3 BPM (peak score 0.59), 68.2 BPM (peak score 0.57), 90.8 BPM (peak score 0.52). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
 
 **Tonality and harmony:** C major is the leading mixed-audio profile, but C minor also scores meaningfully. Use a light repetitive tonal setting; C major is an optional trial key rather than a verified source key. The vocal rhythm is better established than the harmony. Mixed-audio pitch-class profile candidates: C major (0.69), C minor (0.53), G major (0.50). These numbers are correlation scores, not probabilities. They are retained for experimentation, not stated as verified keys. An exact chord sequence and note-by-note melody have not been established.
 
-**Instrumentation and timbre — model interpretation:** The model identifies synthetic drum, bass and keyboard-like textures. It does not identify an acoustic lead instrument with adequate support. Keep the backing sparse enough to retain all three syllables of each technical word. The separated-backing query suggests a funk/disco-like groove, prominent melodic bass, electronic percussion and staccato synth/brass-like figures. Electric bass versus synthesized bass remains unresolved. These are model interpretations, not instrument credits.
+**Section-level chroma comparison:** The opening favors G major; later windows are weaker and the original mix and separated backing disagree. No stable whole-track key is supported. The table gives only each signal's top profile candidate; the full ranked candidates, method and caveats are in [section_tonality.json](evidence/section_tonality.json) and [section_tonality.py](evidence/section_tonality.py). Scores are correlations, not probabilities.
+
+| Time window | Original mix harmonic | Estimated backing harmonic |
+|---|---|---|
+| 0–8s | G major (0.69) | G major (0.65) |
+| 8–16s | C minor (0.50) | G minor (0.52) |
+| 16–22s | B minor (0.35) | F major (0.55) |
+
+**Instrumentation and timbre — model interpretation:** The model identifies synthetic drum, bass and keyboard-like textures. It does not identify an acoustic lead instrument with adequate support. Keep the backing sparse enough to retain all three syllables of each technical word.
 
 **Production, sound effects, and edits:** A short swoosh-like sound near the ending is reported by the model. Digital/clean overall texture is plausible, but the exact processor is unknown. The most important audible form is the spaced repetition of the final line, supported by both recognizer passes.
 
@@ -872,6 +993,13 @@ Raw excerpt interpretations are preserved below as evidence links. They are not 
 
 Source: [DdLxzBIoJ8F.mp4](../account_mp4/DdLxzBIoJ8F.mp4) · **49.97 seconds** · [extracted audio](evidence/audio/DdLxzBIoJ8F.wav)
 
+## Listening/navigation aids
+
+- [Waveform and onset-strength overview (navigation aid, not a score)](evidence/listen_cues/DdLxzBIoJ8F/waveform_onsets.png)
+- [8-second source-audio excerpts with relative time ranges](evidence/listen_cues/DdLxzBIoJ8F/)
+
+The excerpts are PCM slices from the existing mono analysis WAV. The plot shows amplitude and spectral onset strength; it does not establish notes, instrumentation, meter, or a transcription. Use the original stereo/video for final listening checks.
+
 ## Transcript and timing
 
 | Approx. source time | Best-supported words / event |
@@ -923,11 +1051,22 @@ Broad respellings are performance targets; they do not establish every vowel of 
 
 **Melody and phrase shape:** Hall house is the recurring two-word refrain, while the verse moves quickly through rhyming phrases. The source sequence supports repeated couplet-length units, changing to spoken asides on oh behave and very private. Suggested rendition: broaden the two stresses of HALL HOUSE, keep the descriptive lines on a narrow patter melody, and briefly drop the aside into speech. Exact notes and a sung range are not established.
 
-**Rhythm:** Two tempo estimators applied to the same audio show a pulse near 135 BPM or its half-time reading near 67–68 BPM; their agreement is not independent confirmation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 136.5 BPM (peak score 0.58), 68.2 BPM (peak score 0.57), 90.8 BPM (peak score 0.51). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
+**Rhythm:** A fast regular pulse near 135 BPM is supported by two signal-analysis methods; 67–68 BPM is the corresponding half-time interpretation. Short syllables and repeated words carry the rhythmic interest. Use straight 4/4 as a reconstruction setting; the original meter and precise swing ratio are not verified. Autocorrelation candidates: 136.5 BPM (peak score 0.58), 68.2 BPM (peak score 0.57), 90.8 BPM (peak score 0.51). These are relative peak scores, not probabilities; both tempo estimates use the same audio and cannot confirm one another independently.
 
 **Tonality and harmony:** Whole-mixture key correlations are weak and nearly tied; no key or major/minor mode is established. Preserve a simple low tonal backing and the rhythmic phrasing rather than forcing a supposedly exact progression. The model’s mood descriptions range from lively/quirky to slightly dark, so the recreation can keep a playful deadpan tone without prescribing a dark minor mode. Mixed-audio pitch-class profile candidates: A♭ major (0.37), D♭ minor (0.37), C minor (0.34). These numbers are correlation scores, not probabilities. They are retained for experimentation, not stated as verified keys. An exact chord sequence and note-by-note melody have not been established.
 
-**Instrumentation and timbre — model interpretation:** The model consistently describes an electronic beat and synthesized low line, with occasional higher chime-like accents. It also suggests sampler-like percussion, but specific 808 hardware and named game associations are unsupported and omitted from the recipe. The separated-backing query also identifies electronic bass, drums and keyboard/synth sounds, with beep, glide and wah-like accents. This strengthens the broad timbral recipe; precise effects remain unverified.
+**Section-level chroma comparison:** C minor ranks first in most windows, but scores are modest and the 8–16 s and ending windows vary. C-minor-leaning backing is an experiment, not a verified key. The table gives only each signal's top profile candidate; the full ranked candidates, method and caveats are in [section_tonality.json](evidence/section_tonality.json) and [section_tonality.py](evidence/section_tonality.py). Scores are correlations, not probabilities.
+
+| Time window | Original mix harmonic | Estimated backing harmonic |
+|---|---|---|
+| 0–8s | C minor (0.44) | C minor (0.48) |
+| 8–16s | C♯ major (0.39) | G♯ major (0.44) |
+| 16–24s | C minor (0.41) | C minor (0.48) |
+| 24–32s | C minor (0.43) | C minor (0.45) |
+| 32–40s | C minor (0.38) | C minor (0.43) |
+| 40–48s | C major (0.42) | C minor (0.40) |
+
+**Instrumentation and timbre — model interpretation:** The model consistently describes an electronic beat and synthesized low line, with occasional higher chime-like accents. It also suggests sampler-like percussion, but specific 808 hardware and named game associations are unsupported and omitted from the recipe.
 
 **Production, sound effects, and edits:** Short whoosh-like transitions and chime-like accents are model-reported possibilities. The dry foreground voice, pauses, and comic asides are the more stable description. No identifiable original game, show, artist or sample source has been established.
 

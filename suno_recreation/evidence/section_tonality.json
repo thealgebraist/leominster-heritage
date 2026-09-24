@@ -1,0 +1,1444 @@
+{
+  "method": "8-second non-overlapping sections, mono 22.05 kHz; librosa HPSS harmonic component; mean chroma-CQT; Pearson correlation against rotated Krumhansl major/minor profiles.",
+  "warnings": [
+    "Key-profile correlation scores are relative correlations, not probabilities.",
+    "The original mix includes vocals and effects; the backing stem is a Demucs estimate and may contain vocal leakage or separation artifacts.",
+    "Short, repetitive or weakly pitched excerpts can yield unstable or relative-major/minor-confused candidates.",
+    "Section boundaries are fixed analysis windows, not necessarily musical phrase boundaries.",
+    "No candidate establishes exact chords, a tonic, mode, or sung melody."
+  ],
+  "tracks": [
+    {
+      "id": "Dc1uBZahhts",
+      "title": "Flaunching",
+      "interpretation": "The two 8-second windows disagree across the original mix and separated backing; no stable center is supported.",
+      "sections": [
+        {
+          "start_s": 0.0,
+          "end_s": 8.0,
+          "original_mix_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.6133288188733466
+            },
+            {
+              "label": "C major",
+              "correlation": 0.45453906775824027
+            },
+            {
+              "label": "G major",
+              "correlation": 0.358675727186334
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "G major",
+              "correlation": 0.4245800616835967
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.41172934715240844
+            },
+            {
+              "label": "C major",
+              "correlation": 0.3798846642038192
+            }
+          ]
+        },
+        {
+          "start_s": 8.0,
+          "end_s": 15.81,
+          "original_mix_harmonic": [
+            {
+              "label": "G major",
+              "correlation": 0.44648402066905013
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.44351951703306824
+            },
+            {
+              "label": "C major",
+              "correlation": 0.4296467060632061
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.38075933183042776
+            },
+            {
+              "label": "G major",
+              "correlation": 0.33522689043786624
+            },
+            {
+              "label": "C major",
+              "correlation": 0.3293236699393004
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "Dc8axxYIC3k",
+      "title": "Guttae / Good Day",
+      "interpretation": "G major ranks first in both signals through 0\u201316 s; the short ending window disagrees (C major in the mix, F major in the backing). Treat G as an early-section experiment, not a whole-track key.",
+      "sections": [
+        {
+          "start_s": 0.0,
+          "end_s": 8.0,
+          "original_mix_harmonic": [
+            {
+              "label": "G major",
+              "correlation": 0.40238501508501934
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.3067847366226141
+            },
+            {
+              "label": "C\u266f major",
+              "correlation": 0.29868455434345714
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "G major",
+              "correlation": 0.3991426285836026
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.34715231770587374
+            },
+            {
+              "label": "C major",
+              "correlation": 0.28852710853975705
+            }
+          ]
+        },
+        {
+          "start_s": 8.0,
+          "end_s": 16.0,
+          "original_mix_harmonic": [
+            {
+              "label": "G major",
+              "correlation": 0.4551522008940509
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.43550500235476713
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.3244689410353433
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "G major",
+              "correlation": 0.5931315884055984
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.46712522864328576
+            },
+            {
+              "label": "C major",
+              "correlation": 0.3930569521673575
+            }
+          ]
+        },
+        {
+          "start_s": 16.0,
+          "end_s": 22.32,
+          "original_mix_harmonic": [
+            {
+              "label": "C major",
+              "correlation": 0.38468870574859365
+            },
+            {
+              "label": "A minor",
+              "correlation": 0.32146121014592216
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.3189404969382925
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "F major",
+              "correlation": 0.5751009985937339
+            },
+            {
+              "label": "C major",
+              "correlation": 0.5296646374993317
+            },
+            {
+              "label": "A minor",
+              "correlation": 0.4962737643026371
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "DcRZB_PBFkr",
+      "title": "Corbel / Bargeboard / Architectural Features",
+      "interpretation": "The leading profiles shift from G major to C major in the mix, and the final short window disagrees sharply between mix and backing. No single track-wide key is supported.",
+      "sections": [
+        {
+          "start_s": 0.0,
+          "end_s": 8.0,
+          "original_mix_harmonic": [
+            {
+              "label": "G major",
+              "correlation": 0.6860268413607257
+            },
+            {
+              "label": "C major",
+              "correlation": 0.6724318706883546
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.45767513303712987
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "G major",
+              "correlation": 0.6160196207839639
+            },
+            {
+              "label": "C major",
+              "correlation": 0.5371532446921844
+            },
+            {
+              "label": "G minor",
+              "correlation": 0.4056450679620698
+            }
+          ]
+        },
+        {
+          "start_s": 8.0,
+          "end_s": 16.0,
+          "original_mix_harmonic": [
+            {
+              "label": "C major",
+              "correlation": 0.578304966147561
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.5570308266249646
+            },
+            {
+              "label": "G major",
+              "correlation": 0.3653322126140726
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.5178785987755269
+            },
+            {
+              "label": "C major",
+              "correlation": 0.49168319193174714
+            },
+            {
+              "label": "G major",
+              "correlation": 0.34885744496363613
+            }
+          ]
+        },
+        {
+          "start_s": 16.0,
+          "end_s": 24.0,
+          "original_mix_harmonic": [
+            {
+              "label": "C major",
+              "correlation": 0.610925216866303
+            },
+            {
+              "label": "G major",
+              "correlation": 0.6084068560176005
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.598471047855465
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.6011206986720794
+            },
+            {
+              "label": "C major",
+              "correlation": 0.5633770521320406
+            },
+            {
+              "label": "G major",
+              "correlation": 0.5506173190994595
+            }
+          ]
+        },
+        {
+          "start_s": 24.0,
+          "end_s": 32.0,
+          "original_mix_harmonic": [
+            {
+              "label": "C major",
+              "correlation": 0.5947994149802209
+            },
+            {
+              "label": "G major",
+              "correlation": 0.5816883562358812
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.5080563167247631
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "G major",
+              "correlation": 0.5451891333915657
+            },
+            {
+              "label": "C major",
+              "correlation": 0.5327824158989739
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.4054665633911844
+            }
+          ]
+        },
+        {
+          "start_s": 32.0,
+          "end_s": 38.01,
+          "original_mix_harmonic": [
+            {
+              "label": "C\u266f minor",
+              "correlation": 0.6167470090866921
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.4400568879463693
+            },
+            {
+              "label": "C\u266f major",
+              "correlation": 0.43224567098743744
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "F major",
+              "correlation": 0.7310598097531043
+            },
+            {
+              "label": "F minor",
+              "correlation": 0.6733119844669697
+            },
+            {
+              "label": "D minor",
+              "correlation": 0.4864046486700144
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "DcYTYvMBSMn",
+      "title": "Columns / Classical Orders",
+      "interpretation": "E-flat/B-flat profile labels recur across most sections in both signals, while major/minor mode and the strongest member of that family vary. An E-flat/B-flat tonal palette is a more cautious prompt test than a single asserted key.",
+      "sections": [
+        {
+          "start_s": 0.0,
+          "end_s": 8.0,
+          "original_mix_harmonic": [
+            {
+              "label": "D\u266f minor",
+              "correlation": 0.5664563497145848
+            },
+            {
+              "label": "D\u266f major",
+              "correlation": 0.5571002789639596
+            },
+            {
+              "label": "G\u266f minor",
+              "correlation": 0.40065834183275717
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "D\u266f major",
+              "correlation": 0.7126328377280101
+            },
+            {
+              "label": "D\u266f minor",
+              "correlation": 0.6363031361986711
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.40629003917583933
+            }
+          ]
+        },
+        {
+          "start_s": 8.0,
+          "end_s": 16.0,
+          "original_mix_harmonic": [
+            {
+              "label": "D\u266f major",
+              "correlation": 0.7184432434091823
+            },
+            {
+              "label": "A\u266f major",
+              "correlation": 0.7016276224466433
+            },
+            {
+              "label": "D\u266f minor",
+              "correlation": 0.5458178025633583
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "D\u266f major",
+              "correlation": 0.7124180361251531
+            },
+            {
+              "label": "A\u266f major",
+              "correlation": 0.623645618248052
+            },
+            {
+              "label": "D\u266f minor",
+              "correlation": 0.46967122771775144
+            }
+          ]
+        },
+        {
+          "start_s": 16.0,
+          "end_s": 24.0,
+          "original_mix_harmonic": [
+            {
+              "label": "A\u266f major",
+              "correlation": 0.7107610290104385
+            },
+            {
+              "label": "D\u266f major",
+              "correlation": 0.7038574918338499
+            },
+            {
+              "label": "D\u266f minor",
+              "correlation": 0.5109182581683566
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "D\u266f major",
+              "correlation": 0.6391886723772429
+            },
+            {
+              "label": "A\u266f major",
+              "correlation": 0.570800263730333
+            },
+            {
+              "label": "D\u266f minor",
+              "correlation": 0.477100034725935
+            }
+          ]
+        },
+        {
+          "start_s": 24.0,
+          "end_s": 32.0,
+          "original_mix_harmonic": [
+            {
+              "label": "D\u266f major",
+              "correlation": 0.6636022987254222
+            },
+            {
+              "label": "D\u266f minor",
+              "correlation": 0.532281804251379
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.45309776109472555
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "D\u266f major",
+              "correlation": 0.6749666074329513
+            },
+            {
+              "label": "D\u266f minor",
+              "correlation": 0.526649662955033
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.5163481968065448
+            }
+          ]
+        },
+        {
+          "start_s": 32.0,
+          "end_s": 40.0,
+          "original_mix_harmonic": [
+            {
+              "label": "A\u266f major",
+              "correlation": 0.7063597966457071
+            },
+            {
+              "label": "D\u266f major",
+              "correlation": 0.7004951928392315
+            },
+            {
+              "label": "D\u266f minor",
+              "correlation": 0.4884422994369294
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "A\u266f major",
+              "correlation": 0.6308979158154626
+            },
+            {
+              "label": "D\u266f major",
+              "correlation": 0.5879937627971941
+            },
+            {
+              "label": "A\u266f minor",
+              "correlation": 0.48204186783919106
+            }
+          ]
+        },
+        {
+          "start_s": 40.0,
+          "end_s": 48.0,
+          "original_mix_harmonic": [
+            {
+              "label": "D\u266f major",
+              "correlation": 0.6926791686696063
+            },
+            {
+              "label": "A\u266f major",
+              "correlation": 0.6421209462914148
+            },
+            {
+              "label": "D\u266f minor",
+              "correlation": 0.4966895212478011
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "D\u266f major",
+              "correlation": 0.6806984207055403
+            },
+            {
+              "label": "A\u266f major",
+              "correlation": 0.6105606968992687
+            },
+            {
+              "label": "D\u266f minor",
+              "correlation": 0.49981094768523193
+            }
+          ]
+        },
+        {
+          "start_s": 48.0,
+          "end_s": 53.62,
+          "original_mix_harmonic": [
+            {
+              "label": "D\u266f major",
+              "correlation": 0.730748744261036
+            },
+            {
+              "label": "G minor",
+              "correlation": 0.5185582579892014
+            },
+            {
+              "label": "A\u266f major",
+              "correlation": 0.4914174000702877
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "A\u266f major",
+              "correlation": 0.7806362189509908
+            },
+            {
+              "label": "D\u266f major",
+              "correlation": 0.5636700441765369
+            },
+            {
+              "label": "D minor",
+              "correlation": 0.47404810785356116
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "DcbYsWLhhdZ",
+      "title": "Doors",
+      "interpretation": "Both signals rank F minor first in 0\u201316 s, C minor in 16\u201332 s, then F minor through most of 32\u201364 s. This repeated section pattern supports testing an F-minor / C-minor contrast, but does not prove a chord progression or tonal function.",
+      "sections": [
+        {
+          "start_s": 0.0,
+          "end_s": 8.0,
+          "original_mix_harmonic": [
+            {
+              "label": "F minor",
+              "correlation": 0.719103371281302
+            },
+            {
+              "label": "C\u266f major",
+              "correlation": 0.5967620806410727
+            },
+            {
+              "label": "A\u266f minor",
+              "correlation": 0.4695427502033342
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "F minor",
+              "correlation": 0.6794978291493627
+            },
+            {
+              "label": "F major",
+              "correlation": 0.45151294499731176
+            },
+            {
+              "label": "C\u266f major",
+              "correlation": 0.39324151723370043
+            }
+          ]
+        },
+        {
+          "start_s": 8.0,
+          "end_s": 16.0,
+          "original_mix_harmonic": [
+            {
+              "label": "F minor",
+              "correlation": 0.7171397692039392
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.5468340802885112
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.5336206944032932
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "F minor",
+              "correlation": 0.47925130964696455
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.39322716073578917
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.3541848267912419
+            }
+          ]
+        },
+        {
+          "start_s": 16.0,
+          "end_s": 24.0,
+          "original_mix_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.4644905508573211
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.36386652124466606
+            },
+            {
+              "label": "C major",
+              "correlation": 0.31352253524287227
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.5802873343735618
+            },
+            {
+              "label": "C major",
+              "correlation": 0.4420336552463285
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.34851328510406543
+            }
+          ]
+        },
+        {
+          "start_s": 24.0,
+          "end_s": 32.0,
+          "original_mix_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.669602607206376
+            },
+            {
+              "label": "C major",
+              "correlation": 0.5793035904433101
+            },
+            {
+              "label": "F minor",
+              "correlation": 0.4390623077126268
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.5957452844821234
+            },
+            {
+              "label": "C major",
+              "correlation": 0.5680137848979985
+            },
+            {
+              "label": "F minor",
+              "correlation": 0.35958602842003995
+            }
+          ]
+        },
+        {
+          "start_s": 32.0,
+          "end_s": 40.0,
+          "original_mix_harmonic": [
+            {
+              "label": "F minor",
+              "correlation": 0.6876346183391957
+            },
+            {
+              "label": "A\u266f minor",
+              "correlation": 0.6051849709277854
+            },
+            {
+              "label": "C\u266f major",
+              "correlation": 0.5667482858808962
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "F minor",
+              "correlation": 0.5751332693459636
+            },
+            {
+              "label": "C\u266f major",
+              "correlation": 0.5468092428980471
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.492875508145839
+            }
+          ]
+        },
+        {
+          "start_s": 40.0,
+          "end_s": 48.0,
+          "original_mix_harmonic": [
+            {
+              "label": "F minor",
+              "correlation": 0.624535978643265
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.5398780376297618
+            },
+            {
+              "label": "C\u266f major",
+              "correlation": 0.4228138274369078
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "F minor",
+              "correlation": 0.49061993016595906
+            },
+            {
+              "label": "C\u266f major",
+              "correlation": 0.445962686416182
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.4143085382267854
+            }
+          ]
+        },
+        {
+          "start_s": 48.0,
+          "end_s": 56.0,
+          "original_mix_harmonic": [
+            {
+              "label": "F minor",
+              "correlation": 0.6295990813429396
+            },
+            {
+              "label": "F major",
+              "correlation": 0.49412089411558746
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.35477412564786964
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "F minor",
+              "correlation": 0.5742067814074681
+            },
+            {
+              "label": "F major",
+              "correlation": 0.41653254397067396
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.3661382159066871
+            }
+          ]
+        },
+        {
+          "start_s": 56.0,
+          "end_s": 64.0,
+          "original_mix_harmonic": [
+            {
+              "label": "F minor",
+              "correlation": 0.562753743671748
+            },
+            {
+              "label": "C\u266f major",
+              "correlation": 0.3068678673963289
+            },
+            {
+              "label": "F major",
+              "correlation": 0.2993499857284338
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "F minor",
+              "correlation": 0.651101564451581
+            },
+            {
+              "label": "F major",
+              "correlation": 0.45576592745729755
+            },
+            {
+              "label": "C\u266f major",
+              "correlation": 0.30460579236472635
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "DcqWhZtBIEI",
+      "title": "Windows",
+      "interpretation": "G is the leading tonic label throughout nearly all lyric sections in both signals, but major/minor rankings switch. A G-centered backing with mode left flexible is a testable recreation choice.",
+      "sections": [
+        {
+          "start_s": 0.0,
+          "end_s": 8.0,
+          "original_mix_harmonic": [
+            {
+              "label": "G minor",
+              "correlation": 0.6499171510257196
+            },
+            {
+              "label": "G major",
+              "correlation": 0.5806649140891633
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.39779035468029356
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "G minor",
+              "correlation": 0.6055363826795942
+            },
+            {
+              "label": "G major",
+              "correlation": 0.5474275152157149
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.3807152570602015
+            }
+          ]
+        },
+        {
+          "start_s": 8.0,
+          "end_s": 16.0,
+          "original_mix_harmonic": [
+            {
+              "label": "G minor",
+              "correlation": 0.6874363388686713
+            },
+            {
+              "label": "G major",
+              "correlation": 0.5315972614330196
+            },
+            {
+              "label": "C major",
+              "correlation": 0.33398134916681976
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "G minor",
+              "correlation": 0.7371214015283237
+            },
+            {
+              "label": "G major",
+              "correlation": 0.5426065534782283
+            },
+            {
+              "label": "C major",
+              "correlation": 0.3637490520667797
+            }
+          ]
+        },
+        {
+          "start_s": 16.0,
+          "end_s": 24.0,
+          "original_mix_harmonic": [
+            {
+              "label": "G minor",
+              "correlation": 0.6663882251713048
+            },
+            {
+              "label": "G major",
+              "correlation": 0.6515386943504072
+            },
+            {
+              "label": "C major",
+              "correlation": 0.3764727139215292
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "G major",
+              "correlation": 0.7294969357159278
+            },
+            {
+              "label": "G minor",
+              "correlation": 0.7113656308696029
+            },
+            {
+              "label": "C major",
+              "correlation": 0.4053374032096009
+            }
+          ]
+        },
+        {
+          "start_s": 24.0,
+          "end_s": 32.0,
+          "original_mix_harmonic": [
+            {
+              "label": "G minor",
+              "correlation": 0.7361033014087262
+            },
+            {
+              "label": "G major",
+              "correlation": 0.5678856969455008
+            },
+            {
+              "label": "C major",
+              "correlation": 0.3490241123896185
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "G minor",
+              "correlation": 0.7356250163305734
+            },
+            {
+              "label": "G major",
+              "correlation": 0.5452511693812399
+            },
+            {
+              "label": "C major",
+              "correlation": 0.3865245028301941
+            }
+          ]
+        },
+        {
+          "start_s": 32.0,
+          "end_s": 40.0,
+          "original_mix_harmonic": [
+            {
+              "label": "G major",
+              "correlation": 0.8585149057925038
+            },
+            {
+              "label": "G minor",
+              "correlation": 0.7009171377098494
+            },
+            {
+              "label": "C major",
+              "correlation": 0.5690741108441592
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "G major",
+              "correlation": 0.8125023809938089
+            },
+            {
+              "label": "G minor",
+              "correlation": 0.7361816584784724
+            },
+            {
+              "label": "C major",
+              "correlation": 0.49020458294177716
+            }
+          ]
+        },
+        {
+          "start_s": 40.0,
+          "end_s": 48.0,
+          "original_mix_harmonic": [
+            {
+              "label": "G minor",
+              "correlation": 0.7928247060188167
+            },
+            {
+              "label": "G major",
+              "correlation": 0.6467319668847418
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.38696173012267127
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "G minor",
+              "correlation": 0.7954653083846083
+            },
+            {
+              "label": "G major",
+              "correlation": 0.6692703823025906
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.33903882008156533
+            }
+          ]
+        },
+        {
+          "start_s": 48.0,
+          "end_s": 56.0,
+          "original_mix_harmonic": [
+            {
+              "label": "G minor",
+              "correlation": 0.7911483780763939
+            },
+            {
+              "label": "G major",
+              "correlation": 0.6383547935040443
+            },
+            {
+              "label": "C major",
+              "correlation": 0.3762470201576733
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "G minor",
+              "correlation": 0.7713329395673808
+            },
+            {
+              "label": "G major",
+              "correlation": 0.6297932950314421
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.4412944663952682
+            }
+          ]
+        },
+        {
+          "start_s": 56.0,
+          "end_s": 64.0,
+          "original_mix_harmonic": [
+            {
+              "label": "G minor",
+              "correlation": 0.7078133297696237
+            },
+            {
+              "label": "G major",
+              "correlation": 0.7050254580476693
+            },
+            {
+              "label": "C major",
+              "correlation": 0.44084062747953134
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "G minor",
+              "correlation": 0.7019690540727325
+            },
+            {
+              "label": "G major",
+              "correlation": 0.6859273624593613
+            },
+            {
+              "label": "C major",
+              "correlation": 0.4727371494712847
+            }
+          ]
+        },
+        {
+          "start_s": 64.0,
+          "end_s": 67.04,
+          "original_mix_harmonic": [
+            {
+              "label": "A minor",
+              "correlation": 0.44493411912646624
+            },
+            {
+              "label": "C major",
+              "correlation": 0.3271504088079227
+            },
+            {
+              "label": "F major",
+              "correlation": 0.31821653593841054
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "F major",
+              "correlation": 0.7417900629126979
+            },
+            {
+              "label": "F minor",
+              "correlation": 0.7004992345586504
+            },
+            {
+              "label": "C major",
+              "correlation": 0.44658041635227724
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "DcvxvGDhSeb",
+      "title": "Echinus / Entasis",
+      "interpretation": "The opening favors G major; later windows are weaker and the original mix and separated backing disagree. No stable whole-track key is supported.",
+      "sections": [
+        {
+          "start_s": 0.0,
+          "end_s": 8.0,
+          "original_mix_harmonic": [
+            {
+              "label": "G major",
+              "correlation": 0.6893182054528496
+            },
+            {
+              "label": "C major",
+              "correlation": 0.626737822686693
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.5020183439674032
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "G major",
+              "correlation": 0.6537231474041589
+            },
+            {
+              "label": "C major",
+              "correlation": 0.6304859932155573
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.4110224547615063
+            }
+          ]
+        },
+        {
+          "start_s": 8.0,
+          "end_s": 16.0,
+          "original_mix_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.5023445484275021
+            },
+            {
+              "label": "C major",
+              "correlation": 0.47340621909412733
+            },
+            {
+              "label": "F major",
+              "correlation": 0.4289564648697345
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "G minor",
+              "correlation": 0.5173742447229395
+            },
+            {
+              "label": "F major",
+              "correlation": 0.43822393775006946
+            },
+            {
+              "label": "C major",
+              "correlation": 0.4151851514117924
+            }
+          ]
+        },
+        {
+          "start_s": 16.0,
+          "end_s": 22.5,
+          "original_mix_harmonic": [
+            {
+              "label": "B minor",
+              "correlation": 0.34808384435172635
+            },
+            {
+              "label": "F major",
+              "correlation": 0.304442303908007
+            },
+            {
+              "label": "C major",
+              "correlation": 0.27824531769552524
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "F major",
+              "correlation": 0.548294062479505
+            },
+            {
+              "label": "C major",
+              "correlation": 0.4111917231957321
+            },
+            {
+              "label": "D minor",
+              "correlation": 0.38500762414478823
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "DdLxzBIoJ8F",
+      "title": "Hall House",
+      "interpretation": "C minor ranks first in most windows, but scores are modest and the 8\u201316 s and ending windows vary. C-minor-leaning backing is an experiment, not a verified key.",
+      "sections": [
+        {
+          "start_s": 0.0,
+          "end_s": 8.0,
+          "original_mix_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.4407774469480941
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.3150785366560817
+            },
+            {
+              "label": "C major",
+              "correlation": 0.3024984162599005
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.4757212339254618
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.37015542839949495
+            },
+            {
+              "label": "G major",
+              "correlation": 0.3152351300939364
+            }
+          ]
+        },
+        {
+          "start_s": 8.0,
+          "end_s": 16.0,
+          "original_mix_harmonic": [
+            {
+              "label": "C\u266f major",
+              "correlation": 0.3926833675963782
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.37251065671951317
+            },
+            {
+              "label": "C\u266f minor",
+              "correlation": 0.34482649805264065
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "G\u266f major",
+              "correlation": 0.44023282333581515
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.3524451100939627
+            },
+            {
+              "label": "C\u266f major",
+              "correlation": 0.3143801897457446
+            }
+          ]
+        },
+        {
+          "start_s": 16.0,
+          "end_s": 24.0,
+          "original_mix_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.408990658771584
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.3331209172218618
+            },
+            {
+              "label": "G major",
+              "correlation": 0.3324973010249679
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.47686618026090527
+            },
+            {
+              "label": "G major",
+              "correlation": 0.3940027792984367
+            },
+            {
+              "label": "C major",
+              "correlation": 0.37018204206680333
+            }
+          ]
+        },
+        {
+          "start_s": 24.0,
+          "end_s": 32.0,
+          "original_mix_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.4344295901047925
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.37636009714836516
+            },
+            {
+              "label": "C major",
+              "correlation": 0.3133309562547121
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.44735625177849736
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.3882254016708991
+            },
+            {
+              "label": "G major",
+              "correlation": 0.33530541136464864
+            }
+          ]
+        },
+        {
+          "start_s": 32.0,
+          "end_s": 40.0,
+          "original_mix_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.37988468697914457
+            },
+            {
+              "label": "C major",
+              "correlation": 0.2546662372231708
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.25271741292947114
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.4265874445981736
+            },
+            {
+              "label": "G\u266f major",
+              "correlation": 0.3429380287959409
+            },
+            {
+              "label": "C major",
+              "correlation": 0.3203764942651936
+            }
+          ]
+        },
+        {
+          "start_s": 40.0,
+          "end_s": 48.0,
+          "original_mix_harmonic": [
+            {
+              "label": "C major",
+              "correlation": 0.42135365205441283
+            },
+            {
+              "label": "C minor",
+              "correlation": 0.4060033173168871
+            },
+            {
+              "label": "C\u266f minor",
+              "correlation": 0.24868316986797143
+            }
+          ],
+          "separated_backing_harmonic": [
+            {
+              "label": "C minor",
+              "correlation": 0.4016560423374528
+            },
+            {
+              "label": "C major",
+              "correlation": 0.35538955368415803
+            },
+            {
+              "label": "C\u266f minor",
+              "correlation": 0.2543012067737856
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
