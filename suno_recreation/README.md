@@ -55,4 +55,8 @@ All nine source videos have timed transcripts, pronunciation notes, music analys
 
 [Download the Apple and Android ringtones](ringtones/README.md) · [Read the token and timing audit](ANALYSIS_USAGE.md)
 
+[Browse standalone Suno prompt variants](prompts/README.md), including the recovered choir prompts in their own folder and the Hall House old-school rap pair.
+
+[Read the project context dump](../context.dump.md) for the prompt history, constraints, provenance, and export limits.
+
 [Read the complete guide](COMPLETE_GUIDE.md) · [Open the listening and copying page](index.html)

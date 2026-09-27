@@ -1,0 +1,169 @@
+\documentclass[10pt]{article}
+\usepackage[margin=0.7in]{geometry}
+\usepackage{fontspec}
+\setmainfont{Arial}
+\setsansfont{Arial}
+\setmonofont{Menlo}
+\usepackage{booktabs,tabularx,array,longtable}
+\usepackage[table]{xcolor}
+\usepackage{microtype}
+\usepackage{xurl}
+\usepackage{hyperref}
+\urlstyle{same}
+\usepackage{enumitem}
+\usepackage{float}
+\usepackage{fancyhdr}
+\usepackage{siunitx}
+\definecolor{navy}{HTML}{17324D}
+\definecolor{pale}{HTML}{EAF0F5}
+\definecolor{muted}{HTML}{52616B}
+\hypersetup{colorlinks=true,linkcolor=navy,urlcolor=navy}
+\sisetup{group-separator={,},group-minimum-digits=4}
+\renewcommand{\arraystretch}{1.16}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{5pt}
+\pagestyle{fancy}\fancyhf{}\lhead{Instagram-song analysis}\rhead{Usage audit}\cfoot{\thepage}
+\newcolumntype{Y}{>{\raggedright\arraybackslash}X}
+\newcommand{\smallnote}[1]{{\small\color{muted}#1}}
+\title{Usage audit: Instagram-song analysis}
+\author{Codex rollout and local artifact records}
+\date{Snapshot through the completed log-audit task, 24 September 2026, 22:02 UTC}
+\begin{document}
+\maketitle
+\vspace{-1.0em}
+\begin{quote}\small
+This report separates logged Codex tokens and task intervals from local-model inference timers and shell-command wall time. It also gives a public API list-price comparison, which is not a record of the ChatGPT subscription charge.
+\end{quote}
+
+\section{Model usage and cost estimate}
+The detailed Codex rollout is \url{rollout-2026-09-24T16-18-01-01a0d3c3-922a-7ab2-bc0f-04821057413c_01a0d3c7-ccfd-76d2-9984-d6abc23fa306.jsonl}. Model identity and reasoning effort are recorded in thread settings. The request-time usage records show one task turn on \textbf{GPT-6 Astra, high reasoning}, then 27 turns on \textbf{GPT-6 Luna, low reasoning}. The model setting changed during the first follow-up task before its first recorded model call; this report attributes usage by the setting at each token record, not only by task-start setting. The snapshot stops at completion of the requested log audit, before this PDF-conversion task.
+
+\begin{table}[ht]
+\centering\footnotesize\setlength{\tabcolsep}{3pt}
+\caption{Cumulative Codex accounting by model at the latest snapshot. Cached input is a subset of input.}
+\begin{tabularx}{\linewidth}{X r r r r r r r}
+\toprule
+\textbf{Model and effort} & \textbf{Turns} & \textbf{Task time} & \textbf{Input} & \textbf{Cached} & \textbf{Output} & \textbf{Reasoning} & \textbf{Total}\\
+\midrule
+GPT-6 Astra, high & 1 & 24m 35s & 5,939,648 & 5,773,952 & 34,553 & 6,332 & 5,974,201\\
+GPT-6 Luna, low & 27 & 2h 36m 42s & 93,429,960 & 91,573,504 & 302,739 & 133,281 & 93,732,699\\
+\midrule
+\textbf{Combined} & \textbf{28} & \textbf{3h 01m 17s} & \textbf{99,369,608} & \textbf{97,347,456} & \textbf{337,292} & \textbf{139,613} & \textbf{99,706,900}\\
+\bottomrule
+\end{tabularx}
+\end{table}
+\smallnote{Task time is the sum of recorded task-start to task-complete intervals; it includes waiting during a task and excludes gaps between tasks. The Codex task intervals total 3h 01m 17s. The log spans 14:18:02 to 22:02:28 UTC (7h 44m 26s), including gaps between task turns; this is calendar elapsed time, not continuous work.}
+
+\subsection*{API list-price illustration (not actual charge)}
+The usage log is Codex session telemetry, not a record of API calls. Local evidence contains no invoice or account-level charge. Applying the published standard short-context API rates as a comparison—Astra: \textdollar10 input, \textdollar1 cached input, \textdollar50 output per million tokens; Luna: \textdollar0.10 input, \textdollar0.01 cached input, \textdollar0.50 output per million tokens—gives the estimates below. This assumes no long-prompt pricing adjustments, tool-call surcharges or account-specific terms.
+
+\begin{table}[ht]
+\centering\small
+\caption{Hypothetical API equivalent from logged token counts.}
+\begin{tabular}{lrrrr}
+\toprule
+\textbf{Model} & \textbf{Uncached input} & \textbf{Cached input} & \textbf{Output} & \textbf{Illustrative total}\\
+\midrule
+GPT-6 Astra & \$1.66 & \$5.77 & \$1.73 & \$9.16\\
+GPT-6 Luna & \$0.19 & \$0.92 & \$0.15 & \$1.25\\
+\textbf{Combined} & \textbf{\$1.84} & \textbf{\$6.69} & \textbf{\$1.88} & \textbf{\$10.41}\\
+\bottomrule
+\end{tabular}
+\end{table}
+\smallnote{Astra calculation: 165,696 uncached input, 5,773,952 cached input, and 34,553 output tokens. Luna calculation: 1,856,456 uncached input, 91,573,504 cached input, and 302,739 output tokens. Small discrepancies may occur when adding displayed rounded subtotals. Prices checked against the \href{https://developers.openai.com/api/docs/pricing}{official API pricing table} on 25 September 2026. ChatGPT and API billing are separate systems; see the \href{https://help.openai.com/en/articles/9039756}{OpenAI billing guidance}.}
+
+\subsection*{Why cached input reached about 99 million}
+At this snapshot, 97.35 million of 99.37 million logged input tokens are marked cached (97.96\%). This is cumulative input across 28 turns and 710 model calls, not one prompt and not 97 million newly written words. The conversation repeatedly carried large shared context, tool results and prior history. When a reusable prompt prefix is recognized, its tokens are still counted in total input and separately labeled as cached; cached tokens would receive a lower API rate in this hypothetical API-price comparison. Thus the cumulative cache count can become very large even if the actual new text per call is much smaller. The Codex usage records explicitly mark these tokens as cached input. OpenAI describes prompt caching as reusing saved computation state for an exact matching prompt prefix; the cached prefix still belongs to the logical conversation context. The rollout has no separate cache-diagnostics records, so I can confirm cache use from the counters but cannot identify exactly which messages made up every matched prefix. See the official \href{https://developers.openai.com/api/docs/guides/prompt-caching}{prompt-caching guide}. Across those 710 calls, all 53 Astra requests and 655 of 657 Luna requests reported some cached input; two Luna calls reported zero cached input. The largest single request had 245,235 input tokens, of which 243,328 were cached. No cache-write tokens were reported. The rollout reports a 258,400-token context window: 156 Luna calls exceeded 200,000 input tokens, 27 exceeded 230,000, and the maximum 245,235 used about 95\% of that window. This makes the \emph{per-request context size} a plausible quality risk: old material may crowd out fresh evidence or make relevant details harder to prioritize. The aggregate cache count itself is not a memory overflow, and the logs do not show that any particular answer failed because of context pressure. Exact per-message content attribution and subscription cost are not exposed.
+
+\section{Work phases}
+The task boundaries below come from rollout start/complete records. The audit phase includes the three completed log-inspection turns. Cost is not shown by task here: rollout telemetry supplies token use by model and turn, while work phases require an interpretive grouping. Per-video cost is separately shown as an explicitly even allocation of the combined API-equivalent estimate.
+
+\footnotesize\begin{longtable}{p{0.25\linewidth}r p{0.10\linewidth}p{0.28\linewidth}p{0.08\linewidth}p{0.10\linewidth}}
+\caption{Work phases; each row is a documented task grouping, not a measured cost center.}\\
+\toprule
+\textbf{Phase} & \textbf{Turns} & \textbf{Task time} & \textbf{Input (cached subset)} & \textbf{Output} & \textbf{Model mix}\\
+\midrule\endfirsthead
+\toprule
+\textbf{Phase} & \textbf{Turns} & \textbf{Task time} & \textbf{Input (cached subset)} & \textbf{Output} & \textbf{Model mix}\\
+\midrule\endhead
+Initial eight-track analysis & 1 & 24m 35s & 5,939,648 (5,773,952) & 34,553 & Astra high\\
+Suno API and ASR/model research & 15 & 1h 09m 25s & 46,017,250 (45,049,344) & 121,462 & Luna low\\
+GitHub setup and video packaging & 6 & 29m 55s & 18,949,891 (18,610,688) & 56,596 & Luna low\\
+Door Knockers analysis and repo cleanup & 1 & 34m 13s & 17,402,958 (17,116,672) & 68,948 & Luna low\\
+Apple / Android ringtones & 1 & 3m 51s & 2,053,363 (2,025,472) & 8,540 & Luna low\\
+Remaining-work answer & 1 & 14s & 134,977 (97,024) & 392 & Luna low\\
+Usage-log audit & 3 & 19m 03s & 8,871,521 (8,674,304) & 46,801 & Luna low\\
+\bottomrule
+\end{longtable}
+\smallnote{Phase output excludes reasoning output, which is listed separately in the model summary. The initial analysis used Astra; all subsequent request usage in this snapshot used Luna low. Phase labels are assigned by the user request being handled; they are not directly logged categories.}
+
+\section{Per-video cost allocation}
+Actual per-video Codex token counts are not present. For a simple comparison, the \$10.41 combined hypothetical API equivalent is split evenly among the nine source clips. Eight clips receive \$1.16 each and Door Knockers receives \$1.13 so the rounded allocations sum to \$10.41. This is a bookkeeping allocation of shared discussion, repository, and research work, not each clip's marginal cost.
+
+\begin{table}[ht]
+\centering\small
+\caption{Even allocation of the combined hypothetical API equivalent.}
+\begin{tabular}{lr}
+\toprule\textbf{Video} & \textbf{Allocated estimate}\\\midrule
+Flaunching & \$1.16\\
+Guttae / Good Day & \$1.16\\
+Corbel / Bargeboard & \$1.16\\
+Columns / Classical Orders & \$1.16\\
+Doors & \$1.16\\
+Windows & \$1.16\\
+Echinus / Entasis & \$1.16\\
+Hall House & \$1.16\\
+Door Knockers & \$1.13\\
+\midrule\textbf{Total} & \textbf{\$10.41}\\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{Other model and signal-tool timing}
+These figures come from local artifacts or command logs. The different clocks are not directly additive: inner-loop inference excludes setup, while command wall time may include downloads, model loading, decoding or waiting. Concurrent commands may overlap.
+
+\footnotesize\begin{longtable}{p{0.22\linewidth}p{0.24\linewidth}p{0.10\linewidth}p{0.33\linewidth}}
+\caption{Recorded non-Codex timing evidence.}\\
+\toprule\textbf{Model or tool} & \textbf{Recorded work} & \textbf{Time} & \textbf{Measurement boundary}\\
+\midrule\endfirsthead
+\toprule\textbf{Model or tool} & \textbf{Recorded work} & \textbf{Time} & \textbf{Measurement boundary}\\
+\midrule\endhead
+Whisper large-v3-turbo via MLX & Full, chunked and targeted passes; includes Door Knockers & 974.1 s, five timed commands & Command wall times include startup/loading and processing; per-video inference-only times were not saved.\\
+Qwen2-Audio-7B MLX attempt & Download and caption attempt & 592.6 s and 709.6 s & No completed descriptions; disk space failure. Command intervals overlapped and must not be summed.\\
+MOSS-Audio-4B Thinking MLX & 18 original excerpts and 13 stem interpretations & 229.96 s & Sum of generation-loop fields; excludes model load, encoding and feature preparation.\\
+Vosk small English & Nine source clips, eight runtime records & 19.79 s & Sum of available per-file recognizer times; Door Knockers timer is missing.\\
+Vosk English 0.22 & Five of nine clips & 53.85 s & Recorded per-file runtime; 553.7 s model download is setup, not inference.\\
+Demucs / HDEMUCS & Estimated vocal/backing separation for nine clips & 58.77 s & Sum of per-track inference timers; load, extraction and file writing excluded.\\
+Apple Speech attempt & Door Knockers fallback & 121.35 s & Command timed out with no transcript.\\
+pYIN pitch tracking & Nine clips & 12.32 s & Signal-processing runtime, not language-model inference or exact melody recovery.\\
+Suno API generation & No generation request & 0 s recorded & API was researched only; no call, credits or generated output.\\
+\bottomrule
+\end{longtable}
+
+\section{Available per-video instrumented runtimes}
+The following sums include only timers actually stored per track. They exclude batched Whisper, model downloads and initialization, OCR, chroma/tempo analysis, and uninstrumented work. A dash means no runtime record, not zero.
+
+\begin{table}[H]
+\centering\small
+\caption{Seconds in local per-track runtime metadata.}
+\begin{tabularx}{\linewidth}{Xrrrrrr}
+\toprule\textbf{Track} & \textbf{Vosk small} & \textbf{Vosk large} & \textbf{MOSS} & \textbf{Separation} & \textbf{pYIN} & \textbf{Recorded subtotal}\\\midrule
+Flaunching & 1.42 & 2.12 & 21.27 & 2.54 & 3.97 & 31.32\\
+Guttae / Good Day & 1.53 & 4.02 & 36.50 & 3.54 & 0.34 & 45.93\\
+Corbel / Bargeboard & 2.39 & 9.11 & 21.51 & 6.10 & 0.55 & 39.67\\
+Columns / Classical Orders & 3.78 & 18.44 & 25.27 & 8.33 & 0.78 & 56.61\\
+Doors & 2.44 & 20.16 & 28.12 & 10.13 & 0.91 & 61.76\\
+Windows & 4.39 & -- & 30.92 & 10.53 & 1.00 & 46.83\\
+Echinus / Entasis & 1.56 & -- & 19.91 & 3.58 & 0.32 & 25.37\\
+Hall House & 2.27 & -- & 25.53 & 7.58 & 0.69 & 36.07\\
+Door Knockers & -- & -- & 20.93 & 6.44 & 3.77 & 31.14\\
+\bottomrule
+\end{tabularx}
+\end{table}
+
+\section{Limits and source trail}
+Codex token and interval values were read from the task's local rotated rollout file. Per-video and auxiliary-model times were read from retained JSON metadata and timed shell-command records. No token counts for Whisper, MOSS, Vosk, Demucs, Qwen2-Audio or Apple Speech are available in the inspected local evidence; their elapsed seconds cannot be converted into tokens. No Suno API request occurred. The quality of audio-model interpretations is not measured by run time or token count.
+
+The current table export in the same directory is retained only as a short pointer to this PDF and its TeX source. The TeX source includes model attribution, cached-input explanation and all calculation assumptions so the report can be regenerated and audited.
+
+\end{document}
